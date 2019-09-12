@@ -1,0 +1,30 @@
+Background
+
+For those not familiar with SPARQL, it is a computer query language that allows humans and software agents to "ask questions" of open datasets located across the web, often integrating different sources to represent knowledge in new and interesting ways. Nonetheless, the RDF model behind SPARQL can be used to organize knowledge domains, such as the present dataset, and SPARQL can help us answer basic questions about that data. A SPARQL "endpoint" is used to interface with that data and return results. SPARQL endpoint instructions and set of queries is provided below, if you'd like to get your feet wet.
+
+
+Instructions
+
+Point your web browser to the SPARQLer processor:
+
+http://sparql.org/sparql.html
+
+Copy and paste (or even modify) any SPARQL query statement presented below between ------------------ lines and responding to the prior question.
+
+After pasting the query, click the "Get Results" button. The results may not make sense to you as a human, but a closer look will reveal authors' names in a list. If an error is returned, it may be the query was not copied correctly. From "PREFIX" to the "}", syntax, structure, and semantics are all important.
+
+
+SPARQL Queries
+
+Which scales are compatible with a #11 chord?
+---------------------------------------------------------------
+PREFIX cs: <http://www.essenceofknowledge.com/onto/chordScale#>
+
+SELECT ?scale
+
+FROM <http://www.essenceofknowledge.com/onto/cs/chords.ttl>
+
+WHERE
+{ <http://www.essenceofknowledge.com/onto/chordScale#11> cs:compatibleWith ?scale . }
+---------------------------------------------------------------
+

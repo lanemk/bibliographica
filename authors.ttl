@@ -1,0 +1,2928 @@
+# baseURI: http://www.connaissance.io/onto/biblio/authors
+# imports: http://www.connaissance.io/onto/biblio/MusicGroup
+# imports: http://www.connaissance.io/onto/biblio/SoloMusicArtist
+# imports: http://www.connaissance.io/onto/biblio/bibliographica
+
+@prefix : <http://www.connaissance.io/onto/biblio/authors#> .
+@prefix MusicGroup: <http://www.connaissance.io/onto/biblio/MusicGroup#> .
+@prefix SoloMusicArtist: <http://www.connaissance.io/onto/biblio/SoloMusicArtist#> .
+@prefix bibliographica: <http://www.connaissance.io/onto/biblio/bibliographica#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.connaissance.io/onto/biblio/authors>
+  rdf:type owl:Ontology ;
+  dcterms:modified "2019-09-12" ;
+  schema:license "https://creativecommons.org/licenses/by-nc-sa/4.0/"^^xsd:anyURI ;
+  schema:license "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode"^^xsd:anyURI ;
+  rdfs:comment "Generally speaking, authors, co-writers, editors, of literature." ;
+  owl:imports <http://www.connaissance.io/onto/biblio/MusicGroup> ;
+  owl:imports <http://www.connaissance.io/onto/biblio/SoloMusicArtist> ;
+  owl:imports <http://www.connaissance.io/onto/biblio/bibliographica> ;
+  owl:versionInfo "Developed by M Lane, Portland, Oregon" ;
+.
+bibliographica:AA_Milne
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Alan Alexander Milne" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/A._A._Milne.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/9850718/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "A. A. Milne" ;
+.
+bibliographica:AC_Bhaktivedanta_Swami
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "A.C. Bhaktivedanta Swami Prabhupāda" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/A._C._Bhaktivedanta_Swami_Prabhupada.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/31993003/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "A.C. Bhaktivedanta Swami Prabhupāda" ;
+.
+bibliographica:AS_Byatt
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Antonia Susan Byatt" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/A._S._Byatt.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/29521863/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "A.S. Byatt" ;
+.
+bibliographica:A_Vogel
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassUW ;
+  schema:name "Alfred Vogel" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Alfred_Vogel.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/95162826/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Alfred Vogel" ;
+  skos:altLabel "A. Vogel" ;
+.
+bibliographica:Adelle_Davis
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Adelle Davis" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Adelle_Davis.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/112513588/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Adelle Davis" ;
+.
+bibliographica:Adriana_Trigiani
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Adriana Trigiani" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Adriana_Trigiani.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/33051445/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Adriana Trigiani" ;
+.
+bibliographica:Al_Di_Meola
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Al Di Meola" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Al_Di_Meola.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/85427757/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Al Di Meola" ;
+.
+bibliographica:Alan_Duff
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Alan Duff" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Alan_Duff.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/113557653/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Alan Duff" ;
+.
+bibliographica:Alan_Watts
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassUW ;
+  schema:name "Alan Watts" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Alan_Watts.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/2478279/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Alan Watts" ;
+.
+bibliographica:Albert_Einstein
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Albert Einstein" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Albert_Einstein.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/75121530/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Albert Einstein" ;
+.
+bibliographica:Alice_Hoffman
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Alice Hoffman" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Alice_Hoffman.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/85550312/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Alice Hoffman" ;
+.
+bibliographica:Alice_Walker
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassUW ;
+  schema:name "Alice Walker" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Alice_Walker.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/108495772/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Alice Walker" ;
+.
+bibliographica:Alifair_Burke
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Ardythe Ashley" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Alafair_Burke.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/85530906/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Alifair Burke" ;
+.
+bibliographica:Andre_Dubus
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Andre Dubus" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Andre_Dubus.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/110787061/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Andre Dubus" ;
+.
+bibliographica:Andrea_Barrett
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Andrea Barrett" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Andrea_Barrett.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/79163089/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Andrea Barrett" ;
+.
+bibliographica:Andrea_Dodi
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Andrea Dodi" ;
+  bibliographica:viafURI "http://viaf.org/viaf/28328862/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Andrea Dodi" ;
+.
+bibliographica:Angelo_Pellegrini
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Angelo M. Pellegrini" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Angelo_Pellegrini.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/70309309/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Angelo Pellegrini" ;
+.
+bibliographica:Anita_Shreve
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Anita Shreve" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Anita_Shreve.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/32082253/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Anita Shreve" ;
+.
+bibliographica:Ann_Dunnigan
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Ann Dunnigan" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Ann_Dunnigan.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/42584726/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Ann Dunnigan" ;
+.
+bibliographica:Ann_Patchett
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Ann Patchett" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Ann_Patchett.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/54362733/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Ann Patchett" ;
+.
+bibliographica:Anna_Thomas
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Anna Thomas" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Anna_Thomas.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/79325000/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Anna Thomas" ;
+.
+bibliographica:Anne_Cameron
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Anne Cameron" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Anne_Cameron.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/94714348/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Anne Cameron" ;
+.
+bibliographica:Anne_Kent_Rush
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Anne Kent Rush" ;
+  bibliographica:viafURI "http://viaf.org/viaf/113030470/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Anne Kent Rush" ;
+.
+bibliographica:Anthony_Bourdain
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Anthony Bourdain" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Anthony_Bourdain.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/74779959/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Anthony Bourdain" ;
+.
+bibliographica:Anthony_Doerr
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Anthony Doerr" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Anthony_Doerr.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/79550093/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Anthony Doerr" ;
+.
+bibliographica:Anton_Chekhov
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Anton Pavlovich Chekhov" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Anton_Chekhov.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/95216565/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Anton Chekhov" ;
+.
+bibliographica:April_Sinclair
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "April Sinclair" ;
+  bibliographica:viafURI "http://viaf.org/viaf/69650371/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "April Sinclair" ;
+.
+bibliographica:Ardythe_Ashley
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Ardythe Ashley" ;
+  bibliographica:viafURI "http://viaf.org/viaf/60735435/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Ardythe Ashley" ;
+.
+bibliographica:Arthur_Winfield_Knight
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "Arthur Winfield Knight" ;
+  bibliographica:viafURI "http://viaf.org/viaf/109831283/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Arthur Winfield Knight" ;
+.
+bibliographica:Arturo_Perez_Reverte
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Arturo Pérez-Reverte" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Arturo_P%C3%A9rez-Reverte.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/36965639/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Arturo Pérez-Reverte" ;
+.
+bibliographica:Arundhati_Roy
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Arundhati Roy" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Arundhati_Roy.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/76457869/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Arundhati Roy" ;
+.
+bibliographica:Audrey_Niffenegger
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Audrey Niffenegger" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Audrey_Niffenegger.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/85470258/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Audrey Niffenegger" ;
+.
+bibliographica:Austin_Sicard
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Austin Sicard" ;
+  bibliographica:viafURI "https://viaf.org/viaf/279207152/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Austin Sicard" ;
+.
+bibliographica:Aveline_Kushi
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "Aveline Kushi" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Aveline_Kushi.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/66469498/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Aveline Kushi" ;
+.
+bibliographica:Ayya_Khema
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "Ayya Khema" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Ayya_Khema.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/12447324/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Ayya Khema" ;
+.
+bibliographica:Barry_Galbraith
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Barry Galbraith" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Barry_Galbraith.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/64191738/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Barry Galbraith" ;
+.
+bibliographica:Barry_Gifford
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Barry Gifford" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Barry_Gifford.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/111118438/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Barry Gifford" ;
+.
+bibliographica:Barry_Lopez
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "Barry Lopez" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Barry_Lopez.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/31207/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Barry Lopez" ;
+.
+bibliographica:Becky_Ohlsen
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Becky Ohlsen" ;
+  bibliographica:viafURI "http://viaf.org/viaf/107633816/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Becky Ohlsen" ;
+.
+bibliographica:Betty_Wason
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassUW ;
+  schema:name "Betty Wason" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Betty_Wason.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/72409901/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Betty Wason" ;
+.
+bibliographica:Bill_Griffith
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Bill Griffith" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Bill_Griffith.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/118728837/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Bill Griffith" ;
+.
+bibliographica:Bill_Morris
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Bill Morris" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/William_Morris.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/113659463/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Bill Morris" ;
+.
+bibliographica:Bob_Dylan
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Bob Dylan" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Bob_Dylan.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/111894442/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Bob Dylan" ;
+.
+bibliographica:Bob_Marley
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Bob Marley" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Bob_Marley.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/14778710/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Bob Marley" ;
+.
+bibliographica:Brad_Leithauser
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "Brad Leithauser" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Brad_Leithauser.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/94522244/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Brad Leithauser" ;
+.
+bibliographica:Bradford_Morrow
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Bradford Morrow" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Bradford_Morrow.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/59107135/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Bradford Morrow" ;
+.
+bibliographica:Brett_Helquist
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Brett Helquist" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Brett_Helquist.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/71606179/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Brett Helquist" ;
+.
+bibliographica:Brian_Moore
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Brian Moore" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Brian_Moore_(novelist).ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/36913224/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Brian Moore" ;
+.
+bibliographica:Brooks_Hansen
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Brooks Hansen" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Brooks_Hansen.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/50079550/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Brooks Hansen" ;
+.
+bibliographica:Bruce_Shlain
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Bruce Shlain" ;
+  bibliographica:viafURI "http://viaf.org/viaf/46847157/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Bruce Shlain" ;
+.
+bibliographica:Bruno_Nettl
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Bruno Nettl" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Bruno_Nettl.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/34488203/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Bruno Nettl" ;
+.
+bibliographica:Bryan_Thomas
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Bryan Thomas" ;
+  bibliographica:viafURI "https://viaf.org/viaf/276664257/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Bryan Thomas" ;
+.
+bibliographica:CS_Lewis
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "Clive Staples Lewis" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/C._S._Lewis.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/22144877/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "C.S. Lewis" ;
+.
+bibliographica:Camilla_Lackberg
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "Camilla Läckberg" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Camilla_L%C3%A4ckberg.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/42169286/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Camilla Läckberg" ;
+.
+bibliographica:Carl_Bode
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Carl Bode" ;
+  bibliographica:viafURI "http://viaf.org/viaf/91264195/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Carl Bode" ;
+.
+bibliographica:Carl_Forest
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Carl Forest" ;
+  bibliographica:viafURI "http://viaf.org/viaf/28784110/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Carl Forest" ;
+.
+bibliographica:Carl_Hiaasen
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Carl Hiaasen" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Carl_Hiaasen.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/2519004/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Carl Hiaasen" ;
+.
+bibliographica:Carol_Brightman
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Carol Brightman" ;
+  bibliographica:viafURI "http://viaf.org/viaf/64089192/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Carol Brightman" ;
+.
+bibliographica:Cathleen_Schine
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Cathleen Schine" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Cathleen_Schine.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/73995580/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Cathleen Schine" ;
+.
+bibliographica:Cerridwen_Fallingstar
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Cerridwen Fallingstar" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Cerridwen_Fallingstar.ttl"^^xsd:anyURI ;
+  rdfs:label "Cerridwen Fallingstar" ;
+.
+bibliographica:Charles_Baker
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Charles H. Baker Jr." ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Charles_H._Baker,_Jr..ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/1353418/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Charles H. Baker Jr." ;
+.
+bibliographica:Charles_Bukowski
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Charles Bukowski" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Charles_Bukowski.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/64002815/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Charles Bukowski" ;
+.
+bibliographica:Charles_Frazier
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Charles Frazier" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Charles_Frazier.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/84114568/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Charles Frazier" ;
+.
+bibliographica:Charles_Mingus
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Charles Mingus" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Charles_Mingus.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/24604680/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Charles Mingus" ;
+.
+bibliographica:Charlie_Smith
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Charlie Smith" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Charles_Smith_(playwright).ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/48164791/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Charlie Smith" ;
+.
+bibliographica:Chris_Bohjalian
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Chris Bohjalian" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Chris_Bohjalian.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/47594445/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Chris Bohjalian" ;
+.
+bibliographica:Clarence_Major
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Clarence Major" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Clarence_Major.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/24604680/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Clarence Major" ;
+.
+bibliographica:Clive_Cussler
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Clive Cussler" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Clive_Cussler.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/56608054/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Clive Cussler" ;
+.
+bibliographica:Connie_May_Fowler
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Connie May Fowler" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Connie_May_Fowler.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/52360742/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Connie May Fowler" ;
+.
+bibliographica:Cormac_McCarthy
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Cormac McCarthy" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Cormac_McCarthy.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/29558386/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Cormac McCarthy" ;
+.
+bibliographica:Crab_Searl
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Crab Searl" ;
+  bibliographica:viafURI "http://viaf.org/viaf/104023755/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Crab Searl" ;
+.
+bibliographica:Craig_Claiborne
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Craig Claiborne" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Craig_Claiborne.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/49744429/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Craig Claiborne" ;
+.
+bibliographica:Craig_Johnson
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "Craig Johnson" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Craig_Johnson_(author).ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/88112170/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Craig Johnson" ;
+.
+bibliographica:Dan_Haerle
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:isbn "0769201261" ;
+  schema:name "Dan Haerle" ;
+  bibliographica:binNumber 1 ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Dan_Haerle.ttl"^^xsd:anyURI ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:viafURI "https://viaf.org/viaf/79605239/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Dan Haerle" ;
+.
+bibliographica:Dan_OBrien
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Dan O'Brien" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Dan_O'Brien_(playwright).ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/111809185/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Dan O'Brien" ;
+.
+bibliographica:Daniel_Mathews
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Daniel Mathews" ;
+  bibliographica:viafURI "http://viaf.org/viaf/63091570/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Daniel Mathews" ;
+.
+bibliographica:Daniel_Quinn
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Daniel Quinn" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Daniel_Quinn.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/79122177/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Daniel Quinn" ;
+.
+bibliographica:Danny_Elfman
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Danny Elfman" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Danny_Elfman.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/12496007/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Danny Elfman" ;
+.
+bibliographica:Dany_Laferriere
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "Dany Laferrière" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Dany_Laferri%C3%A8re.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/87061403/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Dany Laferrière" ;
+.
+bibliographica:Dashka_Slater
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Dashka Slater" ;
+  bibliographica:viafURI "http://viaf.org/viaf/9175113/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Dashka Slater" ;
+.
+bibliographica:Dave_DeWitt
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Dave DeWitt" ;
+  bibliographica:viafURI "http://viaf.org/viaf/65287136/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Dave DeWitt" ;
+.
+bibliographica:David_Gans
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "David Gans" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/David_Gans_(musician).ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/72831631/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "David Gans" ;
+.
+bibliographica:David_Guterson
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "David Guterson" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/David_Guterson.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/84055110/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "David Guterson" ;
+.
+bibliographica:David_James_Duncan
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "David James Duncan" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/David_James_Duncan.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/94759891/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "David James Duncan" ;
+.
+bibliographica:David_Rains_Wallace
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassUW ;
+  schema:name "David Rains Wallace" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/David_Rains_Wallace.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/112844734/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "David Rains Wallace" ;
+.
+bibliographica:David_Seals
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "David Seals" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/David_Seals.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/1567974/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "David Seals" ;
+.
+bibliographica:David_Sibley
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "David Sibley" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/David_Allen_Sibley.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/27398912/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "David Sibley" ;
+.
+bibliographica:David_Stanley
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "David Stanley" ;
+  bibliographica:viafURI "http://viaf.org/viaf/95326516/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "David Stanley" ;
+.
+bibliographica:DeLorme_Mapping_Company
+  rdf:type schema:Organization ;
+  schema:name "DeLorme Mapping Company" ;
+  bibliographica:viafURI "https://viaf.org/viaf/266202041/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "DeLorme Mapping Company" ;
+.
+bibliographica:Deepak_Chopra
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Deepak Chopra" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Deepak_Chopra.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/34491177/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Deepak Chopra" ;
+.
+bibliographica:Derek_Hansen
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Derek Hansen" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Derek_Hansen.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/74557525/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Derek Hansen" ;
+.
+bibliographica:Dermot_Bolger
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Dermot Bolger" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Dermot_Bolger.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/9904049/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Dermot Bolger" ;
+.
+bibliographica:Dick_Francis
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Dick Francis" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Dick_Francis.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/24601518/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Dick Francis" ;
+.
+bibliographica:Donald_Peattie
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Donald Culcross Peattie" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Donald_C._Peattie.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/79210486/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Donald C. Peattie" ;
+.
+bibliographica:Dorothy_Dunnett
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Dorothy Dunnett" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Dorothy_Dunnett.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/25413300/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Dorothy Dunnett" ;
+.
+bibliographica:Dr_Seuss
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Dr. Seuss" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Dr._Seuss.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/20959831/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Dr. Seuss" ;
+.
+bibliographica:ER_LaChapelle
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "E.R. LaChapelle" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Edward_LaChapelle.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/29855352/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "E.R. LaChapelle" ;
+.
+bibliographica:Earl_Shorris
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Earl Shorris" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Earl_Shorris.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/60282262/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Earl Shorris" ;
+.
+bibliographica:Edward_Abbey
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Edward Abbey" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Edward_Abbey.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/85322062/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Edward Abbey" ;
+.
+bibliographica:Edward_Rice
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Edward Rice" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Ed_Rice.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/60273426/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Edward Rice" ;
+.
+bibliographica:Edwidge_Danticat
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Edwidge Danticat" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Edwidge_Danticat.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/32104515/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Edwidge Danticat" ;
+.
+bibliographica:Eliot_Asinof
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Eliot Asinof" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Eliot_Asinof.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/1283166/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Eliot Asinof" ;
+.
+bibliographica:Elisabeth_Hyde
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Elisabeth Hyde" ;
+  bibliographica:viafURI "http://viaf.org/viaf/34752384/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Elisabeth Hyde" ;
+.
+bibliographica:Elizabeth_Arthur
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Elizabeth Arthur" ;
+  bibliographica:viafURI "http://viaf.org/viaf/34587746/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Elizabeth Arthur" ;
+.
+bibliographica:Elizabeth_Berg
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Elizabeth Berg" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Elizabeth_Berg_(author).ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/85419722/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Elizabeth Berg" ;
+.
+bibliographica:Elliot_Perlman
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Elliot Perlman" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Elliot_Perlman.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/42091070/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Elliot Perlman" ;
+.
+bibliographica:Elmore_Leonard
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "Elmore Leonard" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Elmore_Leonard.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/19680365/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Elmore Leonard" ;
+.
+bibliographica:Elsbeth_Woody
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassUW ;
+  schema:name "Elsbeth S. Woody" ;
+  bibliographica:viafURI "http://viaf.org/viaf/15352982/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Elsbeth S. Woody" ;
+.
+bibliographica:Elson_Haas
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Elson Haas" ;
+  bibliographica:viafURI "https://viaf.org/viaf/79335892/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Elson Haas" ;
+.
+bibliographica:Emily_Dodi
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Emily Dodi" ;
+  bibliographica:viafURI "http://viaf.org/viaf/16429550/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Emily Dodi" ;
+.
+bibliographica:Emmett_Grogan
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Emmett Grogan" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Emmett_Grogan.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/6516238/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Emmett Grogan" ;
+.
+bibliographica:Eoin_Colfer
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Eoin Colfer" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Eoin_Colfer.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/69145969/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Eoin Colfer" ;
+.
+bibliographica:Ernest_Callenbach
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Anthony Bourdain" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Ernest_Callenbach.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/39558998/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Ernest Callenbach" ;
+.
+bibliographica:Evan_S_Connell
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Evan S. Connell" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Evan_S._Connell.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/97745717/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Evan S. Connell" ;
+.
+bibliographica:Floyd_Shuttleworth
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Floyd Stephen Shuttleworth" ;
+  bibliographica:viafURI "http://viaf.org/viaf/44836611/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Floyd Stephen Shuttleworth" ;
+.
+bibliographica:Forrest_Carter
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Forrest Carter" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Asa_Earl_Carter.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/66464775/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Forrest Carter" ;
+.
+bibliographica:Frances_Moore_Lappe
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "Frances Moore Lappé" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Frances_Moore_Lapp%C3%A9.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/67022690/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Frances Moore Lappé" ;
+.
+bibliographica:Franco_Ferrero
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Franco Ferrero" ;
+  bibliographica:viafURI "http://viaf.org/viaf/33948444/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Franco Ferrero" ;
+.
+bibliographica:Frank_MacEowen
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Frank MacEowen" ;
+  bibliographica:viafURI "https://viaf.org/viaf/276513979/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Frank MacEowen" ;
+.
+bibliographica:Fred_Darvill
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Fred T. Darvill, Jr." ;
+  bibliographica:viafURI "https://viaf.org/viaf/20980989/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Fred Darvill" ;
+.
+bibliographica:Frederick_Copleston
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Frederick Copleston, S.J." ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Frederick_Copleston.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/108253278/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Frederick Copleston, S.J." ;
+.
+bibliographica:Frederick_Forsyth
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Frederick Forsyth" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Frederick_Forsyth.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/108216096/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Frederick Forsyth" ;
+.
+bibliographica:Gail_Anderson-Dargatz
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Gail Anderson-Dargatz" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Gail_Anderson-Dargatz.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/61710472/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Gail Anderson-Dargatz" ;
+.
+bibliographica:Garrsion_Keillor
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "Garrsion Keillor" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Garrison_Keillor.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/79812213/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Garrsion Keillor" ;
+.
+bibliographica:Gary_Snyder
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Gary Snyder" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Gary_Snyder.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/68944804/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Gary Snyder" ;
+.
+bibliographica:Gilbert_Shelton
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Gilbert Shelton" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Gilbert_Shelton.ttl"^^xsd:anyURI ;
+  rdfs:label "Gilbert Shelton" ;
+.
+bibliographica:Ginny_Callan
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Ginny Callan" ;
+  bibliographica:viafURI "http://viaf.org/viaf/65447239/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Ginny Callan" ;
+.
+bibliographica:Gino_Sky
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Gino Sky" ;
+  bibliographica:viafURI "http://viaf.org/viaf/35746045/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Gino Sky" ;
+.
+bibliographica:Gloria_Naylor
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Gloria Naylor" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Gloria_Naylor.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/59679442/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Gloria Naylor" ;
+.
+bibliographica:Graeme_Base
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Graeme Base" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Graeme_Base.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/64188423/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Graeme Base" ;
+.
+bibliographica:Gwen_Diehn
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Gwen Diehn" ;
+  bibliographica:viafURI "http://viaf.org/viaf/3930403/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Gwen Diehn" ;
+.
+bibliographica:Günter_Grass
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Günter Grass" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/G%C3%BCnter_Grass.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/102319859/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Günter Grass" ;
+.
+bibliographica:Hannah_Hinchman
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Hannah Hinchman" ;
+  bibliographica:viafURI "http://viaf.org/viaf/60630811/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Hannah Hinchman" ;
+.
+bibliographica:Harold_McGee
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Harold McGee" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Harold_McGee.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/71503302/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Harold McGee" ;
+.
+bibliographica:Heather_Cheney
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Heather Cheney" ;
+  rdfs:label "Heather Cheney" ;
+.
+bibliographica:Helen_Campbell
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Helen Campbell" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Helen_Stuart_Campbell.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/276916058/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Helen Campbell" ;
+.
+bibliographica:Helen_DeWitt
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Helen DeWitt" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Helen_DeWitt.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/79164261/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Helen DeWitt" ;
+.
+bibliographica:Helene_Tursten
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Helene Tursten" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Helene_Tursten.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/85604955/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Helene Tursten" ;
+.
+bibliographica:Henry_David_Thoreau
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Henry David Thoreau" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Henry_David_Thoreau.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/68936476/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Henry David Thoreau" ;
+.
+bibliographica:Howard_Wallach
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassUW ;
+  schema:name "Howard R. Wallach" ;
+  bibliographica:viafURI "https://viaf.org/viaf/38969144/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Howard R. Wallach" ;
+.
+bibliographica:Irma_Rombauer
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Irma S. Rombauer" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Irma_S._Rombauer.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/35702310/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Irma S. Rombauer" ;
+.
+bibliographica:Isabel_Allende
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Isabel Allende" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Isabel_Allende.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/61556825/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Isabel Allende" ;
+.
+bibliographica:Ivan_Doig
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Ivan Doig" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Ivan_Doig.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/79340625/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Ivan Doig" ;
+.
+bibliographica:JD_Salinger
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Jerome David Salinger" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/J._D._Salinger.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/17092/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "J.D. Salinger" ;
+.
+bibliographica:JK_Rowling
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "J.K. Rowling" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/J._K._Rowling.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/116796842/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "J.K. Rowling" ;
+.
+bibliographica:JRH_Andrews
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "J. R. H. Andrews" ;
+  bibliographica:viafURI "http://viaf.org/viaf/32033380/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "J. R. H. Andrews" ;
+.
+bibliographica:J_Robert_Lennon
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "J. Robert Lennon" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/J._Robert_Lennon.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/79194062/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "J. Robert Lennon" ;
+.
+bibliographica:J_Tom_Burgess
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "J Tom Burgess" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Joseph_Tom_Burgess.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/54722911/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "J Tom Burgess" ;
+.
+bibliographica:Jabari_Asim
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Jabari Asim" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Jabari_Asim.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/65566676/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Jabari Asim" ;
+.
+bibliographica:Jack_Kerouac
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "Jack Kerouac" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Jack_Kerouac.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/27066713/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Jack Kerouac" ;
+.
+bibliographica:James_Crumley
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "James Crumley" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/James_Crumley.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/85403130/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "James Crumley" ;
+.
+bibliographica:James_Ellroy
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "James Ellroy" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/James_Ellroy.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/27090921/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "James Ellroy" ;
+.
+bibliographica:James_Ensor
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "James Ensor" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/James_Ensor.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/88625859/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "James Ensor" ;
+.
+bibliographica:James_Kelman
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "James Kelman" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/James_Kelman.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/111431072/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "James Kelman" ;
+.
+bibliographica:James_Lee_Burke
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "James Lee Burke" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/James_Lee_Burke.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/110621918/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "James Lee Burke" ;
+.
+bibliographica:James_McBride
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "James McBride" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/James_McBride_(writer).ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/116053682/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "James McBride" ;
+.
+bibliographica:James_Patterson
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "James Patterson" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/James_Patterson.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/22272314/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "James Patterson" ;
+.
+bibliographica:Jana_Kolpen
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "Jana Fayne Kolpen" ;
+  bibliographica:viafURI "https://viaf.org/viaf/69649257/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Jana Fayne Kolpen" ;
+.
+bibliographica:Jane_Rule
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Jane Rule" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Jane_Rule.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/62399671/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Jane Rule" ;
+.
+bibliographica:Jane_Urquhart
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassUW ;
+  schema:name "Jane Urquhart" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Jane_Urquhart.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/84393856/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Jane Urquhart" ;
+.
+bibliographica:Jean_Hewitt
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Jean Hewitt" ;
+  bibliographica:viafURI "http://viaf.org/viaf/75142359/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Jean Hewitt" ;
+.
+bibliographica:Jean_Smith
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Jean Smith" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Jean_Smith.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/102135050/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Jean Smith" ;
+.
+bibliographica:Jean_Vaysse
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassUW ;
+  schema:name "Jean Vaysse" ;
+  bibliographica:viafURI "http://viaf.org/viaf/27187991/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Jean Vaysse" ;
+.
+bibliographica:Jean_Zallinger
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassXZ ;
+  schema:name "Jean Zallinger" ;
+  rdfs:label "Jean Zallinger" ;
+.
+bibliographica:Jennifer_Egan
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Jennifer Egan" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Jennifer_Egan.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/56717951/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Jennifer Egan" ;
+.
+bibliographica:Jerry_Garcia
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Jerry Garcia" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Jerry_Garcia.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/36777071/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Jerry Garcia" ;
+.
+bibliographica:Jessica_Maxwell
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Jessica Maxwell" ;
+  bibliographica:viafURI "http://viaf.org/viaf/43577343/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Jessica Maxwell" ;
+.
+bibliographica:Jiawei_Han
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Jiawei Han" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Jiawei_Han.ttl"^^xsd:anyURI ;
+  rdfs:label "Jiawei Han" ;
+.
+bibliographica:Jill_Ker_Conway
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Jill Ker Conway" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Jill_Ker_Conway.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/7374235/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Jill Ker Conway" ;
+.
+bibliographica:Jim_Dodge
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Jim Dodge" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Jim_Dodge.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/91586861/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Jim Dodge" ;
+.
+bibliographica:Jim_DuFresne
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Jim DuFresne" ;
+  bibliographica:viafURI "http://viaf.org/viaf/72004414/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Jim DuFresne" ;
+.
+bibliographica:Jim_Harrison
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Jim Harrison" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Jim_Harrison.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/73854596/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Jim Harrison" ;
+.
+bibliographica:Jingxiong_Wu
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassUW ;
+  schema:name "Jingxiong Wu" ;
+  bibliographica:viafURI "http://viaf.org/viaf/50022349/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Jingxiong Wu" ;
+.
+bibliographica:Jo-Ann_Mapson
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Jo-Ann Mapson" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Jo-Ann_Mapson.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/74753783/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Jo-Ann Mapson" ;
+.
+bibliographica:Joanne_Harris
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Joanne Harris" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Joanne_Harris.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/51850630/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Joanne Harris" ;
+.
+bibliographica:Jodi_Picoult
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Jodi Picoult" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Jodi_Picoult.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/37821799/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Jodi Picoult" ;
+.
+bibliographica:John_Barth
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "John Barth" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/John_Barth.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/85932912/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "John Barth" ;
+.
+bibliographica:John_Brimhall
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "John Brimhall" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/John_Brimhall.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/4087931/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "John Brimhall" ;
+.
+bibliographica:John_Clellon_Holmes
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "John Clellon Holmes" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/John_Clellon_Holmes.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/112962936/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "John Clellon Holmes" ;
+.
+bibliographica:John_Crowley
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "John Crowley" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/John_Crowley.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/85467356/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "John Crowley" ;
+.
+bibliographica:John_Kennedy_Toole
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Ayya Khema" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/John_Kennedy_Toole.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/71398405/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "John Kennedy Toole" ;
+.
+bibliographica:John_Klemmer
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "John Klemmer" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/John_Klemmer.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/59269987/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "John Klemmer" ;
+.
+bibliographica:John_Lescroart
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "John Lescroart" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/John_Lescroart.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/64797966/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "John Lescroart" ;
+.
+bibliographica:John_McPhee
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "John McPhee" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/John_McPhee.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/92169855/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "John McPhee" ;
+.
+bibliographica:John_Steinbeck
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "John Steinbeck" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/John_Steinbeck.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/96992551/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "John Steinbeck" ;
+.
+bibliographica:John_Straley
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "John Straley" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/John_Straley.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/32131643/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "John Straley" ;
+.
+bibliographica:John_Watkinson
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassUW ;
+  schema:name "John Watkinson" ;
+  bibliographica:viafURI "https://viaf.org/viaf/85371273/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "John Watkinson" ;
+.
+bibliographica:Jon_Hassler
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Jon Hassler" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Jon_Hassler.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/7437022/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Jon Hassler" ;
+.
+bibliographica:Jorge_Amado
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Jorge Amado" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Jorge_Amado.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/108732513/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Jorge Amado" ;
+.
+bibliographica:Jostein_Gaarder
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Jostein Gaarder" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Jostein_Gaarder.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/54345762/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Jostein Gaarder" ;
+.
+bibliographica:Judy_Fong_Bates
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Judy Fong Bates" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Judy_Fong_Bates.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/42136645/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Judy Fong Bates" ;
+.
+bibliographica:Julee_Rosso
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Julee Rosso" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Julee_Rosso.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/94898963/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Julee Rosso" ;
+.
+bibliographica:Julia_Alvarez
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Julia Alvarez" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Julia_Alvarez.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/79102742/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Julia Alvarez" ;
+.
+bibliographica:Junichiro_Tanizaki
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Jun'ichirō Tanizaki" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Jun'ichir%C5%8D_Tanizaki.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/95021658/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Jun'ichirō Tanizaki" ;
+.
+bibliographica:Karl_Marlantes
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Karl Marlantes" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Karl_Marlantes.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/106896414/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Karl Marlantes" ;
+.
+bibliographica:Kate_Atkinson
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Kate Atkinson" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Kate_Atkinson.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/59219639/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Kate Atkinson" ;
+.
+bibliographica:Kathleen_Tyau
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Kathleen Tyau" ;
+  bibliographica:viafURI "http://viaf.org/viaf/92661176/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Kathleen Tyau" ;
+.
+bibliographica:Kathy_Eldon
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Kathy Eldon" ;
+  bibliographica:viafURI "http://viaf.org/viaf/236702507/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Kathy Eldon" ;
+.
+bibliographica:Kazuo_Ishiguro
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "Kazuo Ishiguro" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Kazuo_Ishiguro.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/108702574/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Kazuo Ishiguro" ;
+.
+bibliographica:Keith_Jack
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "Keith Jack" ;
+  bibliographica:viafURI "https://viaf.org/viaf/32275531/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Keith Jack" ;
+.
+bibliographica:Ken_Follett
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Ken Follett" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Ken_Follett.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/64005683/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Ken Follett" ;
+.
+bibliographica:Ken_Kesey
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "Ken Kesey" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Ken_Kesey.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/108853111/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Ken Kesey" ;
+.
+bibliographica:Kenneth_Patchen
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Kenneth Patchen" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Kenneth_Patchen.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/9851596/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Kenneth Patchen" ;
+.
+bibliographica:Keri_Hulme
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Keri Hulme" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Keri_Hulme.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/61567391/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Keri Hulme" ;
+.
+bibliographica:Kerstin_Ekman
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Kerstin Ekman" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Kerstin_Ekman.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/114547100/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Kerstin Ekman" ;
+.
+bibliographica:Kiana_Davenport
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Kiana Davenport" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Kiana_Davenport.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/42774413/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Kiana Davenport" ;
+.
+bibliographica:Kiran_Desai
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Kiran Desai" ;
+  bibliographica:viafURI "http://viaf.org/viaf/34618623/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Kiran Desai" ;
+.
+bibliographica:Kit_Knight
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "Kit Knight" ;
+  bibliographica:viafURI "http://viaf.org/viaf/56631609/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Kit Knight" ;
+.
+bibliographica:Krystyna_Pomorska
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Krystyna Pomorska" ;
+  bibliographica:viafURI "http://viaf.org/viaf/37335012/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Krystyna Pomorska" ;
+.
+bibliographica:Kwadwo_Agymah_Kamau
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "Kwadwo Agymah Kamau" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Agymah_Kamau.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/92719150/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Kwadwo Agymah Kamau" ;
+.
+bibliographica:Ladies_Union_Circle
+  rdf:type schema:Organization ;
+  schema:name "First Congregational Church (Nantucket, Mass.). Ladies' Union Circle" ;
+  rdfs:label "Ladies' Union Circle" ;
+.
+bibliographica:Larry_Brown
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Larry Brown" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Larry_Brown_(author).ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/108691325/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Larry Brown" ;
+.
+bibliographica:Laurel_Robertson
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Laurel Robertson" ;
+  bibliographica:viafURI "http://viaf.org/viaf/92470035/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Laurel Robertson" ;
+.
+bibliographica:Lawrence_Lee
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "Lawrence Lee" ;
+  bibliographica:viafURI "http://viaf.org/viaf/111665261/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Lawrence Lee" ;
+.
+bibliographica:Lee_Child
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Lee Child" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Lee_Child.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/100304282/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Lee Child" ;
+.
+bibliographica:Leo_Tolstoy
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "graf Leo Tolstoy" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Leo_Tolstoy.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/96987389/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Leo Tolstoy" ;
+.
+bibliographica:Lewis_Carroll
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Lewis Carroll" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Lewis_Carroll.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/66462036/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Lewis Carroll" ;
+.
+bibliographica:Lewis_Porter
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Lewis Porter" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Lewis_Porter.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/69048641/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Lewis Porter" ;
+.
+bibliographica:Lindsey_Davis
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Lindsey Davis" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Lindsey_Davis.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/8029680/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Lindsey Davis" ;
+.
+bibliographica:Lorraine_Anderson
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Lorraine Anderson" ;
+  bibliographica:viafURI "http://viaf.org/viaf/56844346/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Lorraine Anderson" ;
+.
+bibliographica:Louise_Erdrich
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Louise Erdrich" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Louise_Erdrich.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/110425107/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Louise Erdrich" ;
+.
+bibliographica:Madeleine_Lengle
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "Madeleine L'Engle" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Madeleine_L'Engle.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/76391491/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Madeleine L'Engle" ;
+.
+bibliographica:Madhur_Jaffrey
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "Madhur Jaffrey" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Madhur_Jaffrey.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/119620635/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Madhur Jaffrey" ;
+.
+bibliographica:Malcolm_Cowley
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Malcolm Cowley" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Malcolm_Cowley.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/91308069/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Malcolm Cowley" ;
+.
+bibliographica:Malcolm_Gladwell
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Malcolm Gladwell" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Malcolm_Gladwell.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/25481798/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Malcolm Gladwell" ;
+.
+bibliographica:Marianne_Fredriksson
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Marianne Fredriksson" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Marianne_Fredriksson.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/22207649/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Marianne Fredriksson" ;
+.
+bibliographica:Marion_Rombauer_Becker
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Marion Rombauer Becker" ;
+  bibliographica:viafURI "http://viaf.org/viaf/91251106/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Marion Rombauer Becker" ;
+.
+bibliographica:Marita_Conlon-McKenna
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Marita Conlon-McKenna" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Marita_Conlon-McKenna.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/22201303/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Marita Conlon-McKenna" ;
+.
+bibliographica:Mark_Bego
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Mark Bego" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Mark_Bego.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/12428230/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Mark Bego" ;
+.
+bibliographica:Mark_Jacobs
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "Mark Jacobs" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Mark_Jacobs_(author).ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/92288740/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Mark Jacobs" ;
+.
+bibliographica:Mark_Jacobson
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "Mark Jacobson" ;
+  bibliographica:viafURI "http://viaf.org/viaf/92938772/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Mark Jacobson" ;
+.
+bibliographica:Martin_Lee
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "Martin A. Lee" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Martin_A._Lee.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/69016526/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Martin A. Lee" ;
+.
+bibliographica:Mary_Monroe
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Mary Monroe" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Mary_Monroe.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/45716717/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Mary Monroe" ;
+.
+bibliographica:Mary_Oliver
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Mary Oliver" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Mary_Oliver.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/92313202/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Mary Oliver" ;
+.
+bibliographica:Maryse_Conde
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Maryse Condé" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Maryse_Cond%C3%A9.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/51687663/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Maryse Condé" ;
+.
+bibliographica:Maxine_Hong_Kingston
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "Maxine Hong Kingston" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Maxine_Hong_Kingston.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/108862703/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Maxine Hong Kingston" ;
+.
+bibliographica:Maya_Angelou
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Maya Angelou" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Maya_Angelou.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/7386077/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Maya Angelou" ;
+.
+bibliographica:Mel_Bay
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Mel Bay" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Mel_Bay.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/64188423/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Mel Bay" ;
+.
+bibliographica:Merrill_Gilfillan
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Merrill Gilfillan" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Merrill_Gilfillan.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/28522484/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Merrill Gilfillan" ;
+.
+bibliographica:Michael_Connelly
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Michael Connelly" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Michael_Connelly.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/19745715/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Michael Connelly" ;
+.
+bibliographica:Michael_Crichton
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Michael Crichton" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Michael_Crichton.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/89578936/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Michael Crichton" ;
+.
+bibliographica:Michael_Dibdin
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Michael Dibdin" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Michael_Dibdin.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/112722880/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Michael Dibdin" ;
+.
+bibliographica:Michael_Kernan
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "Michael Kernan" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Michael_Kernan.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/42543887/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Michael Kernan" ;
+.
+bibliographica:Michael_Ondaatje
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Michael Ondaatje" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Michael_Ondaatje.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/111941870/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Michael Ondaatje" ;
+.
+bibliographica:Michael_Palin
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Michael Palin" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Michael_Palin.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/44394038/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Michael Palin" ;
+.
+bibliographica:Michael_Scott
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Michael Scott" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Michael_Scott_(author).ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/59255871/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Michael Scott" ;
+.
+bibliographica:Mick_Goodrick
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Mick Goodrick" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Mick_Goodrick.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/24789023/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Mick Goodrick" ;
+.
+bibliographica:Mickey_Hart
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Mickey Hart" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Mickey_Hart.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/54947891/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Mickey Hart" ;
+.
+bibliographica:Mickey_Spillane
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Mickey Spillane" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Mickey_Spillane.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/12315338/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Mickey Spillane" ;
+.
+bibliographica:Mil_Millington
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Mil Millington" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Mil_Millington.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/3536494/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Mil Millington" ;
+.
+bibliographica:Miles_Davis
+  bibliographica:viafURI "http://viaf.org/viaf/97762193/rdf.xml"^^xsd:anyURI ;
+.
+bibliographica:Moosewood_Collective
+  rdf:type schema:Organization ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Moosewood Collective" ;
+  bibliographica:viafURI "http://viaf.org/viaf/125587908/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Moosewood Collective" ;
+.
+bibliographica:Mort_Rosenblum
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Mort Rosenblum" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Mort_Rosenblum.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/73859456/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Mort Rosenblum" ;
+.
+bibliographica:Muriel_Sweet
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Muriel Sweet" ;
+  bibliographica:viafURI "http://viaf.org/viaf/112901383/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Muriel Sweet" ;
+.
+bibliographica:Neal_Cassady
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Neal Cassady" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Neal_Cassady.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/9898072/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Neal Cassady" ;
+.
+bibliographica:Nel_King
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "Nel King" ;
+  bibliographica:viafURI "https://viaf.org/viaf/67761281/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Nel King" ;
+.
+bibliographica:Nicholas_Mosley
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Nicholas Mosley" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Nicholas_Mosley.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/87196591/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Nicholas Mosley" ;
+.
+bibliographica:Nicholas_Rinaldi
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Nicholas Rinaldi" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Nicholas_Rinaldi.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/52934685/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Nicholas Rinaldi" ;
+.
+bibliographica:Nick_Bantock
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Nick Bantock" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Nick_Bantock.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/41886190/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Nick Bantock" ;
+.
+bibliographica:Norman_Rush
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Norman Rush" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Norman_Rush.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/93387650/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Norman Rush" ;
+.
+bibliographica:Octavia_E_Butler
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Octavia E. Butler" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Octavia_E._Butler.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/34453955/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Octavia E. Butler" ;
+.
+bibliographica:Ottmar_Liebert
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "Ottmar Liebert" ;
+  bibliographica:viafURI "https://viaf.org/viaf/237729511/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Ottmar Liebert" ;
+.
+bibliographica:Otto_Werner
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassUW ;
+  schema:name "Otto Werner" ;
+  bibliographica:viafURI "https://viaf.org/viaf/107594358/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Otto Werner" ;
+.
+bibliographica:PD_James
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "P. D. James" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/P._D._James.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/101752435/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "P. D. James" ;
+.
+bibliographica:PJ_ORourke
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "P.J. O'Rourke" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/P._J._O'Rourke.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/220813267/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "P.J. O'Rourke" ;
+.
+bibliographica:Pablo_Neruda
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Pablo Naruda" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Pablo_Neruda.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/36976332/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Pablo Neruda" ;
+.
+bibliographica:Patricia_Cornwell
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Patricia Cornwell" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Patricia_Cornwell.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/36976332/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Patricia Cornwell" ;
+.
+bibliographica:Patricia_Grace
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Patricia Grace" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Patricia_Grace.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/111994998/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Patricia Grace" ;
+.
+bibliographica:Patricia_Henley
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Patricia Henley" ;
+  bibliographica:viafURI "http://viaf.org/viaf/84511566/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Patricia Henley" ;
+.
+bibliographica:Patricia_Schechter
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Patricia Schechter" ;
+  bibliographica:viafURI "https://viaf.org/viaf/7267162/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Patricia Schechter" ;
+.
+bibliographica:Patti_Smith
+  bibliographica:viafURI "http://viaf.org/viaf/84037206/rdf.xml"^^xsd:anyURI ;
+.
+bibliographica:Paul_Auster
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Paul Auster" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Paul_Auster.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/110344312/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Paul Auster" ;
+.
+bibliographica:Paul_Bosland
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Paul W. Bosland" ;
+  bibliographica:viafURI "http://viaf.org/viaf/39550217/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Paul W. Bosland" ;
+.
+bibliographica:Paul_Bowles
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Paul Bowles" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Paul_Bowles.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/112464042/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Paul Bowles" ;
+.
+bibliographica:Paul_Reps
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Paul Reps" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Paul_Reps.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/34462122/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Paul Reps" ;
+.
+bibliographica:Paulette_Jiles
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "Paulette Jiles" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Paulette_Jiles.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/85467608/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Paulette Jiles" ;
+.
+bibliographica:Paulo_Coelho
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Paulo Coelho" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Paulo_Coelho.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/52700/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Paulo Coelho" ;
+.
+bibliographica:Pavel_Kohout
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "Pavel Kohout" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Pavel_Kohout.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/56612039/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Pavel Kohout" ;
+.
+bibliographica:Pearl_Luke
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "Pearl Luke" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Pearl_Luke.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/11076258/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Pearl Luke" ;
+.
+bibliographica:Per_Amann
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Per Amann" ;
+  bibliographica:viafURI "http://viaf.org/viaf/32574263/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Per Amann" ;
+.
+bibliographica:Peter_Carey
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Peter Carey" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Peter_Carey_(novelist).ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/110569724/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Peter Carey" ;
+.
+bibliographica:Peter_Høeg
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Peter Høeg" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Peter_H%C3%B8eg.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/114758804/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Peter Høeg" ;
+.
+bibliographica:Peter_Mayle
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Peter Mayle" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Peter_Mayle.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/44302507/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Peter Mayle" ;
+.
+bibliographica:Phil_Lesh
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "Phil Lesh" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Phil_Lesh.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/78406355/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Phil Lesh" ;
+.
+bibliographica:Philip_Kapleau
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "Philip Kapleau" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Philip_Kapleau.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/79078238/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Philip Kapleau" ;
+.
+bibliographica:Quincy_Troupe
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Quincy Troupe" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Quincy_Troupe.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/100269725/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Quincy Troupe" ;
+.
+bibliographica:Rachel_Cusk
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Rachel Cusk" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Rachel_Cusk.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/318745/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Rachel Cusk" ;
+.
+bibliographica:Ralph_Steadman
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Ralph Steadman" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Ralph_Steadman.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/103610475/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Ralph Steadman" ;
+.
+bibliographica:Relix_Magazine
+  rdf:type schema:Organization ;
+  schema:name "Relix Magazine" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Relix.ttl"^^xsd:anyURI ;
+  rdfs:label "Relix Magazine" ;
+.
+bibliographica:Rex_Pickett
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Rex Pickett" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Rex_Pickett.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/85097972/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Rex Pickett" ;
+.
+bibliographica:Richard_Adams
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Richard Adams" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Richard_Adams.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/71386171/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Richard Adams" ;
+.
+bibliographica:Richard_Brautigan
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Richard Brautigan" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Richard_Brautigan.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/8169/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Richard Brautigan" ;
+.
+bibliographica:Richard_Flanagan
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Richard Flanagan" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Richard_Flanagan.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/99138677/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Richard Flanagan" ;
+.
+bibliographica:Richard_Kluger
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "Richard Kluger" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Richard_Kluger.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/4959067/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Richard Kluger" ;
+.
+bibliographica:Richard_Nelson
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Richard K. Nelson" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Richard_Nelson_(author).ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/91090206/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Richard Nelson" ;
+.
+bibliographica:Richard_Powers
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Richard Powers" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Richard_Powers.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/113865419/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Richard Powers" ;
+.
+bibliographica:Robert_Boswell
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Robert Boswell" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Robert_Boswell.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/49928619/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Robert Boswell" ;
+.
+bibliographica:Robert_Gagne
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Robert M. Gagné" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Robert_M._Gagn%C3%A9.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/59916732/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Robert M. Gagné" ;
+.
+bibliographica:Robert_Kay
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "Robert F. Kay" ;
+  bibliographica:viafURI "http://viaf.org/viaf/28683531/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Robert Kay" ;
+.
+bibliographica:Robert_Ludlum
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "Robert Ludlum" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Robert_Ludlum.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/109373898/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Robert Ludlum" ;
+.
+bibliographica:Robert_Michael_Pyle
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Robert Michael Pyle" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Robert_Michael_Pyle.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/19786367/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Robert Michael Pyle" ;
+.
+bibliographica:Robert_Olen_Butler
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Robert Olen Butler" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Robert_Olen_Butler.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/107542179/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Robert Olen Butler" ;
+.
+bibliographica:Robertson_Davies
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Robertson Davies" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Robertson_Davies.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/110344377/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Robertson Davies" ;
+.
+bibliographica:Roddy_Doyle
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Roddy Doyle" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Roddy_Doyle.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/17301306/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Roddy Doyle" ;
+.
+bibliographica:Rolling_Stone
+  rdf:type schema:Organization ;
+  schema:name "Rolling Stone" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Rolling_Stone.ttl"^^xsd:anyURI ;
+  rdfs:label "Rolling Stone" ;
+.
+bibliographica:Ron_Hansen
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Ron Hansen" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Ron_Hansen_(novelist).ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/75895/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Ron Hansen" ;
+.
+bibliographica:Rosario_Ferre
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Rosario Ferré" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Rosario_Ferr%C3%A9.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/49265238/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Rosario Ferré" ;
+.
+bibliographica:Rotraud_Michael-Degner
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Rotraud Michael-Degner‏" ;
+  bibliographica:viafURI "http://viaf.org/viaf/505858/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Rotraud Michael-Degner" ;
+.
+bibliographica:Royal_Robbins
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Royal Robbins" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Royal_Robbins.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/79431312/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Royal Robbins" ;
+.
+bibliographica:Rudolfo_Anaya
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Rudolfo Anaya" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Rudolfo_Anaya.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/110322020/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Rudolfo Anaya" ;
+.
+bibliographica:Russell_Banks
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Russell Banks" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Russell_Banks.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/66487364/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Russell Banks" ;
+.
+bibliographica:Ruth_Reichl
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Ruth Reichl" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Ruth_Reichl.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/37796447/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Ruth Reichl" ;
+.
+bibliographica:Ruth_Rendell
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Ruth Rendell" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Ruth_Rendell.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/120719476/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Ruth Rendell" ;
+.
+bibliographica:SE_Hinton
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "S. E. Hinton" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/S._E._Hinton.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/39583594/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "S. E. Hinton" ;
+.
+bibliographica:Sandra_Benitez
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Sandra Benitez" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Sandra_Benitez.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/117628163/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Sandra Benitez" ;
+.
+bibliographica:Sarah_Bird
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Sarah Bird" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Sarah_Bird.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/166628963/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Sarah Bird" ;
+.
+bibliographica:Sarah_Graves
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Sarah Graves" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Sarah_Graves.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/305276783/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Sarah Graves" ;
+.
+bibliographica:Schuyler_Ingle
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "Schuyler Ingle" ;
+  bibliographica:viafURI "http://viaf.org/viaf/35994778/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Schuyler Ingle" ;
+.
+bibliographica:Scott_Meyer
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassUW ;
+  schema:name "Scott Meyer" ;
+  rdfs:label "Scott Meyer" ;
+.
+bibliographica:Scott_Simon
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Scott Simon" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Scott_Simon.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/8940309/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Scott Simon" ;
+.
+bibliographica:Seamus_Heaney
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Seamus Heaney" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Seamus_Heaney.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/109557338/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Seamus Heaney" ;
+.
+bibliographica:Sebastian_Faulks
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Sebastian Faulks" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Sebastian_Faulks.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/106994448/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Sebastian Faulks" ;
+.
+bibliographica:Sharon_Pape
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Sharon B. Pape" ;
+  bibliographica:viafURI "http://viaf.org/viaf/100686926/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Sharon Pape" ;
+.
+bibliographica:Sheila_Lukins
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "Sheila Lukins" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Sheila_Lukins.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/79053153/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Sheila Lukins" ;
+.
+bibliographica:Shunto_Aoyama
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "\"Shuntō Aoyama\"@en" ;
+  bibliographica:viafURI "http://viaf.org/viaf/66633701/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Shuntō Aoyama" ;
+.
+bibliographica:Somerville_E_Œ
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Somerville, E. Œ." ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Edith_Somerville.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/96053713/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Somerville, E. Œ." ;
+.
+bibliographica:Sonja_Maria_Dahl
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Sonja Maria Dahl" ;
+  rdfs:label "Sonja Maria Dahl" ;
+.
+bibliographica:Stephen_Dobyns
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Stephen Dobyns" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Stephen_Dobyns.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/85546337/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Stephen Dobyns" ;
+.
+bibliographica:Stephen_Hunt
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Stephen Hunt" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Stephen_Hunt_(author).ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/117601357/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Stephen Hunt" ;
+.
+bibliographica:Stephen_Mitchell
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Stephen Mitchell" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Stephen_Mitchell_(translator).ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/22283107/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Stephen Mitchell" ;
+.
+bibliographica:Stephen_Myhre
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Stephen Myhre" ;
+  bibliographica:viafURI "http://viaf.org/viaf/5160302/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Stephen Myhre" ;
+.
+bibliographica:Steven_Jenkins
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "Steven Jenkins" ;
+  bibliographica:viafURI "http://viaf.org/viaf/55824536/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Steven Jenkins" ;
+.
+bibliographica:Steven_Nightingale
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Steven Nightingale" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Steven_Nightingale.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/18934844/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Steven Nightingale" ;
+.
+bibliographica:Steven_Rinella
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Steven Rinella" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Steven_Rinella.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/38791038/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Steven Rinella" ;
+.
+bibliographica:Stieg_Larsson
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "Stieg Larsson" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Stieg_Larsson.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/54441441/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Stieg Larsson" ;
+.
+bibliographica:Stuart_Woods
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassUW ;
+  schema:name "Stuart Woods" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Stuart_Woods.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/108957653/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Stuart Woods" ;
+.
+bibliographica:Sunetra_Gupta
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Alan Duff" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Sunetra_Gupta.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/79157077/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Sunetra Gupta" ;
+.
+bibliographica:Susan_Fox_Rogers
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Susan Fox Rogers" ;
+  bibliographica:viafURI "http://viaf.org/viaf/13992580/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Susan Fox Rogers" ;
+.
+bibliographica:Susan_Straight
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Susan Straight" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Susan_Straight.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/79369497/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Susan Straight" ;
+.
+bibliographica:Swain_Wolfe
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassUW ;
+  schema:name "Swain Wolfe" ;
+  bibliographica:viafURI "http://viaf.org/viaf/22852278/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Swain Wolfe" ;
+.
+bibliographica:TS_Eliot
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "T.S. Eliot" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/T._S._Eliot.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/56609282/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "T.S. Eliot" ;
+.
+bibliographica:T_Coraghessan_Boyle
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "T Coraghessan Boyle" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/T._C._Boyle.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/14796817/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "T Coraghessan Boyle" ;
+.
+bibliographica:Tananarive_Due
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Tananarive Due" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Tananarive_Due.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/59266210/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Tananarive Due" ;
+.
+bibliographica:Terry_Farish
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Terry Farish" ;
+  bibliographica:viafURI "http://viaf.org/viaf/92807646/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Terry Farish" ;
+.
+bibliographica:Thomas_McGuane
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Thomas McGuane" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Thomas_McGuane.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/79030467/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Thomas McGuane" ;
+.
+bibliographica:Thomas_Pynchon
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Thomas Pynchon" ;
+  bibliographica:viafURI "http://viaf.org/viaf/88986700/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Thomas Pynchon" ;
+.
+bibliographica:Thomas_Sanchez
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Thomas Sanchez" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Thomas_Sanchez_(writer).ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/64011584/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Thomas Sanchez" ;
+.
+bibliographica:Thomas_Wharton
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassUW ;
+  schema:name "Thomas Wharton" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Thomas_Wharton_(author).ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/19845769/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Thomas Wharton" ;
+.
+bibliographica:Tim_Cahill
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Tim Cahill" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Tim_Cahill_(writer).ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/79174785/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Tim Cahill" ;
+.
+bibliographica:Tim_Dorsey
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Tim Dorsey" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Tim_Dorsey.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/51856777/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Tim Dorsey" ;
+.
+bibliographica:Tim_OBrien
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Tim O'Brien" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Tim_O'Brien_(author).ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/85364833/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Tim O'Brien" ;
+.
+bibliographica:Tim_Sandlin
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Tim Sandlin" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Tim_Sandlin.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/63029772/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Tim Sandlin" ;
+.
+bibliographica:Tina_McElroy_Ansa
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "Tina McElroy Ansa" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Tina_McElroy_Ansa.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/52387993/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Tina McElroy Ansa" ;
+.
+bibliographica:Tom_Perrotta
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Tom Perrotta" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Tom_Perrotta.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/37124181/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Tom Perrotta" ;
+.
+bibliographica:Tom_Robbins
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Tom Robbins" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Tom_Robbins.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/71491365/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Tom Robbins" ;
+.
+bibliographica:Tom_Watts
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassUW ;
+  schema:name "Tom Watts" ;
+  bibliographica:viafURI "https://viaf.org/viaf/286599915/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Tom Watts" ;
+.
+bibliographica:Tom_Wolfe
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassUW ;
+  schema:name "Tom Wolfe" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Tom_Wolfe.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/119067502/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Tom Wolfe" ;
+.
+bibliographica:Toni_Morrison
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Toni Morrison" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Toni_Morrison.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/109406177/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Toni Morrison" ;
+.
+bibliographica:Toyoaki_Kawai
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "Toyoaki Kawai" ;
+  bibliographica:viafURI "https://viaf.org/viaf/110968907/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Toyoaki Kawai" ;
+.
+bibliographica:Troy_Soos
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Troy Soos" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Troy_Soos.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/4175916/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Troy Soos" ;
+.
+bibliographica:Van_Reid
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Van Reid" ;
+  bibliographica:viafURI "http://viaf.org/viaf/16535666/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Van Reid" ;
+.
+bibliographica:Victor_Sodsook
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "Victor Sodsook" ;
+  bibliographica:viafURI "http://viaf.org/viaf/6630699/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Victor Sodsook" ;
+.
+bibliographica:Vincent_Kohler
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "Vincent Kohler" ;
+  bibliographica:viafURI "http://viaf.org/viaf/43641873/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Vincent Kohler" ;
+.
+bibliographica:WP_Kinsella
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "William P. Kinsella" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/W._P._Kinsella.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/957296/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "W. P. Kinsella" ;
+.
+bibliographica:Walter_Wager
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassUW ;
+  schema:name "Walter W. Wager" ;
+  bibliographica:viafURI "https://viaf.org/viaf/91880329/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Walter W. Wager" ;
+.
+bibliographica:Wayne_Johnson
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassIL ;
+  schema:name "Wayne Johnson" ;
+  bibliographica:viafURI "http://viaf.org/viaf/17276021/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Wayne Johnson" ;
+.
+bibliographica:Wendy_Esko
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Wendy Esko" ;
+  bibliographica:viafURI "https://viaf.org/viaf/9992628/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Wendy Esko" ;
+.
+bibliographica:Wendy_Holden
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Wendy Holden" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Wendy_Holden_(born_1965).ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/163020838/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Wendy Holden" ;
+.
+bibliographica:William_Carpenter
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "William Carpenter" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/William_Carpenter_(writer).ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/278946902/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "William Carpenter" ;
+.
+bibliographica:William_S_Burroughs
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  schema:name "William S. Burroughs" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/William_S._Burroughs.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/108916275/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "William S. Burroughs" ;
+.
+bibliographica:William_Trevor
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  schema:name "William Trevor" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/William_Trevor.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/101362985/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "William Trevor" ;
+.
+bibliographica:Woody_Mann
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassMP ;
+  schema:name "Woody Mann" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Woody_Mann.ttl"^^xsd:anyURI ;
+  rdfs:label "Woody Mann" ;
+.
+bibliographica:Yamaha
+  rdf:type schema:Organization ;
+  schema:name "Yamaha" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Yamaha_Corporation.ttl"^^xsd:anyURI ;
+  rdfs:label "Yamaha" ;
+.
+bibliographica:Zoe_Weil
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassUW ;
+  schema:name "Zoe Weil" ;
+  bibliographica:viafURI "http://viaf.org/viaf/7104831/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Zoe Weil" ;
+.
+bibliographica:Zora_Neale_Hurston
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Zora Neale Hurston" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Zora_Neale_Hurston.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/62824341/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Zora Neale Hurston" ;
+.
+<http://www.essenceofknowledge.com/onto/biblio/bibliographica#Thích._Nhất_Hạnh>
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassEH ;
+  schema:name "Thích. Nhất Hạnh" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Th%C3%ADch_Nh%E1%BA%A5t_H%E1%BA%A1nh.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/87670142/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Thích. Nhất Hạnh" ;
+.

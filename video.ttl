@@ -1,0 +1,31 @@
+# baseURI: http://www.connaissance.io/onto/biblio/video
+# imports: http://www.connaissance.io/onto/biblio/MusicGroup
+# imports: http://www.connaissance.io/onto/biblio/SoloMusicArtist
+# imports: http://www.connaissance.io/onto/biblio/authors
+# imports: http://www.connaissance.io/onto/biblio/bibliographica
+
+@prefix : <http://www.connaissance.io/onto/biblio/video#> .
+@prefix MusicGroup: <http://www.connaissance.io/onto/biblio/MusicGroup#> .
+@prefix SoloMusicArtist: <http://www.connaissance.io/onto/biblio/SoloMusicArtist#> .
+@prefix authors: <http://www.connaissance.io/onto/biblio/authors#> .
+@prefix bibliographica: <http://www.connaissance.io/onto/biblio/bibliographica#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.connaissance.io/onto/biblio/video>
+  rdf:type owl:Ontology ;
+  dcterms:modified "2019-09-12" ;
+  schema:license "https://creativecommons.org/licenses/by-nc-sa/4.0/"^^xsd:anyURI ;
+  schema:license "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode"^^xsd:anyURI ;
+  rdfs:comment "Typically, video on DVD, though not always." ;
+  owl:imports <http://www.connaissance.io/onto/biblio/MusicGroup> ;
+  owl:imports <http://www.connaissance.io/onto/biblio/SoloMusicArtist> ;
+  owl:imports <http://www.connaissance.io/onto/biblio/authors> ;
+  owl:imports <http://www.connaissance.io/onto/biblio/bibliographica> ;
+  owl:versionInfo "Developed by M Lane, Portland, Oregon" ;
+.

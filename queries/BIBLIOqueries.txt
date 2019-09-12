@@ -1,0 +1,30 @@
+Background
+
+For those not familiar with SPARQL, it is a computer query language that allows humans and software agents to "ask questions" of open datasets located across the web, often integrating different sources to represent knowledge in new and interesting ways. Nonetheless, the RDF model behind SPARQL can be used to organize knowledge domains, such as the present dataset, and SPARQL can help us answer basic questions about that data. A SPARQL "endpoint" is used to interface with the data and return results. SPARQL endpoint instructions and a set of queries are provided below, for curious onlookers. 
+
+
+Instructions
+
+Point your web browser to the SPARQLer general purpose processor:
+
+http://sparql.org/sparql.html
+
+Copy and paste any SPARQL query statement listed below (between the --------- lines and responding to the prior question) into the empty SPARQLer text field.
+
+After pasting the query, select "XML" next to "Output:", and click the "Get Results" button. The results may not make sense as a human, but a closer look will reveal authors' names in a list. If an error is returned, it may be the query was not copied correctly. From "PREFIX" to the "}", syntax, structure, and semantics are all important.
+
+
+SPARQL Queries
+
+//Which authors are represented in the collection thus far?
+---------------------------------------------------------------
+PREFIX bibliographica: <http://www.essenceofknowledge.com/onto/biblio/bibliographica#> 
+PREFIX dct: <http://purl.org/dc/terms/>
+
+SELECT DISTINCT ?author
+FROM <http://www.essenceofknowledge.com/onto/biblio/books.ttl>
+
+WHERE
+{ ?s dct:creator ?author . }
+---------------------------------------------------------------
+

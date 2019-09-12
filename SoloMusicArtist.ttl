@@ -1,0 +1,629 @@
+# baseURI: http://www.connaissance.io/onto/biblio/SoloMusicArtist
+# imports: http://www.connaissance.io/onto/biblio/bibliographica
+
+@prefix : <http://www.connaissance.io/onto/biblio/SoloMusicArtist#> .
+@prefix bibliographica: <http://www.connaissance.io/onto/biblio/bibliographica#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.connaissance.io/onto/biblio/SoloMusicArtist>
+  rdf:type owl:Ontology ;
+  dcterms:modified "2019-09-12" ;
+  schema:license "https://creativecommons.org/licenses/by-nc-sa/4.0/"^^xsd:anyURI ;
+  schema:license "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode"^^xsd:anyURI ;
+  rdfs:comment "Solo music artists, though anyone could also be in a band." ;
+  owl:imports <http://www.connaissance.io/onto/biblio/bibliographica> ;
+  owl:versionInfo "Developed by M Lane, Portland, Oregon" ;
+.
+bibliographica:Abbey_Lincoln
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Abbey_Lincoln.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/ce8cbced-8719-47b9-b728-6024e8b19b15"^^xsd:anyURI ;
+  rdfs:label "Abbey Lincoln" ;
+.
+bibliographica:Abdullah_Ibrahim
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Abdullah_Ibrahim.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/fd64e185-9973-44d5-ad09-5d5562804292"^^xsd:anyURI ;
+  rdfs:label "Abdullah Ibrahim" ;
+.
+bibliographica:Adrian_Belew
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Adrian_Belew.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/73c3f499-60e2-44e1-81dd-7fe2191461fa"^^xsd:anyURI ;
+  rdfs:label "Adrian Belew" ;
+.
+bibliographica:Ahmad_Jamal
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Ahmad_Jamal.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/cf816800-4e0e-4d80-9cca-50a725e93787"^^xsd:anyURI ;
+  rdfs:label "Ahmad Jamal" ;
+.
+bibliographica:Aimee_Mann
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Aimee_Mann.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/db3c0a20-bf05-4b30-ac22-f294aea24172"^^xsd:anyURI ;
+  rdfs:label "Aimee Mann" ;
+.
+bibliographica:Airto_Moreira
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Airto_Moreira.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/dd2abaa1-0b73-4ded-82ed-c80cce8d6378"^^xsd:anyURI ;
+  rdfs:label "Airto Moreira" ;
+.
+bibliographica:Al_DiMeola
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Al_Di_Meola.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/09c0f334-f9de-4970-b9ee-ef799cd093be"^^xsd:anyURI ;
+  rdfs:label "Al DiMeola" ;
+.
+bibliographica:Al_Kooper
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Al_Kooper.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/d6bee229-1957-4891-8d44-c56ac7ea259e"^^xsd:anyURI ;
+  rdfs:label "Al Kooper" ;
+.
+bibliographica:Al_Stewart
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Al_Stewart.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/ab7d49fa-c383-4c41-b890-3fe68e559dc4"^^xsd:anyURI ;
+  rdfs:label "Al Stewart" ;
+.
+bibliographica:Albert_Collins
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Albert_Collins.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/73b8dddb-ec29-4d11-b449-d97fde73f07b"^^xsd:anyURI ;
+  rdfs:label "Albert Collins" ;
+.
+bibliographica:Albert_King
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Albert_King.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/10f89195-3af1-46f5-aa36-504aa3309f5a"^^xsd:anyURI ;
+  rdfs:label "Albert King" ;
+.
+bibliographica:Alejandro_Escovedo
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Alejandro_Escovedo.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/bf103bec-70e3-45a5-9d1b-97715db04a96"^^xsd:anyURI ;
+  rdfs:label "Alejandro Escovedo" ;
+.
+bibliographica:Alex_Chilton
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Alex_Chilton.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/18b2f43a-fc98-4aab-b69c-eaaba41fecbc"^^xsd:anyURI ;
+  rdfs:label "Alex Chilton" ;
+.
+bibliographica:Alex_de_Grassi
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Alex_De_Grassi.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/f940c4dd-f687-4c6a-872b-1cce3f78dc0a"^^xsd:anyURI ;
+  rdfs:label "Alex de Grassi" ;
+.
+bibliographica:Ali_Farka_Toure
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Ali_Farka_Tour%C3%A9.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/9be2a5ac-8201-489b-b5f6-91f958bf9060"^^xsd:anyURI ;
+  rdfs:label "Ali Farka Touré" ;
+  skos:prefLabel "Ali Farka Touré" ;
+.
+bibliographica:Alison_Krauss
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Alison_Krauss.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/6b064ead-91a4-4ac8-8076-b1febe4f4aac"^^xsd:anyURI ;
+  rdfs:label "Alison Krauss" ;
+.
+bibliographica:Allan_Holdsworth
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Allan_Holdsworth.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/a6396e33-9298-493e-9409-f0e1366b326b"^^xsd:anyURI ;
+  rdfs:label "Allan Holdsworth" ;
+.
+bibliographica:Alpha_Blondy
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Alpha_Blondy.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/88502cc3-20e7-4c5d-b583-ea84ed263db4"^^xsd:anyURI ;
+  rdfs:label "Alpha Blondy" ;
+.
+bibliographica:Amanda_Marshall
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Amanda_Marshall.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/6f1f4bb7-5253-4524-b4db-6a0a7f3cb4c5"^^xsd:anyURI ;
+  rdfs:label "Amanda Marshall" ;
+.
+bibliographica:Ana_Egge
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Ana_Egge.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/aca491ac-34bf-4332-a1b6-2ebf288db65e"^^xsd:anyURI ;
+  rdfs:label "Ana Egge" ;
+.
+bibliographica:Anders_Osborne
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Anders_Osborne.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/96fa47fc-6175-45c9-9686-7a3362671137"^^xsd:anyURI ;
+  rdfs:label "Anders Osborne" ;
+.
+bibliographica:Andre_Ceccarelli
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Andr%C3%A9_Ceccarelli.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/68a155b4-0345-44be-ab3f-dc88f68960ec"^^xsd:anyURI ;
+  rdfs:label "André Ceccarelli" ;
+.
+bibliographica:Andrew_Bird
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Andrew_Bird.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/081b133e-ce74-42ba-92c1-c18234acb532"^^xsd:anyURI ;
+  rdfs:label "Andrew Bird" ;
+.
+bibliographica:Andy_Statman
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Andy_Statman.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/5a3586cd-87a7-41b2-ad60-7d83d6363afd"^^xsd:anyURI ;
+  rdfs:label "Andy Statman" ;
+.
+bibliographica:Angélique_Kidjo
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Angélique_Kidjo.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/80fe34d0-6b4f-4ccd-81c3-281ab37f0451"^^xsd:anyURI ;
+  rdfs:label "Angélique Kidjo" ;
+.
+bibliographica:Ani_DiFranco
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Ani_DiFranco.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/a7bdc71f-697a-45d9-92b2-a01fbbe50272"^^xsd:anyURI ;
+  rdfs:label "Ani DiFranco" ;
+.
+bibliographica:Anita_O-Day
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Anita_O'Day.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/9516242e-ab62-4e6e-8404-c453668567c2"^^xsd:anyURI ;
+  rdfs:label "Anita O'Day" ;
+.
+bibliographica:Anne_Hills
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Anne_Hills.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/70bec691-4503-4219-9013-15802ed4bb65"^^xsd:anyURI ;
+  rdfs:label "Anne Hills" ;
+.
+bibliographica:Annie_Gallup
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Annie_Gallup.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/86de1c4b-15e7-41e4-9e9a-06a5980ed0b9"^^xsd:anyURI ;
+  rdfs:label "Annie Gallup" ;
+.
+bibliographica:Annie_Lennox
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Annie_Lennox.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/3e30aebd-0557-4cfd-8fb9-3945afa5d72b"^^xsd:anyURI ;
+  rdfs:label "Annie Lennox" ;
+.
+bibliographica:Aretha_Franklin
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Aretha_Franklin.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/2f9ecbed-27be-40e6-abca-6de49d50299e"^^xsd:anyURI ;
+  rdfs:label "Aretha Franklin" ;
+.
+bibliographica:Arlo_Guthrie
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Arlo_Guthrie.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/b8efe8ac-45db-4a71-bb51-c1503986172f"^^xsd:anyURI ;
+  rdfs:label "Arlo Guthrie" ;
+.
+bibliographica:Ashley_Hutchings
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Ashley_Hutchings.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/41b79e6f-9621-45c9-836c-9f08bedba4eb"^^xsd:anyURI ;
+  rdfs:label "Ashley Hutchings" ;
+.
+bibliographica:BB_King
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/B.B._King.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/dcb03ce3-67a5-4eb3-b2d1-2a12d93a38f3"^^xsd:anyURI ;
+  rdfs:label "B.B. King" ;
+.
+bibliographica:Badi_Assad
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Badi_Assad.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/572813ae-736f-47c9-9755-0ec0a550ddd5"^^xsd:anyURI ;
+  rdfs:label "Badi Assad" ;
+.
+bibliographica:Barbara_Kessler
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Barbara_Kessler.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/626e6742-8e36-4f1e-aca7-88b64ea4dde6"^^xsd:anyURI ;
+  rdfs:label "Barbara Kessler" ;
+.
+bibliographica:Bebel_Gilberto
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Bebel_Gilberto.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/8777a849-fb4e-4430-9918-170f619c5286"^^xsd:anyURI ;
+  rdfs:label "Bebel Gilberto" ;
+.
+bibliographica:Bela_Fleck
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Béla_Fleck.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/e1a889b7-5e45-447f-baa0-b9c6cbc0d39f"^^xsd:anyURI ;
+  rdfs:label "Béla Fleck" ;
+.
+bibliographica:Ben_Folds
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Ben_Folds.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/51b7f46f-6c0f-46f2-9496-08c9ec2624d4"^^xsd:anyURI ;
+  rdfs:label "Ben Folds" ;
+.
+bibliographica:Beth_Nielsen_Chapman
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Beth_Nielsen_Chapman.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/10f55070-09fb-4ac8-b684-b70ca66b0055"^^xsd:anyURI ;
+  rdfs:label "Beth Nielsen Chapman" ;
+.
+bibliographica:Bill_Frisell
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Bill_Frisell.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/a21318db-f228-4a4d-8bce-6947a62985a5"^^xsd:anyURI ;
+  rdfs:label "Bill Frisell" ;
+.
+bibliographica:Bill_Laswell
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Bill_Laswell.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/8b7a121c-5b50-4912-ab4c-e49a631a2db0"^^xsd:anyURI ;
+  rdfs:label "Bill Laswell" ;
+.
+bibliographica:Bill_Morrissey
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Bill_Morrissey.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/c274bda6-1230-49c6-b307-22146344d335"^^xsd:anyURI ;
+  rdfs:label "Bill Morrissey" ;
+.
+bibliographica:Billy_Bragg
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Billy_Bragg.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/7cec4a03-0a83-4308-856a-afb8aa5db0fc"^^xsd:anyURI ;
+  rdfs:label "Billy Bragg" ;
+.
+bibliographica:Billy_Cobham
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Billy_Cobham.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/255497f8-26fb-4044-b97e-d4787d5974f6"^^xsd:anyURI ;
+  rdfs:label "Billy Cobham" ;
+.
+bibliographica:Björk
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Bj%C3%B6rk.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/87c5dedd-371d-4a53-9f7f-80522fb7f3cb"^^xsd:anyURI ;
+  rdfs:label "Björk" ;
+.
+bibliographica:Bob_James
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Bob_James_(musician).ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/f4d2fc5a-cacb-47c8-b096-ee73864b1aa8"^^xsd:anyURI ;
+  rdfs:label "Bob James" ;
+.
+bibliographica:Brent_Lewis
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/7183e4bd-1c95-4f0e-a479-51ae435f1aa7"^^xsd:anyURI ;
+  rdfs:label "Brent Lewis" ;
+.
+bibliographica:Brian_Eno
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Brian_Eno.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/ff95eb47-41c4-4f7f-a104-cdc30f02e872"^^xsd:anyURI ;
+  rdfs:label "Brian Eno" ;
+.
+bibliographica:Bruce_Hornsby
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Bruce_Hornsby.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/e60dbba7-6f55-429a-bd22-5e9c6a87ae70"^^xsd:anyURI ;
+  rdfs:label "Bruce Hornsby" ;
+.
+bibliographica:Bryan_Ferry
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Bryan_Ferry.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/4ef7a9e2-2cf5-483a-8616-ef7791a98026"^^xsd:anyURI ;
+  rdfs:label "Bryan Ferry" ;
+.
+bibliographica:Chantal_Kreviazuk
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Chantal_Kreviazuk.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/fd092d99-377f-414e-a63e-3dc849ad2cc9"^^xsd:anyURI ;
+  rdfs:label "Chantal Kreviazuk" ;
+.
+bibliographica:Christine_Kane
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Christine_Kane.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/17c91d2f-df86-4355-b7c0-55d4046e0cb2"^^xsd:anyURI ;
+  rdfs:label "Christine Kane" ;
+.
+bibliographica:Christine_Lavin
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Christine_Lavin.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/03172678-72c4-423a-b3ca-4bbc7fc89d04"^^xsd:anyURI ;
+  rdfs:label "Christine Lavin" ;
+.
+bibliographica:Colin_Hay
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Colin_Hay.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/864d7069-57dc-45f6-b408-875b35106dd3"^^xsd:anyURI ;
+  rdfs:label "Colin Hay" ;
+.
+bibliographica:Connie_Kaldor
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Connie_Kaldor.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/c582ec4d-6482-45b0-8f17-356c225c36a8"^^xsd:anyURI ;
+  rdfs:label "Connie Kaldor" ;
+.
+bibliographica:Cyndi_Lauper
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Cyndi_Lauper.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/7bd9e20e-74b9-446a-a2ed-a223f82a36e7"^^xsd:anyURI ;
+  rdfs:label "Cyndi Lauper" ;
+.
+bibliographica:Daniel_Johnston
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Daniel_Johnston.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/8a7ca8b0-d23c-4eff-8fe9-6220ba5c9c76"^^xsd:anyURI ;
+  rdfs:label "Daniel Johnston" ;
+.
+bibliographica:Dave_Green
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Dave_Green_(musician).ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/793ab510-07ea-488f-87c7-32698dedda33"^^xsd:anyURI ;
+  rdfs:label "Dave Green" ;
+.
+bibliographica:David_Byrne
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/David_Byrne.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/d4659efb-b8eb-4f03-95e9-f69ce35967a9"^^xsd:anyURI ;
+  rdfs:label "David Byrne" ;
+.
+bibliographica:David_Grisman
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/David_Grisman.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/402e4f4f-33aa-4b2b-9fdb-3cb4eb38f729"^^xsd:anyURI ;
+  rdfs:label "David Grisman" ;
+.
+bibliographica:Earl_Klugh
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Earl_Klugh.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/5c44b1b8-07ad-4aca-ac5d-ebdad8e62e12"^^xsd:anyURI ;
+  rdfs:label "Earl Klugh" ;
+.
+bibliographica:Edgar_Meyer
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Edgar_Meyer.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/901caa09-383e-4dbc-95f2-a75ec7863b6a"^^xsd:anyURI ;
+  rdfs:label "Edgar Meyer" ;
+.
+bibliographica:Evan_Parker
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Evan_Parker.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/8dba3cd5-5ed9-4472-8b38-c77ffc52b965"^^xsd:anyURI ;
+  rdfs:label "Evan Parker" ;
+  skos:prefLabel "Evan Parker" ;
+.
+bibliographica:Frank_Zappa
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassXZ ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Frank_Zappa.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/e20747e7-55a4-452e-8766-7b985585082d"^^xsd:anyURI ;
+  rdfs:label "Frank Zappa" ;
+.
+bibliographica:Greg_Brown
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Greg_Brown_(folk_musician).ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/8d5521d6-473d-4da0-b68d-553d4188619d"^^xsd:anyURI ;
+  rdfs:label "Greg Brown" ;
+.
+bibliographica:Hank_Jones
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Hank_Jones.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/80d610fe-7771-4226-aa9b-950944791698"^^xsd:anyURI ;
+  rdfs:label "Hank Jones" ;
+.
+bibliographica:Jan_Peter_Schwalm
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/J._Peter_Schwalm.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/fd42e630-8fb8-4df0-9f6b-751ce6bfc2f1"^^xsd:anyURI ;
+  rdfs:label "J. Peter Schwalm" ;
+.
+bibliographica:Jerry_Douglas
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Jerry_Douglas.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/f94a59be-8e2f-456b-9ccb-e742048c6654"^^xsd:anyURI ;
+  rdfs:label "Jerry Douglas" ;
+.
+bibliographica:Jerry_Garcia
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Jerry_Garcia.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/1ecff755-607d-4130-9a8a-8873f27e5de5"^^xsd:anyURI ;
+  rdfs:label "Jerry Garcia" ;
+.
+bibliographica:John_Scofield
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/John_Scofield.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/cbfd7f01-87c3-44bf-a3a2-fe4dbff20ad2"^^xsd:anyURI ;
+  rdfs:label "John Scofield" ;
+.
+bibliographica:Larry_Coryell
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Larry_Coryell.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/5a8f286f-cb7c-4e31-b021-935173f160ed"^^xsd:anyURI ;
+  rdfs:label "Larry Coryell" ;
+.
+bibliographica:Linda_Thompson
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Linda_Thompson_(singer).ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/30792486-de7c-458a-873c-ca6931540a70"^^xsd:anyURI ;
+  rdfs:label "Linda Thompson" ;
+.
+bibliographica:Marc_Johnson
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Marc_Johnson_(musician).ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/c0540872-ad50-4973-be47-f833940aa1b1"^^xsd:anyURI ;
+  rdfs:label "Marc Johnson" ;
+.
+bibliographica:Maura_OConnell
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Maura_O'Connell.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/522f9070-ab8a-42d0-8f0a-f2f35dcf40d4"^^xsd:anyURI ;
+  rdfs:label "Maura O'Connell" ;
+.
+bibliographica:Mike_Bloomfield
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Mike_Bloomfield.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/1be2e508-905c-4d90-9bf2-7ab55f78b3e6"^^xsd:anyURI ;
+  rdfs:label "Michael Bloomfield" ;
+.
+bibliographica:Miles_Davis
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Miles_Davis.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/561d854a-6a28-4aa7-8c99-323e6ce46c2a"^^xsd:anyURI ;
+  rdfs:label "Miles Davis" ;
+.
+bibliographica:Oscar_Brand
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Oscar_Brand.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/c7418473-b85b-42a9-9512-1cddfb6eb3d8"^^xsd:anyURI ;
+  rdfs:label "Oscar Brand" ;
+.
+bibliographica:Patti_Smith
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type schema:Person ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Patti_Smith.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/d135874d-9cae-4fef-97e3-36acbd9f5a26"^^xsd:anyURI ;
+  rdfs:label "Patti Smith" ;
+.
+bibliographica:Peter_Erskine
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Peter_Erskine.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/3086927c-e46f-4200-9c57-fb615ac8da2c"^^xsd:anyURI ;
+  rdfs:label "Peter Erskine" ;
+.
+bibliographica:Richard_Thompson
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Richard_Thompson_(musician).ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/ecfeacaf-0399-470f-8207-d1c646569fd0"^^xsd:anyURI ;
+  rdfs:label "Richard Thompson" ;
+.
+bibliographica:Russ_Barenberg
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Russ_Barenberg.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/10df6b2d-e016-4a51-a97c-f9f8814cabef"^^xsd:anyURI ;
+  rdfs:label "Russ Barenberg" ;
+.
+bibliographica:Sam_Bush
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Sam_Bush.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/c233d833-81d9-4feb-b70c-7ffe86200f7b"^^xsd:anyURI ;
+  rdfs:label "Sam Bush" ;
+.
+bibliographica:Stephen_Stills
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Stephen_Stills.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/5642774a-72c0-4099-8da4-7c1ab36378a8"^^xsd:anyURI ;
+  rdfs:label "Stephen Stills" ;
+.
+bibliographica:Steve_Vai
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassUW ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Steve_Vai.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/5e7ccd92-6277-451a-aab9-1efd587c50f3"^^xsd:anyURI ;
+  rdfs:label "Steve Vai" ;
+.
+bibliographica:Stevie_Ray_Vaughan
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Stephen_Stills.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/5642774a-72c0-4099-8da4-7c1ab36378a8"^^xsd:anyURI ;
+  rdfs:label "Stevie Ray Vaughan" ;
+.

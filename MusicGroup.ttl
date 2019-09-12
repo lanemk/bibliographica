@@ -1,0 +1,365 @@
+# baseURI: http://www.connaissance.io/onto/biblio/MusicGroup
+# imports: http://www.connaissance.io/onto/biblio/SoloMusicArtist
+# imports: http://www.connaissance.io/onto/biblio/bibliographica
+
+@prefix : <http://www.connaissance.io/onto/biblio/MusicGroup#> .
+@prefix SoloMusicArtist: <http://www.connaissance.io/onto/biblio/SoloMusicArtist#> .
+@prefix bibliographica: <http://www.connaissance.io/onto/biblio/bibliographica#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.connaissance.io/onto/biblio/MusicGroup>
+  rdf:type owl:Ontology ;
+  dcterms:modified "2019-09-12" ;
+  rdfs:comment "Music groups, as defined by Schema.org, better known as bands; collaborators are acceptable." ;
+  owl:imports <http://www.connaissance.io/onto/biblio/SoloMusicArtist> ;
+  owl:imports <http://www.connaissance.io/onto/biblio/bibliographica> ;
+  owl:versionInfo "Developed by M Lane, Portland, Oregon" ;
+.
+bibliographica:Acoustic_Allstars
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassAD ;
+  rdfs:label "Acoustic Allstars" ;
+.
+bibliographica:Adalberto_Alvarez_Y_Su_Son
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Adalberto_%C3%81lvarez_y_su_Son.n3"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/be05b7a6-1d86-407d-80f6-0cdfbafc709f"^^xsd:anyURI ;
+  rdfs:label "Adalberto Alvarez Y Su Son" ;
+.
+bibliographica:Adventures_in_Afropea
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/30c783af-55d2-34e4-bed2-636583990975"^^xsd:anyURI ;
+  rdfs:label "Adventures in Afropea 3 (various artists)" ;
+.
+bibliographica:Albion_Country_Band
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/The_Albion_Band.n3"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/a63b0be7-151d-497c-b564-dd6a3d8c6dc0"^^xsd:anyURI ;
+  rdfs:label "The Albion Country Band" ;
+.
+bibliographica:Alfred_Hause_Tango_Orchestra
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/ed99baec-5186-4d44-a5cd-89b8398ebd91"^^xsd:anyURI ;
+  rdfs:label "Alfred Hause Tango Orchestra" ;
+.
+bibliographica:Alison_Krauss_Union_Station
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassUW ;
+  mo:supporting_musician bibliographica:Alison_Krauss ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Union_Station_(band).n3"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/b91c664b-5eee-4536-8b70-b1f2be519ac0"^^xsd:anyURI ;
+  rdfs:label "Alison Krauss & Union Station" ;
+.
+bibliographica:Allman_Brothers
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/The_Allman_Brothers_Band.n3"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/72359492-22be-4ed9-aaa0-efa434fb2b01"^^xsd:anyURI ;
+  rdfs:label "Allman Brothers" ;
+.
+bibliographica:Altan
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Altan_(band).n3"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/e6211cf7-272f-4431-bbd3-40c081b992d4"^^xsd:anyURI ;
+  rdfs:label "Altan" ;
+.
+bibliographica:Amadou_and_Mariam
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Amadou_&_Mariam.n3"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/1fb60b6c-0f4d-42b4-8a5e-de705ec76660"^^xsd:anyURI ;
+  rdfs:label "Amadou & Mariam" ;
+.
+bibliographica:Amaduduzo
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/a41fb0cf-dc92-495a-8375-7d536ba3a016"^^xsd:anyURI ;
+  rdfs:label "Amaduduzo" ;
+.
+bibliographica:Amazulu
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Amazulu_(band).n3"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/44c0262f-97b2-4227-b5eb-fac46f1e8880"^^xsd:anyURI ;
+  rdfs:label "Amazulu" ;
+.
+bibliographica:America
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/America_(band).n3"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/34cf95c7-4be9-4efd-a48a-c2ea4a0bb114"^^xsd:anyURI ;
+  rdfs:label "America" ;
+.
+bibliographica:Arrested_Development
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Arrested_Development_(group).n3"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/d8b15d32-609e-44a6-bff1-65c4df53a9f1"^^xsd:anyURI ;
+  rdfs:label "Arrested Development" ;
+.
+bibliographica:Art_Zoyd
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Art_Zoyd.n3"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/aba325af-9e75-4db8-967f-eab02b1116d2"^^xsd:anyURI ;
+  rdfs:label "Art Zoyd" ;
+.
+bibliographica:Artistas_Cubanos
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassAD ;
+  rdfs:label "Artistas Cubanos" ;
+.
+bibliographica:Austin_Lounge_Lizards
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Austin_Lounge_Lizards.n3"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/1ddec30d-dba7-4421-a8b0-14ea8f09d050"^^xsd:anyURI ;
+  rdfs:label "Austin Lounge Lizards" ;
+.
+bibliographica:B-52s
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/The_B-52's.n3"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/127f591a-7e27-4435-92db-0780f219f3a1"^^xsd:anyURI ;
+  rdfs:label "B-52s" ;
+.
+bibliographica:Bad_Company
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Bad_Company.n3"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/0053dbd9-bfbc-4e38-9f08-66a27d914c38"^^xsd:anyURI ;
+  rdfs:label "Bad Company" ;
+.
+bibliographica:Bad_Livers
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Bad_Livers.n3"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/52136679-5be1-403a-ab23-a3a934646daa"^^xsd:anyURI ;
+  rdfs:label "Bad Livers" ;
+.
+bibliographica:Baka_Beyond
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Adalberto_%C3%81lvarez_y_su_Son.n3"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "http://dbpedia.org/data/Baka_Beyond.n3"^^xsd:anyURI ;
+  rdfs:label "Baka Beyond" ;
+.
+bibliographica:Band_Du_Jour
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassAD ;
+  rdfs:label "Band Du Jour" ;
+.
+bibliographica:Barenberg_Bush_Douglas_Meyer
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassAD ;
+  rdfs:label "Barenberg Bush Douglas Meyer" ;
+.
+bibliographica:Barrel_of_Blues
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/8da727cf-737b-4ce1-b29d-7f68225a4d10"^^xsd:anyURI ;
+  rdfs:label "Barrel of Blues" ;
+.
+bibliographica:Bass_Desires
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassAD ;
+  rdfs:comment "For live gigs. Studio releases are under solo artist name (i.e., Marc Johnson)." ;
+  rdfs:label "Bass Desires" ;
+.
+bibliographica:Battlefield_Band
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Battlefield_Band.n3"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/48db5a2c-ae66-4e7d-8986-b277a7b867e4"^^xsd:anyURI ;
+  rdfs:label "Battlefield Band" ;
+.
+bibliographica:Beatles
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/The_Beatles.n3"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d"^^xsd:anyURI ;
+  rdfs:label "The Beatles" ;
+.
+bibliographica:BeauJocque_ZydecoHiRollers
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Beau_Jocque.n3"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/56ae315b-787f-472c-ba15-56e9a8a8028c"^^xsd:anyURI ;
+  rdfs:label "Beau Jocque and the Zydeco Hi-Rollers" ;
+.
+bibliographica:BeauSoleil
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/BeauSoleil.n3"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/143d190c-11e8-4ecd-adf7-a68a3ccdaab1"^^xsd:anyURI ;
+  rdfs:label "BeauSoleil" ;
+.
+bibliographica:Bela_Fleck_and_the_Flecktones
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Béla_Fleck_and_the_Flecktones.n3"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/830dce6f-c9ff-4ebe-944b-2ea2ab22fcdf"^^xsd:anyURI ;
+  rdfs:label "Béla Fleck and the Flecktones" ;
+.
+bibliographica:Big_Audio_Dynamite
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Big_Audio_Dynamite.n3"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/694b1fd8-0ba6-45bb-a359-d8a8fecaee46"^^xsd:anyURI ;
+  rdfs:label "Big Audio Dynamite" ;
+.
+bibliographica:Black_Flag
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Black_Flag_(band).n3"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/9941a936-196a-4a62-ae53-a69cbc33f20e"^^xsd:anyURI ;
+  rdfs:label "Black Flag" ;
+.
+bibliographica:Black_Sabbath
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Black_Sabbath.n3"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/5182c1d9-c7d2-4dad-afa0-ccfeada921a8"^^xsd:anyURI ;
+  rdfs:label "Black Sabbath" ;
+.
+bibliographica:Black_Uhuru
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Black_Uhuru.n3"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/8ee00333-ec2c-439b-a619-ae160aca2a15"^^xsd:anyURI ;
+  rdfs:label "Black Uhuru" ;
+.
+bibliographica:Bleecker_Street
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassAD ;
+  rdfs:label "Bleecker Street" ;
+.
+bibliographica:Blind_Boys_of_Alabama
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/The_Blind_Boys_of_Alabama.n3"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/2f76bd85-ba19-4d80-9bb7-4555abe463c5"^^xsd:anyURI ;
+  rdfs:label "The Blind Boys of Alabama" ;
+.
+bibliographica:Blind_Faith
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Blind_Faith.n3"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/53fa91ca-a2b9-463d-b78e-daca9894082a"^^xsd:anyURI ;
+  rdfs:label "Blind Faith" ;
+.
+bibliographica:BluegrassReunion
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Bluegrass_Reunion.n3"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/ebd26d0e-217d-450a-94cb-e55c2758107b"^^xsd:anyURI ;
+  rdfs:label "Bluegrass Reunion (group)" ;
+.
+bibliographica:BluesTraveler
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Blues_Traveler.n3"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/6b28ecf0-94e6-48bb-aa2a-5ede325b675b"^^xsd:anyURI ;
+  rdfs:label "Blues Traveler (group)" ;
+.
+bibliographica:Grateful_Dead
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Grateful_Dead.n3"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6"^^xsd:anyURI ;
+  rdfs:label "Grateful Dead" ;
+.
+bibliographica:The_Assassins
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/b23d849c-c10f-4570-afcf-c17b0fc17531"^^xsd:anyURI ;
+  rdfs:label "The Assassins" ;
+.
+bibliographica:The_Bears
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/The_Bears_(band).n3"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/b5ebf9fb-43f5-407f-a49b-8355e5c5667b"^^xsd:anyURI ;
+  rdfs:label "The Bears" ;
+.
+bibliographica:VariousBluegrass
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassUW ;
+  rdfs:label "Various Bluegrass" ;
+.
+bibliographica:Weather_Report
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassUW ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Weather Report.n3"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/0f9997bd-e079-429e-8ccd-9378c9b0c746"^^xsd:anyURI ;
+  rdfs:label "Weather Report" ;
+.
+bibliographica:White_Stripes
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassUW ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/The_White_Stripes.n3"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/11ae9fbb-f3d7-4a47-936f-4c0a04d3b3b5"^^xsd:anyURI ;
+  rdfs:label "White Stripes" ;
+.
+bibliographica:Word
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassUW ;
+  rdfs:label "Word" ;
+.
+bibliographica:Yardbirds
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassXZ ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/The_Yardbirds.n3"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/191de76f-a224-445d-b041-54df16d65bf7"^^xsd:anyURI ;
+  rdfs:label "Yardbirds" ;
+.
+bibliographica:YoMiles
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassXZ ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/013cabd3-3949-47ef-be6b-2491a61902fb"^^xsd:anyURI ;
+  rdfs:label "Yo Miles!" ;
+.
+bibliographica:ZappaPlaysZappa
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassXZ ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Zappa_Plays_Zappa.n3"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/fcebdabe-319f-4690-8827-c8fac63b1b80"^^xsd:anyURI ;
+  rdfs:label "Zappa Plays Zappa" ;
+.
+bibliographica:_10000_Maniacs
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassNUM ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/10,000_Maniacs.n3"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/b9a06530-1241-4162-836f-7b8e79deaa58"^^xsd:anyURI ;
+  rdfs:label "10,000 Maniacs" ;
+.
+bibliographica:_4_Non_Blondes
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassEH ;
+  rdf:type bibliographica:AlphaClassNUM ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/4_Non_Blondes.n3"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/efef848b-63e4-4323-8ef7-69a48fbdd51d"^^xsd:anyURI ;
+  rdfs:label "4 Non Blondes" ;
+.
+bibliographica:_7_Year_Bitch
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassNUM ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/7_Year_Bitch.n3"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/91d06612-5c1e-4278-b40b-b6ce22dc9bb4"^^xsd:anyURI ;
+  rdfs:label "7 Year Bitch" ;
+.

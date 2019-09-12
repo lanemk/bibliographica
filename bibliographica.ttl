@@ -1,0 +1,264 @@
+# baseURI: http://www.connaissance.io/onto/biblio/bibliographica
+# imports: http://musicontology.com/specification/
+# imports: http://purl.org/dc/terms/
+# imports: http://topbraid.org/schema/
+
+@prefix : <http://www.connaissance.io/onto/biblio/bibliographica#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xhtm: <http://www.w3.org/1999/xhtml> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://www.connaissance.io/onto/biblio/bibliographica>
+  rdf:type owl:Ontology ;
+  dcterms:modified "2019-09-12" ;
+  rdfs:comment "Dedicated to Doug Stahnke; music, literature, life." ;
+  owl:imports <http://musicontology.com/specification/> ;
+  owl:imports dcterms: ;
+  owl:imports <http://topbraid.org/schema/> ;
+  owl:versionInfo "Developed by M Lane, Portland, Oregon" ;
+.
+:AlphaClass
+  rdf:type owl:Class ;
+  rdfs:label "Alphabetical Class" ;
+  rdfs:subClassOf schema:Intangible ;
+.
+:AlphaClassAD
+  rdf:type rdfs:Datatype ;
+  rdf:type owl:Class ;
+  rdfs:comment "Use for classifying creators by name as a group." ;
+  rdfs:label "Alphabetical Class A-D" ;
+  rdfs:subClassOf :AlphaClass ;
+  owl:disjointWith :AlphaClassEH ;
+  owl:disjointWith :AlphaClassMP ;
+  owl:disjointWith :AlphaClassQT ;
+  owl:disjointWith :AlphaClassUW ;
+  owl:disjointWith :AlphaClassXZ ;
+.
+:AlphaClassEH
+  rdf:type rdfs:Datatype ;
+  rdf:type owl:Class ;
+  rdfs:comment "Use for classifying creators by name as a group." ;
+  rdfs:label "Alphabetical Class E-H" ;
+  rdfs:subClassOf :AlphaClass ;
+  owl:disjointWith :AlphaClassAD ;
+  owl:disjointWith :AlphaClassMP ;
+  owl:disjointWith :AlphaClassQT ;
+  owl:disjointWith :AlphaClassUW ;
+  owl:disjointWith :AlphaClassXZ ;
+.
+:AlphaClassIL
+  rdf:type rdfs:Datatype ;
+  rdf:type owl:Class ;
+  rdfs:comment "Use for classifying creators by name as a group." ;
+  rdfs:label "Alphabetical Class I-L" ;
+  rdfs:subClassOf :AlphaClass ;
+  owl:disjointWith :AlphaClassAD ;
+  owl:disjointWith :AlphaClassEH ;
+  owl:disjointWith :AlphaClassMP ;
+  owl:disjointWith :AlphaClassQT ;
+  owl:disjointWith :AlphaClassUW ;
+  owl:disjointWith :AlphaClassXZ ;
+.
+:AlphaClassMP
+  rdf:type rdfs:Datatype ;
+  rdf:type owl:Class ;
+  rdfs:comment "Use for classifying creators by name as a group." ;
+  rdfs:label "Alphabetical Class M-P" ;
+  rdfs:subClassOf :AlphaClass ;
+  owl:disjointWith :AlphaClassAD ;
+  owl:disjointWith :AlphaClassEH ;
+  owl:disjointWith :AlphaClassQT ;
+  owl:disjointWith :AlphaClassUW ;
+  owl:disjointWith :AlphaClassXZ ;
+.
+:AlphaClassNUM
+  rdf:type rdfs:Datatype ;
+  rdf:type owl:Class ;
+  rdfs:comment "Use for classifying creators by name as a group, only the name begins with a number (i.e., 10,000 Maniacs or 4 Non Blondes)." ;
+  rdfs:label "Alphabetical Class Numeric" ;
+  rdfs:subClassOf :AlphaClass ;
+  owl:disjointWith :AlphaClassAD ;
+  owl:disjointWith :AlphaClassEH ;
+  owl:disjointWith :AlphaClassMP ;
+  owl:disjointWith :AlphaClassQT ;
+  owl:disjointWith :AlphaClassUW ;
+  owl:disjointWith :AlphaClassXZ ;
+.
+:AlphaClassQT
+  rdf:type rdfs:Datatype ;
+  rdf:type owl:Class ;
+  rdfs:comment "Use for classifying creators by name as a group." ;
+  rdfs:label "Alphabetical Class Q-T" ;
+  rdfs:subClassOf :AlphaClass ;
+  owl:disjointWith :AlphaClassAD ;
+  owl:disjointWith :AlphaClassEH ;
+  owl:disjointWith :AlphaClassMP ;
+  owl:disjointWith :AlphaClassUW ;
+  owl:disjointWith :AlphaClassXZ ;
+.
+:AlphaClassUW
+  rdf:type rdfs:Datatype ;
+  rdf:type owl:Class ;
+  rdfs:comment "Use for classifying creators by name as a group." ;
+  rdfs:label "Alphabetical Class U-W" ;
+  rdfs:subClassOf :AlphaClass ;
+  owl:disjointWith :AlphaClassAD ;
+  owl:disjointWith :AlphaClassEH ;
+  owl:disjointWith :AlphaClassMP ;
+  owl:disjointWith :AlphaClassQT ;
+  owl:disjointWith :AlphaClassXZ ;
+.
+:AlphaClassXZ
+  rdf:type rdfs:Datatype ;
+  rdf:type owl:Class ;
+  rdfs:comment "Use for classifying creators by name as a group." ;
+  rdfs:label "Alphabetical Class X-Z" ;
+  rdfs:subClassOf :AlphaClass ;
+  owl:disjointWith :AlphaClassAD ;
+  owl:disjointWith :AlphaClassEH ;
+  owl:disjointWith :AlphaClassMP ;
+  owl:disjointWith :AlphaClassQT ;
+  owl:disjointWith :AlphaClassUW ;
+.
+:LiveMusicRec
+  rdf:type owl:Class ;
+  rdfs:comment "A collection of music tracks." ;
+  rdfs:label "Live Bootleg" ;
+  rdfs:subClassOf schema:MusicAlbum ;
+.
+:PerformanceQualityRating
+  rdf:type owl:Class ;
+  rdfs:comment "Evaluation of performance; 1 to 5 stars, 1 being lowest, 5 the highest." ;
+  rdfs:label "Performance Quality Rating" ;
+  rdfs:subClassOf schema:Rating ;
+.
+:RecordingType
+  rdf:type owl:Class ;
+  rdfs:label "Recording type" ;
+  rdfs:subClassOf mo:ReleaseType ;
+.
+:SoundQualityRating
+  rdf:type owl:Class ;
+  rdfs:comment "Evaluation of sound quality (listening); 1 to 5 stars, 1 being lowest, 5 the highest." ;
+  rdfs:label "Sound Quality Rating" ;
+  rdfs:subClassOf schema:Rating ;
+.
+:audience
+  rdf:type :RecordingType ;
+  rdfs:label "Audience recording" ;
+.
+:binNumber
+  rdf:type owl:DatatypeProperty ;
+  rdfs:comment "This property refers to the bin container where the item is stored." ;
+  rdfs:range xsd:integer ;
+.
+:byArtist
+  rdf:type owl:ObjectProperty ;
+  rdfs:comment "Extended schema:byArtist property to enable LiveMusicRecording domain." ;
+  rdfs:comment "The artist that performed this album or recording." ;
+  rdfs:domain [
+      rdf:type owl:Class ;
+      owl:unionOf (
+          schema:MusicAlbum
+          schema:MusicRecording
+        ) ;
+    ] ;
+  rdfs:label "by artist" ;
+  rdfs:range [
+      rdf:type owl:Class ;
+      owl:unionOf (
+          schema:MusicGroup
+          mo:SoloMusicArtist
+        ) ;
+    ] ;
+  rdfs:subPropertyOf <http://purl.org/dc/elements/1.1/creator> ;
+.
+:dbpediaURI
+  rdf:type owl:DatatypeProperty ;
+  rdfs:comment "This resource captures, or encodes a link to DBpedia entities. It is presented as N3/Turtle format URI (content-negotiable)." ;
+  rdfs:range xsd:anyURI ;
+.
+:digital_satellite
+  rdf:type :RecordingType ;
+  rdfs:comment "A recording derived from digital satellite broadcast." ;
+  rdfs:label "Digital satellite recording" ;
+.
+:fm
+  rdf:type :RecordingType ;
+  rdfs:comment "A recording derived from FM radio broadcast." ;
+  rdfs:label "FM recording" ;
+.
+:infoFileURL
+  rdf:type owl:DatatypeProperty ;
+  rdfs:comment "URL where an info file can be accessed for a Live Music Release." ;
+  rdfs:domain [
+      rdf:type owl:Class ;
+      owl:unionOf (
+          :LiveMusicRec
+          schema:MusicRelease
+        ) ;
+    ] ;
+  rdfs:label "install url" ;
+  rdfs:range xsd:anyURI ;
+.
+:locationVenue
+  rdf:type owl:AnnotationProperty ;
+  rdfs:comment "The location of a music venue, theater, ampitheater, etc., though may revert to the city of the event if the venue is not specified. If neither is known, the labe should specify \"unknown.\"" ;
+  rdfs:label "location" ;
+  rdfs:range xsd:string ;
+.
+:musicbrainzURI
+  rdf:type owl:DatatypeProperty ;
+  rdfs:comment "This resource captures, or encodes a link to MusicBrainz entities; can't determine if Collection Ontology possesses such a property, except that mo:musicbrainz won't accept a URI. In principle, this URI links a given entity in Bibliographica to the MusicBrainz graph. It is presented in N3/Turtle format (content-negotiable)." ;
+  rdfs:range xsd:anyURI ;
+.
+:numberOfitems
+  rdf:type owl:DatatypeProperty ;
+  rdfs:comment "This property refers to the number of item copies are in the collection.." ;
+  rdfs:range xsd:integer ;
+.
+:performanceRating
+  rdf:type owl:DatatypeProperty ;
+  rdfs:comment "The rating for the quality of the performance." ;
+  rdfs:domain :PerformanceQualityRating ;
+  rdfs:label "rating value" ;
+  rdfs:range xsd:integer ;
+.
+:soundQualityValue
+  rdf:type owl:DatatypeProperty ;
+  rdfs:comment "The rating for the sound quality of the content." ;
+  rdfs:domain :SoundQualityRating ;
+  rdfs:label "Sound quality rating value." ;
+  rdfs:range xsd:int ;
+.
+:soundboard
+  rdf:type :RecordingType ;
+  rdfs:label "Soundboard recording" ;
+.
+:soundtrack
+  rdf:type :RecordingType ;
+  rdfs:comment "Typically derived from a video recording sound track." ;
+  rdfs:label "Soundtrack recording" ;
+.
+:studio
+  rdf:type :RecordingType ;
+  rdfs:comment "Typically derived from a studio recording, but not necessarily a commercial release." ;
+  rdfs:label "Studio recording" ;
+.
+:viafURI
+  rdf:type owl:DatatypeProperty ;
+  rdfs:comment "This resource captures, or encodes a link to Library of Congress entities. It is presented as RDF file format URI (content-negotiable)." ;
+  rdfs:range xsd:anyURI ;
+.
+:worldcatURI
+  rdf:type owl:DatatypeProperty ;
+  rdfs:comment "This resource captures, or encodes a link to Worldcat entities. It is presented as N3/Turtle format URI (content-negotiable)." ;
+  rdfs:range xsd:anyURI ;
+.
