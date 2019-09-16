@@ -11,6 +11,7 @@
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix schema: <http://schema.org/> .
+@prefix schemax: <http://topbraid.org/schemax/> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xhtm: <http://www.w3.org/1999/xhtml> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
@@ -126,6 +127,11 @@
   owl:disjointWith :AlphaClassMP ;
   owl:disjointWith :AlphaClassQT ;
   owl:disjointWith :AlphaClassUW ;
+.
+:Author
+  rdf:type owl:Class ;
+  rdfs:label "Author" ;
+  rdfs:subClassOf schema:Person ;
 .
 :LiveMusicRec
   rdf:type owl:Class ;
