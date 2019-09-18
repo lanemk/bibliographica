@@ -1,0 +1,12 @@
+## Count all the authors (to date).
+ 
+PREFIX dct: <http://purl.org/dc/terms/>
+PREFIX bibliographica: <http://www.connaissance.io/onto/biblio/bibliographica>
+
+SELECT (COUNT(?author) AS ?authors_count)
+
+FROM <http://www.connaissance.io/onto/biblio/authors.ttl>
+
+WHERE
+{ ?author a bibliographica:Author .
+}

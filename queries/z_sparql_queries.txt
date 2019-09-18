@@ -1,5 +1,0 @@
-
-
-SELECT ?musicalbum
-WHERE { ?musicalbum dc:creator "<http://www.essenceofknowledge.com/onto/SoloMusicArtist#Adrian_Belew>"
-}
