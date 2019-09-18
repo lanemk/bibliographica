@@ -123,6 +123,13 @@ bibliographica:Alifair_Burke
   bibliographica:viafURI "http://viaf.org/viaf/85530906/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Alifair Burke" ;
 .
+bibliographica:Ana_Castillo
+  rdf:type bibliographica:Author ;
+  schema:name "Ana Castillo" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Ana_Castillo.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/90599366/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Ana Castillo" ;
+.
 bibliographica:Andre_Dubus
   rdf:type bibliographica:Author ;
   schema:name "Andre Dubus" ;

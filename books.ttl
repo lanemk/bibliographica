@@ -363,6 +363,17 @@ bibliographica:Bad_Luck_and_Trouble
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1054386655.ttl"^^xsd:anyURI ;
   rdfs:label "Bad Luck and Trouble" ;
 .
+bibliographica:Bad_Luck_and_Trouble_1
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Lee_Child ;
+  dcterms:title "Bad Luck and Trouble" ;
+  schema:author bibliographica:Lee_Child ;
+  schema:isbn "9780440246015" ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1054386655.ttl"^^xsd:anyURI ;
+  rdfs:label "Bad Luck and Trouble" ;
+.
 bibliographica:Baileys_Café
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Gloria_Naylor ;
@@ -417,7 +428,10 @@ bibliographica:Been_in_Sorrows_Kitchen
   dcterms:creator bibliographica:Susan_Straight ;
   dcterms:title "I Been in Sorrow's Kitchen and Licked Out All the Pots" ;
   schema:author bibliographica:Susan_Straight ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/25368813.ttl"^^xsd:anyURI ;
+  schema:isbn "0385470126" ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/27266495.ttl"^^xsd:anyURI ;
   rdfs:label "I Been in Sorrow's Kitchen and Licked Out All the Pots" ;
 .
 bibliographica:Being_nobody_going_nowhere
@@ -962,8 +976,21 @@ bibliographica:Demon_Box
   dcterms:creator bibliographica:Ken_Kesey ;
   dcterms:title "Demon Box" ;
   schema:author bibliographica:Ken_Kesey ;
+  schema:isbn "0140085300" ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/13010828.ttl"^^xsd:anyURI ;
   rdfs:label "Demon Box" ;
+.
+bibliographica:Desolation_Angels
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Jack_Kerouac ;
+  dcterms:title "The Island Within" ;
+  schema:author bibliographica:Jack_Kerouac ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/476109877.ttl"^^xsd:anyURI ;
+  rdfs:label "The Island Within" ;
 .
 bibliographica:Detective_Inspector_Huss
   rdf:type schema:Book ;
@@ -1021,6 +1048,17 @@ bibliographica:Dont_think_twice
   schema:author bibliographica:Wayne_Johnson ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/40979986.ttl"^^xsd:anyURI ;
   rdfs:label "Don't think twice : a novel" ;
+.
+bibliographica:Down_the_River
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Edward_Abbey ;
+  dcterms:title "Down the River" ;
+  schema:author bibliographica:Edward_Abbey ;
+  schema:isbn "0525476768" ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/437270249.ttl"^^xsd:anyURI ;
+  rdfs:label "Down the River" ;
 .
 bibliographica:Early_Work
   rdf:type schema:Book ;
@@ -1259,6 +1297,16 @@ bibliographica:Galleys_of_Nantucket
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/237192361.ttl"^^xsd:anyURI ;
   rdfs:label "From the Galleys of Nantucket" ;
 .
+bibliographica:Game_of_Kings
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Dorothy_Dunnett ;
+  dcterms:title "The Game of Kings" ;
+  schema:author bibliographica:Dorothy_Dunnett ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/807550.ttl"^^xsd:anyURI ;
+  rdfs:label "The Game of Kings" ;
+.
 bibliographica:Get_Home_Free
   rdf:type schema:Book ;
   dcterms:creator bibliographica:John_Clellon_Holmes ;
@@ -1277,6 +1325,17 @@ bibliographica:Going_after_Cacciato
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/471548545.ttl"^^xsd:anyURI ;
   rdfs:label "Going After Cacciato : a novel" ;
+.
+bibliographica:Gold_Bug_Variations
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Richard_Powers ;
+  dcterms:title "The Gold Bug Variations" ;
+  schema:author bibliographica:Richard_Powers ;
+  schema:isbn "0060975008" ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/844016021.ttl"^^xsd:anyURI ;
+  rdfs:label "The Gold Bug Variations" ;
 .
 bibliographica:Gone_Tomorrow
   rdf:type schema:Book ;
@@ -1539,7 +1598,10 @@ bibliographica:How_Late_It_Was
   dcterms:creator bibliographica:James_Kelman ;
   dcterms:title "How Late It Was, How Late" ;
   schema:author bibliographica:James_Kelman ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/31745142.ttl"^^xsd:anyURI ;
+  schema:isbn "0385315600" ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/924500254.ttl"^^xsd:anyURI ;
   rdfs:label "How Late It Was, How Late" ;
 .
 bibliographica:Hullabaloo_Guava_Orchard
@@ -1632,7 +1694,10 @@ bibliographica:In_the_Time_of_the_Butterflies
   dcterms:creator bibliographica:Julia_Alvarez ;
   dcterms:title "In the Time of the Butterflies" ;
   schema:author bibliographica:Julia_Alvarez ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/30319222.ttl"^^xsd:anyURI ;
+  schema:isbn "0452274427" ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/422748699.ttl"^^xsd:anyURI ;
   rdfs:label "In the Time of the Butterflies" ;
 .
 bibliographica:In_the_country_of_the_great_king
@@ -1854,7 +1919,10 @@ bibliographica:Linden_Hills
   dcterms:creator bibliographica:Gloria_Naylor ;
   dcterms:title "Linden Hills" ;
   schema:author bibliographica:Gloria_Naylor ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/11158812.ttl"^^xsd:anyURI ;
+  schema:isbn "0140088296" ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/476327782.ttl"^^xsd:anyURI ;
   rdfs:label "Linden Hills" ;
 .
 bibliographica:Looking_for_a_Ship
@@ -1950,7 +2018,10 @@ bibliographica:Mile_Zero
   dcterms:creator bibliographica:Thomas_Sanchez ;
   dcterms:title "Mile Zero" ;
   schema:author bibliographica:Thomas_Sanchez ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/19266792.ttl"^^xsd:anyURI ;
+  schema:isbn "0679732608" ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/492364070.ttl"^^xsd:anyURI ;
   rdfs:label "Mile Zero" ;
 .
 bibliographica:Miles_the_autobiography
@@ -2409,6 +2480,17 @@ bibliographica:Relix_16_6
   bibliographica:numberOfitems 1 ;
   rdfs:label "Relix Vol. 16 No. 6" ;
 .
+bibliographica:Remains_of_the_Day
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Kazuo_Ishiguro ;
+  dcterms:title "The Remains of the Day" ;
+  schema:author bibliographica:Kazuo_Ishiguro ;
+  schema:isbn "0679731725" ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/20167919.ttl"^^xsd:anyURI ;
+  rdfs:label "The Remains of the Day" ;
+.
 bibliographica:Remembering_Power_of_Words
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Patricia_Schechter ;
@@ -2616,6 +2698,8 @@ bibliographica:Selected_Journals_of_Thoreau
   dcterms:creator bibliographica:Carl_Bode ;
   dcterms:title "Selected Journals of Henry David Thoreau" ;
   schema:author bibliographica:Carl_Bode ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1404769.ttl"^^xsd:anyURI ;
   rdfs:label "Selected Journals of Henry David Thoreau" ;
 .
@@ -2770,8 +2854,22 @@ bibliographica:Snow_Falling_on_Cedars
   dcterms:creator bibliographica:David_Guterson ;
   dcterms:title "Snow Falling on Cedars" ;
   schema:author bibliographica:David_Guterson ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/32167372.ttl"^^xsd:anyURI ;
+  schema:isbn "067976402X" ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/761987250.ttl"^^xsd:anyURI ;
   rdfs:label "Snow Falling on Cedars" ;
+.
+bibliographica:So_Far_From_God
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Ana_Castillo ;
+  dcterms:title "So Far From God" ;
+  schema:author bibliographica:Ana_Castillo ;
+  schema:isbn "0452272092" ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/29470626.ttl"^^xsd:anyURI ;
+  rdfs:label "So Far From God" ;
 .
 bibliographica:Sole_Survivor
   rdf:type schema:Book ;
@@ -3076,6 +3174,9 @@ bibliographica:The_Control_of_Nature
   dcterms:creator bibliographica:John_McPhee ;
   dcterms:title "The Control of Nature" ;
   schema:author bibliographica:John_McPhee ;
+  schema:isbn "0374128901" ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/19264143.ttl"^^xsd:anyURI ;
   rdfs:label "The Control of Nature" ;
 .
@@ -3188,14 +3289,6 @@ bibliographica:The_Funnies
   schema:author bibliographica:J_Robert_Lennon ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/39765311.ttl"^^xsd:anyURI ;
   rdfs:label "The Funnies" ;
-.
-bibliographica:The_Game_of_Kings
-  rdf:type schema:Book ;
-  dcterms:creator bibliographica:Dorothy_Dunnett ;
-  dcterms:title "The Game of Kings" ;
-  schema:author bibliographica:Dorothy_Dunnett ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/807550.ttl"^^xsd:anyURI ;
-  rdfs:label "The Game of Kings" ;
 .
 bibliographica:The_God_of_Small_Things
   rdf:type schema:Book ;
@@ -3331,7 +3424,10 @@ bibliographica:The_Island_Within
   dcterms:creator bibliographica:Richard_Nelson ;
   dcterms:title "The Island Within" ;
   schema:author bibliographica:Richard_Nelson ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/20056282.ttl"^^xsd:anyURI ;
+  schema:isbn "067973239X" ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/59909446.ttl"^^xsd:anyURI ;
   rdfs:label "The Island Within" ;
 .
 bibliographica:The_Journal_of_Albion_Moonlight
@@ -3497,14 +3593,6 @@ bibliographica:The_Race
   schema:author bibliographica:Clive_Cussler ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/706017163.ttl"^^xsd:anyURI ;
   rdfs:label "The Race" ;
-.
-bibliographica:The_Remains_of_the_Day
-  rdf:type schema:Book ;
-  dcterms:creator bibliographica:Kazuo_Ishiguro ;
-  dcterms:title "The Remains of the Day" ;
-  schema:author bibliographica:Kazuo_Ishiguro ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/20167919.ttl"^^xsd:anyURI ;
-  rdfs:label "The Remains of the Day" ;
 .
 bibliographica:The_Road_Home
   rdf:type schema:Book ;
@@ -3757,14 +3845,6 @@ bibliographica:The_girl_who_played_with_fire
   schema:author bibliographica:Stieg_Larsson ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/262433336.ttl"^^xsd:anyURI ;
   rdfs:label "The Girl Who Played with Fire" ;
-.
-bibliographica:The_gold_Bug_Variations
-  rdf:type schema:Book ;
-  dcterms:creator bibliographica:Richard_Powers ;
-  dcterms:title "The gold Bug Variations" ;
-  schema:author bibliographica:Richard_Powers ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/22665566.ttl"^^xsd:anyURI ;
-  rdfs:label "The gold Bug Variations" ;
 .
 bibliographica:The_good_house
   rdf:type schema:Book ;
@@ -4201,6 +4281,9 @@ bibliographica:Visions_of_Cody
   dcterms:creator bibliographica:Jack_Kerouac ;
   dcterms:title "Visions of Cody" ;
   schema:author bibliographica:Jack_Kerouac ;
+  schema:isbn "0070342016" ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/577961.ttl"^^xsd:anyURI ;
   rdfs:label "Visions of Cody" ;
 .
