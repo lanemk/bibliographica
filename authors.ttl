@@ -1413,6 +1413,13 @@ bibliographica:Kenneth_Patchen
   bibliographica:viafURI "http://viaf.org/viaf/9851596/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Kenneth Patchen" ;
 .
+bibliographica:Kent_Anderson
+  rdf:type bibliographica:Author ;
+  schema:name "Kent Anderson" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Kent_Anderson_(novelist).ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/116848968/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Kent Anderson" ;
+.
 bibliographica:Keri_Hulme
   rdf:type bibliographica:Author ;
   schema:name "Keri Hulme" ;

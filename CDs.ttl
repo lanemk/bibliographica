@@ -107,13 +107,21 @@ bibliographica:Attainable_Love
   rdfs:label "Attainable Love" ;
   skos:prefLabel "Attainable Love" ;
 .
-bibliographica:Ayé
+bibliographica:Aye
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Angélique_Kidjo ;
   bibliographica:byArtist bibliographica:Angélique_Kidjo ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/85dd67a5-2c3d-41bf-8f50-734ec1601eb7"^^xsd:anyURI ;
   rdfs:label "Ayé" ;
   skos:prefLabel "Ayé" ;
+.
+bibliographica:Bachelor_No_2
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator bibliographica:Aimee_Mann ;
+  bibliographica:byArtist bibliographica:Aimee_Mann ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/595565db-6bfd-4772-a865-fa91d0259f53"^^xsd:anyURI ;
+  rdfs:label "Bachelor No. 2" ;
+  skos:prefLabel "Bachelor No. 2" ;
 .
 bibliographica:Backbone
   rdf:type schema:MusicAlbum ;
@@ -1110,12 +1118,4 @@ bibliographica:_3_Years_5_Months
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/ede793b4-4976-3b7a-ba3b-fde6801de64c"^^xsd:anyURI ;
   rdfs:label "3 Years, 5 Months & 2 Days in the Life of…" ;
   skos:prefLabel "3 Years, 5 Months & 2 Days in the Life of…" ;
-.
-<http://www.essenceofknowledge.com/onto/biblio/bibliographica#Bachelor_No._2>
-  rdf:type schema:MusicAlbum ;
-  dcterms:creator bibliographica:Aimee_Mann ;
-  bibliographica:byArtist bibliographica:Aimee_Mann ;
-  bibliographica:musicbrainzURI "https://musicbrainz.org/release/595565db-6bfd-4772-a865-fa91d0259f53"^^xsd:anyURI ;
-  rdfs:label "Bachelor No. 2" ;
-  skos:prefLabel "Bachelor No. 2" ;
 .

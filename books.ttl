@@ -85,6 +85,9 @@ bibliographica:A_Wrinkle_in_Time
   dcterms:creator bibliographica:Madeleine_Lengle ;
   dcterms:title "A Wrinkle in Time" ;
   schema:author bibliographica:Madeleine_Lengle ;
+  schema:isbn "0440498058" ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/22421788.ttl"^^xsd:anyURI ;
   rdfs:label "A Wrinkle in Time" ;
 .
@@ -162,6 +165,9 @@ bibliographica:American_Primitive
   dcterms:creator bibliographica:Mary_Oliver ;
   dcterms:title "American Primitive : poems" ;
   schema:author bibliographica:Mary_Oliver ;
+  schema:isbn "0316650048" ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/8930963.ttl"^^xsd:anyURI ;
   rdfs:label "American Primitive : poems" ;
 .
@@ -178,7 +184,10 @@ bibliographica:An_Aroma_of_Coffee
   dcterms:creator bibliographica:Dany_Laferriere ;
   dcterms:title "An Aroma of Coffee" ;
   schema:author bibliographica:Dany_Laferriere ;
-  bibliographica:worldcatURI "http://viaf.org/viaf/87061403/rdf.xml"^^xsd:anyURI ;
+  schema:isbn "0889104395" ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1101029452.ttl"^^xsd:anyURI ;
   rdfs:label "An Aroma of Coffee" ;
 .
 bibliographica:Animalia
@@ -534,6 +543,9 @@ bibliographica:Book_of_Dreams
   dcterms:creator bibliographica:Jack_Kerouac ;
   dcterms:title "Book of Dreams" ;
   schema:author bibliographica:Jack_Kerouac ;
+  schema:isbn "0872860272" ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/928156792.ttl"^^xsd:anyURI ;
   rdfs:label "Book of Dreams" ;
 .
@@ -1713,7 +1725,10 @@ bibliographica:Ireland_selected_stories
   dcterms:creator bibliographica:William_Trevor ;
   dcterms:title "Ireland : selected stories" ;
   schema:author bibliographica:William_Trevor ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/27937706.ttl"^^xsd:anyURI ;
+  schema:isbn "0140277595" ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/607404449.ttl"^^xsd:anyURI ;
   rdfs:label "Ireland : selected stories" ;
 .
 bibliographica:Irons_in_the_Fire
@@ -2158,7 +2173,10 @@ bibliographica:Notes_of_a_Dirty_Old_Man
   dcterms:creator bibliographica:Charles_Bukowski ;
   dcterms:title "Notes of a Dirty Old Man" ;
   schema:author bibliographica:Charles_Bukowski ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/523720013.ttl"^^xsd:anyURI ;
+  schema:isbn "0872860744" ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/781238383.ttl"^^xsd:anyURI ;
   rdfs:label "Notes of a Dirty Old Man" ;
 .
 bibliographica:Nouveau_Flamenco
@@ -2223,6 +2241,9 @@ bibliographica:On_the_Road
   dcterms:creator bibliographica:Jack_Kerouac ;
   dcterms:title "On the Road" ;
   schema:author bibliographica:Jack_Kerouac ;
+  schema:isbn "0670874787" ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/36597852.ttl"^^xsd:anyURI ;
   rdfs:label "On the Road" ;
 .
@@ -2996,12 +3017,26 @@ bibliographica:Sweet_Chaos_Grateful_Dead
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/42413619.ttl"^^xsd:anyURI ;
   rdfs:label "Sweet chaos : the Grateful Dead's American adventure" ;
 .
+bibliographica:Sympathy_for_the_Devil
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Kent_Anderson ;
+  dcterms:title "Sympathy for the Devil" ;
+  schema:author bibliographica:Kent_Anderson ;
+  schema:isbn "0553580876" ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1013834944.ttl"^^xsd:anyURI ;
+  rdfs:label "Sympathy for the Devil" ;
+.
 bibliographica:Tales_of_Ordinary_Madness
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Charles_Bukowski ;
   dcterms:title "Tales of Ordinary Madness" ;
   schema:author bibliographica:Charles_Bukowski ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/10071521.ttl"^^xsd:anyURI ;
+  schema:isbn "0872861554" ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/800837351.ttl"^^xsd:anyURI ;
   rdfs:label "Tales of Ordinary Madness" ;
 .
 bibliographica:Tales_of_the_Night
@@ -3668,14 +3703,6 @@ bibliographica:The_Tidewater_tales
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/14691557.ttl"^^xsd:anyURI ;
   rdfs:label "The Tidewater tales : a novel" ;
 .
-bibliographica:The_Tortilla_Curtain
-  rdf:type schema:Book ;
-  dcterms:creator bibliographica:T_Coraghessan_Boyle ;
-  dcterms:title "The Tortilla Curtain" ;
-  schema:author bibliographica:T_Coraghessan_Boyle ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/31900353.ttl"^^xsd:anyURI ;
-  rdfs:label "The Tortilla Curtain" ;
-.
 bibliographica:The_Turquoise_Dragon
   rdf:type schema:Book ;
   dcterms:creator bibliographica:David_Rains_Wallace ;
@@ -3964,7 +3991,10 @@ bibliographica:The_things_they_carried
   dcterms:creator bibliographica:Tim_OBrien ;
   dcterms:title "The Things They Carried : a work of fiction" ;
   schema:author bibliographica:Tim_OBrien ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/909417338.ttl"^^xsd:anyURI ;
+  schema:isbn "014014773X" ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/449714032.ttl"^^xsd:anyURI ;
   rdfs:label "The Things They Carried : a work of fiction" ;
 .
 bibliographica:The_three_pillars_of_Zen
@@ -4070,6 +4100,17 @@ bibliographica:Too_Many_Tears
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/46867512.ttl"^^xsd:anyURI ;
   rdfs:label "Too Many Tears" ;
 .
+bibliographica:Tortilla_Curtain
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:T_Coraghessan_Boyle ;
+  dcterms:title "The Tortilla Curtain" ;
+  schema:author bibliographica:T_Coraghessan_Boyle ;
+  schema:isbn "014023828X" ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/466335054.ttl"^^xsd:anyURI ;
+  rdfs:label "The Tortilla Curtain" ;
+.
 bibliographica:Toward_awakening
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Jean_Vaysse ;
@@ -4128,7 +4169,10 @@ bibliographica:Trinity_Fields
   dcterms:creator bibliographica:Bradford_Morrow ;
   dcterms:title "Trinity Fields" ;
   schema:author bibliographica:Bradford_Morrow ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/30546738.ttl"^^xsd:anyURI ;
+  schema:isbn "0140240136" ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/34682426.ttl"^^xsd:anyURI ;
   rdfs:label "Trinity Fields" ;
 .
 bibliographica:Tripmaster_Monkey
