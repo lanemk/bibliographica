@@ -149,6 +149,9 @@ bibliographica:All_Souls_Day
   dcterms:creator bibliographica:Bill_Morris ;
   dcterms:title "All Souls' Day : a novel" ;
   schema:author bibliographica:Bill_Morris ;
+  schema:isbn "0380791161" ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/35784600.ttl"^^xsd:anyURI ;
   rdfs:label "All Souls' Day : a novel" ;
 .
@@ -331,6 +334,9 @@ bibliographica:Babel
   dcterms:creator bibliographica:Patti_Smith ;
   dcterms:title "Babel" ;
   schema:author bibliographica:Patti_Smith ;
+  schema:isbn "399121021" ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/3380074.ttl"^^xsd:anyURI ;
   rdfs:label "Babel" ;
 .
@@ -448,6 +454,9 @@ bibliographica:Being_nobody_going_nowhere
   dcterms:creator bibliographica:Ayya_Khema ;
   dcterms:title "Being Nobody, Going Nowhere" ;
   schema:author bibliographica:Ayya_Khema ;
+  schema:isbn "0861710525" ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/16079137.ttl"^^xsd:anyURI ;
   rdfs:label "Being Nobody, Going Nowhere" ;
 .
@@ -480,6 +489,17 @@ bibliographica:Big_Stone_Gap
   schema:author bibliographica:Adriana_Trigiani ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/42072234.ttl"^^xsd:anyURI ;
   rdfs:label "Big Stone Gap : a novel" ;
+.
+bibliographica:Bite_Me
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Christopher_Moore ;
+  dcterms:title "Bite Me" ;
+  schema:author bibliographica:Christopher_Moore ;
+  schema:isbn "9780061779732" ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1107992371.ttl"^^xsd:anyURI ;
+  rdfs:label "Bite Me" ;
 .
 bibliographica:Bitter_Grounds
   rdf:type schema:Book ;
@@ -521,6 +541,17 @@ bibliographica:Blues_Fakebook
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/40979987.ttl"^^xsd:anyURI ;
   rdfs:label "The Blues Fakebook" ;
+.
+bibliographica:Bluesman
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Andre_Dubus ;
+  dcterms:title "Bluesman" ;
+  schema:author bibliographica:Andre_Dubus ;
+  schema:isbn "0571198414" ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/316142483.ttl"^^xsd:anyURI ;
+  rdfs:label "Bluesman" ;
 .
 bibliographica:Bone_carving
   rdf:type schema:Book ;
@@ -577,6 +608,17 @@ bibliographica:Botany
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1030409675.ttl"^^xsd:anyURI ;
   rdfs:label "Botany" ;
+.
+bibliographica:Boy_Meets_Girl
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Meg_Cabot ;
+  dcterms:title "Boy Meets Girl" ;
+  schema:author bibliographica:Meg_Cabot ;
+  schema:isbn "0060096195" ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/871012100.ttl"^^xsd:anyURI ;
+  rdfs:label "Boy Meets Girl" ;
 .
 bibliographica:Break_In
   rdf:type schema:Book ;
@@ -853,6 +895,9 @@ bibliographica:Cordelia_Underwood
   dcterms:creator bibliographica:Van_Reid ;
   dcterms:title "Cordelia Underwood" ;
   schema:author bibliographica:Van_Reid ;
+  schema:isbn "0140280103" ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/38324648.ttl"^^xsd:anyURI ;
   rdfs:label "Cordelia Underwood" ;
 .
@@ -861,6 +906,9 @@ bibliographica:Coyote_Silk
   dcterms:creator bibliographica:Gino_Sky ;
   dcterms:title "Coyote Silk" ;
   schema:author bibliographica:Gino_Sky ;
+  schema:isbn "093819092X" ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/16523093.ttl"^^xsd:anyURI ;
   rdfs:label "Coyote Silk" ;
 .
@@ -1327,6 +1375,16 @@ bibliographica:Get_Home_Free
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/16831964.ttl"^^xsd:anyURI ;
   rdfs:label "Get Home Free" ;
 .
+bibliographica:Get_Outta_Town
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Ted_Ringer ;
+  dcterms:title "Get Outta Town : a Tale of the Grateful Dead, the IRS, and Coffee" ;
+  schema:author bibliographica:Ted_Ringer ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1033660650.ttl"^^xsd:anyURI ;
+  rdfs:label "Get Outta Town : a Tale of the Grateful Dead, the IRS, and Coffee" ;
+.
 bibliographica:Going_after_Cacciato
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Tim_OBrien ;
@@ -1523,6 +1581,9 @@ bibliographica:Harry_Potter_Chamber_of_Secrets
   dcterms:creator bibliographica:JK_Rowling ;
   dcterms:title "Harry Potter and the Chamber of Secrets" ;
   schema:author bibliographica:JK_Rowling ;
+  schema:isbn "0439064872" ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/40043650.ttl"^^xsd:anyURI ;
   rdfs:label "Harry Potter and the Chamber of Secrets" ;
 .
@@ -1536,6 +1597,17 @@ bibliographica:Harry_Potter_Order_of_the_Phoenix
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/51532204.ttl"^^xsd:anyURI ;
   rdfs:label "Harry Potter and the Order of the Phoenix" ;
+.
+bibliographica:Heat_Islands
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Randy_Wayne_White ;
+  dcterms:title "The Heat Islands" ;
+  schema:author bibliographica:Randy_Wayne_White ;
+  schema:isbn "0312929773" ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/24698726.ttl"^^xsd:anyURI ;
+  rdfs:label "The Heat Islands" ;
 .
 bibliographica:Hemingways_Chair
   rdf:type schema:Book ;
@@ -1566,6 +1638,17 @@ bibliographica:Higher_Taste
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/488275616.ttl"^^xsd:anyURI ;
   rdfs:label "The Higher Taste" ;
+.
+bibliographica:Holy_Fools
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Joanne_Harris ;
+  dcterms:title "Holy Fools" ;
+  schema:author bibliographica:Joanne_Harris ;
+  schema:isbn "0060559136" ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/60423948.ttl"^^xsd:anyURI ;
+  rdfs:label "Holy Fools" ;
 .
 bibliographica:Horn_of_the_Moon_Cookbook
   rdf:type schema:Book ;
@@ -1690,7 +1773,10 @@ bibliographica:Illywhacker
   dcterms:creator bibliographica:Peter_Carey ;
   dcterms:title "Illywhacker" ;
   schema:author bibliographica:Peter_Carey ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/12083192.ttl"^^xsd:anyURI ;
+  schema:isbn "0679767908" ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/904948711.ttl"^^xsd:anyURI ;
   rdfs:label "Illywhacker" ;
 .
 bibliographica:In_the_Lake_of_the_Woods
@@ -1776,7 +1862,10 @@ bibliographica:Jacks_Book
   dcterms:title "Jack's Book : an Oral Biography of Jack Kerouac" ;
   schema:author bibliographica:Barry_Gifford ;
   schema:author bibliographica:Lawrence_Lee ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/3934970.ttl"^^xsd:anyURI ;
+  schema:isbn "0140052690" ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/5101937.ttl"^^xsd:anyURI ;
   rdfs:label "Jack's Book : an Oral Biography of Jack Kerouac" ;
 .
 bibliographica:Jazz
@@ -1784,7 +1873,10 @@ bibliographica:Jazz
   dcterms:creator bibliographica:Toni_Morrison ;
   dcterms:title "Jazz" ;
   schema:author bibliographica:Toni_Morrison ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/25048293.ttl"^^xsd:anyURI ;
+  schema:isbn "0452269652" ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/779380485.ttl"^^xsd:anyURI ;
   rdfs:label "Jazz" ;
 .
 bibliographica:Jazz_Styles_of_John_Klemmer
@@ -1939,6 +2031,17 @@ bibliographica:Linden_Hills
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/476327782.ttl"^^xsd:anyURI ;
   rdfs:label "Linden Hills" ;
+.
+bibliographica:Little_Miss_Strange
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Joanna_Rose ;
+  dcterms:title "Little Miss Strange" ;
+  schema:author bibliographica:Joanna_Rose ;
+  schema:isbn "0684847418" ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/38326153.ttl"^^xsd:anyURI ;
+  rdfs:label "Little Miss Strange" ;
 .
 bibliographica:Looking_for_a_Ship
   rdf:type schema:Book ;
@@ -2359,6 +2462,17 @@ bibliographica:Playing_in_the_band
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/12198235.ttl"^^xsd:anyURI ;
   rdfs:label "Playing in the band : an oral and visual portrait of the Grateful Dead" ;
+.
+bibliographica:Portable_Graham_Greene
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:P_Statford ;
+  dcterms:title "The Portable Graham Greene" ;
+  schema:author bibliographica:P_Statford ;
+  schema:isbn "0140150757" ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/966029603.ttl"^^xsd:anyURI ;
+  rdfs:label "The Portable Graham Greene" ;
 .
 bibliographica:Possession_a_romance
   rdf:type schema:Book ;
@@ -2867,6 +2981,9 @@ bibliographica:Sketch_me_if_you_can
   dcterms:creator bibliographica:Sharon_Pape ;
   dcterms:title "Sketch me if you can" ;
   schema:author bibliographica:Sharon_Pape ;
+  schema:isbn "9780425236048" ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/650500867.ttl"^^xsd:anyURI ;
   rdfs:label "Sketch me if you can" ;
 .
@@ -3220,6 +3337,9 @@ bibliographica:The_Country_Life
   dcterms:creator bibliographica:Rachel_Cusk ;
   dcterms:title "The Country Life" ;
   schema:author bibliographica:Rachel_Cusk ;
+  schema:isbn "0312198485" ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/39812370.ttl"^^xsd:anyURI ;
   rdfs:label "The Country Life" ;
 .
@@ -4212,6 +4332,9 @@ bibliographica:Turnip_Blues
   dcterms:creator bibliographica:Helen_Campbell ;
   dcterms:title "Turnip Blues" ;
   schema:author bibliographica:Helen_Campbell ;
+  schema:isbn "1883523230" ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/39849468.ttl"^^xsd:anyURI ;
   rdfs:label "Turnip Blues" ;
 .
@@ -4222,6 +4345,17 @@ bibliographica:Turtle_Island
   schema:author bibliographica:Gary_Snyder ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/901204.ttl"^^xsd:anyURI ;
   rdfs:label "Turtle Island" ;
+.
+bibliographica:Tuscan_Master
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Peter_Adamson ;
+  dcterms:title "The Tuscan Master" ;
+  schema:author bibliographica:Peter_Adamson ;
+  schema:isbn "0340695676" ;
+  bibliographica:binNumber 5 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/59511380.ttl"^^xsd:anyURI ;
+  rdfs:label "The Tuscan Master" ;
 .
 bibliographica:Two_in_the_Wild
   rdf:type schema:Book ;

@@ -488,6 +488,13 @@ bibliographica:Chris_Bohjalian
   bibliographica:viafURI "http://viaf.org/viaf/47594445/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Chris Bohjalian" ;
 .
+bibliographica:Christopher_Moore
+  rdf:type bibliographica:Author ;
+  schema:name "Christopher Moore" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Christopher_Moore_(author).ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/85622613/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Christopher Moore" ;
+.
 bibliographica:Clarence_Major
   rdf:type bibliographica:Author ;
   schema:name "Clarence Major" ;
@@ -1214,6 +1221,19 @@ bibliographica:Jo-Ann_Mapson
   bibliographica:viafURI "http://viaf.org/viaf/74753783/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Jo-Ann Mapson" ;
 .
+bibliographica:Jo_Nesbo
+  rdf:type bibliographica:Author ;
+  schema:name "Jo Nesbø" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Jo_Nesb%C3%B8.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/44460209/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Jo Nesbø" ;
+.
+bibliographica:Joanna_Rose
+  rdf:type bibliographica:Author ;
+  schema:name "Joanna Rose" ;
+  bibliographica:viafURI "https://viaf.org/viaf/14042673/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Joanna Rose" ;
+.
 bibliographica:Joanne_Harris
   rdf:type bibliographica:Author ;
   schema:name "Joanne Harris" ;
@@ -1648,6 +1668,13 @@ bibliographica:Maya_Angelou
   bibliographica:viafURI "http://viaf.org/viaf/7386077/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Maya Angelou" ;
 .
+bibliographica:Meg_Cabot
+  rdf:type bibliographica:Author ;
+  schema:name "Meg Cabot" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Meg_Cabot.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/61728296/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Meg Cabot" ;
+.
 bibliographica:Mel_Bay
   rdf:type bibliographica:Author ;
   schema:name "Mel Bay" ;
@@ -1836,6 +1863,11 @@ bibliographica:PJ_ORourke
   bibliographica:viafURI "http://viaf.org/viaf/220813267/rdf.xml"^^xsd:anyURI ;
   rdfs:label "P.J. O'Rourke" ;
 .
+bibliographica:P_Statford
+  rdf:type bibliographica:Author ;
+  schema:name "P. Statford" ;
+  rdfs:label "P. Statford" ;
+.
 bibliographica:Pablo_Neruda
   rdf:type bibliographica:Author ;
   schema:name "Pablo Naruda" ;
@@ -1933,6 +1965,12 @@ bibliographica:Per_Amann
   bibliographica:viafURI "http://viaf.org/viaf/32574263/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Per Amann" ;
 .
+bibliographica:Peter_Adamson
+  rdf:type bibliographica:Author ;
+  schema:name "Peter Adamson" ;
+  bibliographica:viafURI "https://viaf.org/viaf/70144814341439043147/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Peter Adamson" ;
+.
 bibliographica:Peter_Carey
   rdf:type bibliographica:Author ;
   schema:name "Peter Carey" ;
@@ -1994,6 +2032,13 @@ bibliographica:Ralph_Steadman
   bibliographica:dbpediaURI "http://dbpedia.org/data/Ralph_Steadman.ttl"^^xsd:anyURI ;
   bibliographica:viafURI "http://viaf.org/viaf/103610475/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Ralph Steadman" ;
+.
+bibliographica:Randy_Wayne_White
+  rdf:type bibliographica:Author ;
+  schema:name "Randy Wayne White" ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Randy_Wayne_White.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/102907844/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Randy Wayne White" ;
 .
 bibliographica:Relix_Magazine
   rdf:type schema:Organization ;
@@ -2364,6 +2409,11 @@ bibliographica:Tananarive_Due
   bibliographica:dbpediaURI "http://dbpedia.org/data/Tananarive_Due.ttl"^^xsd:anyURI ;
   bibliographica:viafURI "http://viaf.org/viaf/59266210/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Tananarive Due" ;
+.
+bibliographica:Ted_Ringer
+  rdf:type bibliographica:Author ;
+  schema:name "Ted Ringer" ;
+  rdfs:label "Ted Ringer" ;
 .
 bibliographica:Terry_Farish
   rdf:type bibliographica:Author ;
