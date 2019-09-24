@@ -223,7 +223,6 @@ bibliographica:Anna_Karenina_Book_2
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/934765377.ttl"^^xsd:anyURI ;
   rdfs:label "Anna Karenina. Book 2" ;
-  skos:prefLabel "Anna Karenina. Book 2" ;
 .
 bibliographica:Antarctic_navigation_a_novel
   rdf:type schema:Book ;
@@ -3900,7 +3899,6 @@ bibliographica:The_Woman_Who_Married_a_Bear
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/495368482.ttl"^^xsd:anyURI ;
   rdfs:label "The Woman Who Married a Bear" ;
-  skos:prefLabel "The Woman Who Married a Bear" ;
 .
 bibliographica:The_World_As_I_See_It
   rdf:type schema:Book ;
@@ -4132,7 +4130,6 @@ bibliographica:The_woman_who_lives_in_the_earth
   schema:author bibliographica:Swain_Wolfe ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/33043330.ttl"^^xsd:anyURI ;
   rdfs:label "The Woman Who Lives in the Earth" ;
-  skos:prefLabel "The Woman Who Lives in the Earth" ;
 .
 bibliographica:The_woman_who_walked_into_doors
   rdf:type schema:Book ;

@@ -32,7 +32,6 @@ bibliographica:Abbey_is_Blue
   bibliographica:byArtist bibliographica:Abbey_Lincoln ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/2fa972a2-9165-3423-9ab1-38ed7b07e807"^^xsd:anyURI ;
   rdfs:label "Abbey is Blue" ;
-  skos:prefLabel "Abbey is Blue" ;
 .
 bibliographica:Alices_Restaurant
   rdf:type schema:MusicAlbum ;
@@ -40,7 +39,6 @@ bibliographica:Alices_Restaurant
   bibliographica:byArtist bibliographica:Arlo_Guthrie ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/bc0307b3-229a-4952-ab70-d6b95010d6c6"^^xsd:anyURI ;
   rdfs:label "Alice's Restaurant" ;
-  skos:prefLabel "Alice's Restaurant" ;
 .
 bibliographica:Amaduduzo_compilation
   rdf:type schema:MusicAlbum ;
@@ -49,7 +47,6 @@ bibliographica:Amaduduzo_compilation
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/87a19e7a-4820-4218-b2ee-c3ac418773b4"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/be3a6956-3b0d-4e98-b8ef-7475970c929e"^^xsd:anyURI ;
   rdfs:label "Amaduduzo (compilation)" ;
-  skos:prefLabel "Amaduduzo (compilation)" ;
 .
 bibliographica:Amanda_Marshall_CD
   rdf:type schema:MusicAlbum ;
@@ -57,7 +54,6 @@ bibliographica:Amanda_Marshall_CD
   bibliographica:byArtist bibliographica:Amanda_Marshall ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/0375a849-d8b1-4851-9faf-2ea75e78173b"^^xsd:anyURI ;
   rdfs:label "Amanda Marshall (cd)" ;
-  skos:prefLabel "Amanda Marshall" ;
 .
 bibliographica:AniDiFranco
   rdf:type schema:MusicAlbum ;
@@ -65,7 +61,6 @@ bibliographica:AniDiFranco
   bibliographica:byArtist bibliographica:Ani_DiFranco ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/2f220c9c-9f5f-35dc-8c62-b9b48827032e"^^xsd:anyURI ;
   rdfs:label "Ani DiFranco" ;
-  skos:prefLabel "Ani DiFranco" ;
 .
 bibliographica:Anthem
   rdf:type schema:MusicAlbum ;
@@ -73,7 +68,6 @@ bibliographica:Anthem
   bibliographica:byArtist bibliographica:Black_Uhuru ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a4fe9bb1-1790-4d5f-93b1-aabe513ec6ff"^^xsd:anyURI ;
   rdfs:label "Anthem" ;
-  skos:prefLabel "Anthem" ;
 .
 bibliographica:Arethas_Gold
   rdf:type schema:MusicAlbum ;
@@ -81,7 +75,6 @@ bibliographica:Arethas_Gold
   bibliographica:byArtist bibliographica:Aretha_Franklin ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/6f06ad48-e381-449f-9174-938872d24c92"^^xsd:anyURI ;
   rdfs:label "Aretha’s Gold" ;
-  skos:prefLabel "Aretha’s Gold" ;
 .
 bibliographica:At_Fillmore_East
   rdf:type schema:MusicAlbum ;
@@ -89,7 +82,6 @@ bibliographica:At_Fillmore_East
   bibliographica:byArtist bibliographica:Allman_Brothers ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/29e18ce2-3777-432b-bff6-c446e71b21e7"^^xsd:anyURI ;
   rdfs:label "At Fillmore East (Deluxe Edition)" ;
-  skos:prefLabel "At Fillmore East  (Deluxe Edition)" ;
 .
 bibliographica:At_Last
   rdf:type schema:MusicAlbum ;
@@ -97,7 +89,6 @@ bibliographica:At_Last
   bibliographica:byArtist bibliographica:Cyndi_Lauper ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c863ec7a-8930-4e1e-8209-3293333dc83e"^^xsd:anyURI ;
   rdfs:label "At Last" ;
-  skos:prefLabel "At Last" ;
 .
 bibliographica:Attainable_Love
   rdf:type schema:MusicAlbum ;
@@ -105,7 +96,6 @@ bibliographica:Attainable_Love
   bibliographica:byArtist bibliographica:Christine_Lavin ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/96a076c0-dec7-4920-9f99-c9ef0af9a395"^^xsd:anyURI ;
   rdfs:label "Attainable Love" ;
-  skos:prefLabel "Attainable Love" ;
 .
 bibliographica:Aye
   rdf:type schema:MusicAlbum ;
@@ -113,7 +103,6 @@ bibliographica:Aye
   bibliographica:byArtist bibliographica:Angélique_Kidjo ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/85dd67a5-2c3d-41bf-8f50-734ec1601eb7"^^xsd:anyURI ;
   rdfs:label "Ayé" ;
-  skos:prefLabel "Ayé" ;
 .
 bibliographica:Bachelor_No_2
   rdf:type schema:MusicAlbum ;
@@ -121,7 +110,6 @@ bibliographica:Bachelor_No_2
   bibliographica:byArtist bibliographica:Aimee_Mann ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/595565db-6bfd-4772-a865-fa91d0259f53"^^xsd:anyURI ;
   rdfs:label "Bachelor No. 2" ;
-  skos:prefLabel "Bachelor No. 2" ;
 .
 bibliographica:Backbone
   rdf:type schema:MusicAlbum ;
@@ -129,7 +117,6 @@ bibliographica:Backbone
   bibliographica:byArtist bibliographica:Annie_Gallup ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/307e8ded-3da4-424c-bd66-38ac79738ed1"^^xsd:anyURI ;
   rdfs:label "Backbone" ;
-  skos:prefLabel "Backbone" ;
 .
 bibliographica:Bad_Company_CD
   rdf:type schema:MusicAlbum ;
@@ -137,7 +124,6 @@ bibliographica:Bad_Company_CD
   bibliographica:byArtist bibliographica:Bad_Company ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/78153b7e-9e3d-4cdf-a35c-2b9b953c83e7"^^xsd:anyURI ;
   rdfs:label "Bad Company" ;
-  skos:prefLabel "Bad Company" ;
 .
 bibliographica:Bare
   rdf:type schema:MusicAlbum ;
@@ -145,7 +131,6 @@ bibliographica:Bare
   bibliographica:byArtist bibliographica:Annie_Lennox ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/148045ee-7fb7-4978-aefe-bcb162ac2941"^^xsd:anyURI ;
   rdfs:label "Bare" ;
-  skos:prefLabel "Bare" ;
 .
 bibliographica:Bawdy_Sea_Chanties
   rdf:type schema:MusicAlbum ;
@@ -153,7 +138,6 @@ bibliographica:Bawdy_Sea_Chanties
   bibliographica:byArtist bibliographica:Oscar_Brand ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b1c591ab-1cc6-472f-b7b2-f36be51b182e"^^xsd:anyURI ;
   rdfs:label "Bawdy Sea Chanties" ;
-  skos:prefLabel "Bawdy Sea Chanties" ;
 .
 bibliographica:Bebel_Gilberto_CD
   rdf:type schema:MusicAlbum ;
@@ -161,7 +145,6 @@ bibliographica:Bebel_Gilberto_CD
   bibliographica:byArtist bibliographica:Bebel_Gilberto ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/2c996e0f-e8c2-3167-894c-ab59a7c74989"^^xsd:anyURI ;
   rdfs:label "Bebel Gilberto (CD)" ;
-  skos:prefLabel "Bebel Gilberto (CD)" ;
 .
 bibliographica:Bigger_Better_Faster_More
   rdf:type schema:MusicAlbum ;
@@ -169,7 +152,6 @@ bibliographica:Bigger_Better_Faster_More
   bibliographica:byArtist bibliographica:_4_Non_Blondes ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/9154385d-5ea3-4dc6-b5bb-b7433ba32243"^^xsd:anyURI ;
   rdfs:label "Bigger, Better, Faster, More" ;
-  skos:prefLabel "Bigger, Better, Faster, More" ;
 .
 bibliographica:Blind_Faith_CD
   rdf:type schema:MusicAlbum ;
@@ -177,7 +159,6 @@ bibliographica:Blind_Faith_CD
   bibliographica:byArtist bibliographica:Blind_Faith ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/53fa91ca-a2b9-463d-b78e-daca9894082a"^^xsd:anyURI ;
   rdfs:label "Blind Faith" ;
-  skos:prefLabel "Blind Faith" ;
 .
 bibliographica:Bluegrass_Reunion
   rdf:type schema:MusicAlbum ;
@@ -187,7 +168,6 @@ bibliographica:Bluegrass_Reunion
   bibliographica:byArtist bibliographica:David_Grisman ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/ebd26d0e-217d-450a-94cb-e55c2758107b"^^xsd:anyURI ;
   rdfs:label "Bluegrass Reunion" ;
-  skos:prefLabel "Bluegrass Reunion" ;
 .
 bibliographica:Blues_Traveler
   rdf:type schema:MusicAlbum ;
@@ -195,7 +175,6 @@ bibliographica:Blues_Traveler
   bibliographica:byArtist bibliographica:Blues_Traveler ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/6b28ecf0-94e6-48bb-aa2a-5ede325b675b"^^xsd:anyURI ;
   rdfs:label "Blues Traveler" ;
-  skos:prefLabel "Blues Traveler" ;
 .
 bibliographica:Born_Under_a_Bad_Sign
   rdf:type schema:MusicAlbum ;
@@ -203,7 +182,6 @@ bibliographica:Born_Under_a_Bad_Sign
   bibliographica:byArtist bibliographica:Albert_King ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/9fa36ff8-ba96-3201-bda1-729389a87620"^^xsd:anyURI ;
   rdfs:label "Born Under a Bad Sign" ;
-  skos:prefLabel "Born Under a Bad Sign" ;
 .
 bibliographica:Bouncing_Off_The_Satellites
   rdf:type schema:MusicAlbum ;
@@ -211,7 +189,6 @@ bibliographica:Bouncing_Off_The_Satellites
   bibliographica:byArtist bibliographica:B-52s ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/8a01d8cb-52dd-464f-9f3f-82feed851ee2"^^xsd:anyURI ;
   rdfs:label "Bouncing Off The Satellites" ;
-  skos:prefLabel "Bouncing Off The Satellites" ;
 .
 bibliographica:Brothers_And_Sisters
   rdf:type schema:MusicAlbum ;
@@ -219,7 +196,6 @@ bibliographica:Brothers_And_Sisters
   bibliographica:byArtist bibliographica:Allman_Brothers ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d4766e51-f342-33c6-924c-f33f6180775f"^^xsd:anyURI ;
   rdfs:label "Brothers And Sisters" ;
-  skos:prefLabel "Brothers And Sisters" ;
 .
 bibliographica:By_The_Hand_Of_The_Father
   rdf:type schema:MusicAlbum ;
@@ -227,7 +203,6 @@ bibliographica:By_The_Hand_Of_The_Father
   bibliographica:byArtist bibliographica:Alejandro_Escovedo ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/0e7e13a7-0aa9-4d45-9213-2c86581d0ae7"^^xsd:anyURI ;
   rdfs:label "By The Hand Of The Father" ;
-  skos:prefLabel "By The Hand Of The Father" ;
 .
 bibliographica:Cajun_Conja
   rdf:type schema:MusicAlbum ;
@@ -235,7 +210,6 @@ bibliographica:Cajun_Conja
   bibliographica:byArtist bibliographica:BeauSoleil ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b34eef68-3932-4565-ba34-296fffa71caf"^^xsd:anyURI ;
   rdfs:label "Cajun Conja" ;
-  skos:prefLabel "Cajun Conja" ;
 .
 bibliographica:Chameleon
   rdf:type schema:MusicAlbum ;
@@ -243,7 +217,6 @@ bibliographica:Chameleon
   bibliographica:byArtist bibliographica:Badi_Assad ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/7f2ed214-9239-4c78-8059-4da3bcd50b0e"^^xsd:anyURI ;
   rdfs:label "Chameleon" ;
-  skos:prefLabel "Chameleon" ;
 .
 bibliographica:Check_It_Out
   rdf:type schema:MusicAlbum ;
@@ -251,7 +224,6 @@ bibliographica:Check_It_Out
   bibliographica:byArtist bibliographica:BeauJocque_ZydecoHiRollers ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/007195e3-cc99-4408-a81b-82f4577f85ce"^^xsd:anyURI ;
   rdfs:label "Check It Out, Lock It In, Crank It Up!" ;
-  skos:prefLabel "Check It Out, Lock It In, Crank It Up!" ;
 .
 bibliographica:Chill_Out
   rdf:type schema:MusicAlbum ;
@@ -259,7 +231,6 @@ bibliographica:Chill_Out
   bibliographica:byArtist bibliographica:Black_Uhuru ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/2fac5b16-6da2-3dae-bdb5-9d3b7db2919b"^^xsd:anyURI ;
   rdfs:label "Chill Out" ;
-  skos:prefLabel "Chill Out" ;
 .
 bibliographica:Christine_Kane_Live
   rdf:type schema:MusicAlbum ;
@@ -267,7 +238,6 @@ bibliographica:Christine_Kane_Live
   bibliographica:byArtist bibliographica:Christine_Kane ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/17c91d2f-df86-4355-b7c0-55d4046e0cb2"^^xsd:anyURI ;
   rdfs:label "Christine Kane Live" ;
-  skos:prefLabel "Christine Kane Live" ;
 .
 bibliographica:Colour_Moving_Still
   rdf:type schema:MusicAlbum ;
@@ -275,7 +245,6 @@ bibliographica:Colour_Moving_Still
   bibliographica:byArtist bibliographica:Chantal_Kreviazuk ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b47b88b4-9c40-4ea0-b5cb-d96e8a6324d2"^^xsd:anyURI ;
   rdfs:label "Colour Moving and Still" ;
-  skos:prefLabel "Colour Moving and Still" ;
 .
 bibliographica:Cool
   rdf:type schema:MusicAlbum ;
@@ -285,7 +254,6 @@ bibliographica:Cool
   bibliographica:byArtist bibliographica:Earl_Klugh ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/6f96d073-87ad-4e66-befa-ea3e577c644d"^^xsd:anyURI ;
   rdfs:label "Cool" ;
-  skos:prefLabel "Cool" ;
 .
 bibliographica:Cosmic_Thing
   rdf:type schema:MusicAlbum ;
@@ -293,7 +261,6 @@ bibliographica:Cosmic_Thing
   bibliographica:byArtist bibliographica:B-52s ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/92915e3d-32ee-3e26-8503-cc05b8db296b"^^xsd:anyURI ;
   rdfs:label "Cosmic Thing" ;
-  skos:prefLabel "Cosmic Things" ;
 .
 bibliographica:Courage_My_Love
   rdf:type schema:MusicAlbum ;
@@ -301,7 +268,6 @@ bibliographica:Courage_My_Love
   bibliographica:byArtist bibliographica:Annie_Gallup ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a4603320-5599-4bc4-894e-b1d6cf523616"^^xsd:anyURI ;
   rdfs:label "Courage My Love" ;
-  skos:prefLabel "Courage My Love" ;
 .
 bibliographica:Cut_Me_Loose
   rdf:type schema:MusicAlbum ;
@@ -309,7 +275,6 @@ bibliographica:Cut_Me_Loose
   bibliographica:byArtist bibliographica:The_Assassins ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/6b452115-016f-4253-967a-21ef6c661ea8"^^xsd:anyURI ;
   rdfs:label "Cut Me Loose" ;
-  skos:prefLabel "Cut Me Loose" ;
 .
 bibliographica:Dark_Massive_Disengage
   rdf:type schema:MusicAlbum ;
@@ -317,7 +282,6 @@ bibliographica:Dark_Massive_Disengage
   bibliographica:byArtist bibliographica:Bill_Laswell ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/26c06ad5-e1c3-44e5-b0e8-ca17c6a25e7c"^^xsd:anyURI ;
   rdfs:label "Dark Massive Disengage Ambient Compendium" ;
-  skos:prefLabel "Dark Massive Disengage Ambient Compendium" ;
 .
 bibliographica:Deeper_Still
   rdf:type schema:MusicAlbum ;
@@ -325,7 +289,6 @@ bibliographica:Deeper_Still
   bibliographica:byArtist bibliographica:Beth_Nielsen_Chapman ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/9d9560ff-bac3-43ef-8ded-442d34ec8d68"^^xsd:anyURI ;
   rdfs:label "Deeper Still" ;
-  skos:prefLabel "Deeper Still" ;
 .
 bibliographica:Desire_Of_The_Rhino_King
   rdf:type schema:MusicAlbum ;
@@ -333,7 +296,6 @@ bibliographica:Desire_Of_The_Rhino_King
   bibliographica:byArtist bibliographica:Adrian_Belew ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/0396203d-228f-4d43-9e1b-a311d2796916"^^xsd:anyURI ;
   rdfs:label "Desire Of The Rhino King" ;
-  skos:prefLabel "Desire Of The Rhino King" ;
 .
 bibliographica:Deuces_Wild
   rdf:type schema:MusicAlbum ;
@@ -341,7 +303,6 @@ bibliographica:Deuces_Wild
   bibliographica:byArtist bibliographica:BB_King ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/55229cad-2f4f-4b02-8530-7e9d199018fc"^^xsd:anyURI ;
   rdfs:label "Deuces Wild" ;
-  skos:prefLabel "Deuces Wild" ;
 .
 bibliographica:Die_Grossen_Tangos
   rdf:type schema:MusicAlbum ;
@@ -349,7 +310,6 @@ bibliographica:Die_Grossen_Tangos
   bibliographica:byArtist bibliographica:Alfred_Hause_Tango_Orchestra ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/3609ac3b-8fce-426c-a08a-b04ee69c3cbd"^^xsd:anyURI ;
   rdfs:label "Die Grossen Tangos" ;
-  skos:prefLabel "Die Grossen Tangos" ;
 .
 bibliographica:Dilate
   rdf:type schema:MusicAlbum ;
@@ -357,7 +317,6 @@ bibliographica:Dilate
   bibliographica:byArtist bibliographica:Ani_DiFranco ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/b835bf06-e50b-397c-9f28-e7211a2f014d"^^xsd:anyURI ;
   rdfs:label "Dilate" ;
-  skos:prefLabel "Dilate" ;
 .
 bibliographica:Discovered_Covered
   rdf:type schema:MusicAlbum ;
@@ -365,7 +324,6 @@ bibliographica:Discovered_Covered
   bibliographica:byArtist bibliographica:Daniel_Johnston ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a785805a-ed71-4982-a842-17048f148a7d"^^xsd:anyURI ;
   rdfs:label "The Late Great Daniel Johnston: Discovered Covered" ;
-  skos:prefLabel "The Late Great Daniel Johnston: Discovered Covered" ;
 .
 bibliographica:Double_Barrel_Blues
   rdf:type schema:MusicAlbum ;
@@ -373,7 +331,6 @@ bibliographica:Double_Barrel_Blues
   bibliographica:byArtist bibliographica:Barrel_of_Blues ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/81ca2960-9b7b-4715-a58b-0ea48965793e"^^xsd:anyURI ;
   rdfs:label "Double Barrel Blues" ;
-  skos:prefLabel "Double Barrel Blues" ;
 .
 bibliographica:Eat_a_Peach
   rdf:type schema:MusicAlbum ;
@@ -381,7 +338,6 @@ bibliographica:Eat_a_Peach
   bibliographica:byArtist bibliographica:Allman_Brothers ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/0b1189ad-0bdf-34bc-89e4-ff05133ec51b"^^xsd:anyURI ;
   rdfs:label "Eat a Peach" ;
-  skos:prefLabel "Eat a Peach" ;
 .
 bibliographica:Echoes_of_Brazil
   rdf:type schema:MusicAlbum ;
@@ -389,7 +345,6 @@ bibliographica:Echoes_of_Brazil
   bibliographica:byArtist bibliographica:Badi_Assad ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c69cdb18-5195-4a43-9e26-9d66622fd926"^^xsd:anyURI ;
   rdfs:label "Echoes of Brazil" ;
-  skos:prefLabel "Echoes of Brazil" ;
 .
 bibliographica:Essential_the_Very_Best_Of
   rdf:type schema:MusicAlbum ;
@@ -397,7 +352,6 @@ bibliographica:Essential_the_Very_Best_Of
   bibliographica:byArtist bibliographica:Airto_Moreira ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/7903ef07-4f6a-4450-b573-38b2af7328da"^^xsd:anyURI ;
   rdfs:label "Essential, the Very Best Of" ;
-  skos:prefLabel "Essential, the Very Best Of" ;
 .
 bibliographica:Family_Man
   rdf:type schema:MusicAlbum ;
@@ -405,14 +359,12 @@ bibliographica:Family_Man
   bibliographica:byArtist bibliographica:Black_Flag ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/29888d56-d9f0-41d3-b77c-b42f46200d14"^^xsd:anyURI ;
   rdfs:label "Family Man" ;
-  skos:prefLabel "Family Man" ;
 .
 bibliographica:Feel_The_Sun
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Band_Du_Jour ;
   bibliographica:byArtist bibliographica:Band_Du_Jour ;
   rdfs:label "Feel The Sun" ;
-  skos:prefLabel "Feel The Sun" ;
 .
 bibliographica:Friend_of_Mine
   rdf:type schema:MusicAlbum ;
@@ -422,7 +374,6 @@ bibliographica:Friend_of_Mine
   bibliographica:byArtist bibliographica:Greg_Brown ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/8070e370-5fe6-48c7-bad5-77c9a013da13"^^xsd:anyURI ;
   rdfs:label "Friend of Mine" ;
-  skos:prefLabel "Friend of Mine" ;
 .
 bibliographica:Go_Tell_It_On_The_Mountain
   rdf:type schema:MusicAlbum ;
@@ -430,7 +381,6 @@ bibliographica:Go_Tell_It_On_The_Mountain
   bibliographica:byArtist bibliographica:Blind_Boys_of_Alabama ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/da61b4b3-33c4-4995-92a2-ecc58c46c4d8"^^xsd:anyURI ;
   rdfs:label "Go Tell It On The Mountain" ;
-  skos:prefLabel "Go Tell It On The Mountain" ;
 .
 bibliographica:Good_Stuff
   rdf:type schema:MusicAlbum ;
@@ -438,7 +388,6 @@ bibliographica:Good_Stuff
   bibliographica:byArtist bibliographica:B-52s ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c1dfcb24-2c29-3f9f-8ee7-b1ea457d44a0"^^xsd:anyURI ;
   rdfs:label "Good Stuff" ;
-  skos:prefLabel "Good Stuff" ;
 .
 bibliographica:Grand_Piano_Canyon
   rdf:type schema:MusicAlbum ;
@@ -446,7 +395,6 @@ bibliographica:Grand_Piano_Canyon
   bibliographica:byArtist bibliographica:Bob_James ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/0fa56e29-96cd-4800-8b98-26d6687788c0"^^xsd:anyURI ;
   rdfs:label "Grand Piano Canyon" ;
-  skos:prefLabel "Grand Piano Canyon" ;
 .
 bibliographica:Gravity
   rdf:type schema:MusicAlbum ;
@@ -454,7 +402,6 @@ bibliographica:Gravity
   bibliographica:byArtist bibliographica:Alejandro_Escovedo ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/e125f303-665b-3487-8b19-a5edb6a46c25"^^xsd:anyURI ;
   rdfs:label "Gravity" ;
-  skos:prefLabel "Gravity" ;
 .
 bibliographica:Gravity_bonus_disc
   rdf:type schema:MusicAlbum ;
@@ -462,7 +409,6 @@ bibliographica:Gravity_bonus_disc
   bibliographica:byArtist bibliographica:Alejandro_Escovedo ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/30183d1e-5e82-4e4e-aa21-24acb295d0d3"^^xsd:anyURI ;
   rdfs:label "Gravity (bonus disc)" ;
-  skos:prefLabel "Gravity (bonus disc)" ;
 .
 bibliographica:Heart_of_the_Forest
   rdf:type schema:MusicAlbum ;
@@ -470,7 +416,6 @@ bibliographica:Heart_of_the_Forest
   bibliographica:byArtist bibliographica:Baka_Beyond ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/30258950-da8c-4b26-b3eb-42ab828e682d"^^xsd:anyURI ;
   rdfs:label "Heart of the Forest" ;
-  skos:prefLabel "Heart of the Forest" ;
 .
 bibliographica:Highway_Cafe_Of_The_Damned
   rdf:type schema:MusicAlbum ;
@@ -478,7 +423,6 @@ bibliographica:Highway_Cafe_Of_The_Damned
   bibliographica:byArtist bibliographica:Austin_Lounge_Lizards ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/e6d56ffd-cd69-316d-8d76-43934fd27a6d"^^xsd:anyURI ;
   rdfs:label "Highway Cafe Of The Damned (1988)" ;
-  skos:prefLabel "Highway Cafe Of The Damned (1988)" ;
 .
 bibliographica:Hogs_on_the_Highway
   rdf:type schema:MusicAlbum ;
@@ -486,7 +430,6 @@ bibliographica:Hogs_on_the_Highway
   bibliographica:byArtist bibliographica:Bad_Livers ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d287713d-7548-4ffa-a917-be29d8dcc5fa"^^xsd:anyURI ;
   rdfs:label "Hogs on the Highway" ;
-  skos:prefLabel "Hogs on the Highway" ;
 .
 bibliographica:Home_Ground
   rdf:type schema:MusicAlbum ;
@@ -494,14 +437,12 @@ bibliographica:Home_Ground
   bibliographica:byArtist bibliographica:Battlefield_Band ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/92b39563-db48-43f9-aea6-4202f23c392a"^^xsd:anyURI ;
   rdfs:label "Home Ground" ;
-  skos:prefLabel "Home Ground" ;
 .
 bibliographica:Homenaje
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Artistas_Cubanos ;
   bibliographica:byArtist bibliographica:Artistas_Cubanos ;
   rdfs:label "Homenaje" ;
-  skos:prefLabel "Homenaje" ;
 .
 bibliographica:Homogenic
   rdf:type schema:MusicAlbum ;
@@ -509,7 +450,6 @@ bibliographica:Homogenic
   bibliographica:byArtist bibliographica:Björk ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/7a2ad97a-55e9-48a4-953b-45ddc10f7f0f"^^xsd:anyURI ;
   rdfs:label "Homogenic" ;
-  skos:prefLabel "Homogenic" ;
 .
 bibliographica:Horses_In_The_Mines
   rdf:type schema:MusicAlbum ;
@@ -517,7 +457,6 @@ bibliographica:Horses_In_The_Mines
   bibliographica:byArtist bibliographica:Bad_Livers ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/325514f8-6c84-454e-a082-1801e5334730"^^xsd:anyURI ;
   rdfs:label "Horses In The Mines" ;
-  skos:prefLabel "Horses In The Mines" ;
 .
 bibliographica:Humpty_Dumpty
   rdf:type schema:MusicAlbum ;
@@ -525,14 +464,12 @@ bibliographica:Humpty_Dumpty
   bibliographica:byArtist bibliographica:Aimee_Mann ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d4329f26-8577-4806-ab10-825f21846ba3"^^xsd:anyURI ;
   rdfs:label "Humpty Dumpty" ;
-  skos:prefLabel "Humpty Dumpty" ;
 .
 bibliographica:I_Need_A_Gun_And_A_Drunk
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Bleecker_Street ;
   bibliographica:byArtist bibliographica:Bleecker_Street ;
   rdfs:label "I Need A Gun And A Drunk" ;
-  skos:prefLabel "I Need A Gun And A Drunk" ;
 .
 bibliographica:In_My_Tribe
   rdf:type schema:MusicAlbum ;
@@ -540,7 +477,6 @@ bibliographica:In_My_Tribe
   bibliographica:byArtist bibliographica:_10000_Maniacs ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/53349b3c-d994-465e-a317-01853338178b"^^xsd:anyURI ;
   rdfs:label "In My Tribe" ;
-  skos:prefLabel "In My Tribe" ;
 .
 bibliographica:L_Amour_ou_la_Folie
   rdf:type schema:MusicAlbum ;
@@ -548,7 +484,6 @@ bibliographica:L_Amour_ou_la_Folie
   bibliographica:byArtist bibliographica:BeauSoleil ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/5311e9f9-fe6d-4d1c-ba21-46d4b8e0bd71"^^xsd:anyURI ;
   rdfs:label "L'Amour ou la Folie" ;
-  skos:prefLabel "L'Amour ou la Folie" ;
 .
 bibliographica:Let_It_Be
   rdf:type schema:MusicAlbum ;
@@ -556,7 +491,6 @@ bibliographica:Let_It_Be
   bibliographica:byArtist bibliographica:Beatles ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/79c313a5-0e50-4572-8aa6-fd0d297abd97"^^xsd:anyURI ;
   rdfs:label "Let It Be" ;
-  skos:prefLabel "Let It Be" ;
 .
 bibliographica:Live_Art
   rdf:type schema:MusicAlbum ;
@@ -564,7 +498,6 @@ bibliographica:Live_Art
   bibliographica:byArtist bibliographica:Bela_Fleck_and_the_Flecktones ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/61282502-0f84-4c30-aea1-90b9e823107c"^^xsd:anyURI ;
   rdfs:label "Live Art" ;
-  skos:prefLabel "Live Art" ;
 .
 bibliographica:Live_From_the_Left_Coast
   rdf:type schema:MusicAlbum ;
@@ -572,7 +505,6 @@ bibliographica:Live_From_the_Left_Coast
   bibliographica:byArtist bibliographica:BeauSoleil ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e848f2d0-2506-4378-8f2f-dbd599cf853f"^^xsd:anyURI ;
   rdfs:label "Live! From the Left Coast" ;
-  skos:prefLabel "Live! From the Left Coast" ;
 .
 bibliographica:Living_In_Clip
   rdf:type schema:MusicAlbum ;
@@ -580,7 +512,6 @@ bibliographica:Living_In_Clip
   bibliographica:byArtist bibliographica:Ani_DiFranco ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/26e2e2c5-be8f-3588-b845-9379c96b4630"^^xsd:anyURI ;
   rdfs:label "Living In Clip" ;
-  skos:prefLabel "Living In Clip" ;
 .
 bibliographica:Lizard_Vision
   rdf:type schema:MusicAlbum ;
@@ -588,7 +519,6 @@ bibliographica:Lizard_Vision
   bibliographica:byArtist bibliographica:Austin_Lounge_Lizards ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/7185f82b-32dc-48d7-8308-a67e6ff73290"^^xsd:anyURI ;
   rdfs:label "Lizard Vision" ;
-  skos:prefLabel "Lizard Vision" ;
 .
 bibliographica:Logozo
   rdf:type schema:MusicAlbum ;
@@ -596,7 +526,6 @@ bibliographica:Logozo
   bibliographica:byArtist bibliographica:Angélique_Kidjo ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/942cb3d2-98ad-406d-9e88-1e924427573d"^^xsd:anyURI ;
   rdfs:label "Logozo" ;
-  skos:prefLabel "Logozo" ;
 .
 bibliographica:Lone_Rhino
   rdf:type schema:MusicAlbum ;
@@ -604,7 +533,6 @@ bibliographica:Lone_Rhino
   bibliographica:byArtist bibliographica:Adrian_Belew ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e92792f7-ed85-4e80-8e38-c06646222c03"^^xsd:anyURI ;
   rdfs:label "Lone Rhino" ;
-  skos:prefLabel "Lone Rhino" ;
 .
 bibliographica:Lost_In_Space
   rdf:type schema:MusicAlbum ;
@@ -612,7 +540,6 @@ bibliographica:Lost_In_Space
   bibliographica:byArtist bibliographica:Aimee_Mann ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/1b5879b4-b093-45e0-9ac6-a63f24b965d3"^^xsd:anyURI ;
   rdfs:label "Lost In Space" ;
-  skos:prefLabel "Lost In Space" ;
 .
 bibliographica:Love_Is_A_Truck
   rdf:type schema:MusicAlbum ;
@@ -620,7 +547,6 @@ bibliographica:Love_Is_A_Truck
   bibliographica:byArtist bibliographica:Connie_Kaldor ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/0c307b37-f849-485b-ae2f-c2cbd1591269"^^xsd:anyURI ;
   rdfs:label "Love Is A Truck" ;
-  skos:prefLabel "Love Is A Truck" ;
 .
 bibliographica:Medusa
   rdf:type schema:MusicAlbum ;
@@ -628,14 +554,12 @@ bibliographica:Medusa
   bibliographica:byArtist bibliographica:Annie_Lennox ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/55229cad-2f4f-4b02-8530-7e9d199018fc"^^xsd:anyURI ;
   rdfs:label "Medusa" ;
-  skos:prefLabel "Medusa" ;
 .
 bibliographica:Mile_Marker
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Ana_Egge ;
   bibliographica:byArtist bibliographica:Ana_Egge ;
   rdfs:label "Mile Marker" ;
-  skos:prefLabel "Mile Marker" ;
 .
 bibliographica:Mr_Music_Head
   rdf:type schema:MusicAlbum ;
@@ -643,7 +567,6 @@ bibliographica:Mr_Music_Head
   bibliographica:byArtist bibliographica:Adrian_Belew ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/12a04743-dff0-49b8-a5cb-e4368920cd30"^^xsd:anyURI ;
   rdfs:label "Mr Music Head" ;
-  skos:prefLabel "Mr Music Head" ;
 .
 bibliographica:Original_Bad_Co_Anthology
   rdf:type schema:MusicAlbum ;
@@ -651,7 +574,6 @@ bibliographica:Original_Bad_Co_Anthology
   bibliographica:byArtist bibliographica:Bad_Company ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/191f7ef5-d208-4959-8422-1159844bebb3"^^xsd:anyURI ;
   rdfs:label "The ‘Original’ Bad Co. Anthology" ;
-  skos:prefLabel "The ‘Original’ Bad Co. Anthology" ;
 .
 bibliographica:Outbound
   rdf:type schema:MusicAlbum ;
@@ -659,7 +581,6 @@ bibliographica:Outbound
   bibliographica:byArtist bibliographica:Bela_Fleck_and_the_Flecktones ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/2b766264-7cd9-408b-a73f-bc2b8d270a76"^^xsd:anyURI ;
   rdfs:label "Outbound" ;
-  skos:prefLabel "Outbound" ;
 .
 bibliographica:Para_Bailar_Casino
   rdf:type schema:MusicAlbum ;
@@ -667,7 +588,6 @@ bibliographica:Para_Bailar_Casino
   bibliographica:byArtist bibliographica:Adalberto_Alvarez_Y_Su_Son ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d06a18be-bdc4-417c-9e3c-2235e2fc71a7"^^xsd:anyURI ;
   rdfs:label "Para Bailar Casino" ;
-  skos:prefLabel "Para Bailar Casino" ;
 .
 bibliographica:Paradise_Lost_Found
   rdf:type schema:MusicAlbum ;
@@ -675,7 +595,6 @@ bibliographica:Paradise_Lost_Found
   bibliographica:byArtist bibliographica:Annie_Gallup ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/307e8ded-3da4-424c-bd66-38ac79738ed1"^^xsd:anyURI ;
   rdfs:label "Paradise Lost & Found" ;
-  skos:prefLabel "Paradise Lost & Found" ;
 .
 bibliographica:Paranoid
   rdf:type schema:MusicAlbum ;
@@ -683,7 +602,6 @@ bibliographica:Paranoid
   bibliographica:byArtist bibliographica:Black_Sabbath ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/40b08941-d5e9-49d6-bb75-625db9381d32"^^xsd:anyURI ;
   rdfs:label "Paranoid" ;
-  skos:prefLabel "Paranoid" ;
 .
 bibliographica:People_in_Me
   rdf:type schema:MusicAlbum ;
@@ -691,7 +609,6 @@ bibliographica:People_in_Me
   bibliographica:byArtist bibliographica:Abbey_Lincoln ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/339009a5-8ecc-4f78-af3c-0c7bccd5858a"^^xsd:anyURI ;
   rdfs:label "People in Me" ;
-  skos:prefLabel "People in Me" ;
 .
 bibliographica:Pick_Up_On_This
   rdf:type schema:MusicAlbum ;
@@ -699,7 +616,6 @@ bibliographica:Pick_Up_On_This
   bibliographica:byArtist bibliographica:BeauJocque_ZydecoHiRollers ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/f3ae3377-8a18-41c9-b745-ff6053bb65e5"^^xsd:anyURI ;
   rdfs:label "Pick Up On This!" ;
-  skos:prefLabel "Pick Up On This!" ;
 .
 bibliographica:Places
   rdf:type schema:MusicAlbum ;
@@ -707,7 +623,6 @@ bibliographica:Places
   bibliographica:byArtist bibliographica:Bela_Fleck ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/420c81ba-31a2-4475-8c8d-3dfa94a44985"^^xsd:anyURI ;
   rdfs:label "Places" ;
-  skos:prefLabel "Places" ;
 .
 bibliographica:Pulse_Where_Rhythm_Begins
   rdf:type schema:MusicAlbum ;
@@ -715,7 +630,6 @@ bibliographica:Pulse_Where_Rhythm_Begins
   bibliographica:byArtist bibliographica:Brent_Lewis ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/bff31636-944b-4d39-8bab-5f6e7e5dd3be"^^xsd:anyURI ;
   rdfs:label "Pulse - Where the Rhythm Begins" ;
-  skos:prefLabel "Pulse - Where the Rhythm Begins" ;
 .
 bibliographica:Reckoning_Revelling
   rdf:type schema:MusicAlbum ;
@@ -723,7 +637,6 @@ bibliographica:Reckoning_Revelling
   bibliographica:byArtist bibliographica:Ani_DiFranco ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/1ebf8024-e2d9-3186-aa40-1f292a4ffa6c"^^xsd:anyURI ;
   rdfs:label "Reckoning/Revelling" ;
-  skos:prefLabel "Reckoning/Revelling" ;
 .
 bibliographica:Revolver
   rdf:type schema:MusicAlbum ;
@@ -731,7 +644,6 @@ bibliographica:Revolver
   bibliographica:byArtist bibliographica:Beatles ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/faa47611-ff6f-3e08-b27c-7e56583c08e4"^^xsd:anyURI ;
   rdfs:label "Revolver" ;
-  skos:prefLabel "Revolver" ;
 .
 bibliographica:River_Under_The_Road
   rdf:type schema:MusicAlbum ;
@@ -739,7 +651,6 @@ bibliographica:River_Under_The_Road
   bibliographica:byArtist bibliographica:Ana_Egge ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/b42e2f6e-587b-37f7-b750-362ec21a1e52"^^xsd:anyURI ;
   rdfs:label "River Under The Road" ;
-  skos:prefLabel "River Under The Road" ;
 .
 bibliographica:Sampler
   rdf:type schema:MusicAlbum ;
@@ -753,7 +664,6 @@ bibliographica:Side_Four
   bibliographica:byArtist bibliographica:Adrian_Belew ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/9a5c7561-fdde-304f-9f1e-da67e09a55c5"^^xsd:anyURI ;
   rdfs:label "Side Four" ;
-  skos:prefLabel "Side Four" ;
 .
 bibliographica:Side_One
   rdf:type schema:MusicAlbum ;
@@ -761,7 +671,6 @@ bibliographica:Side_One
   bibliographica:byArtist bibliographica:Adrian_Belew ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c28052f6-e133-3e90-aa7e-ac5727d649d6"^^xsd:anyURI ;
   rdfs:label "Side One" ;
-  skos:prefLabel "Side One" ;
 .
 bibliographica:Sinsemilla
   rdf:type schema:MusicAlbum ;
@@ -769,7 +678,6 @@ bibliographica:Sinsemilla
   bibliographica:byArtist bibliographica:Black_Uhuru ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c3a34cfd-e931-43ca-acbb-f0a820cd9340"^^xsd:anyURI ;
   rdfs:label "Sinsemilla" ;
-  skos:prefLabel "Sinsemilla" ;
 .
 bibliographica:Slow_Circle
   rdf:type schema:MusicAlbum ;
@@ -777,7 +685,6 @@ bibliographica:Slow_Circle
   bibliographica:byArtist bibliographica:Alex_de_Grassi ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/63e51a74-53c0-3b9b-bf4c-4ab15734967c"^^xsd:anyURI ;
   rdfs:label "Slow Circle" ;
-  skos:prefLabel "Slow Circle" ;
 .
 bibliographica:Small_Minds
   rdf:type schema:MusicAlbum ;
@@ -785,7 +692,6 @@ bibliographica:Small_Minds
   bibliographica:byArtist bibliographica:Austin_Lounge_Lizards ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/718c57ed-3fd4-45d0-be22-75366f83c4ca"^^xsd:anyURI ;
   rdfs:label "Small Minds" ;
-  skos:prefLabel "Small Minds" ;
 .
 bibliographica:So_Much_Shouting_So_Much_Laughter
   rdf:type schema:MusicAlbum ;
@@ -793,7 +699,6 @@ bibliographica:So_Much_Shouting_So_Much_Laughter
   bibliographica:byArtist bibliographica:Ani_DiFranco ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/a9675493-dd84-3a94-94e7-71fe28279742"^^xsd:anyURI ;
   rdfs:label "So Much Shouting, So Much Laughter" ;
-  skos:prefLabel "So Much Shouting, So Much Laughter" ;
 .
 bibliographica:Solo
   rdf:type schema:MusicAlbum ;
@@ -801,7 +706,6 @@ bibliographica:Solo
   bibliographica:byArtist bibliographica:Badi_Assad ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/df16587e-9f53-4ff2-98c6-4afe28b1f34d"^^xsd:anyURI ;
   rdfs:label "Solo" ;
-  skos:prefLabel "Solo" ;
 .
 bibliographica:Son_of_the_Wind
   rdf:type schema:MusicAlbum ;
@@ -809,7 +713,6 @@ bibliographica:Son_of_the_Wind
   bibliographica:byArtist bibliographica:Arlo_Guthrie ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e981afd2-c54b-4023-8c37-1b78ac69bfeb"^^xsd:anyURI ;
   rdfs:label "Son of the Wind" ;
-  skos:prefLabel "Son of the Wind" ;
 .
 bibliographica:Songs_of_our_Fathers
   rdf:type schema:MusicAlbum ;
@@ -819,7 +722,6 @@ bibliographica:Songs_of_our_Fathers
   bibliographica:byArtist bibliographica:David_Grisman ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/839e4f2e-a089-4dc4-9375-36c2b8ffd249"^^xsd:anyURI ;
   rdfs:label "Songs of our Fathers" ;
-  skos:prefLabel "Songs of our Fathers" ;
 .
 bibliographica:Southern_Exposure
   rdf:type schema:MusicAlbum ;
@@ -827,7 +729,6 @@ bibliographica:Southern_Exposure
   bibliographica:byArtist bibliographica:Alex_de_Grassi ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/d87c9431-cc3e-37e8-9181-5fc69a917c3a"^^xsd:anyURI ;
   rdfs:label "Southern Exposure" ;
-  skos:prefLabel "Southern Exposure" ;
 .
 bibliographica:Spirit_of_the_Century
   rdf:type schema:MusicAlbum ;
@@ -835,14 +736,12 @@ bibliographica:Spirit_of_the_Century
   bibliographica:byArtist bibliographica:Blind_Boys_of_Alabama ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/0a1e35f6-255f-4701-b6ec-7e0a9e376c08"^^xsd:anyURI ;
   rdfs:label "Spirit of the Century" ;
-  skos:prefLabel "Spirit of the Century" ;
 .
 bibliographica:Stranger_to_This_Land
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Barbara_Kessler ;
   bibliographica:byArtist bibliographica:Barbara_Kessler ;
   rdfs:label "Stranger to This Land" ;
-  skos:prefLabel "Stranger to This Land" ;
 .
 bibliographica:Super_Session
   rdf:type schema:MusicAlbum ;
@@ -854,7 +753,6 @@ bibliographica:Super_Session
   bibliographica:byArtist bibliographica:Stephen_Stills ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/26fa86bf-be86-4d45-843d-4f48fc2ecfc9"^^xsd:anyURI ;
   rdfs:label "Super Session" ;
-  skos:prefLabel "Super Session" ;
 .
 bibliographica:Swerve
   rdf:type schema:MusicAlbum ;
@@ -862,7 +760,6 @@ bibliographica:Swerve
   bibliographica:byArtist bibliographica:Annie_Gallup ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/445149b9-d4ba-4522-825e-035cd0bc2e4f"^^xsd:anyURI ;
   rdfs:label "Swerve" ;
-  skos:prefLabel "Swerve" ;
 .
 bibliographica:Talking_Timbuktu
   rdf:type schema:MusicAlbum ;
@@ -870,7 +767,6 @@ bibliographica:Talking_Timbuktu
   bibliographica:byArtist bibliographica:Ali_Farka_Toure ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/1e54dda5-c64b-42e8-9eed-ed50639e134b"^^xsd:anyURI ;
   rdfs:label "Talking Timbuktu" ;
-  skos:prefLabel "Talking Timbuktu" ;
 .
 bibliographica:Tanto_Tempo
   rdf:type schema:MusicAlbum ;
@@ -878,7 +774,6 @@ bibliographica:Tanto_Tempo
   bibliographica:byArtist bibliographica:Bebel_Gilberto ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/27b97cd4-5ab6-3a6f-a1f1-edbc6248e5c9"^^xsd:anyURI ;
   rdfs:label "Tanto Tempo" ;
-  skos:prefLabel "Tanto Tempo" ;
 .
 bibliographica:Tapestry
   rdf:type schema:MusicAlbum ;
@@ -886,7 +781,6 @@ bibliographica:Tapestry
   bibliographica:byArtist bibliographica:Chantal_Kreviazuk ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/570f5f29-bf35-38ed-8e6e-26ea1f8e24f4"^^xsd:anyURI ;
   rdfs:label "Tapestry" ;
-  skos:prefLabel "Tapestry" ;
 .
 bibliographica:Tell_It_Like_It_T-I-Is
   rdf:type schema:MusicAlbum ;
@@ -894,7 +788,6 @@ bibliographica:Tell_It_Like_It_T-I-Is
   bibliographica:byArtist bibliographica:B-52s ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a6876b95-aa4a-4ebc-8bed-1becf8f43d11"^^xsd:anyURI ;
   rdfs:label "Tell It Like It T-I-Is" ;
-  skos:prefLabel "Tell It Like It T-I-Is" ;
 .
 bibliographica:Telling_Stories_To_The_Sea
   rdf:type schema:MusicAlbum ;
@@ -902,7 +795,6 @@ bibliographica:Telling_Stories_To_The_Sea
   bibliographica:byArtist bibliographica:Adventures_in_Afropea ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/072a4350-7b24-47f9-af50-b66e1aa6b3c8"^^xsd:anyURI ;
   rdfs:label "Telling Stories To The Sea" ;
-  skos:prefLabel "Telling Stories To The Sea" ;
 .
 bibliographica:The_First_Ten_Years
   rdf:type schema:MusicAlbum ;
@@ -910,14 +802,12 @@ bibliographica:The_First_Ten_Years
   bibliographica:byArtist bibliographica:Altan ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/02a9ce0a-fdb4-42fe-8c54-15471708cbed"^^xsd:anyURI ;
   rdfs:label "The First Ten Years: 1986 / 1995" ;
-  skos:prefLabel "The First Ten Years: 1986 / 1995" ;
 .
 bibliographica:The_Govnor
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Ashley_Hutchings ;
   bibliographica:byArtist bibliographica:Ashley_Hutchings ;
   rdfs:label "The Gov'nor" ;
-  skos:prefLabel "The Gov'nor" ;
 .
 bibliographica:The_Peel_Session_Album
   rdf:type schema:MusicAlbum ;
@@ -925,7 +815,6 @@ bibliographica:The_Peel_Session_Album
   bibliographica:byArtist bibliographica:Billy_Bragg ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/8fc495a8-129d-404f-a7e5-9fba28997c3f"^^xsd:anyURI ;
   rdfs:label "The Peel Session Album" ;
-  skos:prefLabel "The Peel Session Album" ;
 .
 bibliographica:The_Source
   rdf:type schema:MusicAlbum ;
@@ -933,7 +822,6 @@ bibliographica:The_Source
   bibliographica:byArtist bibliographica:Ali_Farka_Toure ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a21f909e-d675-4302-a143-2914bf3285a3"^^xsd:anyURI ;
   rdfs:label "The Source" ;
-  skos:prefLabel "The Source" ;
 .
 bibliographica:The_Wishing_Chair
   rdf:type schema:MusicAlbum ;
@@ -941,7 +829,6 @@ bibliographica:The_Wishing_Chair
   bibliographica:byArtist bibliographica:_10000_Maniacs ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/6b54bc4b-f8a5-43c4-80e4-b5b4fe4b93c4"^^xsd:anyURI ;
   rdfs:label "The Wishing Chair" ;
-  skos:prefLabel "The Wishing Chair" ;
 .
 bibliographica:There_Must_Be_a_Better_World
   rdf:type schema:MusicAlbum ;
@@ -949,7 +836,6 @@ bibliographica:There_Must_Be_a_Better_World
   bibliographica:byArtist bibliographica:BB_King ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/09f8ede5-4767-41ee-9831-24475a8cf2d2"^^xsd:anyURI ;
   rdfs:label "There Must Be a Better World" ;
-  skos:prefLabel "There Must Be a Better World" ;
 .
 bibliographica:Too_Good_to_Be_Forgotten
   rdf:type schema:MusicAlbum ;
@@ -957,7 +843,6 @@ bibliographica:Too_Good_to_Be_Forgotten
   bibliographica:byArtist bibliographica:Amazulu ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/87921985-431d-307c-9627-e3ecbda9e3a7"^^xsd:anyURI ;
   rdfs:label "Too Good to Be Forgotten" ;
-  skos:prefLabel "Too Good to Be Forgotten" ;
 .
 bibliographica:Total_Eclipse
   rdf:type schema:MusicAlbum ;
@@ -965,14 +850,12 @@ bibliographica:Total_Eclipse
   bibliographica:byArtist bibliographica:Billy_Cobham ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/6c895bc5-7781-3cef-829e-0e1449b9c2f1"^^xsd:anyURI ;
   rdfs:label "Total Eclipse" ;
-  skos:prefLabel "Total Eclipse" ;
 .
 bibliographica:Tumblin_Down
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Bleecker_Street ;
   bibliographica:byArtist bibliographica:Bleecker_Street ;
   rdfs:label "Tumblin' Down" ;
-  skos:prefLabel "Tumblin' Down" ;
 .
 bibliographica:Turtles_Dream
   rdf:type schema:MusicAlbum ;
@@ -980,7 +863,6 @@ bibliographica:Turtles_Dream
   bibliographica:byArtist bibliographica:Abbey_Lincoln ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c415ccb6-432f-478e-ab9b-469231b6febb"^^xsd:anyURI ;
   rdfs:label "A Turtle's Dream" ;
-  skos:prefLabel "A Turtle's Dream" ;
 .
 bibliographica:Twang_Bar_King
   rdf:type schema:MusicAlbum ;
@@ -988,7 +870,6 @@ bibliographica:Twang_Bar_King
   bibliographica:byArtist bibliographica:Adrian_Belew ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/6ddcaf4c-d7e7-47f6-89c3-b28716bf79d0"^^xsd:anyURI ;
   rdfs:label "Twang Bar King" ;
-  skos:prefLabel "Twang Bar King" ;
 .
 bibliographica:Ultimate_Anita_O-Day
   rdf:type schema:MusicAlbum ;
@@ -996,7 +877,6 @@ bibliographica:Ultimate_Anita_O-Day
   bibliographica:byArtist bibliographica:Anita_O-Day ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/68c030aa-d70b-4c14-92bb-feebcca9eb6f"^^xsd:anyURI ;
   rdfs:label "Ultimate Anita O'Day" ;
-  skos:prefLabel "Ultimate Anita O'Day" ;
 .
 bibliographica:Unplugged
   rdf:type schema:MusicAlbum ;
@@ -1004,7 +884,6 @@ bibliographica:Unplugged
   bibliographica:byArtist bibliographica:_10000_Maniacs ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/90bfbec9-862c-4334-b235-43ff5111de03"^^xsd:anyURI ;
   rdfs:label "Unplugged" ;
-  skos:prefLabel "Unplugged" ;
 .
 bibliographica:Up_Up_Up_Up_Up_Up
   rdf:type schema:MusicAlbum ;
@@ -1012,7 +891,6 @@ bibliographica:Up_Up_Up_Up_Up_Up
   bibliographica:byArtist bibliographica:Ani_DiFranco ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/07a48cd5-2fd5-3c3f-b61b-569ecd2c86e0"^^xsd:anyURI ;
   rdfs:label "Up Up Up Up Up Up" ;
-  skos:prefLabel "Up Up Up Up Up Up" ;
 .
 bibliographica:Viva_Zapata
   rdf:type schema:MusicAlbum ;
@@ -1020,7 +898,6 @@ bibliographica:Viva_Zapata
   bibliographica:byArtist bibliographica:_7_Year_Bitch ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/f36d8ca5-df31-4f0a-8b30-644dd61c9874"^^xsd:anyURI ;
   rdfs:label "¡Viva Zapata!" ;
-  skos:prefLabel "¡Viva Zapata!" ;
 .
 bibliographica:When_There_is_Love
   rdf:type schema:MusicAlbum ;
@@ -1029,7 +906,6 @@ bibliographica:When_There_is_Love
   bibliographica:byArtist bibliographica:Hank_Jones ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d20eecae-2fd1-45e9-895b-8a8089a02461"^^xsd:anyURI ;
   rdfs:label "When There is Love" ;
-  skos:prefLabel "When There is Love" ;
 .
 bibliographica:Which_Way_to_Here
   rdf:type schema:MusicAlbum ;
@@ -1037,7 +913,6 @@ bibliographica:Which_Way_to_Here
   bibliographica:byArtist bibliographica:Anders_Osborne ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e3107a4a-d7d7-4a10-9e4d-5e95d795629f"^^xsd:anyURI ;
   rdfs:label "Which Way to Here" ;
-  skos:prefLabel "Which Way to Here" ;
 .
 bibliographica:White_Album
   rdf:type schema:MusicAlbum ;
@@ -1045,7 +920,6 @@ bibliographica:White_Album
   bibliographica:byArtist bibliographica:Beatles ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/034e0c73-c2df-328b-861c-3db28217aeed"^^xsd:anyURI ;
   rdfs:label "The Beatles (“The White Album”)" ;
-  skos:prefLabel "The Beatles (“The White Album”)" ;
 .
 bibliographica:Who_Got_The_10_1_2
   rdf:type schema:MusicAlbum ;
@@ -1053,7 +927,6 @@ bibliographica:Who_Got_The_10_1_2
   bibliographica:byArtist bibliographica:Black_Flag ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/dcaf0cab-da06-4ea7-86b5-66f0e9996bec"^^xsd:anyURI ;
   rdfs:label "Who's Got the 10½?" ;
-  skos:prefLabel "Who's Got the 10½?" ;
 .
 bibliographica:Wholly_Earth
   rdf:type schema:MusicAlbum ;
@@ -1061,7 +934,6 @@ bibliographica:Wholly_Earth
   bibliographica:byArtist bibliographica:Abbey_Lincoln ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/689dad1c-0789-42d6-8346-b48f115e05fb"^^xsd:anyURI ;
   rdfs:label "Wholly Earth" ;
-  skos:prefLabel "Wholly Earth" ;
 .
 bibliographica:Wild_Planet
   rdf:type schema:MusicAlbum ;
@@ -1069,7 +941,6 @@ bibliographica:Wild_Planet
   bibliographica:byArtist bibliographica:B-52s ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/34c9f3a8-898a-3d33-92bc-64a46ad75928"^^xsd:anyURI ;
   rdfs:label "Wild Planet" ;
-  skos:prefLabel "Wild Planet" ;
 .
 bibliographica:Wild_Planet_1
   rdf:type schema:MusicAlbum ;
@@ -1077,7 +948,6 @@ bibliographica:Wild_Planet_1
   bibliographica:byArtist bibliographica:B-52s ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/34c9f3a8-898a-3d33-92bc-64a46ad75928"^^xsd:anyURI ;
   rdfs:label "Wild Planet" ;
-  skos:prefLabel "Wild Planet" ;
 .
 bibliographica:William_Bloke
   rdf:type schema:MusicAlbum ;
@@ -1085,7 +955,6 @@ bibliographica:William_Bloke
   bibliographica:byArtist bibliographica:Billy_Bragg ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/01f8a2a0-8996-4277-9f00-10b27b51db78"^^xsd:anyURI ;
   rdfs:label "William Bloke" ;
-  skos:prefLabel "William Bloke" ;
 .
 bibliographica:Year_of_the_Cat
   rdf:type schema:MusicAlbum ;
@@ -1093,7 +962,6 @@ bibliographica:Year_of_the_Cat
   bibliographica:byArtist bibliographica:Al_Stewart ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/8f195fea-549e-4659-97a8-d9e619361ab0"^^xsd:anyURI ;
   rdfs:label "Year of the Cat" ;
-  skos:prefLabel "Year of the Cat" ;
 .
 bibliographica:Young_Lions
   rdf:type schema:MusicAlbum ;
@@ -1101,7 +969,6 @@ bibliographica:Young_Lions
   bibliographica:byArtist bibliographica:Adrian_Belew ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/38a32ba3-77e1-35c1-83aa-828b7913fd1a"^^xsd:anyURI ;
   rdfs:label "Young Lions" ;
-  skos:prefLabel "Young Lions" ;
 .
 bibliographica:_30_Greatest_Hits
   rdf:type schema:MusicAlbum ;
@@ -1109,7 +976,6 @@ bibliographica:_30_Greatest_Hits
   bibliographica:byArtist bibliographica:Aretha_Franklin ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a9ca845f-7221-4f19-a207-b81e9fc511ec"^^xsd:anyURI ;
   rdfs:label "30 Greatest Hits" ;
-  skos:prefLabel "30 Greatest Hits" ;
 .
 bibliographica:_3_Years_5_Months
   rdf:type schema:MusicAlbum ;
@@ -1117,5 +983,4 @@ bibliographica:_3_Years_5_Months
   bibliographica:byArtist bibliographica:Arrested_Development ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/ede793b4-4976-3b7a-ba3b-fde6801de64c"^^xsd:anyURI ;
   rdfs:label "3 Years, 5 Months & 2 Days in the Life of…" ;
-  skos:prefLabel "3 Years, 5 Months & 2 Days in the Life of…" ;
 .

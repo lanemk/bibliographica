@@ -2,6 +2,7 @@
 # imports: http://musicontology.com/specification/
 # imports: http://purl.org/dc/terms/
 # imports: http://topbraid.org/schema/
+# imports: http://xmlns.com/foaf/0.1/
 
 @prefix : <http://www.connaissance.io/onto/biblio/bibliographica#> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
@@ -23,6 +24,7 @@
   owl:imports <http://musicontology.com/specification/> ;
   owl:imports dcterms: ;
   owl:imports <http://topbraid.org/schema/> ;
+  owl:imports foaf: ;
   owl:versionInfo "Developed by M Lane, Portland, Oregon" ;
 .
 :AlphaClass
@@ -163,6 +165,7 @@
 :binNumber
   rdf:type owl:DatatypeProperty ;
   rdfs:comment "This property refers to the bin container where the item is stored." ;
+  rdfs:label "Bin number" ;
   rdfs:range xsd:integer ;
 .
 :byArtist
@@ -189,6 +192,7 @@
 :dbpediaURI
   rdf:type owl:DatatypeProperty ;
   rdfs:comment "This resource captures, or encodes a link to DBpedia entities. It is presented as N3/Turtle format URI (content-negotiable)." ;
+  rdfs:label "DBpedia URI" ;
   rdfs:range xsd:anyURI ;
 .
 :digital_satellite
@@ -211,7 +215,7 @@
           schema:MusicRelease
         ) ;
     ] ;
-  rdfs:label "install url" ;
+  rdfs:label "Info file URL" ;
   rdfs:range xsd:anyURI ;
 .
 :locationVenue
@@ -223,25 +227,27 @@
 :musicbrainzURI
   rdf:type owl:DatatypeProperty ;
   rdfs:comment "This resource captures, or encodes a link to MusicBrainz entities; can't determine if Collection Ontology possesses such a property, except that mo:musicbrainz won't accept a URI. In principle, this URI links a given entity in Bibliographica to the MusicBrainz graph. It is presented in N3/Turtle format (content-negotiable)." ;
+  rdfs:label "Musicbrainz URI" ;
   rdfs:range xsd:anyURI ;
 .
 :numberOfitems
   rdf:type owl:DatatypeProperty ;
   rdfs:comment "This property refers to the number of item copies are in the collection.." ;
+  rdfs:label "Number of iterms" ;
   rdfs:range xsd:integer ;
 .
 :performanceRating
   rdf:type owl:DatatypeProperty ;
   rdfs:comment "The rating for the quality of the performance." ;
   rdfs:domain :PerformanceQualityRating ;
-  rdfs:label "rating value" ;
+  rdfs:label "Performance rating" ;
   rdfs:range xsd:integer ;
 .
 :soundQualityValue
   rdf:type owl:DatatypeProperty ;
   rdfs:comment "The rating for the sound quality of the content." ;
   rdfs:domain :SoundQualityRating ;
-  rdfs:label "Sound quality rating value." ;
+  rdfs:label "Sound quality rating" ;
   rdfs:range xsd:int ;
 .
 :soundboard
@@ -261,10 +267,12 @@
 :viafURI
   rdf:type owl:DatatypeProperty ;
   rdfs:comment "This resource captures, or encodes a link to Library of Congress entities. It is presented as RDF file format URI (content-negotiable)." ;
+  rdfs:label "viaf URI" ;
   rdfs:range xsd:anyURI ;
 .
 :worldcatURI
   rdf:type owl:DatatypeProperty ;
   rdfs:comment "This resource captures, or encodes a link to Worldcat entities. It is presented as N3/Turtle format URI (content-negotiable)." ;
+  rdfs:label "Worldcat URI" ;
   rdfs:range xsd:anyURI ;
 .
