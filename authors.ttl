@@ -41,6 +41,13 @@ bibliographica:AC_Bhaktivedanta_Swami
   rdfs:label "A.C. Bhaktivedanta Swami Prabhupāda" ;
   foaf:name "A.C. Bhaktivedanta Swami Prabhupāda" ;
 .
+bibliographica:AJ_Verdelle
+  rdf:type bibliographica:Author ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/A._J._Verdelle.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/92332396/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "A.J. Verdelle" ;
+  foaf:name "A.J. Verdelle" ;
+.
 bibliographica:AS_Byatt
   rdf:type bibliographica:Author ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/A._S._Byatt.ttl"^^xsd:anyURI ;
@@ -1765,6 +1772,7 @@ bibliographica:Mil_Millington
 .
 bibliographica:Miles_Davis
   bibliographica:viafURI "http://viaf.org/viaf/97762193/rdf.xml"^^xsd:anyURI ;
+  foaf:name "Miles Davis" ;
 .
 bibliographica:Moosewood_Collective
   rdf:type schema:Organization ;
@@ -1900,6 +1908,7 @@ bibliographica:Patricia_Schechter
 .
 bibliographica:Patti_Smith
   bibliographica:viafURI "http://viaf.org/viaf/84037206/rdf.xml"^^xsd:anyURI ;
+  foaf:name "Patti Smith" ;
 .
 bibliographica:Paul_Auster
   rdf:type bibliographica:Author ;
@@ -2285,7 +2294,7 @@ bibliographica:Shunto_Aoyama
   rdf:type bibliographica:Author ;
   bibliographica:viafURI "http://viaf.org/viaf/66633701/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Shuntō Aoyama" ;
-  foaf:name "\"Shuntō Aoyama\"@en" ;
+  foaf:name "Shuntō Aoyama" ;
 .
 bibliographica:Somerville_E_Œ
   rdf:type bibliographica:Author ;
