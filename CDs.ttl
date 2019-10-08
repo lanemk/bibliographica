@@ -8,6 +8,7 @@
 @prefix SoloMusicArtist: <http://www.connaissance.io/onto/biblio/SoloMusicArtist#> .
 @prefix bibliographica: <http://www.connaissance.io/onto/biblio/bibliographica#> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
@@ -93,61 +94,61 @@ dcterms:URI
 dcterms:W3CDTF
   rdfs:subClassOf rdfs:Resource ;
 .
-<http://purl.org/ontology/mo/Activity>
+mo:Activity
   rdfs:subClassOf owl:Thing ;
 .
-<http://purl.org/ontology/mo/Arrangement>
+mo:Arrangement
   rdfs:subClassOf owl:Thing ;
 .
-<http://purl.org/ontology/mo/Composition>
+mo:Composition
   rdfs:subClassOf owl:Thing ;
 .
-<http://purl.org/ontology/mo/Festival>
+mo:Festival
   rdfs:subClassOf owl:Thing ;
 .
-<http://purl.org/ontology/mo/Genre>
+mo:Genre
   rdfs:subClassOf owl:Thing ;
 .
-<http://purl.org/ontology/mo/Instrument>
+mo:Instrument
   rdfs:subClassOf owl:Thing ;
 .
-<http://purl.org/ontology/mo/Membership>
+mo:Membership
   rdfs:subClassOf owl:Thing ;
 .
-<http://purl.org/ontology/mo/MusicalExpression>
+mo:MusicalExpression
   rdfs:subClassOf owl:Thing ;
 .
-<http://purl.org/ontology/mo/MusicalItem>
+mo:MusicalItem
   rdfs:subClassOf owl:Thing ;
 .
-<http://purl.org/ontology/mo/MusicalManifestation>
+mo:MusicalManifestation
   rdfs:subClassOf owl:Thing ;
 .
-<http://purl.org/ontology/mo/MusicalWork>
+mo:MusicalWork
   rdfs:subClassOf owl:Thing ;
 .
-<http://purl.org/ontology/mo/Performance>
+mo:Performance
   rdfs:subClassOf owl:Thing ;
 .
-<http://purl.org/ontology/mo/Recording>
+mo:Recording
   rdfs:subClassOf owl:Thing ;
 .
-<http://purl.org/ontology/mo/RecordingSession>
+mo:RecordingSession
   rdfs:subClassOf owl:Thing ;
 .
-<http://purl.org/ontology/mo/ReleaseEvent>
+mo:ReleaseEvent
   rdfs:subClassOf owl:Thing ;
 .
-<http://purl.org/ontology/mo/ReleaseStatus>
+mo:ReleaseStatus
   rdfs:subClassOf owl:Thing ;
 .
-<http://purl.org/ontology/mo/ReleaseType>
+mo:ReleaseType
   rdfs:subClassOf owl:Thing ;
 .
-<http://purl.org/ontology/mo/Show>
+mo:Show
   rdfs:subClassOf owl:Thing ;
 .
-<http://purl.org/ontology/mo/Transcription>
+mo:Transcription
   rdfs:subClassOf owl:Thing ;
 .
 schema:Boolean
@@ -180,6 +181,9 @@ schema:Time
   owl:versionInfo "Developed by M Lane, Portland, Oregon" ;
 .
 bibliographica:Abbey_is_Blue
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Abbey_Lincoln ;
   bibliographica:byArtist bibliographica:Abbey_Lincoln ;
@@ -187,6 +191,9 @@ bibliographica:Abbey_is_Blue
   rdfs:label "Abbey is Blue" ;
 .
 bibliographica:Alices_Restaurant
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Arlo_Guthrie ;
   bibliographica:byArtist bibliographica:Arlo_Guthrie ;
@@ -194,6 +201,9 @@ bibliographica:Alices_Restaurant
   rdfs:label "Alice's Restaurant" ;
 .
 bibliographica:Amaduduzo_compilation
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Amaduduzo ;
   bibliographica:byArtist bibliographica:Amaduduzo ;
@@ -202,6 +212,9 @@ bibliographica:Amaduduzo_compilation
   rdfs:label "Amaduduzo (compilation)" ;
 .
 bibliographica:Amanda_Marshall_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Amanda_Marshall ;
   bibliographica:byArtist bibliographica:Amanda_Marshall ;
@@ -209,6 +222,9 @@ bibliographica:Amanda_Marshall_CD
   rdfs:label "Amanda Marshall (cd)" ;
 .
 bibliographica:AniDiFranco
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Ani_DiFranco ;
   bibliographica:byArtist bibliographica:Ani_DiFranco ;
@@ -216,6 +232,9 @@ bibliographica:AniDiFranco
   rdfs:label "Ani DiFranco" ;
 .
 bibliographica:Anthem
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Black_Uhuru ;
   bibliographica:byArtist bibliographica:Black_Uhuru ;
@@ -223,6 +242,9 @@ bibliographica:Anthem
   rdfs:label "Anthem" ;
 .
 bibliographica:Arethas_Gold
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Aretha_Franklin ;
   bibliographica:byArtist bibliographica:Aretha_Franklin ;
@@ -230,6 +252,9 @@ bibliographica:Arethas_Gold
   rdfs:label "Aretha’s Gold" ;
 .
 bibliographica:At_Fillmore_East
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Allman_Brothers ;
   bibliographica:byArtist bibliographica:Allman_Brothers ;
@@ -237,6 +262,9 @@ bibliographica:At_Fillmore_East
   rdfs:label "At Fillmore East (Deluxe Edition)" ;
 .
 bibliographica:At_Last
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Cyndi_Lauper ;
   bibliographica:byArtist bibliographica:Cyndi_Lauper ;
@@ -244,6 +272,9 @@ bibliographica:At_Last
   rdfs:label "At Last" ;
 .
 bibliographica:Attainable_Love
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Christine_Lavin ;
   bibliographica:byArtist bibliographica:Christine_Lavin ;
@@ -251,6 +282,9 @@ bibliographica:Attainable_Love
   rdfs:label "Attainable Love" ;
 .
 bibliographica:Aye
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Angélique_Kidjo ;
   bibliographica:byArtist bibliographica:Angélique_Kidjo ;
@@ -258,6 +292,9 @@ bibliographica:Aye
   rdfs:label "Ayé" ;
 .
 bibliographica:Bachelor_No_2
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Aimee_Mann ;
   bibliographica:byArtist bibliographica:Aimee_Mann ;
@@ -265,6 +302,9 @@ bibliographica:Bachelor_No_2
   rdfs:label "Bachelor No. 2" ;
 .
 bibliographica:Backbone
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Annie_Gallup ;
   bibliographica:byArtist bibliographica:Annie_Gallup ;
@@ -272,6 +312,9 @@ bibliographica:Backbone
   rdfs:label "Backbone" ;
 .
 bibliographica:Bad_Company_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Bad_Company ;
   bibliographica:byArtist bibliographica:Bad_Company ;
@@ -279,6 +322,9 @@ bibliographica:Bad_Company_CD
   rdfs:label "Bad Company" ;
 .
 bibliographica:Bare
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Annie_Lennox ;
   bibliographica:byArtist bibliographica:Annie_Lennox ;
@@ -286,6 +332,9 @@ bibliographica:Bare
   rdfs:label "Bare" ;
 .
 bibliographica:Bawdy_Sea_Chanties
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Oscar_Brand ;
   bibliographica:byArtist bibliographica:Oscar_Brand ;
@@ -293,6 +342,9 @@ bibliographica:Bawdy_Sea_Chanties
   rdfs:label "Bawdy Sea Chanties" ;
 .
 bibliographica:Bebel_Gilberto_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator "bibliographica:Bebel_Gilberto" ;
   bibliographica:byArtist bibliographica:Bebel_Gilberto ;
@@ -300,6 +352,9 @@ bibliographica:Bebel_Gilberto_CD
   rdfs:label "Bebel Gilberto (CD)" ;
 .
 bibliographica:Bigger_Better_Faster_More
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:_4_Non_Blondes ;
   bibliographica:byArtist bibliographica:_4_Non_Blondes ;
@@ -307,6 +362,9 @@ bibliographica:Bigger_Better_Faster_More
   rdfs:label "Bigger, Better, Faster, More" ;
 .
 bibliographica:Blind_Faith_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Blind_Faith ;
   bibliographica:byArtist bibliographica:Blind_Faith ;
@@ -314,6 +372,9 @@ bibliographica:Blind_Faith_CD
   rdfs:label "Blind Faith" ;
 .
 bibliographica:Bluegrass_Reunion
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:BluegrassReunion ;
   dcterms:creator bibliographica:David_Grisman ;
@@ -323,6 +384,9 @@ bibliographica:Bluegrass_Reunion
   rdfs:label "Bluegrass Reunion" ;
 .
 bibliographica:Blues_Traveler
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Blues_Traveler ;
   bibliographica:byArtist bibliographica:Blues_Traveler ;
@@ -330,6 +394,9 @@ bibliographica:Blues_Traveler
   rdfs:label "Blues Traveler" ;
 .
 bibliographica:Born_Under_a_Bad_Sign
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Albert_King ;
   bibliographica:byArtist bibliographica:Albert_King ;
@@ -337,6 +404,9 @@ bibliographica:Born_Under_a_Bad_Sign
   rdfs:label "Born Under a Bad Sign" ;
 .
 bibliographica:Bouncing_Off_The_Satellites
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:B-52s ;
   bibliographica:byArtist bibliographica:B-52s ;
@@ -344,6 +414,9 @@ bibliographica:Bouncing_Off_The_Satellites
   rdfs:label "Bouncing Off The Satellites" ;
 .
 bibliographica:Brothers_And_Sisters
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Allman_Brothers ;
   bibliographica:byArtist bibliographica:Allman_Brothers ;
@@ -351,6 +424,9 @@ bibliographica:Brothers_And_Sisters
   rdfs:label "Brothers And Sisters" ;
 .
 bibliographica:By_The_Hand_Of_The_Father
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Alejandro_Escovedo ;
   bibliographica:byArtist bibliographica:Alejandro_Escovedo ;
@@ -358,6 +434,9 @@ bibliographica:By_The_Hand_Of_The_Father
   rdfs:label "By The Hand Of The Father" ;
 .
 bibliographica:Cajun_Conja
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:BeauSoleil ;
   bibliographica:byArtist bibliographica:BeauSoleil ;
@@ -365,6 +444,9 @@ bibliographica:Cajun_Conja
   rdfs:label "Cajun Conja" ;
 .
 bibliographica:Chameleon
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Badi_Assad ;
   bibliographica:byArtist bibliographica:Badi_Assad ;
@@ -372,6 +454,9 @@ bibliographica:Chameleon
   rdfs:label "Chameleon" ;
 .
 bibliographica:Check_It_Out
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:BeauJocque_ZydecoHiRollers ;
   bibliographica:byArtist bibliographica:BeauJocque_ZydecoHiRollers ;
@@ -379,6 +464,9 @@ bibliographica:Check_It_Out
   rdfs:label "Check It Out, Lock It In, Crank It Up!" ;
 .
 bibliographica:Chill_Out
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Black_Uhuru ;
   bibliographica:byArtist bibliographica:Black_Uhuru ;
@@ -386,6 +474,9 @@ bibliographica:Chill_Out
   rdfs:label "Chill Out" ;
 .
 bibliographica:Christine_Kane_Live
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Christine_Kane ;
   bibliographica:byArtist bibliographica:Christine_Kane ;
@@ -393,6 +484,9 @@ bibliographica:Christine_Kane_Live
   rdfs:label "Christine Kane Live" ;
 .
 bibliographica:Colour_Moving_Still
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Chantal_Kreviazuk ;
   bibliographica:byArtist bibliographica:Chantal_Kreviazuk ;
@@ -400,6 +494,9 @@ bibliographica:Colour_Moving_Still
   rdfs:label "Colour Moving and Still" ;
 .
 bibliographica:Cool
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Bob_James ;
   dcterms:creator bibliographica:Earl_Klugh ;
@@ -409,6 +506,9 @@ bibliographica:Cool
   rdfs:label "Cool" ;
 .
 bibliographica:Cosmic_Thing
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:B-52s ;
   bibliographica:byArtist bibliographica:B-52s ;
@@ -416,6 +516,9 @@ bibliographica:Cosmic_Thing
   rdfs:label "Cosmic Thing" ;
 .
 bibliographica:Courage_My_Love
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Annie_Gallup ;
   bibliographica:byArtist bibliographica:Annie_Gallup ;
@@ -423,6 +526,9 @@ bibliographica:Courage_My_Love
   rdfs:label "Courage My Love" ;
 .
 bibliographica:Cut_Me_Loose
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:The_Assassins ;
   bibliographica:byArtist bibliographica:The_Assassins ;
@@ -430,6 +536,9 @@ bibliographica:Cut_Me_Loose
   rdfs:label "Cut Me Loose" ;
 .
 bibliographica:Dark_Massive_Disengage
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Albert_King ;
   bibliographica:byArtist bibliographica:Bill_Laswell ;
@@ -437,6 +546,9 @@ bibliographica:Dark_Massive_Disengage
   rdfs:label "Dark Massive Disengage Ambient Compendium" ;
 .
 bibliographica:Deeper_Still
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Beth_Nielsen_Chapman ;
   bibliographica:byArtist bibliographica:Beth_Nielsen_Chapman ;
@@ -444,6 +556,9 @@ bibliographica:Deeper_Still
   rdfs:label "Deeper Still" ;
 .
 bibliographica:Desire_Of_The_Rhino_King
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Adrian_Belew ;
   bibliographica:byArtist bibliographica:Adrian_Belew ;
@@ -451,6 +566,9 @@ bibliographica:Desire_Of_The_Rhino_King
   rdfs:label "Desire Of The Rhino King" ;
 .
 bibliographica:Deuces_Wild
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:BB_King ;
   bibliographica:byArtist bibliographica:BB_King ;
@@ -458,6 +576,9 @@ bibliographica:Deuces_Wild
   rdfs:label "Deuces Wild" ;
 .
 bibliographica:Die_Grossen_Tangos
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Alfred_Hause_Tango_Orchestra ;
   bibliographica:byArtist bibliographica:Alfred_Hause_Tango_Orchestra ;
@@ -465,6 +586,9 @@ bibliographica:Die_Grossen_Tangos
   rdfs:label "Die Grossen Tangos" ;
 .
 bibliographica:Dilate
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Ani_DiFranco ;
   bibliographica:byArtist bibliographica:Ani_DiFranco ;
@@ -472,6 +596,9 @@ bibliographica:Dilate
   rdfs:label "Dilate" ;
 .
 bibliographica:Discovered_Covered
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Daniel_Johnston ;
   bibliographica:byArtist bibliographica:Daniel_Johnston ;
@@ -479,6 +606,9 @@ bibliographica:Discovered_Covered
   rdfs:label "The Late Great Daniel Johnston: Discovered Covered" ;
 .
 bibliographica:Double_Barrel_Blues
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Barrel_of_Blues ;
   bibliographica:byArtist bibliographica:Barrel_of_Blues ;
@@ -486,6 +616,9 @@ bibliographica:Double_Barrel_Blues
   rdfs:label "Double Barrel Blues" ;
 .
 bibliographica:Eat_a_Peach
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Allman_Brothers ;
   bibliographica:byArtist bibliographica:Allman_Brothers ;
@@ -493,6 +626,9 @@ bibliographica:Eat_a_Peach
   rdfs:label "Eat a Peach" ;
 .
 bibliographica:Echoes_of_Brazil
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Badi_Assad ;
   bibliographica:byArtist bibliographica:Badi_Assad ;
@@ -500,6 +636,9 @@ bibliographica:Echoes_of_Brazil
   rdfs:label "Echoes of Brazil" ;
 .
 bibliographica:Essential_the_Very_Best_Of
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Airto_Moreira ;
   bibliographica:byArtist bibliographica:Airto_Moreira ;
@@ -507,6 +646,9 @@ bibliographica:Essential_the_Very_Best_Of
   rdfs:label "Essential, the Very Best Of" ;
 .
 bibliographica:Family_Man
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Black_Flag ;
   bibliographica:byArtist bibliographica:Black_Flag ;
@@ -514,12 +656,18 @@ bibliographica:Family_Man
   rdfs:label "Family Man" ;
 .
 bibliographica:Feel_The_Sun
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Band_Du_Jour ;
   bibliographica:byArtist bibliographica:Band_Du_Jour ;
   rdfs:label "Feel The Sun" ;
 .
 bibliographica:Friend_of_Mine
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Bill_Morrissey ;
   dcterms:creator bibliographica:Greg_Brown ;
@@ -529,6 +677,9 @@ bibliographica:Friend_of_Mine
   rdfs:label "Friend of Mine" ;
 .
 bibliographica:Go_Tell_It_On_The_Mountain
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Blind_Boys_of_Alabama ;
   bibliographica:byArtist bibliographica:Blind_Boys_of_Alabama ;
@@ -536,6 +687,9 @@ bibliographica:Go_Tell_It_On_The_Mountain
   rdfs:label "Go Tell It On The Mountain" ;
 .
 bibliographica:Good_Stuff
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:B-52s ;
   bibliographica:byArtist bibliographica:B-52s ;
@@ -543,6 +697,9 @@ bibliographica:Good_Stuff
   rdfs:label "Good Stuff" ;
 .
 bibliographica:Grand_Piano_Canyon
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Bob_James ;
   bibliographica:byArtist bibliographica:Bob_James ;
@@ -550,6 +707,9 @@ bibliographica:Grand_Piano_Canyon
   rdfs:label "Grand Piano Canyon" ;
 .
 bibliographica:Gravity
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Alejandro_Escovedo ;
   bibliographica:byArtist bibliographica:Alejandro_Escovedo ;
@@ -557,6 +717,9 @@ bibliographica:Gravity
   rdfs:label "Gravity" ;
 .
 bibliographica:Gravity_bonus_disc
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Alejandro_Escovedo ;
   bibliographica:byArtist bibliographica:Alejandro_Escovedo ;
@@ -564,6 +727,9 @@ bibliographica:Gravity_bonus_disc
   rdfs:label "Gravity (bonus disc)" ;
 .
 bibliographica:Heart_of_the_Forest
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Baka_Beyond ;
   bibliographica:byArtist bibliographica:Baka_Beyond ;
@@ -571,6 +737,9 @@ bibliographica:Heart_of_the_Forest
   rdfs:label "Heart of the Forest" ;
 .
 bibliographica:Highway_Cafe_Of_The_Damned
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Austin_Lounge_Lizards ;
   bibliographica:byArtist bibliographica:Austin_Lounge_Lizards ;
@@ -578,6 +747,9 @@ bibliographica:Highway_Cafe_Of_The_Damned
   rdfs:label "Highway Cafe Of The Damned (1988)" ;
 .
 bibliographica:Hogs_on_the_Highway
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Bad_Livers ;
   bibliographica:byArtist bibliographica:Bad_Livers ;
@@ -585,6 +757,9 @@ bibliographica:Hogs_on_the_Highway
   rdfs:label "Hogs on the Highway" ;
 .
 bibliographica:Home_Ground
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Battlefield_Band ;
   bibliographica:byArtist bibliographica:Battlefield_Band ;
@@ -592,12 +767,18 @@ bibliographica:Home_Ground
   rdfs:label "Home Ground" ;
 .
 bibliographica:Homenaje
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Artistas_Cubanos ;
   bibliographica:byArtist bibliographica:Artistas_Cubanos ;
   rdfs:label "Homenaje" ;
 .
 bibliographica:Homogenic
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Björk ;
   bibliographica:byArtist bibliographica:Björk ;
@@ -605,6 +786,9 @@ bibliographica:Homogenic
   rdfs:label "Homogenic" ;
 .
 bibliographica:Horses_In_The_Mines
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Bad_Livers ;
   bibliographica:byArtist bibliographica:Bad_Livers ;
@@ -612,6 +796,9 @@ bibliographica:Horses_In_The_Mines
   rdfs:label "Horses In The Mines" ;
 .
 bibliographica:Humpty_Dumpty
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Aimee_Mann ;
   bibliographica:byArtist bibliographica:Aimee_Mann ;
@@ -619,12 +806,18 @@ bibliographica:Humpty_Dumpty
   rdfs:label "Humpty Dumpty" ;
 .
 bibliographica:I_Need_A_Gun_And_A_Drunk
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Bleecker_Street ;
   bibliographica:byArtist bibliographica:Bleecker_Street ;
   rdfs:label "I Need A Gun And A Drunk" ;
 .
 bibliographica:In_My_Tribe
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:_10000_Maniacs ;
   bibliographica:byArtist bibliographica:_10000_Maniacs ;
@@ -632,6 +825,9 @@ bibliographica:In_My_Tribe
   rdfs:label "In My Tribe" ;
 .
 bibliographica:L_Amour_ou_la_Folie
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:BeauSoleil ;
   bibliographica:byArtist bibliographica:BeauSoleil ;
@@ -639,6 +835,9 @@ bibliographica:L_Amour_ou_la_Folie
   rdfs:label "L'Amour ou la Folie" ;
 .
 bibliographica:Let_It_Be
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Beatles ;
   bibliographica:byArtist bibliographica:Beatles ;
@@ -646,6 +845,9 @@ bibliographica:Let_It_Be
   rdfs:label "Let It Be" ;
 .
 bibliographica:Live_Art
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Bela_Fleck_and_the_Flecktones ;
   bibliographica:byArtist bibliographica:Bela_Fleck_and_the_Flecktones ;
@@ -653,6 +855,9 @@ bibliographica:Live_Art
   rdfs:label "Live Art" ;
 .
 bibliographica:Live_From_the_Left_Coast
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:BeauSoleil ;
   bibliographica:byArtist bibliographica:BeauSoleil ;
@@ -660,6 +865,9 @@ bibliographica:Live_From_the_Left_Coast
   rdfs:label "Live! From the Left Coast" ;
 .
 bibliographica:Living_In_Clip
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Ani_DiFranco ;
   bibliographica:byArtist bibliographica:Ani_DiFranco ;
@@ -667,6 +875,9 @@ bibliographica:Living_In_Clip
   rdfs:label "Living In Clip" ;
 .
 bibliographica:Lizard_Vision
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Austin_Lounge_Lizards ;
   bibliographica:byArtist bibliographica:Austin_Lounge_Lizards ;
@@ -674,6 +885,9 @@ bibliographica:Lizard_Vision
   rdfs:label "Lizard Vision" ;
 .
 bibliographica:Logozo
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Angélique_Kidjo ;
   bibliographica:byArtist bibliographica:Angélique_Kidjo ;
@@ -681,6 +895,9 @@ bibliographica:Logozo
   rdfs:label "Logozo" ;
 .
 bibliographica:Lone_Rhino
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Adrian_Belew ;
   bibliographica:byArtist bibliographica:Adrian_Belew ;
@@ -688,6 +905,9 @@ bibliographica:Lone_Rhino
   rdfs:label "Lone Rhino" ;
 .
 bibliographica:Lost_In_Space
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Aimee_Mann ;
   bibliographica:byArtist bibliographica:Aimee_Mann ;
@@ -695,6 +915,9 @@ bibliographica:Lost_In_Space
   rdfs:label "Lost In Space" ;
 .
 bibliographica:Love_Is_A_Truck
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Connie_Kaldor ;
   bibliographica:byArtist bibliographica:Connie_Kaldor ;
@@ -702,6 +925,9 @@ bibliographica:Love_Is_A_Truck
   rdfs:label "Love Is A Truck" ;
 .
 bibliographica:Medusa
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Annie_Lennox ;
   bibliographica:byArtist bibliographica:Annie_Lennox ;
@@ -709,12 +935,18 @@ bibliographica:Medusa
   rdfs:label "Medusa" ;
 .
 bibliographica:Mile_Marker
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Ana_Egge ;
   bibliographica:byArtist bibliographica:Ana_Egge ;
   rdfs:label "Mile Marker" ;
 .
 bibliographica:Mr_Music_Head
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Adrian_Belew ;
   bibliographica:byArtist bibliographica:Adrian_Belew ;
@@ -722,6 +954,9 @@ bibliographica:Mr_Music_Head
   rdfs:label "Mr Music Head" ;
 .
 bibliographica:Original_Bad_Co_Anthology
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Bad_Company ;
   bibliographica:byArtist bibliographica:Bad_Company ;
@@ -729,6 +964,9 @@ bibliographica:Original_Bad_Co_Anthology
   rdfs:label "The ‘Original’ Bad Co. Anthology" ;
 .
 bibliographica:Outbound
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Bela_Fleck_and_the_Flecktones ;
   bibliographica:byArtist bibliographica:Bela_Fleck_and_the_Flecktones ;
@@ -736,6 +974,9 @@ bibliographica:Outbound
   rdfs:label "Outbound" ;
 .
 bibliographica:Para_Bailar_Casino
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Adalberto_Alvarez_Y_Su_Son ;
   bibliographica:byArtist bibliographica:Adalberto_Alvarez_Y_Su_Son ;
@@ -743,6 +984,9 @@ bibliographica:Para_Bailar_Casino
   rdfs:label "Para Bailar Casino" ;
 .
 bibliographica:Paradise_Lost_Found
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Anne_Hills ;
   bibliographica:byArtist bibliographica:Annie_Gallup ;
@@ -750,6 +994,9 @@ bibliographica:Paradise_Lost_Found
   rdfs:label "Paradise Lost & Found" ;
 .
 bibliographica:Paranoid
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Black_Sabbath ;
   bibliographica:byArtist bibliographica:Black_Sabbath ;
@@ -757,6 +1004,9 @@ bibliographica:Paranoid
   rdfs:label "Paranoid" ;
 .
 bibliographica:People_in_Me
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Abbey_Lincoln ;
   bibliographica:byArtist bibliographica:Abbey_Lincoln ;
@@ -764,6 +1014,9 @@ bibliographica:People_in_Me
   rdfs:label "People in Me" ;
 .
 bibliographica:Pick_Up_On_This
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:BeauJocque_ZydecoHiRollers ;
   bibliographica:byArtist bibliographica:BeauJocque_ZydecoHiRollers ;
@@ -771,6 +1024,9 @@ bibliographica:Pick_Up_On_This
   rdfs:label "Pick Up On This!" ;
 .
 bibliographica:Places
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Bela_Fleck ;
   bibliographica:byArtist bibliographica:Bela_Fleck ;
@@ -778,6 +1034,9 @@ bibliographica:Places
   rdfs:label "Places" ;
 .
 bibliographica:Pulse_Where_Rhythm_Begins
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Brent_Lewis ;
   bibliographica:byArtist bibliographica:Brent_Lewis ;
@@ -785,6 +1044,9 @@ bibliographica:Pulse_Where_Rhythm_Begins
   rdfs:label "Pulse - Where the Rhythm Begins" ;
 .
 bibliographica:Reckoning_Revelling
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Ani_DiFranco ;
   bibliographica:byArtist bibliographica:Ani_DiFranco ;
@@ -792,6 +1054,9 @@ bibliographica:Reckoning_Revelling
   rdfs:label "Reckoning/Revelling" ;
 .
 bibliographica:Revolver
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Beatles ;
   bibliographica:byArtist bibliographica:Beatles ;
@@ -799,6 +1064,9 @@ bibliographica:Revolver
   rdfs:label "Revolver" ;
 .
 bibliographica:River_Under_The_Road
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Ana_Egge ;
   bibliographica:byArtist bibliographica:Ana_Egge ;
@@ -806,12 +1074,18 @@ bibliographica:River_Under_The_Road
   rdfs:label "River Under The Road" ;
 .
 bibliographica:Sampler
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Andrew_Bird ;
   bibliographica:byArtist bibliographica:Andrew_Bird ;
   rdfs:label "Sampler" ;
 .
 bibliographica:Side_Four
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Adrian_Belew ;
   bibliographica:byArtist bibliographica:Adrian_Belew ;
@@ -819,6 +1093,9 @@ bibliographica:Side_Four
   rdfs:label "Side Four" ;
 .
 bibliographica:Side_One
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Adrian_Belew ;
   bibliographica:byArtist bibliographica:Adrian_Belew ;
@@ -826,6 +1103,9 @@ bibliographica:Side_One
   rdfs:label "Side One" ;
 .
 bibliographica:Sinsemilla
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Black_Uhuru ;
   bibliographica:byArtist bibliographica:Black_Uhuru ;
@@ -833,6 +1113,9 @@ bibliographica:Sinsemilla
   rdfs:label "Sinsemilla" ;
 .
 bibliographica:Slow_Circle
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Alex_de_Grassi ;
   bibliographica:byArtist bibliographica:Alex_de_Grassi ;
@@ -840,6 +1123,9 @@ bibliographica:Slow_Circle
   rdfs:label "Slow Circle" ;
 .
 bibliographica:Small_Minds
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Austin_Lounge_Lizards ;
   bibliographica:byArtist bibliographica:Austin_Lounge_Lizards ;
@@ -847,6 +1133,9 @@ bibliographica:Small_Minds
   rdfs:label "Small Minds" ;
 .
 bibliographica:So_Much_Shouting_So_Much_Laughter
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Ani_DiFranco ;
   bibliographica:byArtist bibliographica:Ani_DiFranco ;
@@ -854,6 +1143,9 @@ bibliographica:So_Much_Shouting_So_Much_Laughter
   rdfs:label "So Much Shouting, So Much Laughter" ;
 .
 bibliographica:Solo
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Badi_Assad ;
   bibliographica:byArtist bibliographica:Badi_Assad ;
@@ -861,6 +1153,9 @@ bibliographica:Solo
   rdfs:label "Solo" ;
 .
 bibliographica:Son_of_the_Wind
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Arlo_Guthrie ;
   bibliographica:byArtist bibliographica:Arlo_Guthrie ;
@@ -868,6 +1163,9 @@ bibliographica:Son_of_the_Wind
   rdfs:label "Son of the Wind" ;
 .
 bibliographica:Songs_of_our_Fathers
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Andy_Statman ;
   dcterms:creator bibliographica:David_Grisman ;
@@ -877,6 +1175,9 @@ bibliographica:Songs_of_our_Fathers
   rdfs:label "Songs of our Fathers" ;
 .
 bibliographica:Southern_Exposure
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Alex_de_Grassi ;
   bibliographica:byArtist bibliographica:Alex_de_Grassi ;
@@ -884,6 +1185,9 @@ bibliographica:Southern_Exposure
   rdfs:label "Southern Exposure" ;
 .
 bibliographica:Spirit_of_the_Century
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Blind_Boys_of_Alabama ;
   bibliographica:byArtist bibliographica:Blind_Boys_of_Alabama ;
@@ -891,12 +1195,18 @@ bibliographica:Spirit_of_the_Century
   rdfs:label "Spirit of the Century" ;
 .
 bibliographica:Stranger_to_This_Land
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Barbara_Kessler ;
   bibliographica:byArtist bibliographica:Barbara_Kessler ;
   rdfs:label "Stranger to This Land" ;
 .
 bibliographica:Super_Session
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator "bibliographica:Al_Kooper" ;
   dcterms:creator "bibliographica:Mike_Bloomfield" ;
@@ -908,6 +1218,9 @@ bibliographica:Super_Session
   rdfs:label "Super Session" ;
 .
 bibliographica:Swerve
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Annie_Gallup ;
   bibliographica:byArtist bibliographica:Annie_Gallup ;
@@ -915,6 +1228,9 @@ bibliographica:Swerve
   rdfs:label "Swerve" ;
 .
 bibliographica:Talking_Timbuktu
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator "bibliographica:Ali_Farka_Toure" ;
   bibliographica:byArtist bibliographica:Ali_Farka_Toure ;
@@ -922,6 +1238,9 @@ bibliographica:Talking_Timbuktu
   rdfs:label "Talking Timbuktu" ;
 .
 bibliographica:Tanto_Tempo
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator "bibliographica:Bebel_Gilberto" ;
   bibliographica:byArtist bibliographica:Bebel_Gilberto ;
@@ -929,6 +1248,9 @@ bibliographica:Tanto_Tempo
   rdfs:label "Tanto Tempo" ;
 .
 bibliographica:Tapestry
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Chantal_Kreviazuk ;
   bibliographica:byArtist bibliographica:Chantal_Kreviazuk ;
@@ -936,6 +1258,9 @@ bibliographica:Tapestry
   rdfs:label "Tapestry" ;
 .
 bibliographica:Tell_It_Like_It_T-I-Is
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:B-52s ;
   bibliographica:byArtist bibliographica:B-52s ;
@@ -943,6 +1268,9 @@ bibliographica:Tell_It_Like_It_T-I-Is
   rdfs:label "Tell It Like It T-I-Is" ;
 .
 bibliographica:Telling_Stories_To_The_Sea
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Adventures_in_Afropea ;
   bibliographica:byArtist bibliographica:Adventures_in_Afropea ;
@@ -950,6 +1278,9 @@ bibliographica:Telling_Stories_To_The_Sea
   rdfs:label "Telling Stories To The Sea" ;
 .
 bibliographica:The_First_Ten_Years
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Altan ;
   bibliographica:byArtist bibliographica:Altan ;
@@ -957,12 +1288,18 @@ bibliographica:The_First_Ten_Years
   rdfs:label "The First Ten Years: 1986 / 1995" ;
 .
 bibliographica:The_Govnor
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Ashley_Hutchings ;
   bibliographica:byArtist bibliographica:Ashley_Hutchings ;
   rdfs:label "The Gov'nor" ;
 .
 bibliographica:The_Peel_Session_Album
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Billy_Bragg ;
   bibliographica:byArtist bibliographica:Billy_Bragg ;
@@ -970,6 +1307,9 @@ bibliographica:The_Peel_Session_Album
   rdfs:label "The Peel Session Album" ;
 .
 bibliographica:The_Source
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator "bibliographica:Ali_Farka_Toure" ;
   bibliographica:byArtist bibliographica:Ali_Farka_Toure ;
@@ -977,6 +1317,9 @@ bibliographica:The_Source
   rdfs:label "The Source" ;
 .
 bibliographica:The_Wishing_Chair
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:_10000_Maniacs ;
   bibliographica:byArtist bibliographica:_10000_Maniacs ;
@@ -984,6 +1327,9 @@ bibliographica:The_Wishing_Chair
   rdfs:label "The Wishing Chair" ;
 .
 bibliographica:There_Must_Be_a_Better_World
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:BB_King ;
   bibliographica:byArtist bibliographica:BB_King ;
@@ -991,6 +1337,9 @@ bibliographica:There_Must_Be_a_Better_World
   rdfs:label "There Must Be a Better World" ;
 .
 bibliographica:Too_Good_to_Be_Forgotten
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Amazulu ;
   bibliographica:byArtist bibliographica:Amazulu ;
@@ -998,6 +1347,9 @@ bibliographica:Too_Good_to_Be_Forgotten
   rdfs:label "Too Good to Be Forgotten" ;
 .
 bibliographica:Total_Eclipse
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Billy_Cobham ;
   bibliographica:byArtist bibliographica:Billy_Cobham ;
@@ -1005,12 +1357,18 @@ bibliographica:Total_Eclipse
   rdfs:label "Total Eclipse" ;
 .
 bibliographica:Tumblin_Down
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Bleecker_Street ;
   bibliographica:byArtist bibliographica:Bleecker_Street ;
   rdfs:label "Tumblin' Down" ;
 .
 bibliographica:Turtles_Dream
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Abbey_Lincoln ;
   bibliographica:byArtist bibliographica:Abbey_Lincoln ;
@@ -1018,6 +1376,9 @@ bibliographica:Turtles_Dream
   rdfs:label "A Turtle's Dream" ;
 .
 bibliographica:Twang_Bar_King
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Adrian_Belew ;
   bibliographica:byArtist bibliographica:Adrian_Belew ;
@@ -1025,6 +1386,9 @@ bibliographica:Twang_Bar_King
   rdfs:label "Twang Bar King" ;
 .
 bibliographica:Ultimate_Anita_O-Day
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Anita_O-Day ;
   bibliographica:byArtist bibliographica:Anita_O-Day ;
@@ -1032,6 +1396,9 @@ bibliographica:Ultimate_Anita_O-Day
   rdfs:label "Ultimate Anita O'Day" ;
 .
 bibliographica:Unplugged
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:_10000_Maniacs ;
   bibliographica:byArtist bibliographica:_10000_Maniacs ;
@@ -1039,6 +1406,9 @@ bibliographica:Unplugged
   rdfs:label "Unplugged" ;
 .
 bibliographica:Up_Up_Up_Up_Up_Up
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Ani_DiFranco ;
   bibliographica:byArtist bibliographica:Ani_DiFranco ;
@@ -1046,6 +1416,9 @@ bibliographica:Up_Up_Up_Up_Up_Up
   rdfs:label "Up Up Up Up Up Up" ;
 .
 bibliographica:Viva_Zapata
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Bad_Company ;
   bibliographica:byArtist bibliographica:_7_Year_Bitch ;
@@ -1053,6 +1426,9 @@ bibliographica:Viva_Zapata
   rdfs:label "¡Viva Zapata!" ;
 .
 bibliographica:When_There_is_Love
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Abbey_Lincoln ;
   bibliographica:byArtist bibliographica:Abbey_Lincoln ;
@@ -1061,6 +1437,9 @@ bibliographica:When_There_is_Love
   rdfs:label "When There is Love" ;
 .
 bibliographica:Which_Way_to_Here
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Anders_Osborne ;
   bibliographica:byArtist bibliographica:Anders_Osborne ;
@@ -1068,6 +1447,9 @@ bibliographica:Which_Way_to_Here
   rdfs:label "Which Way to Here" ;
 .
 bibliographica:White_Album
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Beatles ;
   bibliographica:byArtist bibliographica:Beatles ;
@@ -1075,6 +1457,9 @@ bibliographica:White_Album
   rdfs:label "The Beatles (“The White Album”)" ;
 .
 bibliographica:Who_Got_The_10_1_2
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Black_Flag ;
   bibliographica:byArtist bibliographica:Black_Flag ;
@@ -1082,6 +1467,9 @@ bibliographica:Who_Got_The_10_1_2
   rdfs:label "Who's Got the 10½?" ;
 .
 bibliographica:Wholly_Earth
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Abbey_Lincoln ;
   bibliographica:byArtist bibliographica:Abbey_Lincoln ;
@@ -1089,13 +1477,9 @@ bibliographica:Wholly_Earth
   rdfs:label "Wholly Earth" ;
 .
 bibliographica:Wild_Planet
-  rdf:type schema:MusicAlbum ;
-  dcterms:creator bibliographica:B-52s ;
-  bibliographica:byArtist bibliographica:B-52s ;
-  bibliographica:musicbrainzURI "https://musicbrainz.org/release/34c9f3a8-898a-3d33-92bc-64a46ad75928"^^xsd:anyURI ;
-  rdfs:label "Wild Planet" ;
-.
-bibliographica:Wild_Planet_1
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:B-52s ;
   bibliographica:byArtist bibliographica:B-52s ;
@@ -1103,6 +1487,9 @@ bibliographica:Wild_Planet_1
   rdfs:label "Wild Planet" ;
 .
 bibliographica:William_Bloke
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Billy_Bragg ;
   bibliographica:byArtist bibliographica:Billy_Bragg ;
@@ -1110,6 +1497,9 @@ bibliographica:William_Bloke
   rdfs:label "William Bloke" ;
 .
 bibliographica:Year_of_the_Cat
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Al_Stewart ;
   bibliographica:byArtist bibliographica:Al_Stewart ;
@@ -1117,6 +1507,9 @@ bibliographica:Year_of_the_Cat
   rdfs:label "Year of the Cat" ;
 .
 bibliographica:Young_Lions
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Adrian_Belew ;
   bibliographica:byArtist bibliographica:Adrian_Belew ;
@@ -1124,6 +1517,9 @@ bibliographica:Young_Lions
   rdfs:label "Young Lions" ;
 .
 bibliographica:_30_Greatest_Hits
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Aretha_Franklin ;
   bibliographica:byArtist bibliographica:Aretha_Franklin ;
@@ -1131,6 +1527,9 @@ bibliographica:_30_Greatest_Hits
   rdfs:label "30 Greatest Hits" ;
 .
 bibliographica:_3_Years_5_Months
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator bibliographica:Arrested_Development ;
   bibliographica:byArtist bibliographica:Arrested_Development ;

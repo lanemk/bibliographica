@@ -137,9 +137,9 @@
 .
 :LiveMusicRec
   rdf:type owl:Class ;
-  rdfs:comment "A collection of music tracks." ;
   rdfs:label "Live Bootleg" ;
-  rdfs:subClassOf schema:MusicAlbum ;
+  rdfs:subClassOf mo:Performance ;
+  rdfs:subClassOf mo:Recording ;
 .
 :PerformanceQualityRating
   rdf:type owl:Class ;
@@ -208,13 +208,6 @@
 :infoFileURL
   rdf:type owl:DatatypeProperty ;
   rdfs:comment "URL where an info file can be accessed for a Live Music Release." ;
-  rdfs:domain [
-      rdf:type owl:Class ;
-      owl:unionOf (
-          :LiveMusicRec
-          schema:MusicRelease
-        ) ;
-    ] ;
   rdfs:label "Info file URL" ;
   rdfs:range xsd:anyURI ;
 .
