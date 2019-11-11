@@ -1,0 +1,12 @@
+## Count the number of books in the collection (cataloged to date).
+ 
+PREFIX schema: <http://schema.org/>
+
+SELECT  (COUNT(?book) AS ?books_count)
+
+FROM <http://www.connaissance.io/onto/biblio/books.ttl>
+
+WHERE
+{ 
+  ?book a schema:Book  .
+}
