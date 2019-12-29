@@ -1,0 +1,17 @@
+## List all the authors and their book titles (...cataloged to date).
+ 
+ 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+
+SELECT DISTINCT ?author ?title
+
+FROM <http://www.connaissance.io/onto/biblio/books.ttl>
+FROM <http://www.connaissance.io/onto/biblio/authors.ttl>
+
+WHERE
+{ ?s dcterms:title ?title ;
+   dcterms:creator ?creator .
+?creator rdfs:label ?author
+} 
+ORDER BY ?author
