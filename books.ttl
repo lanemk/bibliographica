@@ -15,7 +15,6 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-
 bibliographica:A_Confederacy_of_Dunces
   rdf:type schema:Book ;
   dcterms:creator bibliographica:John_Kennedy_Toole ;
@@ -805,9 +804,9 @@ bibliographica:ChroniclesOne
 .
 bibliographica:Close_Case
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Alifair_Burke ;
+  dcterms:creator bibliographica:Alafair_Burke ;
   dcterms:title "Close Case" ;
-  schema:author bibliographica:Alifair_Burke ;
+  schema:author bibliographica:Alafair_Burke ;
   schema:isbn "0312940572" ;
   bibliographica:binNumber 1 ;
   bibliographica:numberOfitems 1 ;
@@ -1236,6 +1235,17 @@ bibliographica:Fay
   schema:author bibliographica:Larry_Brown ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/46518578.ttl"^^xsd:anyURI ;
   rdfs:label "Fay: a novel" ;
+.
+bibliographica:Fear_and_loathing_campaign_trail
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Hunter_S_Thompson ;
+  dcterms:title "Fear and loathing : on the campaign trail '72" ;
+  schema:author bibliographica:Hunter_S_Thompson ;
+  schema:isbn "0446698229" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/692291194.ttl"^^xsd:anyURI ;
+  rdfs:label "Fear and loathing : on the campaign trail '72" ;
 .
 bibliographica:Femme_dAdventure
   rdf:type schema:Book ;
@@ -1930,6 +1940,17 @@ bibliographica:Joy_of_Cooking
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/37801353.ttl"^^xsd:anyURI ;
   rdfs:label "Joy of Cooking" ;
 .
+bibliographica:Judgment_Calls
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Alafair_Burke ;
+  dcterms:title "Judgment Calls" ;
+  schema:author bibliographica:Alafair_Burke ;
+  schema:isbn "0312997205" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/55476003.ttl"^^xsd:anyURI ;
+  rdfs:label "Judgment Calls" ;
+.
 bibliographica:Julip
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Jim_Harrison ;
@@ -2112,7 +2133,10 @@ bibliographica:Mere_Christianity
   dcterms:creator bibliographica:CS_Lewis ;
   dcterms:title "Mere Christianity" ;
   schema:author bibliographica:CS_Lewis ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/941244460.ttl"^^xsd:anyURI ;
+  schema:isbn "0020868308" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/941701078.ttl"^^xsd:anyURI ;
   rdfs:label "Mere Christianity" ;
 .
 bibliographica:Midnight_at_the_Dragon_Cafe
@@ -3612,6 +3636,17 @@ bibliographica:The_KGB_Bar_Nonfiction_Reader
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/56411820.ttl"^^xsd:anyURI ;
   rdfs:label "The KGB Bar Nonfiction Reader" ;
 .
+bibliographica:The_Last_Detective
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Robert_Crais ;
+  dcterms:title "The Last Detective" ;
+  schema:author bibliographica:Robert_Crais ;
+  schema:isbn "0345451902" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/54830961.ttl"^^xsd:anyURI ;
+  rdfs:label "The Last Detective" ;
+.
 bibliographica:The_Last_Samurai
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Helen_DeWitt ;
@@ -4384,6 +4419,17 @@ bibliographica:Unsuitable_Job_for_a_Woman
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1005489576.ttl"^^xsd:anyURI ;
   rdfs:label "An Unsuitable Job for a Woman" ;
+.
+bibliographica:Valhalla_Rising
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Clive_Cussler ;
+  dcterms:title "Valhalla Rising" ;
+  schema:author bibliographica:Clive_Cussler ;
+  schema:isbn "0425185710" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1028021852.ttl"^^xsd:anyURI ;
+  rdfs:label "Valhalla Rising" ;
 .
 bibliographica:Vanity_of_Duluoz
   rdf:type schema:Book ;

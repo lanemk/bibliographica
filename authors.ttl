@@ -88,6 +88,13 @@ bibliographica:Al_Di_Meola
   rdfs:label "Al Di Meola" ;
   foaf:name "Al Di Meola" ;
 .
+bibliographica:Alafair_Burke
+  rdf:type bibliographica:Author ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Alafair_Burke.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/85530906/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Alafair Burke" ;
+  foaf:name "Alafair Burke" ;
+.
 bibliographica:Alan_Duff
   rdf:type bibliographica:Author ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Alan_Duff.ttl"^^xsd:anyURI ;
@@ -122,13 +129,6 @@ bibliographica:Alice_Walker
   bibliographica:viafURI "http://viaf.org/viaf/108495772/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Alice Walker" ;
   foaf:name "Alice Walker" ;
-.
-bibliographica:Alifair_Burke
-  rdf:type bibliographica:Author ;
-  bibliographica:dbpediaURI "http://dbpedia.org/data/Alafair_Burke.ttl"^^xsd:anyURI ;
-  bibliographica:viafURI "http://viaf.org/viaf/85530906/rdf.xml"^^xsd:anyURI ;
-  rdfs:label "Alifair Burke" ;
-  foaf:name "Alifair Burke" ;
 .
 bibliographica:Ana_Castillo
   rdf:type bibliographica:Author ;
@@ -996,6 +996,13 @@ bibliographica:Howard_Wallach
   bibliographica:viafURI "https://viaf.org/viaf/38969144/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Howard R. Wallach" ;
   foaf:name "Howard R. Wallach" ;
+.
+bibliographica:Hunter_S_Thompson
+  rdf:type bibliographica:Author ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Hunter_S._Thompson.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/109030443/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Hunter S. Thompson" ;
+  foaf:name "Hunter S. Thompson" ;
 .
 bibliographica:Irma_Rombauer
   rdf:type bibliographica:Author ;
@@ -2107,6 +2114,13 @@ bibliographica:Robert_Boswell
   bibliographica:viafURI "http://viaf.org/viaf/49928619/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Robert Boswell" ;
   foaf:name "Robert Boswell" ;
+.
+bibliographica:Robert_Crais
+  rdf:type bibliographica:Author ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Robert_Crais.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/110237124/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Robert Crais" ;
+  foaf:name "Robert Crais" ;
 .
 bibliographica:Robert_Gagne
   rdf:type bibliographica:Author ;
