@@ -984,6 +984,13 @@ bibliographica:Helene_Tursten
   rdfs:label "Helene Tursten" ;
   foaf:name "Helene Tursten" ;
 .
+bibliographica:Henning_Mankell
+  rdf:type bibliographica:Author ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Henning_Mankell.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/84944859/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Henning Mankell" ;
+  foaf:name "Henning Mankell" ;
+.
 bibliographica:Henry_David_Thoreau
   rdf:type bibliographica:Author ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Henry_David_Thoreau.ttl"^^xsd:anyURI ;
@@ -1219,6 +1226,13 @@ bibliographica:Jim_Harrison
   rdfs:label "Jim Harrison" ;
   foaf:name "Jim Harrison" ;
 .
+bibliographica:Jim_Webb
+  rdf:type bibliographica:Author ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Jim_Webb.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/3717010/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Jim Webb" ;
+  foaf:name "Jim Webb" ;
+.
 bibliographica:Jingxiong_Wu
   rdf:type bibliographica:Author ;
   bibliographica:viafURI "http://viaf.org/viaf/50022349/rdf.xml"^^xsd:anyURI ;
@@ -1272,6 +1286,13 @@ bibliographica:John_Brimhall
   bibliographica:viafURI "https://viaf.org/viaf/4087931/rdf.xml"^^xsd:anyURI ;
   rdfs:label "John Brimhall" ;
   foaf:name "John Brimhall" ;
+.
+bibliographica:John_Burdett
+  rdf:type bibliographica:Author ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/John_Burdett.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/73961581/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "John Burdett" ;
+  foaf:name "John Burdett" ;
 .
 bibliographica:John_Clellon_Holmes
   rdf:type bibliographica:Author ;
@@ -1582,6 +1603,13 @@ bibliographica:Madhur_Jaffrey
   bibliographica:viafURI "http://viaf.org/viaf/119620635/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Madhur Jaffrey" ;
   foaf:name "Madhur Jaffrey" ;
+.
+bibliographica:Maeve_Binchy
+  rdf:type bibliographica:Author ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Maeve_Binchy.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/113069974/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Maeve Binchy" ;
+  foaf:name "Maeve Binchy" ;
 .
 bibliographica:Malcolm_Cowley
   rdf:type bibliographica:Author ;

@@ -299,6 +299,17 @@ bibliographica:Atlantis_Found
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/41967119.ttl"^^xsd:anyURI ;
   rdfs:label "Atlantis Found" ;
 .
+bibliographica:Atomic_Lobster
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Tim_Dorsey ;
+  dcterms:title "Atomic Lobster" ;
+  schema:author bibliographica:Tim_Dorsey ;
+  schema:isbn "9780060829704" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/299578298.ttl"^^xsd:anyURI ;
+  rdfs:label "Atomic Lobster" ;
+.
 bibliographica:Authentic_Guitar_Classics
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Jerry_Garcia ;
@@ -406,6 +417,17 @@ bibliographica:Banjo_Boy
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/30473488.ttl"^^xsd:anyURI ;
   rdfs:label "Banjo Boy" ;
+.
+bibliographica:Bankok_8
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:John_Burdett ;
+  dcterms:title "Bangkok 8" ;
+  schema:author bibliographica:John_Burdett ;
+  schema:isbn "1400032903" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1099286073.ttl"^^xsd:anyURI ;
+  rdfs:label "Bangkok 8" ;
 .
 bibliographica:Basic_Rockcraft
   rdf:type schema:Book ;
@@ -565,6 +587,9 @@ bibliographica:Bone_in_the_Throat
   dcterms:creator bibliographica:Anthony_Bourdain ;
   dcterms:title "Bone in the Throat" ;
   schema:author bibliographica:Anthony_Bourdain ;
+  schema:isbn "1582341028" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/31740216.ttl"^^xsd:anyURI ;
   rdfs:label "Bone in the Throat" ;
 .
@@ -1255,6 +1280,17 @@ bibliographica:Femme_dAdventure
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/37331596.ttl"^^xsd:anyURI ;
   rdfs:label "Femme d'adventure : travel tales" ;
 .
+bibliographica:Fields_of_Fire
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Jim_Webb ;
+  dcterms:title "Fields of Fire" ;
+  schema:author bibliographica:Jim_Webb ;
+  schema:isbn "0553583859" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1091588382.ttl"^^xsd:anyURI ;
+  rdfs:label "Fields of Fire" ;
+.
 bibliographica:Fifty_Guitar_Solos
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Howard_Wallach ;
@@ -1910,6 +1946,17 @@ bibliographica:Jazz_Tunes_for_Improvisation
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/68081458.ttl"^^xsd:anyURI ;
   rdfs:label "Jazz Tunes for Improvisation, Vol. 1" ;
 .
+bibliographica:Jitterbug_Perfume
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Tom_Robbins ;
+  dcterms:title "Jitterbug Perfume" ;
+  schema:author bibliographica:Tom_Robbins ;
+  schema:isbn "0553251481" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/906465186.ttl"^^xsd:anyURI ;
+  rdfs:label "Jitterbug Perfume" ;
+.
 bibliographica:John_Coltrane_life_and_music
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Lewis_Porter ;
@@ -2465,6 +2512,17 @@ bibliographica:Peppers_of_the_world
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/34475704.ttl"^^xsd:anyURI ;
   rdfs:label "Peppers of the world : an identification guide" ;
 .
+bibliographica:Physics_of_Caribou_Creek
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Carl_Forest ;
+  dcterms:title "The Physics of Caribou Creek" ;
+  schema:author bibliographica:Carl_Forest ;
+  schema:isbn "1878987011" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/23177137.ttl"^^xsd:anyURI ;
+  rdfs:label "The Physics of Caribou Creek" ;
+.
 bibliographica:Planet_Drum
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Mickey_Hart ;
@@ -2532,6 +2590,17 @@ bibliographica:Pretty_Birds
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/70143924.ttl"^^xsd:anyURI ;
   rdfs:label "Pretty Birds" ;
+.
+bibliographica:Prisoner_of_Azkaban
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:JK_Rowling ;
+  dcterms:title "The Prisoner of Azkaban" ;
+  schema:author bibliographica:JK_Rowling ;
+  schema:isbn "0439136369" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/610301939.ttl"^^xsd:anyURI ;
+  rdfs:label "The Prisoner of Azkaban" ;
 .
 bibliographica:Project_Mgmt
   rdf:type schema:Book ;
@@ -2984,13 +3053,16 @@ bibliographica:Singin_and_swingin
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/2213357.ttl"^^xsd:anyURI ;
   rdfs:label "Singin' and swingin' and gettin' merry like Christmas" ;
 .
-bibliographica:Sisters_of_the_Earth
+bibliographica:Sisters_of_the_Earth-2
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Lorraine_Anderson ;
-  dcterms:title "Sisters of the Earth: Women's Prose and Poetry about Nature" ;
-  schema:editor bibliographica:Lorraine_Anderson ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/22451794.ttl"^^xsd:anyURI ;
-  rdfs:label "Sisters of the Earth" ;
+  dcterms:title "Sisters of the Earth : women's prose and poetry about nature" ;
+  schema:author bibliographica:Lorraine_Anderson ;
+  schema:isbn "0679733825" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/924995896.ttll"^^xsd:anyURI ;
+  rdfs:label "Sisters of the Earth : women's prose and poetry about nature" ;
 .
 bibliographica:Skeleton_Coast
   rdf:type schema:Book ;
@@ -3091,6 +3163,9 @@ bibliographica:Still_Life
   dcterms:creator bibliographica:AS_Byatt ;
   dcterms:title "Still Life" ;
   schema:author bibliographica:AS_Byatt ;
+  schema:isbn "0020178557" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/12235397.ttl"^^xsd:anyURI ;
   rdfs:label "Still Life" ;
 .
@@ -3195,6 +3270,17 @@ bibliographica:Tao_te_ching
   schema:author bibliographica:Jingxiong_Wu ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/671079723.ttl"^^xsd:anyURI ;
   rdfs:label "Tao Te Ching" ;
+.
+bibliographica:Tara_Road
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Maeve_Binchy ;
+  dcterms:title "Tara Road" ;
+  schema:author bibliographica:Maeve_Binchy ;
+  schema:isbn "0440235596" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1005289444.ttl"^^xsd:anyURI ;
+  rdfs:label "Tara Road" ;
 .
 bibliographica:Tender_at_the_Bone
   rdf:type schema:Book ;
@@ -3741,13 +3827,16 @@ bibliographica:The_New_York_Times_Cookbook
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/429611629.ttl"^^xsd:anyURI ;
   rdfs:label "The New York Times Cookbook" ;
 .
-bibliographica:The_Physics_of_Caribou_Creek
+bibliographica:The_Outsiders
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Carl_Forest ;
-  dcterms:title "The Physics of Caribou Creek : a story of love" ;
-  schema:author bibliographica:Carl_Forest ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/23177137.ttl"^^xsd:anyURI ;
-  rdfs:label "The Physics of Caribou Creek" ;
+  dcterms:creator bibliographica:Clive_Cussler ;
+  dcterms:title "Valhalla Rising" ;
+  schema:author bibliographica:Clive_Cussler ;
+  schema:isbn "0425185710" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1028021852.ttl"^^xsd:anyURI ;
+  rdfs:label "The Outsiders" ;
 .
 bibliographica:The_Pilots_Wife
   rdf:type schema:Book ;
@@ -4056,7 +4145,10 @@ bibliographica:The_kingdom_beyond_the_waves
   dcterms:creator bibliographica:Stephen_Hunt ;
   dcterms:title "The kingdom beyond the waves" ;
   schema:author bibliographica:Stephen_Hunt ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/290437160.ttl"^^xsd:anyURI ;
+  schema:isbn "9780765360236" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1035699571.ttl"^^xsd:anyURI ;
   rdfs:label "The kingdom beyond the waves" ;
 .
 bibliographica:The_last_good_kiss_a_novel
@@ -4603,6 +4695,17 @@ bibliographica:White_Death
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/52514032.ttl"^^xsd:anyURI ;
   rdfs:label "White Death" ;
+.
+bibliographica:White_Linoness
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Henning_Mankell ;
+  dcterms:title "The White Lioness" ;
+  schema:author bibliographica:Henning_Mankell ;
+  schema:isbn "9781400031559" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1120399545.ttl"^^xsd:anyURI ;
+  rdfs:label "The White Lioness" ;
 .
 bibliographica:White_jazz
   rdf:type schema:Book ;
