@@ -1273,6 +1273,13 @@ bibliographica:Jodi_Picoult
   rdfs:label "Jodi Picoult" ;
   foaf:name "Jodi Picoult" ;
 .
+bibliographica:Joe_Coomer
+  rdf:type bibliographica:Author ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Joe_Coomer_(author).ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/18063386/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Joe Coomer" ;
+  foaf:name "Joe Coomer" ;
+.
 bibliographica:John_Barth
   rdf:type bibliographica:Author ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/John_Barth.ttl"^^xsd:anyURI ;
@@ -1418,6 +1425,13 @@ bibliographica:Kate_Atkinson
   bibliographica:viafURI "http://viaf.org/viaf/59219639/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Kate Atkinson" ;
   foaf:name "Kate Atkinson" ;
+.
+bibliographica:Katherine_Neville
+  rdf:type bibliographica:Author ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Katherine_Neville_(author).ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/112187557/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Katherine Neville" ;
+  foaf:name "Katherine Neville" ;
 .
 bibliographica:Kathleen_Tyau
   rdf:type bibliographica:Author ;
@@ -1576,6 +1590,13 @@ bibliographica:Lindsey_Davis
   bibliographica:viafURI "http://viaf.org/viaf/8029680/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Lindsey Davis" ;
   foaf:name "Lindsey Davis" ;
+.
+bibliographica:Lois-Ann_Yamanaka
+  rdf:type bibliographica:Author ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Lois-Ann_Yamanaka.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/115656872/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Lois-Ann Yamanaka" ;
+  foaf:name "Lois-Ann Yamanaka" ;
 .
 bibliographica:Lorraine_Anderson
   rdf:type bibliographica:Author ;
@@ -2150,6 +2171,13 @@ bibliographica:Robert_Crais
   rdfs:label "Robert Crais" ;
   foaf:name "Robert Crais" ;
 .
+bibliographica:Robert_Dessaix
+  rdf:type bibliographica:Author ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Robert_Dessaix.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/7519816/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Robert Dessaix" ;
+  foaf:name "Adelle Davis" ;
+.
 bibliographica:Robert_Gagne
   rdf:type bibliographica:Author ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Robert_M._Gagn%C3%A9.ttl"^^xsd:anyURI ;
@@ -2655,6 +2683,13 @@ bibliographica:William_Trevor
   bibliographica:viafURI "http://viaf.org/viaf/101362985/rdf.xml"^^xsd:anyURI ;
   rdfs:label "William Trevor" ;
   foaf:name "William Trevor" ;
+.
+bibliographica:William_Vollmann
+  rdf:type bibliographica:Author ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/William_T._Vollmann.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/46804375/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "William T. Vollmann" ;
+  foaf:name "William T. Vollmann" ;
 .
 bibliographica:Woody_Mann
   rdf:type bibliographica:Author ;

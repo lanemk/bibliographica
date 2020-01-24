@@ -15,6 +15,17 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
+bibliographica:A_Calculated_Risk
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Katherine_Neville ;
+  dcterms:title "A Calculated Risk" ;
+  schema:author bibliographica:Katherine_Neville ;
+  schema:isbn "0345386825" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/441198481.ttl"^^xsd:anyURI ;
+  rdfs:label "A Calculated Risk" ;
+.
 bibliographica:A_Confederacy_of_Dunces
   rdf:type schema:Book ;
   dcterms:creator bibliographica:John_Kennedy_Toole ;
@@ -459,6 +470,17 @@ bibliographica:Beach_Road
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/67616899.ttl"^^xsd:anyURI ;
   rdfs:label "Beach Road" ;
 .
+bibliographica:Beachcombing_for_a_Shipwrecked_God
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Joe_Coomer ;
+  dcterms:title "Beachcombing for a Shipwrecked God" ;
+  schema:author bibliographica:Joe_Coomer ;
+  schema:isbn "068482440X" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/472919327.ttl"^^xsd:anyURI ;
+  rdfs:label "Beachcombing for a Shipwrecked God" ;
+.
 bibliographica:Been_in_Sorrows_Kitchen
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Susan_Straight ;
@@ -700,6 +722,17 @@ bibliographica:Burnt_House_to_Paw_Paw
   schema:author bibliographica:Merrill_Gilfillan ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/35911879.ttl"^^xsd:anyURI ;
   rdfs:label "Burnt House to Paw Paw" ;
+.
+bibliographica:Butterfly_Stories
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:William_Vollmann ;
+  dcterms:title "Butterfly Stories" ;
+  schema:author bibliographica:William_Vollmann ;
+  schema:isbn "0802134009" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1106929797.ttl"^^xsd:anyURI ;
+  rdfs:label "Butterfly Stories" ;
 .
 bibliographica:Captain_Sir_Richard_Francis_Burton
   rdf:type schema:Book ;
@@ -1081,6 +1114,9 @@ bibliographica:Detective_Inspector_Huss
   dcterms:creator bibliographica:Helene_Tursten ;
   dcterms:title "Detective Inspector Huss" ;
   schema:author bibliographica:Helene_Tursten ;
+  schema:isbn "1569473706" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/50645586.ttl"^^xsd:anyURI ;
   rdfs:label "Detective Inspector Huss" ;
 .
@@ -2260,6 +2296,17 @@ bibliographica:Mountaineering_Medicine
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/15535896.ttl"^^xsd:anyURI ;
   rdfs:label "Mountaineering Medicine" ;
 .
+bibliographica:Mutuwhenua
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Helene_Tursten ;
+  dcterms:title "Mutuwhenua" ;
+  schema:author bibliographica:Helene_Tursten ;
+  schema:isbn "0140089454" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1045652537.ttl"^^xsd:anyURI ;
+  rdfs:label "Mutuwhenua" ;
+.
 bibliographica:Mystery_Ride
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Robert_Boswell ;
@@ -2304,6 +2351,17 @@ bibliographica:New_Recipes_from_Moosewood_Restaurant
   schema:author bibliographica:Moosewood_Collective ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/16165443.ttl"^^xsd:anyURI ;
   rdfs:label "New Recipes from Moosewood Restaurant" ;
+.
+bibliographica:Night_Letters
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Katherine_Neville ;
+  dcterms:title "A Calculated Risk" ;
+  schema:author bibliographica:Katherine_Neville ;
+  schema:isbn "0345386825" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/441198481.ttl"^^xsd:anyURI ;
+  rdfs:label "A Calculated Risk" ;
 .
 bibliographica:Night_Over_Water
   rdf:type schema:Book ;
@@ -4523,6 +4581,17 @@ bibliographica:Valhalla_Rising
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1028021852.ttl"^^xsd:anyURI ;
   rdfs:label "Valhalla Rising" ;
 .
+bibliographica:Valhalla_Rising_1
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Clive_Cussler ;
+  dcterms:title "Valhalla Rising" ;
+  schema:author bibliographica:Clive_Cussler ;
+  schema:isbn "0425185710" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1028021852.ttl"^^xsd:anyURI ;
+  rdfs:label "Valhalla Rising" ;
+.
 bibliographica:Vanity_of_Duluoz
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Jack_Kerouac ;
@@ -4714,6 +4783,17 @@ bibliographica:White_jazz
   schema:author bibliographica:James_Ellroy ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/25547919.ttl"^^xsd:anyURI ;
   rdfs:label "White jazz : a novel" ;
+.
+bibliographica:Wild_meat_and_bully_burgers
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Lois-Ann_Yamanaka ;
+  dcterms:title "Wild Meat and the Bully Burgers : [a novel]" ;
+  schema:author bibliographica:Lois-Ann_Yamanaka ;
+  schema:isbn "0374290202" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/636113793.ttl"^^xsd:anyURI ;
+  rdfs:label "Wild Meat and the Bully Burgers : [a novel]" ;
 .
 bibliographica:Winnie_the_Pooh
   rdf:type schema:Book ;
