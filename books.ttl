@@ -15,17 +15,6 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-bibliographica:A_Calculated_Risk
-  rdf:type schema:Book ;
-  dcterms:creator bibliographica:Katherine_Neville ;
-  dcterms:title "A Calculated Risk" ;
-  schema:author bibliographica:Katherine_Neville ;
-  schema:isbn "0345386825" ;
-  bibliographica:binNumber 6 ;
-  bibliographica:numberOfitems 1 ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/441198481.ttl"^^xsd:anyURI ;
-  rdfs:label "A Calculated Risk" ;
-.
 bibliographica:A_Confederacy_of_Dunces
   rdf:type schema:Book ;
   dcterms:creator bibliographica:John_Kennedy_Toole ;
@@ -399,17 +388,6 @@ bibliographica:Bad_Luck_and_Trouble
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1054386655.ttl"^^xsd:anyURI ;
   rdfs:label "Bad Luck and Trouble" ;
 .
-bibliographica:Bad_Luck_and_Trouble_1
-  rdf:type schema:Book ;
-  dcterms:creator bibliographica:Lee_Child ;
-  dcterms:title "Bad Luck and Trouble" ;
-  schema:author bibliographica:Lee_Child ;
-  schema:isbn "9780440246015" ;
-  bibliographica:binNumber 5 ;
-  bibliographica:numberOfitems 1 ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1054386655.ttl"^^xsd:anyURI ;
-  rdfs:label "Bad Luck and Trouble" ;
-.
 bibliographica:Baileys_Café
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Gloria_Naylor ;
@@ -450,6 +428,17 @@ bibliographica:Basic_Rockcraft
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/24339675.ttl"^^xsd:anyURI ;
   rdfs:label "Basic Rockcraft" ;
+.
+bibliographica:Basic_Writings_of_Nietzsche
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Friedrick_Nietzsche ;
+  dcterms:title "Basic Writings of Nietzsche" ;
+  schema:author bibliographica:Friedrick_Nietzsche ;
+  schema:isbn "0394604067" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/809730238.ttl"^^xsd:anyURI ;
+  rdfs:label "Basic Writings of Nietzsche" ;
 .
 bibliographica:Basket_Case
   rdf:type schema:Book ;
@@ -733,6 +722,17 @@ bibliographica:Butterfly_Stories
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1106929797.ttl"^^xsd:anyURI ;
   rdfs:label "Butterfly Stories" ;
+.
+bibliographica:Calculated_Risk
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Katherine_Neville ;
+  dcterms:title "A Calculated Risk" ;
+  schema:author bibliographica:Katherine_Neville ;
+  schema:isbn "0345386825" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/441198481.ttl"^^xsd:anyURI ;
+  rdfs:label "A Calculated Risk" ;
 .
 bibliographica:Captain_Sir_Richard_Francis_Burton
   rdf:type schema:Book ;
@@ -1797,7 +1797,8 @@ bibliographica:Hummingbird_House
   dcterms:creator bibliographica:Patricia_Henley ;
   dcterms:title "Hummingbird House" ;
   schema:author bibliographica:Patricia_Henley ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/39837511.ttl"^^xsd:anyURI ;
+  schema:isbn "1878448986" ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/985842074.ttl"^^xsd:anyURI ;
   rdfs:label "Hummingbird House" ;
 .
 bibliographica:Hunting_a_Detroit_Tiger
@@ -2354,14 +2355,14 @@ bibliographica:New_Recipes_from_Moosewood_Restaurant
 .
 bibliographica:Night_Letters
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Katherine_Neville ;
-  dcterms:title "A Calculated Risk" ;
-  schema:author bibliographica:Katherine_Neville ;
-  schema:isbn "0345386825" ;
+  dcterms:creator bibliographica:Robert_Dessaix ;
+  dcterms:title "Night Letters" ;
+  schema:author bibliographica:Robert_Dessaix ;
+  schema:isbn "0312199392" ;
   bibliographica:binNumber 6 ;
   bibliographica:numberOfitems 1 ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/441198481.ttl"^^xsd:anyURI ;
-  rdfs:label "A Calculated Risk" ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/40193784.ttl"^^xsd:anyURI ;
+  rdfs:label "Night Letters" ;
 .
 bibliographica:Night_Over_Water
   rdf:type schema:Book ;
@@ -2484,7 +2485,10 @@ bibliographica:Once_Were_Warriors
   dcterms:creator bibliographica:Alan_Duff ;
   dcterms:title "Once Were Warriors" ;
   schema:author bibliographica:Alan_Duff ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/31375749.ttl"^^xsd:anyURI ;
+  schema:isbn "0824815939" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/469372382.ttl"^^xsd:anyURI ;
   rdfs:label "Once Were Warriors" ;
 .
 bibliographica:One_Virgin_Too_Many
@@ -2580,6 +2584,17 @@ bibliographica:Physics_of_Caribou_Creek
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/23177137.ttl"^^xsd:anyURI ;
   rdfs:label "The Physics of Caribou Creek" ;
+.
+bibliographica:Pine_Barrens
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:John_McPhee ;
+  dcterms:title "The Pine Barrens" ;
+  schema:author bibliographica:John_McPhee ;
+  schema:isbn "0374514429" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/26487843.ttl"^^xsd:anyURI ;
+  rdfs:label "The Pine Barrens" ;
 .
 bibliographica:Planet_Drum
   rdf:type schema:Book ;
@@ -2811,6 +2826,17 @@ bibliographica:Road_Dogs
   schema:author bibliographica:Elmore_Leonard ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/247442676.ttl"^^xsd:anyURI ;
   rdfs:label "Road Dogs" ;
+.
+bibliographica:Road_to_Coorain
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Jill_Ker_Conway ;
+  dcterms:title "The Road to Coorain" ;
+  schema:author bibliographica:Jill_Ker_Conway ;
+  schema:isbn "0679724362" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/733855194.ttl"^^xsd:anyURI ;
+  rdfs:label "The Road to Coorain" ;
 .
 bibliographica:RocknRoll_Comics_GD
   rdf:type schema:Book ;
@@ -3350,6 +3376,17 @@ bibliographica:Tender_at_the_Bone
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/778977673.ttl"^^xsd:anyURI ;
   rdfs:label "Tender at the Bone" ;
+.
+bibliographica:Terror_of_Living
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Urban_Waite ;
+  dcterms:title "The Terror of Living" ;
+  schema:author bibliographica:Urban_Waite ;
+  schema:isbn "9780316097888" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/707964821.ttl"^^xsd:anyURI ;
+  rdfs:label "The Terror of Living" ;
 .
 bibliographica:That_was_then_this_is_now
   rdf:type schema:Book ;
@@ -4306,7 +4343,10 @@ bibliographica:The_three_pillars_of_Zen
   dcterms:creator bibliographica:Philip_Kapleau ;
   dcterms:title "The three pillars of Zen: teaching, practice, and enlightenment" ;
   schema:editor bibliographica:Philip_Kapleau ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/248998.ttl"^^xsd:anyURI ;
+  schema:isbn "0807059757" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/973589279.ttl"^^xsd:anyURI ;
   rdfs:label "The Three Pillars of Zen" ;
 .
 bibliographica:The_woman_who_lives_in_the_earth
@@ -4571,17 +4611,6 @@ bibliographica:Unsuitable_Job_for_a_Woman
   rdfs:label "An Unsuitable Job for a Woman" ;
 .
 bibliographica:Valhalla_Rising
-  rdf:type schema:Book ;
-  dcterms:creator bibliographica:Clive_Cussler ;
-  dcterms:title "Valhalla Rising" ;
-  schema:author bibliographica:Clive_Cussler ;
-  schema:isbn "0425185710" ;
-  bibliographica:binNumber 6 ;
-  bibliographica:numberOfitems 1 ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1028021852.ttl"^^xsd:anyURI ;
-  rdfs:label "Valhalla Rising" ;
-.
-bibliographica:Valhalla_Rising_1
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Clive_Cussler ;
   dcterms:title "Valhalla Rising" ;
@@ -4906,6 +4935,9 @@ bibliographica:_365_Zen
   dcterms:creator bibliographica:Jean_Smith ;
   dcterms:title "365 Zen" ;
   schema:editor bibliographica:Jean_Smith ;
+  schema:isbn "0062516027" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/40255968.ttl"^^xsd:anyURI ;
   rdfs:label "365 Zen" ;
 .

@@ -879,6 +879,13 @@ bibliographica:Frederick_Forsyth
   rdfs:label "Frederick Forsyth" ;
   foaf:name "Frederick Forsyth" ;
 .
+bibliographica:Friedrick_Nietzsche
+  rdf:type bibliographica:Author ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Friedrich_Nietzsche.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/89798474/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Friedrick Nietzsche" ;
+  foaf:name "Friedrick Nietzsche" ;
+.
 bibliographica:Gail_Anderson-Dargatz
   rdf:type bibliographica:Author ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Gail_Anderson-Dargatz.ttl"^^xsd:anyURI ;
@@ -2612,6 +2619,12 @@ bibliographica:Troy_Soos
   bibliographica:viafURI "http://viaf.org/viaf/4175916/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Troy Soos" ;
   foaf:name "Troy Soos" ;
+.
+bibliographica:Urban_Waite
+  rdf:type bibliographica:Author ;
+  bibliographica:viafURI "https://viaf.org/viaf/26777817/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Urban Waite" ;
+  foaf:name "Urban Waite" ;
 .
 bibliographica:Van_Reid
   rdf:type bibliographica:Author ;
