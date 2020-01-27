@@ -407,10 +407,21 @@ bibliographica:Baileys_Café
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/24871307.ttl"^^xsd:anyURI ;
   rdfs:label "Bailey's Café" ;
 .
+bibliographica:Bangkok_8
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:John_Burdett ;
+  dcterms:title "Bangkok 8" ;
+  schema:author bibliographica:John_Burdett ;
+  schema:isbn "1400032903" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1099286073.ttl"^^xsd:anyURI ;
+  rdfs:label "Bangkok 8" ;
+.
 bibliographica:Bangkok_Tattoo
   rdf:type schema:Book ;
   dcterms:creator bibliographica:John_Burdett ;
-  dcterms:title "Valhalla Rising" ;
+  dcterms:title "Bangkok Tattoo" ;
   schema:author bibliographica:John_Burdett ;
   schema:isbn "1400032911" ;
   bibliographica:binNumber 6 ;
@@ -428,17 +439,6 @@ bibliographica:Banjo_Boy
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/30473488.ttl"^^xsd:anyURI ;
   rdfs:label "Banjo Boy" ;
-.
-bibliographica:Bankok_8
-  rdf:type schema:Book ;
-  dcterms:creator bibliographica:John_Burdett ;
-  dcterms:title "Bangkok 8" ;
-  schema:author bibliographica:John_Burdett ;
-  schema:isbn "1400032903" ;
-  bibliographica:binNumber 6 ;
-  bibliographica:numberOfitems 1 ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1099286073.ttl"^^xsd:anyURI ;
-  rdfs:label "Bangkok 8" ;
 .
 bibliographica:Basic_Rockcraft
   rdf:type schema:Book ;
@@ -2483,6 +2483,17 @@ bibliographica:Olives
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/41665188.ttl"^^xsd:anyURI ;
   rdfs:label "Olives" ;
 .
+bibliographica:Omelette_and_Glass_of_Wine
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Elizabeth_David ;
+  dcterms:title "An Omelette and a Glass of Wine" ;
+  schema:author bibliographica:Elizabeth_David ;
+  schema:isbn "1558215719" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1036779322.ttl"^^xsd:anyURI ;
+  rdfs:label "An Omelette and a Glass of Wine" ;
+.
 bibliographica:On_Food_and_Cooking
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Harold_McGee ;
@@ -2523,6 +2534,17 @@ bibliographica:Once_Were_Warriors
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/469372382.ttl"^^xsd:anyURI ;
   rdfs:label "Once Were Warriors" ;
+.
+bibliographica:One_Hundred_Selected_Poems
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Dorothy_Dunnett ;
+  dcterms:title "100 Selected Poems" ;
+  schema:author bibliographica:Dorothy_Dunnett ;
+  schema:isbn "067977744X" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1107013340.ttl"^^xsd:anyURI ;
+  rdfs:label "100 Selected Poems" ;
 .
 bibliographica:One_Virgin_Too_Many
   rdf:type schema:Book ;
@@ -2596,6 +2618,17 @@ bibliographica:Peace_is_every_step
   schema:author <http://www.connaissance.io/onto/biblio/bibliographica#Thích._Nhat_Hạnh> ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/22387883.ttl"^^xsd:anyURI ;
   rdfs:label "Peace is every step : the path of mindfulness in everyday life" ;
+.
+bibliographica:Pepper_Garden
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Dave_DeWitt ;
+  dcterms:title "The Pepper Garden" ;
+  schema:author bibliographica:Dave_DeWitt ;
+  schema:isbn "0898155541" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1036827685.ttl"^^xsd:anyURI ;
+  rdfs:label "The Pepper Garden" ;
 .
 bibliographica:Peppers_of_the_world
   rdf:type schema:Book ;
@@ -2736,6 +2769,17 @@ bibliographica:Purple_Cane_Road
   schema:author bibliographica:James_Lee_Burke ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/47836299.ttl"^^xsd:anyURI ;
   rdfs:label "Purple Cane Road" ;
+.
+bibliographica:Queens_Play
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Dorothy_Dunnett ;
+  dcterms:title "Queen's Play" ;
+  schema:author bibliographica:Dorothy_Dunnett ;
+  schema:isbn "067977744X" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1107013340.ttl"^^xsd:anyURI ;
+  rdfs:label "Queen's Play" ;
 .
 bibliographica:Range_of_Motion
   rdf:type schema:Book ;
@@ -3401,6 +3445,17 @@ bibliographica:Tara_Road
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1005289444.ttl"^^xsd:anyURI ;
   rdfs:label "Tara Road" ;
+.
+bibliographica:Te_Ao_marama
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Haare_Williams ;
+  dcterms:title "Te Ao mārama : contemporary Maori writing. volume 3" ;
+  schema:author bibliographica:Haare_Williams ;
+  schema:isbn "0790003163" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/968777962.ttl"^^xsd:anyURI ;
+  rdfs:label "Te Ao Mārama : Contemporary Maori Writing" ;
 .
 bibliographica:Tender_at_the_Bone
   rdf:type schema:Book ;
@@ -4913,6 +4968,17 @@ bibliographica:Worlds_End
   schema:author bibliographica:T_Coraghessan_Boyle ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/15366191.ttl"^^xsd:anyURI ;
   rdfs:label "World's End: a novel" ;
+.
+bibliographica:Worlds_of_Pain
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Lillian_B_Rubin ;
+  dcterms:title "Worlds of Pain : Life in the Working-Class Family" ;
+  schema:author bibliographica:Lillian_B_Rubin ;
+  schema:isbn "0465097243" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/974052595.ttl"^^xsd:anyURI ;
+  rdfs:label "Worlds of Pain : Life in the Working-Class Family" ;
 .
 bibliographica:Worst_Band_Universe
   rdf:type schema:Book ;

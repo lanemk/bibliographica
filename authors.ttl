@@ -706,6 +706,13 @@ bibliographica:Dr_Seuss
   rdfs:label "Dr. Seuss" ;
   foaf:name "Dr. Seuss" ;
 .
+bibliographica:EE_Cummings
+  rdf:type bibliographica:Author ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/E._E._Cummings.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/12306931/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "E. E. Cummings" ;
+  foaf:name "E. E. Cummings" ;
+.
 bibliographica:ER_LaChapelle
   rdf:type bibliographica:Author ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Edward_LaChapelle.ttl"^^xsd:anyURI ;
@@ -766,6 +773,13 @@ bibliographica:Elizabeth_Berg
   bibliographica:viafURI "http://viaf.org/viaf/85419722/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Elizabeth Berg" ;
   foaf:name "Elizabeth Berg" ;
+.
+bibliographica:Elizabeth_David
+  rdf:type bibliographica:Author ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Elizabeth_David.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/112933568/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Elizabeth David" ;
+  foaf:name "Elizabeth David" ;
 .
 bibliographica:Elliot_Perlman
   rdf:type bibliographica:Author ;
@@ -951,6 +965,11 @@ bibliographica:Günter_Grass
   bibliographica:viafURI "http://viaf.org/viaf/102319859/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Günter Grass" ;
   foaf:name "Günter Grass" ;
+.
+bibliographica:Haare_Williams
+  rdf:type bibliographica:Author ;
+  rdfs:label "Haare Williams" ;
+  foaf:name "Haare Williams" ;
 .
 bibliographica:Hannah_Hinchman
   rdf:type bibliographica:Author ;
@@ -1597,6 +1616,12 @@ bibliographica:Lewis_Porter
   rdfs:label "Lewis Porter" ;
   foaf:name "Lewis Porter" ;
 .
+bibliographica:Lillian_B_Rubin
+  rdf:type bibliographica:Author ;
+  bibliographica:viafURI "https://viaf.org/viaf/41860973/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Lillian Breslow Rubin" ;
+  foaf:name "Lillian Breslow Rubin" ;
+.
 bibliographica:Lindsey_Davis
   rdf:type bibliographica:Author ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Lindsey_Davis.ttl"^^xsd:anyURI ;
@@ -2169,6 +2194,13 @@ bibliographica:Richard_Powers
   bibliographica:viafURI "http://viaf.org/viaf/113865419/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Richard Powers" ;
   foaf:name "Richard Powers" ;
+.
+bibliographica:Rigoberta_Menchu
+  rdf:type bibliographica:Author ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Rigoberta_Menchú.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/90599516/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Rigoberta Menchú" ;
+  foaf:name "Rigoberta Menchú" ;
 .
 bibliographica:Robert_Boswell
   rdf:type bibliographica:Author ;
