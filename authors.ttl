@@ -1005,6 +1005,12 @@ bibliographica:Henry_David_Thoreau
   rdfs:label "Henry David Thoreau" ;
   foaf:name "Henry David Thoreau" ;
 .
+bibliographica:Holly_George-Warren
+  rdf:type bibliographica:Author ;
+  bibliographica:viafURI "https://viaf.org/viaf/2616267/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Holly George-Warren" ;
+  foaf:name "Holly George-Warren" ;
+.
 bibliographica:Howard_Wallach
   rdf:type bibliographica:Author ;
   bibliographica:viafURI "https://viaf.org/viaf/38969144/rdf.xml"^^xsd:anyURI ;

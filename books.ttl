@@ -136,6 +136,17 @@ bibliographica:Acid_Dreams
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/12342491.ttl"^^xsd:anyURI ;
   rdfs:label "Acid Dreams" ;
 .
+bibliographica:Aegypt
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:John_Crowley ;
+  dcterms:title "Aegypt" ;
+  schema:author bibliographica:John_Crowley ;
+  schema:isbn "0553374303" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/31760735.ttl"^^xsd:anyURI ;
+  rdfs:label "Aegypt" ;
+.
 bibliographica:Alice_in_Wonderland
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Lewis_Carroll ;
@@ -395,6 +406,17 @@ bibliographica:Baileys_Café
   schema:author bibliographica:Gloria_Naylor ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/24871307.ttl"^^xsd:anyURI ;
   rdfs:label "Bailey's Café" ;
+.
+bibliographica:Bangkok_Tattoo
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:John_Burdett ;
+  dcterms:title "Valhalla Rising" ;
+  schema:author bibliographica:John_Burdett ;
+  schema:isbn "1400032911" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/70705035.ttl"^^xsd:anyURI ;
+  rdfs:label "Bangkok Tattoo" ;
 .
 bibliographica:Banjo_Boy
   rdf:type schema:Book ;
@@ -2334,6 +2356,17 @@ bibliographica:Nature_man_woman
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/758717.ttl"^^xsd:anyURI ;
   rdfs:label "Nature, man, and woman" ;
 .
+bibliographica:Neil_Young_Rolling_stone_files
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Holly_George-Warren ;
+  dcterms:title "Neil Young, the Rolling Stone Files" ;
+  schema:author bibliographica:Holly_George-Warren ;
+  schema:isbn "0786880430" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/243807016.ttl"^^xsd:anyURI ;
+  rdfs:label "Neil Young, the Rolling Stone Files" ;
+.
 bibliographica:New_Natural_Foods_Cookbook
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Jean_Hewitt ;
@@ -3221,7 +3254,10 @@ bibliographica:Sound_of_One_Hand_Clapping
   dcterms:creator bibliographica:Richard_Flanagan ;
   dcterms:title "The Sound of One Hand Clapping" ;
   schema:author bibliographica:Richard_Flanagan ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/42389545.ttl"^^xsd:anyURI ;
+  schema:isbn "0802137849" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/492941920.ttl"^^xsd:anyURI ;
   rdfs:label "The Sound of One Hand Clapping" ;
 .
 bibliographica:Spartan_Gold
@@ -3924,13 +3960,13 @@ bibliographica:The_New_York_Times_Cookbook
 .
 bibliographica:The_Outsiders
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Clive_Cussler ;
-  dcterms:title "Valhalla Rising" ;
-  schema:author bibliographica:Clive_Cussler ;
+  dcterms:creator bibliographica:SE_Hinton ;
+  dcterms:title "The Outsiders" ;
+  schema:author bibliographica:SE_Hinton ;
   schema:isbn "0425185710" ;
   bibliographica:binNumber 6 ;
   bibliographica:numberOfitems 1 ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1028021852.ttl"^^xsd:anyURI ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1119554769.ttl"^^xsd:anyURI ;
   rdfs:label "The Outsiders" ;
 .
 bibliographica:The_Pilots_Wife
