@@ -238,6 +238,13 @@ bibliographica:Ardythe_Ashley
   rdfs:label "Ardythe Ashley" ;
   foaf:name "Ardythe Ashley" ;
 .
+bibliographica:Ariel_Dorfman
+  rdf:type bibliographica:Author ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Ariel_Dorfman.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/95177323/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Ariel Dorfman" ;
+  foaf:name "Ariel Dorfman" ;
+.
 bibliographica:Arthur_Winfield_Knight
   rdf:type bibliographica:Author ;
   bibliographica:viafURI "http://viaf.org/viaf/109831283/rdf.xml"^^xsd:anyURI ;
@@ -603,6 +610,20 @@ bibliographica:Dave_DeWitt
   rdfs:label "Dave DeWitt" ;
   foaf:name "Dave DeWitt" ;
 .
+bibliographica:David_Arnason
+  rdf:type bibliographica:Author ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/David_Arnason.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/115570529/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "David Arnason" ;
+  foaf:name "David Arnason" ;
+.
+bibliographica:David_Downing
+  rdf:type bibliographica:Author ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/David_Downing.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/6900037/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "David Downing" ;
+  foaf:name "David Downing" ;
+.
 bibliographica:David_Gans
   rdf:type bibliographica:Author ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/David_Gans_(musician).ttl"^^xsd:anyURI ;
@@ -663,6 +684,13 @@ bibliographica:Deepak_Chopra
   bibliographica:viafURI "http://viaf.org/viaf/34491177/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Deepak Chopra" ;
   foaf:name "Deepak Chopra" ;
+.
+bibliographica:Denise_Chávez
+  rdf:type bibliographica:Author ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Denise_Chávez.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/93811704/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Denise Chávez" ;
+  foaf:name "Denise Chávez" ;
 .
 bibliographica:Derek_Hansen
   rdf:type bibliographica:Author ;
@@ -970,6 +998,12 @@ bibliographica:Haare_Williams
   rdf:type bibliographica:Author ;
   rdfs:label "Haare Williams" ;
   foaf:name "Haare Williams" ;
+.
+bibliographica:Hank_Harrison
+  rdf:type bibliographica:Author ;
+  bibliographica:viafURI "https://viaf.org/viaf/75039002/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Hank Harrison" ;
+  foaf:name "Hank Harrison" ;
 .
 bibliographica:Hannah_Hinchman
   rdf:type bibliographica:Author ;
@@ -1594,6 +1628,12 @@ bibliographica:Lee_Child
   bibliographica:viafURI "http://viaf.org/viaf/100304282/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Lee Child" ;
   foaf:name "Lee Child" ;
+.
+bibliographica:Leigh_Riker
+  rdf:type bibliographica:Author ;
+  bibliographica:viafURI "https://viaf.org/viaf/58453584/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Leigh Riker" ;
+  foaf:name "Leigh Riker" ;
 .
 bibliographica:Leo_Tolstoy
   rdf:type bibliographica:Author ;

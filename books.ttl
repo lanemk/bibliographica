@@ -1202,6 +1202,17 @@ bibliographica:Down_the_River
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/437270249.ttl"^^xsd:anyURI ;
   rdfs:label "Down the River" ;
 .
+bibliographica:Dreamer_of_pictures
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:David_Downing ;
+  dcterms:title "A dreamer of pictures : Neil Young, the man and his music" ;
+  schema:author bibliographica:David_Downing ;
+  schema:isbn "0306806118" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/30913139.ttl"^^xsd:anyURI ;
+  rdfs:label "A dreamer of pictures : Neil Young, the man and his music" ;
+.
 bibliographica:Early_Work
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Patti_Smith ;
@@ -1299,6 +1310,17 @@ bibliographica:Eva_Luna
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/32091094.ttl"^^xsd:anyURI ;
   rdfs:label "Eva Luna" ;
+.
+bibliographica:Face_of_an_angel
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Denise_Chávez ;
+  dcterms:title "Face of an Angel" ;
+  schema:author bibliographica:Denise_Chávez ;
+  schema:isbn "0446671851" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/32590616.ttl"^^xsd:anyURI ;
+  rdfs:label "Face of an Angel" ;
 .
 bibliographica:Farmer
   rdf:type schema:Book ;
@@ -1476,6 +1498,9 @@ bibliographica:Get_Home_Free
   dcterms:creator bibliographica:John_Clellon_Holmes ;
   dcterms:title "Get Home Free" ;
   schema:author bibliographica:John_Clellon_Holmes ;
+  schema:isbn "0938410539" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/16831964.ttl"^^xsd:anyURI ;
   rdfs:label "Get Home Free" ;
 .
@@ -2194,6 +2219,17 @@ bibliographica:Lucid_Intervals
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/499178284.ttl"^^xsd:anyURI ;
   rdfs:label "Lucid Intervals" ;
 .
+bibliographica:Mama_Day
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Gloria_Naylor ;
+  dcterms:title "Mama Day" ;
+  schema:author bibliographica:Gloria_Naylor ;
+  schema:isbn "0679721819" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/302016615.ttl"^^xsd:anyURI ;
+  rdfs:label "Mama Day" ;
+.
 bibliographica:Man_on_Spikes
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Eliot_Asinof ;
@@ -2261,6 +2297,17 @@ bibliographica:Midwives
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/45342004.ttl"^^xsd:anyURI ;
   rdfs:label "Midwives" ;
 .
+bibliographica:Mike_Hammer_Collection
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Mickey_Spillane ;
+  dcterms:title "The Mike Hammer Collection" ;
+  schema:author bibliographica:Mickey_Spillane ;
+  schema:isbn "0451203526" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/503175961.ttl"^^xsd:anyURI ;
+  rdfs:label "The Mike Hammer Collection" ;
+.
 bibliographica:Mile_Zero
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Thomas_Sanchez ;
@@ -2306,6 +2353,9 @@ bibliographica:Most_Good_Least_Harm
   dcterms:creator bibliographica:Zoe_Weil ;
   dcterms:title "Most Good, Least Harm" ;
   schema:author bibliographica:Zoe_Weil ;
+  schema:isbn "1582702063" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/209717223.ttl"^^xsd:anyURI ;
   rdfs:label "Most Good, Least Harm" ;
 .
@@ -2337,6 +2387,17 @@ bibliographica:Mystery_Ride
   schema:author bibliographica:Robert_Boswell ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/25369870.ttl"^^xsd:anyURI ;
   rdfs:label "Mystery Ride : a novel" ;
+.
+bibliographica:Nanny_and_the_iceberg
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Ariel_Dorfman ;
+  dcterms:title "The Nanny and the Iceberg" ;
+  schema:author bibliographica:Ariel_Dorfman ;
+  schema:isbn "0374218986" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1105180217.ttl"^^xsd:anyURI ;
+  rdfs:label "The Nanny and the Iceberg" ;
 .
 bibliographica:Nature_Guide_to_Healthy_Living
   rdf:type schema:Book ;
@@ -2586,6 +2647,17 @@ bibliographica:Pagan_Babies
   schema:author bibliographica:Elmore_Leonard ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/43851355.ttl"^^xsd:anyURI ;
   rdfs:label "Pagan Babies" ;
+.
+bibliographica:Pagan_Wall
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:David_Arnason ;
+  dcterms:title "The Pagan Wall" ;
+  schema:author bibliographica:David_Arnason ;
+  schema:isbn "0889223122" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1105180217.ttl"^^xsd:anyURI ;
+  rdfs:label "The Pagan Wall" ;
 .
 bibliographica:Panama
   rdf:type schema:Book ;
@@ -3244,6 +3316,17 @@ bibliographica:Sketch_me_if_you_can
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/650500867.ttl"^^xsd:anyURI ;
   rdfs:label "Sketch me if you can" ;
 .
+bibliographica:Skinny_dip
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Carl_Hiaasen ;
+  dcterms:title "Skinny Dip" ;
+  schema:author bibliographica:Carl_Hiaasen ;
+  schema:isbn "0446695564" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/965568651.ttl"^^xsd:anyURI ;
+  rdfs:label "Skinny Dip" ;
+.
 bibliographica:Snow_Falling_on_Cedars
   rdf:type schema:Book ;
   dcterms:creator bibliographica:David_Guterson ;
@@ -3349,6 +3432,17 @@ bibliographica:Stone_Junction
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/19975978.ttl"^^xsd:anyURI ;
   rdfs:label "Stone Junction" ;
 .
+bibliographica:Strapless
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Leigh_Riker ;
+  dcterms:title "Strapless" ;
+  schema:author bibliographica:Leigh_Riker ;
+  schema:isbn "0373250185" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1027180126.ttl"^^xsd:anyURI ;
+  rdfs:label "Strapless" ;
+.
 bibliographica:Study_of_ethnomusicology
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Bruno_Nettl ;
@@ -3386,6 +3480,9 @@ bibliographica:Sundog
   dcterms:creator bibliographica:Jim_Harrison ;
   dcterms:title "Sundog" ;
   schema:author bibliographica:Jim_Harrison ;
+  schema:isbn "0671741519" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/21487403.ttl"^^xsd:anyURI ;
   rdfs:label "Sundog" ;
 .
@@ -3561,6 +3658,9 @@ bibliographica:The_Bone_People
   dcterms:creator bibliographica:Keri_Hulme ;
   dcterms:title "The Bone People : a Novel" ;
   schema:author bibliographica:Keri_Hulme ;
+  schema:isbn "0140089225" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/12188626.ttl"^^xsd:anyURI ;
   rdfs:label "The Bone People : a Novel" ;
 .
@@ -3638,6 +3738,17 @@ bibliographica:The_Country_Life
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/39812370.ttl"^^xsd:anyURI ;
   rdfs:label "The Country Life" ;
+.
+bibliographica:The_Dead
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Hank_Harrison ;
+  dcterms:title "The Dead" ;
+  schema:author bibliographica:Hank_Harrison ;
+  schema:isbn "0890873003" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/463342010.ttl"^^xsd:anyURI ;
+  rdfs:label "The Dead" ;
 .
 bibliographica:The_Deceiver
   rdf:type schema:Book ;
