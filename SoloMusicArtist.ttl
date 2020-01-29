@@ -13,7 +13,6 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-
 <http://www.connaissance.io/onto/biblio/SoloMusicArtist>
   rdf:type owl:Ontology ;
   dcterms:modified "2019-09-12" ;
@@ -259,7 +258,6 @@ bibliographica:BB_King
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassIL ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/B.B._King.ttl"^^xsd:anyURI ;
-  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/dcb03ce3-67a5-4eb3-b2d1-2a12d93a38f3"^^xsd:anyURI ;
   rdfs:label "B.B. King" ;
 .
 bibliographica:Badi_Assad
@@ -346,12 +344,30 @@ bibliographica:Björk
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/87c5dedd-371d-4a53-9f7f-80522fb7f3cb"^^xsd:anyURI ;
   rdfs:label "Björk" ;
 .
+bibliographica:Bob_Dylan
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Bob_Dylan.ttl"^^xsd:anyURI ;
+  rdfs:label "Bob Dylan" ;
+.
 bibliographica:Bob_James
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassIL ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Bob_James_(musician).ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/f4d2fc5a-cacb-47c8-b096-ee73864b1aa8"^^xsd:anyURI ;
   rdfs:label "Bob James" ;
+.
+bibliographica:Bobby_Bland
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Bobby_Bland.ttl"^^xsd:anyURI ;
+  rdfs:label "Bobby Bland" ;
+.
+bibliographica:Boo_Zoo_Chavis
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Boozoo_Chavis.ttl"^^xsd:anyURI ;
+  rdfs:label "Boozoo Chavis" ;
 .
 bibliographica:Brent_Lewis
   rdf:type mo:SoloMusicArtist ;
@@ -366,6 +382,12 @@ bibliographica:Brian_Eno
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/ff95eb47-41c4-4f7f-a104-cdc30f02e872"^^xsd:anyURI ;
   rdfs:label "Brian Eno" ;
 .
+bibliographica:Bruce_Cockburn
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Bruce_Cockburn.ttl"^^xsd:anyURI ;
+  rdfs:label "Bruce Cockburn" ;
+.
 bibliographica:Bruce_Hornsby
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassEH ;
@@ -379,6 +401,47 @@ bibliographica:Bryan_Ferry
   bibliographica:dbpediaURI "http://dbpedia.org/data/Bryan_Ferry.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/4ef7a9e2-2cf5-483a-8616-ef7791a98026"^^xsd:anyURI ;
   rdfs:label "Bryan Ferry" ;
+.
+bibliographica:CJ_Chenier
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/C._J._Chenier.ttl"^^xsd:anyURI ;
+  rdfs:label "C. J. Chenier" ;
+.
+bibliographica:Caitlin_Cary
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Caitlin_Cary.ttl"^^xsd:anyURI ;
+  rdfs:label "Caitlin Cary" ;
+.
+bibliographica:Cannonball_Adderley
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/Cannonball_Adderley.ttl"^^xsd:anyURI ;
+  rdfs:label "Cannonball Adderley" ;
+.
+bibliographica:Captain_Beefheart
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/Captain_Beefheart.ttl"^^xsd:anyURI ;
+  rdfs:label "Captain Beefheart" ;
+.
+bibliographica:Carri_Coltrane
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassAD ;
+  rdfs:label "Carri Coltrane" ;
+.
+bibliographica:Catie_Curtis
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Catie_Curtis.ttl"^^xsd:anyURI ;
+  rdfs:label "Catie_Curtis" ;
+.
+bibliographica:Celine_Dion
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Celine_Dion.ttl"^^xsd:anyURI ;
+  rdfs:label "Celine Dion" ;
 .
 bibliographica:Chantal_Kreviazuk
   rdf:type mo:SoloMusicArtist ;
