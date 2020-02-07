@@ -16,7 +16,6 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-
 <http://www.connaissance.io/onto/biblio/CDs>
   rdf:type owl:Ontology ;
   dcterms:modified "2019-09-12" ;
@@ -388,7 +387,7 @@ bibliographica:Dark_Massive_Disengage
   rdf:type mo:Record ;
   rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
-  dcterms:creator bibliographica:Albert_King ;
+  dcterms:creator bibliographica:Bill_Laswell ;
   bibliographica:byArtist bibliographica:Bill_Laswell ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/26c06ad5-e1c3-44e5-b0e8-ca17c6a25e7c"^^xsd:anyURI ;
   rdfs:label "Dark Massive Disengage Ambient Compendium" ;
