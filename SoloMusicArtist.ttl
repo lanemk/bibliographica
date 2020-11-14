@@ -345,8 +345,6 @@ bibliographica:Björk
   rdfs:label "Björk" ;
 .
 bibliographica:Bob_Dylan
-  rdf:type mo:SoloMusicArtist ;
-  rdf:type bibliographica:AlphaClassAD ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Bob_Dylan.ttl"^^xsd:anyURI ;
   rdfs:label "Bob Dylan" ;
 .
@@ -709,7 +707,6 @@ bibliographica:Jerry_Douglas
   rdfs:label "Jerry Douglas" ;
 .
 bibliographica:Jerry_Garcia
-  rdf:type bibliographica:AlphaClassEH ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Jerry_Garcia.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/1ecff755-607d-4130-9a8a-8873f27e5de5"^^xsd:anyURI ;
   rdfs:label "Jerry Garcia" ;
@@ -764,10 +761,17 @@ bibliographica:Mike_Bloomfield
   rdfs:label "Michael Bloomfield" ;
 .
 bibliographica:Miles_Davis
-  rdf:type bibliographica:Author ;
+  rdf:type schema:Person ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Miles_Davis.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/561d854a-6a28-4aa7-8c99-323e6ce46c2a"^^xsd:anyURI ;
   rdfs:label "Miles Davis" ;
+.
+bibliographica:Neil_Young
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassXZ ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Neil_Young.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/75167b8b-44e4-407b-9d35-effe87b223cf"^^xsd:anyURI ;
+  rdfs:label "Albert King" ;
 .
 bibliographica:Oscar_Brand
   rdf:type mo:SoloMusicArtist ;
@@ -777,7 +781,7 @@ bibliographica:Oscar_Brand
   rdfs:label "Oscar Brand" ;
 .
 bibliographica:Patti_Smith
-  rdf:type bibliographica:Author ;
+  rdf:type schema:Person ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Patti_Smith.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/d135874d-9cae-4fef-97e3-36acbd9f5a26"^^xsd:anyURI ;
   rdfs:label "Patti Smith" ;
