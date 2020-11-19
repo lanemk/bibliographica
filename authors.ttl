@@ -9,6 +9,7 @@
 @prefix bibliographica: <http://www.connaissance.io/onto/biblio/bibliographica#> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix mo: <http://purl.org/ontology/mo/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
@@ -409,6 +410,7 @@ bibliographica:Bill_Watterson
   foaf:name "Bill Watterson" ;
 .
 bibliographica:Bob_Dylan
+  rdf:type mo:SoloMusicArtist ;
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Bob_Dylan.ttl"^^xsd:anyURI ;
   bibliographica:viafURI "http://viaf.org/viaf/111894442/rdf.xml"^^xsd:anyURI ;

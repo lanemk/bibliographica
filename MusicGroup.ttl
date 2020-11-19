@@ -275,6 +275,12 @@ bibliographica:BluesTraveler
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/6b28ecf0-94e6-48bb-aa2a-5ede325b675b"^^xsd:anyURI ;
   rdfs:label "Blues Traveler (group)" ;
 .
+bibliographica:Gary_Burton_Quartet
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/be7ffcaa-0185-456b-9aa8-1bfd52b57676"^^xsd:anyURI ;
+  rdfs:label "Gary Burton Quartet" ;
+.
 bibliographica:Grateful_Dead
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassEH ;
