@@ -440,6 +440,7 @@ bibliographica:Captain_Beefheart
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassAD ;
   bibliographica:dbpediaURI "http://dbpedia.org/Captain_Beefheart.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/a1594afa-2f6b-4596-a156-a35853dca691"^^xsd:anyURI ;
   rdfs:label "Captain Beefheart" ;
 .
 bibliographica:Carri_Coltrane
@@ -466,7 +467,7 @@ bibliographica:Chantal_Kreviazuk
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/fd092d99-377f-414e-a63e-3dc849ad2cc9"^^xsd:anyURI ;
   rdfs:label "Chantal Kreviazuk" ;
 .
-bibliographica:Chanté
+bibliographica:Chante
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassAD ;
   rdfs:label "Chanté" ;
@@ -765,6 +766,12 @@ bibliographica:Guy_Clark
   bibliographica:dbpediaURI "http://dbpedia.org/data/Guy_Clark.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/e885f72e-4617-46de-9454-5485061f29b3"^^xsd:anyURI ;
   rdfs:label "Guy Clark" ;
+.
+bibliographica:Hamilton_Cheifetz
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/5d220abd-578a-49b6-80da-d6d72af3b25a"^^xsd:anyURI ;
+  rdfs:label "Hamilton Cheifetz" ;
 .
 bibliographica:Hank_Jones
   rdf:type mo:SoloMusicArtist ;
