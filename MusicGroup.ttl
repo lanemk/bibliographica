@@ -646,6 +646,53 @@ bibliographica:Fishbone
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/9f3764c0-c9f4-4e20-b7a8-9993124fb1b2"^^xsd:anyURI ;
   rdfs:label "Fishbone" ;
 .
+bibliographica:Flatlanders
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/The_Flatlanders.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/f68b47aa-a7e0-4e2e-bf6a-f6e23e88fec8"^^xsd:anyURI ;
+  rdfs:label "The Flatlanders" ;
+.
+bibliographica:Fleetwood_Mac
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Fleetwood_Mac.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/bd13909f-1c29-4c27-a874-d4aaf27c5b1a"^^xsd:anyURI ;
+  rdfs:label "Fleetwood Mac" ;
+.
+bibliographica:Flowmotion
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/c6694bea-a716-48da-8e2d-b745d592aaea"^^xsd:anyURI ;
+  rdfs:label "Flowmotion" ;
+.
+bibliographica:Flying_Burrito_Brothers
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/The_Flying_Burrito_Brothers.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/b4375768-3c8b-46e7-b578-c920ccfe725f"^^xsd:anyURI ;
+  rdfs:label "The Flying Burrito Brothers" ;
+.
+bibliographica:Freetown
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/c5fb83d7-5fe6-4224-aedb-a42432fe8cba"^^xsd:anyURI ;
+  rdfs:label "Freetown" ;
+.
+bibliographica:French_Frith_Kaiser_Thompson
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/French_Frith_Kaiser_Thompson.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/b2f78b55-f7c4-41c1-980c-9d5b6173320f"^^xsd:anyURI ;
+  rdfs:label "French Frith Kaiser Thompson" ;
+.
+bibliographica:Funk_Inc
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Funk,_Inc..ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/ba4b6cca-e93f-451e-bf40-23e5af36f1fb"^^xsd:anyURI ;
+  rdfs:label "Funk Inc." ;
+.
 bibliographica:Four_Non_Blondes
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassEH ;
@@ -654,11 +701,53 @@ bibliographica:Four_Non_Blondes
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/efef848b-63e4-4323-8ef7-69a48fbdd51d"^^xsd:anyURI ;
   rdfs:label "4 Non Blondes" ;
 .
+bibliographica:Gaelic_Storm
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Gaelic_Storm.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/abcd1648-fb93-4d4b-a073-dd61e4006b8b"^^xsd:anyURI ;
+  rdfs:label "Gaelic Storm" ;
+.
 bibliographica:Gary_Burton_Quartet
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassAD ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/be7ffcaa-0185-456b-9aa8-1bfd52b57676"^^xsd:anyURI ;
   rdfs:label "Gary Burton Quartet" ;
+.
+bibliographica:Genesis
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Genesis_(band).ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/8e3fcd7d-bda1-4ca0-b987-b8528d2ee74e"^^xsd:anyURI ;
+  rdfs:label "Genesis" ;
+.
+bibliographica:Gipsy_Kings
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Gipsy_Kings.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/44a7f7d5-79df-4f44-8f5e-02dfc0626904"^^xsd:anyURI ;
+  rdfs:label "Gipsy Kings" ;
+.
+bibliographica:Glass_Eye
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Glass_Eye_(band).ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/e3b71c72-775b-4e76-b7e2-d778bea16958"^^xsd:anyURI ;
+  rdfs:label "Glass Eye" ;
+.
+bibliographica:Golden_Palominos
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/The_Golden_Palominos.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/907981c8-f6be-4d8d-9210-01a0c4843b59"^^xsd:anyURI ;
+  rdfs:label "The Golden Palominos" ;
+.
+bibliographica:Grant_Lee_Buffalo
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Grant_Lee_Buffalo.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/b2ccf20a-0569-4375-a486-7ca9c5e65afc"^^xsd:anyURI ;
+  rdfs:label "Grant Lee Buffalo" ;
 .
 bibliographica:Grateful_Dead
   rdf:type mo:MusicGroup ;
@@ -666,6 +755,83 @@ bibliographica:Grateful_Dead
   bibliographica:dbpediaURI "http://dbpedia.org/data/Grateful_Dead.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6"^^xsd:anyURI ;
   rdfs:label "Grateful Dead" ;
+.
+bibliographica:GrooveGrass_Boyz
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/The_GrooveGrass_Boyz.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/36c2f168-2ddd-487d-b51a-6e86ee92dfb8"^^xsd:anyURI ;
+  rdfs:label "Groovegrass Boyz" ;
+.
+bibliographica:Guadalcanal_Diary
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Guadalcanal_Diary_(band).ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/e9b2f192-d21e-471b-8842-71373cb20080"^^xsd:anyURI ;
+  rdfs:label "Guadalcanal Diary" ;
+.
+bibliographica:Hank_Dogs
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Hank_Dogs.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/12d6382f-23ac-4afa-a442-01a6de786ef4"^^xsd:anyURI ;
+  rdfs:label "Hank Dogs" ;
+.
+bibliographica:Hardware
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Hardware_(band).ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/fb619345-f0ba-4d4b-bb7b-83ff173c9d73"^^xsd:anyURI ;
+  rdfs:label "Hardware" ;
+.
+bibliographica:Hart_Rouge
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Hart-Rouge.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/b746c051-3a42-4cf6-871a-bdcb39e78686"^^xsd:anyURI ;
+  rdfs:label "Hart-Rouge" ;
+.
+bibliographica:Heart
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Heart_(band).ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/bdbd48f5-abf3-4a4f-9a21-4551dbc3fde9"^^xsd:anyURI ;
+  rdfs:label "Heart" ;
+.
+bibliographica:Hem
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Hem_(band).ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/232bb885-d7c6-4463-a694-0830ae3300bc"^^xsd:anyURI ;
+  rdfs:label "Hem" ;
+.
+bibliographica:Hot_Rize
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Hot_Rize.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/ce76c736-07db-4503-b771-0ee2c981a144"^^xsd:anyURI ;
+  rdfs:label "Hot Rize" ;
+.
+bibliographica:Hot_Tuna
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Hot_Tuna.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/d13d9feb-b7c7-49f4-9b72-65e29a16aa24"^^xsd:anyURI ;
+  rdfs:label "Hot Tuna" ;
+.
+bibliographica:Hot_Tuna
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/H%C3%BCsker_D%C3%BC.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/5c4c90a4-539f-4101-83cf-301bc6a94e06"^^xsd:anyURI ;
+  rdfs:label "Hüsker Dü" ;
+.
+bibliographica:Jerry_Garcia_Band
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Jerry_Garcia_Band.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/3f7a73e5-cb7f-4488-bd7e-f5e26c87fe1b"^^xsd:anyURI ;
+  rdfs:label "Jerry Garcia Band" ;
 .
 bibliographica:Johnny_Clegg_Savuka
   rdf:type mo:MusicGroup ;

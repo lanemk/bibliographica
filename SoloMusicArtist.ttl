@@ -870,12 +870,25 @@ bibliographica:Ginger_Baker
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/e01d1aff-9cc2-4606-83d7-56445515c6e6"^^xsd:anyURI ;
   rdfs:label "Ginger Baker" ;
 .
+bibliographica:Grace
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/eb3b86cc-3970-487d-9ec5-f0003f2c44ee"^^xsd:anyURI ;
+  rdfs:label "Grace" ;
+.
 bibliographica:Greg_Brown
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassAD ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Greg_Brown_(folk_musician).ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/8d5521d6-473d-4da0-b68d-553d4188619d"^^xsd:anyURI ;
   rdfs:label "Greg Brown" ;
+.
+bibliographica:Guru
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Guru_(rapper).ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/215c6ab2-7888-4061-bd56-9fb650328106"^^xsd:anyURI ;
+  rdfs:label "Guru" ;
 .
 bibliographica:Guty_Cardenas
   rdf:type mo:SoloMusicArtist ;
