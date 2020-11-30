@@ -523,6 +523,13 @@ bibliographica:Deep_Forest
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/67468e38-0c90-4318-b2d2-0c18b7b1e144"^^xsd:anyURI ;
   rdfs:label "Deep Forest" ;
 .
+bibliographica:Del_McCoury_Band
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Del_McCoury_Band.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/7e5a0c3f-339a-4e5d-aed0-1946112b4a66"^^xsd:anyURI ;
+  rdfs:label "The Del McCoury Band" ;
+.
 bibliographica:Devo
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassAD ;
@@ -770,6 +777,12 @@ bibliographica:Guadalcanal_Diary
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/e9b2f192-d21e-471b-8842-71373cb20080"^^xsd:anyURI ;
   rdfs:label "Guadalcanal Diary" ;
 .
+bibliographica:Halibuts
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/8ab6877a-6783-4d71-b9dd-be630ef0ca8a"^^xsd:anyURI ;
+  rdfs:label "The Halibuts" ;
+.
 bibliographica:Hank_Dogs
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassEH ;
@@ -798,12 +811,24 @@ bibliographica:Heart
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/bdbd48f5-abf3-4a4f-9a21-4551dbc3fde9"^^xsd:anyURI ;
   rdfs:label "Heart" ;
 .
+bibliographica:Heads
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/840645fa-d7ce-4ccb-8581-311efe6c2383"^^xsd:anyURI ;
+  rdfs:label "The Heads" ;
+.
 bibliographica:Hem
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassEH ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Hem_(band).ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/232bb885-d7c6-4463-a694-0830ae3300bc"^^xsd:anyURI ;
   rdfs:label "Hem" ;
+.
+bibliographica:Herbs
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/76f369d0-c0dd-4664-9075-a94b99b8ca5c"^^xsd:anyURI ;
+  rdfs:label "The Herbs" ;
 .
 bibliographica:Hot_Rize
   rdf:type mo:MusicGroup ;
@@ -819,7 +844,7 @@ bibliographica:Hot_Tuna
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/d13d9feb-b7c7-49f4-9b72-65e29a16aa24"^^xsd:anyURI ;
   rdfs:label "Hot Tuna" ;
 .
-bibliographica:Hot_Tuna
+bibliographica:Husker_Du
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassEH ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/H%C3%BCsker_D%C3%BC.ttl"^^xsd:anyURI ;
@@ -839,6 +864,21 @@ bibliographica:Johnny_Clegg_Savuka
   bibliographica:dbpediaURI "http://dbpedia.org/data/Savuka.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "http://dbpedia.org/data/Savuka.ttl"^^xsd:anyURI ;
   rdfs:label "Johnny Clegg and Savuka" ;
+.
+bibliographica:Los_Van_Van
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Los_Van_Van.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/452d9da4-21a7-44b0-8299-1ec4a8f031ef"^^xsd:anyURI ;
+  rdfs:label "Los Van Van" ;
+.
+bibliographica:Meters
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/The_Meters.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/851827d6-ae31-4093-a166-1420cac610a4"^^xsd:anyURI ;
+  rdfs:label "The Meters" ;
+  skos:altLabel "The Funky Meters" ;
 .
 bibliographica:Nick_Cave_Bad_Seeds
   rdf:type mo:MusicGroup ;
