@@ -509,6 +509,13 @@ bibliographica:Dave_Alvin_Guilty_Men
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/01585ac5-601a-4c83-842a-877b92d62a0b"^^xsd:anyURI ;
   rdfs:label "Dave Alvin and The Guilty Men" ;
 .
+bibliographica:David_Johansen_Group
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/David_Johansen.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/0568deac-6de9-41d3-9f7a-ad59bbcab9ce"^^xsd:anyURI ;
+  rdfs:label "The David Johansen Group" ;
+.
 bibliographica:Dead_Kennedys
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassAD ;
@@ -776,6 +783,56 @@ bibliographica:Guadalcanal_Diary
   bibliographica:dbpediaURI "http://dbpedia.org/data/Guadalcanal_Diary_(band).ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/e9b2f192-d21e-471b-8842-71373cb20080"^^xsd:anyURI ;
   rdfs:label "Guadalcanal Diary" ;
+.
+bibliographica:Illinois_Jacquet_Ben Webster
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Illinois_Jacquet.ttl"^^xsd:anyURI ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Ben_Webster.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/45288d5c-6d6c-41fb-acf9-e83b23ee01cb"^^xsd:anyURI ;
+  rdfs:label "Illinois Jacquet & Ben Webster Sextet" ;
+.
+bibliographica:Indigenous
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Indigenous_(band).ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/4cd0fc03-a6a4-4bf5-b09b-5fdc6e510e42"^^xsd:anyURI ;
+  rdfs:label "Indigenous" ;
+.
+bibliographica:Indigo_Girls
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Indigo_Girls.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/00c49f40-d715-4b79-b223-432048602cce"^^xsd:anyURI ;
+  rdfs:label "Indigo Girls" ;
+.
+bibliographica:Iron_Butterfly
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Iron_Butterfly.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/3da3e7e1-e817-47e8-8624-635df4aedbe6"^^xsd:anyURI ;
+  rdfs:label "Iron Butterfly" ;
+.
+bibliographica:James_Gang
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/James_Gang.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/4167b497-1ae5-4502-a8e6-e1546ffbe514"^^xsd:anyURI ;
+  rdfs:label "James Gang" ;
+.
+bibliographica:Janes_Addiction
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Jane's_Addiction.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/e3434cc7-d348-491a-9dc8-325af3d9086d"^^xsd:anyURI ;
+  rdfs:label "Jane's Addiction" ;
+.
+bibliographica:Jazz_Is_Dead
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Jazz_Is_Dead.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/df3226af-d263-4cf0-9ce8-fb3182eddba8"^^xsd:anyURI ;
+  rdfs:label "Jazz Is Dead" ;
 .
 bibliographica:Halibuts
   rdf:type mo:MusicGroup ;
