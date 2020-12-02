@@ -908,12 +908,47 @@ bibliographica:Husker_Du
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/5c4c90a4-539f-4101-83cf-301bc6a94e06"^^xsd:anyURI ;
   rdfs:label "Hüsker Dü" ;
 .
+bibliographica:Incredible_String_Band
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/The_Incredible_String_Band.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/04da193a-a956-4940-a6ca-e6021c7861c2"^^xsd:anyURI ;
+  rdfs:label "The Incredible String Band" ;
+.
+bibliographica:JBs
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/The_J.B.'s.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/cb6a2948-7b9b-4a15-8c71-2b79cc76408e"^^xsd:anyURI ;
+  rdfs:label "The J.B.'s" ;
+.
+bibliographica:Jam
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/The_Jam.'s.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/23228f18-01d5-493e-94ce-cfcde82a8db2"^^xsd:anyURI ;
+  rdfs:label "The Jam" ;
+.
 bibliographica:Jerry_Garcia_Band
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassEH ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Jerry_Garcia_Band.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/3f7a73e5-cb7f-4488-bd7e-f5e26c87fe1b"^^xsd:anyURI ;
   rdfs:label "Jerry Garcia Band" ;
+.
+bibliographica:Jethro_Tull
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Jethro_Tull_(band).ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/ece57992-dc2e-4f67-a269-fa43626c1a3d"^^xsd:anyURI ;
+  rdfs:label "Jethro Tull" ;
+.
+bibliographica:Jody_Grind
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/The_Jody_Grind_(band).ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/4434d1fa-8f7c-46cb-af0b-738c72314242"^^xsd:anyURI ;
+  rdfs:label "The Jody Grind" ;
 .
 bibliographica:Johnny_Clegg_Savuka
   rdf:type mo:MusicGroup ;
@@ -922,12 +957,173 @@ bibliographica:Johnny_Clegg_Savuka
   bibliographica:musicbrainzURI "http://dbpedia.org/data/Savuka.ttl"^^xsd:anyURI ;
   rdfs:label "Johnny Clegg and Savuka" ;
 .
+bibliographica:Juluka
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Juluka.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/46868313-f4bd-40fd-81f6-b5d09b10c3fc"^^xsd:anyURI ;
+  rdfs:label "Juluka" ;
+.
+bibliographica:Ketama
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Ketama.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/7fe8e911-d706-44d9-b633-702065f8fd6c"^^xsd:anyURI ;
+  rdfs:label "Ketama" ;
+.
+bibliographica:King_Crimson
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/King_Crimson.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3"^^xsd:anyURI ;
+  rdfs:label "King Crimson" ;
+.
+bibliographica:King_Missile
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/King_Missile.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/62881dc4-2776-4743-a938-79a7d865ea53"^^xsd:anyURI ;
+  rdfs:label "King Missile" ;
+.
+bibliographica:Kingfish
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Kingfish_(band).ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/b6196f87-0c76-483a-b694-1243362e130e"^^xsd:anyURI ;
+  rdfs:label "Kingfish" ;
+.
+bibliographica:Kinsey_Report
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/The_Kinsey_Report.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/56936a3b-1b5f-4495-88b1-93a76a1c5bec"^^xsd:anyURI ;
+  rdfs:label "The Kinsey Report" ;
+.
+bibliographica:Kitaro
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Kitar%C5%8D.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/f3d8c154-208d-4efa-b52d-7e9f16adcdae"^^xsd:anyURI ;
+  rdfs:label "Kitarō" ;
+.
+bibliographica:Ladysmith_Black_Mambazo
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Ladysmith_Black_Mambazo.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/c1982570-8efb-4cf7-bb5b-c9c026c0e8f4"^^xsd:anyURI ;
+  rdfs:label "Ladysmith Black Mambazo" ;
+.
+bibliographica:Latin_Playboys
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Latin_Playboys.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/f052725a-f7aa-4764-b5ec-0ff39619fa78"^^xsd:anyURI ;
+  rdfs:label "Latin Playboys" ;
+.
+bibliographica:Laughing_Hands
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/43956e04-70b3-4f24-824d-fcb70ca615c6"^^xsd:anyURI ;
+  rdfs:label "Laughing Hands" ;
+.
+bibliographica:Laurel_Canyon_Ramblers
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/844c9b91-dee4-4d83-bb68-fe488a745b23"^^xsd:anyURI ;
+  rdfs:label "Laurel Canyon Ramblers" ;
+.
+bibliographica:Led_Zeppelin
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Led_Zeppelin.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/678d88b2-87b0-403b-b63d-5da7465aecc3"^^xsd:anyURI ;
+  rdfs:label "Led Zeppelin" ;
+.
+bibliographica:Left_Wing_Fascists
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/1fc55b7b-dec1-480f-8599-5c1ac8313c06"^^xsd:anyURI ;
+  rdfs:label "Left Wing Fascists" ;
+.
+bibliographica:Leftover_Salmon
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Leftover_Salmon.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/3020be1d-3c41-4e42-911b-ca5e96489300"^^xsd:anyURI ;
+  rdfs:label "Leftover Salmon" ;
+.
+bibliographica:Levellers
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Levellers_(band).ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/7c8c72f5-01ed-4a55-89d1-ced1a6b3fb0d"^^xsd:anyURI ;
+  rdfs:label "Levellers" ;
+.
+bibliographica:Little_Beirut
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  rdfs:label "Little Beirut" ;
+.
+bibliographica:Little_Feat
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Little_Feat.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/9b106beb-12b5-4525-8025-42e295a2b90a"^^xsd:anyURI ;
+  rdfs:label "Little Feat" ;
+.
+bibliographica:Lo_Cura
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  rdfs:label "Lo Cura" ;
+.
+bibliographica:Lone_Justice
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Lone_Justice.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/778b34b7-736f-45d1-9486-2c9545ea6daa"^^xsd:anyURI ;
+  rdfs:label "Lone Justice" ;
+.
+bibliographica:Los_Lobos
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Los_Lobos.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/2b9967c7-3246-4658-a561-ded5408dd9af"^^xsd:anyURI ;
+  rdfs:label "Los Lobos" ;
+.
+bibliographica:Los_Lonely_Boys
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Los_Lonely_Boys.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/98fe243c-3685-4491-8135-edc713963be4"^^xsd:anyURI ;
+  rdfs:label "Los Lonely Boys" ;
+.
 bibliographica:Los_Van_Van
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassIL ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Los_Van_Van.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/452d9da4-21a7-44b0-8299-1ec4a8f031ef"^^xsd:anyURI ;
   rdfs:label "Los Van Van" ;
+.
+bibliographica:Lounge_Lizards
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/The_Lounge_Lizards.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/3ccbb0c7-6c37-4bc0-8dd7-c970f8d462be"^^xsd:anyURI ;
+  rdfs:label "The Lounge Lizards" ;
+.
+bibliographica:Lowen_Navarro
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Lowen_%26_Navarro.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/ac05b35d-2cae-4765-832f-77cd52e8c17c"^^xsd:anyURI ;
+  rdfs:label "Lowen & Navarro" ;
+.
+bibliographica:Lynyrd_Skynyrd
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Lynyrd_Skynyrd.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/c544ed4d-2390-4442-a83e-1ea2883b09c8"^^xsd:anyURI ;
+  rdfs:label "Lynyrd Skynyrd" ;
 .
 bibliographica:Meters
   rdf:type mo:MusicGroup ;
@@ -1113,6 +1309,12 @@ bibliographica:YoMiles
   rdf:type bibliographica:AlphaClassXZ ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/013cabd3-3949-47ef-be6b-2491a61902fb"^^xsd:anyURI ;
   rdfs:label "Yo Miles!" ;
+.
+bibliographica:Wynton_Kelly_Trio
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassXZ ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/8218b061-2d51-4375-affd-2e272083d12a"^^xsd:anyURI ;
+  rdfs:label "The Wynton Kelly Trio" ;
 .
 bibliographica:ZappaPlaysZappa
   rdf:type mo:MusicGroup ;
