@@ -2191,6 +2191,16 @@ bibliographica:Guitar_Chord_Chart
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/10720780.ttl"^^xsd:anyURI ;
   rdfs:label "Guitar Chord Chart" ;
 .
+bibliographica:Haiku_Harvest
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Peter_Beilenson ;
+  dcterms:title "Haiku Harvest" ;
+  schema:author bibliographica:Peter_Beilenson ;
+  bibliographica:binNumber 10 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/895150436.ttl"^^xsd:anyURI ;
+  rdfs:label "Haiku Harvest" ;
+.
 bibliographica:Half_Asleep_in_Frog_Pajamas
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Tom_Robbins ;
@@ -3468,6 +3478,17 @@ bibliographica:Orchard_Beach
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/456180917.ttl"^^xsd:anyURI ;
   rdfs:label "Orchard Beach" ;
+.
+bibliographica:Ordinances
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Naomi_Lazard ;
+  dcterms:title "The Essential Teachings of Zen Master Hakuin" ;
+  schema:author bibliographica:Naomi_Lazard ;
+  schema:isbn "0882332570" ;
+  bibliographica:binNumber 10 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/729785974.ttl"^^xsd:anyURI ;
+  rdfs:label "Ordinances" ;
 .
 bibliographica:Oregon_Atlas_Gazetteer
   rdf:type schema:Book ;
@@ -5380,6 +5401,17 @@ bibliographica:The_Powwow_Highway
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/20390978.ttl"^^xsd:anyURI ;
   rdfs:label "The Powwow Highway : a novel" ;
 .
+bibliographica:The_Prophet
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Kahlil_Gibran ;
+  dcterms:title "The Prophet" ;
+  schema:author bibliographica:Kahlil_Gibran ;
+  schema:isbn "0762470224" ;
+  bibliographica:binNumber 10 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1158629012.ttl"^^xsd:anyURI ;
+  rdfs:label "The Prophet" ;
+.
 bibliographica:The_Race
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Clive_Cussler ;
@@ -6406,6 +6438,18 @@ bibliographica:Wisconsin_Cheesecyclopedia
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/952098239.ttl"^^xsd:anyURI ;
   rdfs:label "Wisconsin Cheesecyclopedia" ;
+.
+bibliographica:Wisdom_of_Gibran
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Joseph_Sheban ;
+  dcterms:creator bibliographica:Kahlil_Gibran ;
+  dcterms:title "The Wisdom of Gibran" ;
+  schema:author bibliographica:Joseph_Sheban ;
+  schema:author bibliographica:Kahlil_Gibran ;
+  bibliographica:binNumber 10 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/900171274.ttl"^^xsd:anyURI ;
+  rdfs:label "The Wisdom of Gibran" ;
 .
 bibliographica:Wolf
   rdf:type schema:Book ;

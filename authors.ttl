@@ -1690,6 +1690,12 @@ bibliographica:Jorge_Amado
   rdfs:label "Jorge Amado" ;
   foaf:name "Jorge Amado" ;
 .
+bibliographica:Joseph_Sheban
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/164687920/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Joseph Sheban" ;
+  foaf:name "Joseph Sheban" ;
+.
 bibliographica:Jostein_Gaarder
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Jostein_Gaarder.ttl"^^xsd:anyURI ;
@@ -1724,6 +1730,13 @@ bibliographica:Junichiro_Tanizaki
   bibliographica:viafURI "http://viaf.org/viaf/95021658/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Jun'ichirō Tanizaki" ;
   foaf:name "Jun'ichirō Tanizaki" ;
+.
+bibliographica:Kahlil_Gibran
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Kahlil_Gibran.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/88896061/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Kahlil Gibrán" ;
+  foaf:name "Kahlil Gibrán" ;
 .
 bibliographica:Karen_Betteridge
   rdf:type schema:Person ;
@@ -2220,6 +2233,13 @@ bibliographica:Muriel_Sweet
   rdfs:label "Muriel Sweet" ;
   foaf:name "Muriel Sweet" ;
 .
+bibliographica:Naomi_Lazard
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Naomi_Lazard.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/7804711/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Naomi Lazard" ;
+  foaf:name "Naomi Lazard" ;
+.
 bibliographica:Neal_Cassady
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Neal_Cassady.ttl"^^xsd:anyURI ;
@@ -2435,6 +2455,12 @@ bibliographica:Peter_Adamson
   bibliographica:viafURI "https://viaf.org/viaf/70144814341439043147/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Peter Adamson" ;
   foaf:name "Peter Adamson" ;
+.
+bibliographica:Peter_Beilenson
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/75150766/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Peter Beilenson" ;
+  foaf:name "Peter Beilenson" ;
 .
 bibliographica:Peter_Carey
   rdf:type schema:Person ;
