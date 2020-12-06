@@ -685,6 +685,19 @@ bibliographica:Bitter_Grounds
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/36074578.ttl"^^xsd:anyURI ;
   rdfs:label "Bitter Grounds" ;
 .
+bibliographica:Black_Elk_Speaks
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Black_Elk ;
+  dcterms:creator bibliographica:John_Neihardt ;
+  dcterms:title "Black Elk Speaks" ;
+  schema:author bibliographica:Black_Elk ;
+  schema:author bibliographica:John_Neihardt ;
+  schema:isbn "0743506391" ;
+  bibliographica:binNumber 1 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/608838231.ttl"^^xsd:anyURI ;
+  rdfs:label "Black Elk Speaks" ;
+.
 bibliographica:Blackwater
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Kerstin_Ekman ;
@@ -769,6 +782,28 @@ bibliographica:Book_of_Dreams
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/928156792.ttl"^^xsd:anyURI ;
   rdfs:label "Book of Dreams" ;
+.
+bibliographica:Book_of_Hopi
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Frank_Waters ;
+  dcterms:title "The Book of the Hopi" ;
+  schema:author bibliographica:Frank_Waters ;
+  schema:isbn "0140045279" ;
+  bibliographica:binNumber 10 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/847055696.ttl"^^xsd:anyURI ;
+  rdfs:label "The Book of the Hopi" ;
+.
+bibliographica:Book_of_Macrobiotics
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Michio_Kushi ;
+  dcterms:title "The Book of Macrobiotics" ;
+  schema:author bibliographica:Michio_Kushi ;
+  schema:isbn "0870403818" ;
+  bibliographica:binNumber 10 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/873084571.ttl"^^xsd:anyURI ;
+  rdfs:label "The Book of Macrobiotics" ;
 .
 bibliographica:Book_of_Tea
   rdf:type schema:Book ;
@@ -1466,6 +1501,17 @@ bibliographica:Detox_Diet
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/54527833.ttl"^^xsd:anyURI ;
   rdfs:label "The Detox Diet" ;
 .
+bibliographica:Dharma_Gaia
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Allan_Hunt_Badiner ;
+  dcterms:title "Dharma gaia : a harvest of essays in buddhism and ecology" ;
+  schema:author bibliographica:Allan_Hunt_Badiner ;
+  schema:isbn "0938077309" ;
+  bibliographica:binNumber 10 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/963458729.ttl"^^xsd:anyURI ;
+  rdfs:label "Dharma Gaia" ;
+.
 bibliographica:Diet_for_a_New_America
   rdf:type schema:Book ;
   dcterms:creator bibliographica:John_Robbins ;
@@ -1732,6 +1778,17 @@ bibliographica:Eva_Luna
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/32091094.ttl"^^xsd:anyURI ;
   rdfs:label "Eva Luna" ;
 .
+bibliographica:Expression_in_music
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:HA_VanderCook ;
+  dcterms:title "Expression in Music" ;
+  schema:author bibliographica:HA_VanderCook ;
+  schema:isbn "1423489179" ;
+  bibliographica:binNumber 10 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/948479261.ttl"^^xsd:anyURI ;
+  rdfs:label "Expression in Music" ;
+.
 bibliographica:Face_of_an_angel
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Denise_Chávez ;
@@ -1952,6 +2009,17 @@ bibliographica:French_Cheeses
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/317866716.ttl"^^xsd:anyURI ;
   rdfs:label "French Cheeses" ;
+.
+bibliographica:From_Rationalism_Existentialism
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Robert_Solomon ;
+  dcterms:title "From rationalism to existentialism : the existentialists and their nineteenth-century backgrounds" ;
+  schema:author bibliographica:Robert_Solomon ;
+  schema:isbn "0819146358" ;
+  bibliographica:binNumber 10 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/633446006.ttl"^^xsd:anyURI ;
+  rdfs:label "From Rationalism to Existentialism" ;
 .
 bibliographica:FullWoman_FleshyApple
   rdf:type schema:Book ;
@@ -2274,6 +2342,17 @@ bibliographica:Harry_Potter_Order_of_the_Phoenix
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/51532204.ttl"^^xsd:anyURI ;
   rdfs:label "Harry Potter and the Order of the Phoenix" ;
 .
+bibliographica:Heaing_Toward_Omega
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Kenneth_Ring ;
+  dcterms:title "Heading toward omega : in search of the meaning of the near-death experience" ;
+  schema:author bibliographica:Kenneth_Ring ;
+  schema:isbn "0688062687" ;
+  bibliographica:binNumber 10 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/12929384.ttl"^^xsd:anyURI ;
+  rdfs:label "Heading Toward Omega" ;
+.
 bibliographica:Heat_Islands
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Randy_Wayne_White ;
@@ -2315,6 +2394,16 @@ bibliographica:Her_Native_Colors
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1035616489.ttl"^^xsd:anyURI ;
   rdfs:label "Her Native Colors" ;
 .
+bibliographica:Higher_Creativity
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Willis_Harman ;
+  dcterms:title "Higher Creativity" ;
+  schema:author bibliographica:Willis_Harman ;
+  bibliographica:binNumber 10 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/906820914.ttl"^^xsd:anyURI ;
+  rdfs:label "Higher Creativity" ;
+.
 bibliographica:Higher_Taste
   rdf:type schema:Book ;
   dcterms:creator bibliographica:AC_Bhaktivedanta_Swami ;
@@ -2325,6 +2414,17 @@ bibliographica:Higher_Taste
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/488275616.ttl"^^xsd:anyURI ;
   rdfs:label "The Higher Taste" ;
+.
+bibliographica:Holographic_Universe
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Michael_Talbot ;
+  dcterms:title "The Holographic Universe" ;
+  schema:author bibliographica:Michael_Talbot ;
+  schema:isbn "0060922583" ;
+  bibliographica:binNumber 10 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/476785446.ttl"^^xsd:anyURI ;
+  rdfs:label "The Holographic Universe" ;
 .
 bibliographica:Holy_Fools
   rdf:type schema:Book ;
@@ -2458,6 +2558,19 @@ bibliographica:I_Am_Snowing
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/29024283.ttl"^^xsd:anyURI ;
   rdfs:label "I Am Snowing" ;
 .
+bibliographica:I_Become_Part_of_It
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:DM_Dooling ;
+  dcterms:creator bibliographica:Paul_Jordan_Smith ;
+  dcterms:title "I become part of it : sacred dimensions in native American life" ;
+  schema:editor bibliographica:Paul_Jordan_Smith ;
+  schema:editor bibliographica:DM_Dooling ;
+  schema:isbn "0062502352" ;
+  bibliographica:binNumber 10 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/24911184.ttl"^^xsd:anyURI ;
+  rdfs:label "I Become Part of It" ;
+.
 bibliographica:I_love_myself_when_laughing
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Alice_Walker ;
@@ -2525,6 +2638,16 @@ bibliographica:Illywhacker
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/904948711.ttl"^^xsd:anyURI ;
   rdfs:label "Illywhacker" ;
 .
+bibliographica:Improvising_Jazz
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Jerry_Coker ;
+  dcterms:title "Improvising Jazz" ;
+  schema:author bibliographica:Jerry_Coker ;
+  bibliographica:binNumber 10 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/252481990.ttl"^^xsd:anyURI ;
+  rdfs:label "Improvising Jazz" ;
+.
 bibliographica:In_the_Drink
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Kate_Atkinson ;
@@ -2576,6 +2699,28 @@ bibliographica:Inner_Chapters
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/5007607.ttl"^^xsd:anyURI ;
   rdfs:comment "Translation of Chuang Tsu's work." ;
   rdfs:label "Inner Chapters" ;
+.
+bibliographica:Inner_Reaches
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Joseph_Campbell ;
+  dcterms:title "The inner reaches of outer space : metaphor as myth and as religion" ;
+  schema:author bibliographica:Joseph_Campbell ;
+  schema:isbn "0060969717" ;
+  bibliographica:binNumber 10 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/32860604.ttl"^^xsd:anyURI ;
+  rdfs:label "The Inner Reaches of Outer Space" ;
+.
+bibliographica:Intro_Lit
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Sylvan_Barnet ;
+  dcterms:title "An introduction to literature : fiction, poetry, drama" ;
+  schema:author bibliographica:Sylvan_Barnet ;
+  schema:isbn "0316082279" ;
+  bibliographica:binNumber 10 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/939890273.ttl"^^xsd:anyURI ;
+  rdfs:label "An Introduction to Literature" ;
 .
 bibliographica:Ireland_selected_stories
   rdf:type schema:Book ;
@@ -2871,6 +3016,15 @@ bibliographica:Little_Miss_Strange
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/38326153.ttl"^^xsd:anyURI ;
   rdfs:label "Little Miss Strange" ;
 .
+bibliographica:Little_Treasure_Poetry
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Charles_Scribner_Sons ;
+  dcterms:title "A Little Treasure of Modern Poetry" ;
+  schema:author bibliographica:Charles_Scribner_Sons ;
+  bibliographica:binNumber 10 ;
+  bibliographica:numberOfitems 1 ;
+  rdfs:label "A Little Treasure of Modern Poetry" ;
+.
 bibliographica:Living_at_the_Movies
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Jim_Carroll ;
@@ -2919,6 +3073,19 @@ bibliographica:Lucid_Intervals
   schema:author bibliographica:Stuart_Woods ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/499178284.ttl"^^xsd:anyURI ;
   rdfs:label "Lucid Intervals" ;
+.
+bibliographica:Macrobiotic_Cooking
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Edward_Esko ;
+  dcterms:creator bibliographica:Wendy_Esko ;
+  dcterms:title "Macrobiotic Cooking for Everyone" ;
+  schema:author bibliographica:Edward_Esko ;
+  schema:author bibliographica:Wendy_Esko ;
+  schema:isbn "0870404695" ;
+  bibliographica:binNumber 10 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/415351511.ttl"^^xsd:anyURI ;
+  rdfs:label "Macrobiotic Cooking for Everyone" ;
 .
 bibliographica:Mama_Day
   rdf:type schema:Book ;
@@ -3762,6 +3929,17 @@ bibliographica:Project_Mgmt
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/828199043.ttl"^^xsd:anyURI ;
   rdfs:label "Teach Yourself Project Management" ;
 .
+bibliographica:PSI_What_Is_It
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Louisa_Rhine ;
+  dcterms:title "PSI what is it?" ;
+  schema:author bibliographica:Louisa_Rhine ;
+  schema:isbn "0439136369" ;
+  bibliographica:binNumber 10 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1039070350.ttl"^^xsd:anyURI ;
+  rdfs:label "PSI what is it?" ;
+.
 bibliographica:Purity_of_Blood
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Arturo_Perez_Reverte ;
@@ -4200,6 +4378,16 @@ bibliographica:Selected_Journals_of_Thoreau
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1404769.ttl"^^xsd:anyURI ;
   rdfs:label "Selected Journals of Henry David Thoreau" ;
 .
+bibliographica:Selected_Poems_ts
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:TS_Eliot ;
+  dcterms:title "Selected Poems" ;
+  schema:author bibliographica:TS_Eliot ;
+  bibliographica:binNumber 10 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/20548864.ttl"^^xsd:anyURI ;
+  rdfs:label "Selected Poems" ;
+.
 bibliographica:Selected_poems
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Seamus_Heaney ;
@@ -4355,8 +4543,19 @@ bibliographica:Sisters_of_the_Earth-2
   schema:isbn "0679733825" ;
   bibliographica:binNumber 6 ;
   bibliographica:numberOfitems 1 ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/924995896.ttll"^^xsd:anyURI ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/924995896.ttl"^^xsd:anyURI ;
   rdfs:label "Sisters of the Earth : women's prose and poetry about nature" ;
+.
+bibliographica:Sivananda_companion_yoga
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Lorraine_Anderson ;
+  dcterms:title "The Sivananda Companion to Yoga" ;
+  schema:author bibliographica:Lorraine_Anderson ;
+  schema:isbn "0671470884" ;
+  bibliographica:binNumber 10 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/435300858.ttl"^^xsd:anyURI ;
+  rdfs:label "The Sivananda Companion to Yoga" ;
 .
 bibliographica:Skeleton_Coast
   rdf:type schema:Book ;
@@ -4657,6 +4856,16 @@ bibliographica:Sympathy_for_the_Devil
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1013834944.ttl"^^xsd:anyURI ;
   rdfs:label "Sympathy for the Devil" ;
 .
+bibliographica:Synchronicity
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:CG_Jung ;
+  dcterms:title "Synchronicity" ;
+  schema:author bibliographica:CG_Jung ;
+  bibliographica:binNumber 10 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/611657875.ttl"^^xsd:anyURI ;
+  rdfs:label "Synchronicity" ;
+.
 bibliographica:Tales_of_Ordinary_Madness
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Charles_Bukowski ;
@@ -4736,6 +4945,17 @@ bibliographica:Te_Ao_marama
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/968777962.ttl"^^xsd:anyURI ;
   rdfs:label "Te Ao Mārama : Contemporary Maori Writing" ;
+.
+bibliographica:Te_of_Piglet
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Benjamin_Hoff ;
+  dcterms:title "Te of Piglet" ;
+  schema:author bibliographica:Benjamin_Hoff ;
+  schema:isbn "0140230165" ;
+  bibliographica:binNumber 10 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/438340159.ttl"^^xsd:anyURI ;
+  rdfs:label "Te of Piglet" ;
 .
 bibliographica:Tender_at_the_Bone
   rdf:type schema:Book ;
@@ -6322,6 +6542,26 @@ bibliographica:Watership_Down
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/730688.ttl"^^xsd:anyURI ;
   rdfs:label "Watership Down" ;
+.
+bibliographica:Way_Lao_Tzu
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Wing_Tsit_Chan ;
+  dcterms:title "The Way of Lao Tzu" ;
+  schema:author bibliographica:Wing_Tsit_Chan ;
+  bibliographica:binNumber 10 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/310723897.ttl"^^xsd:anyURI ;
+  rdfs:label "The Way of Lao Tzu" ;
+.
+bibliographica:Way_Peaceful_Warrior
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Dan_Millman ;
+  dcterms:title "Way of the Peaceful Warrior" ;
+  schema:author bibliographica:Dan_Millman ;
+  bibliographica:binNumber 10 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/611657875.ttl"^^xsd:anyURI ;
+  rdfs:label "Way of the Peaceful Warrior" ;
 .
 bibliographica:Week_on_the_Concord_and_Merrimack
   rdf:type schema:Book ;
