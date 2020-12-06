@@ -180,6 +180,17 @@ bibliographica:Aegypt
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/31760735.ttl"^^xsd:anyURI ;
   rdfs:label "Aegypt" ;
 .
+bibliographica:Age_of_Reason
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Jean_Paul_Sartre ;
+  dcterms:title "The Age of Reason" ;
+  schema:author bibliographica:Jean_Paul_Sartre ;
+  schema:isbn "0394718380" ;
+  bibliographica:binNumber 10 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1023741641.ttl"^^xsd:anyURI ;
+  rdfs:label "The Age of Reason" ;
+.
 bibliographica:Alice_in_Wonderland
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Lewis_Carroll ;
@@ -393,6 +404,16 @@ bibliographica:Atlantis_Found
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/41967119.ttl"^^xsd:anyURI ;
   rdfs:label "Atlantis Found" ;
 .
+bibliographica:Atlas_Shrugged
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Ayn_Rand ;
+  dcterms:title "Atlantis Found" ;
+  schema:author bibliographica:Ayn_Rand ;
+  bibliographica:binNumber 10 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/944146779.ttl"^^xsd:anyURI ;
+  rdfs:label "Atlas Shrugged" ;
+.
 bibliographica:Atomic_Lobster
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Tim_Dorsey ;
@@ -504,7 +525,7 @@ bibliographica:Bad_Luck_and_Trouble
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1054386655.ttl"^^xsd:anyURI ;
   rdfs:label "Bad Luck and Trouble" ;
 .
-bibliographica:Baileys_Café
+bibliographica:Baileys_Cafe
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Gloria_Naylor ;
   dcterms:title "Bailey's Café" ;
@@ -654,6 +675,17 @@ bibliographica:Best_of_the_Beatles
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/31885156.ttl"^^xsd:anyURI ;
   rdfs:label "The Best of the Beatles : 25 greatest hits" ;
+.
+bibliographica:Bicycle_Repair_Book
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Rob_Van_der_Plas ;
+  dcterms:title "The bicycle repair book : the complete manual of bicycle care" ;
+  schema:author bibliographica:Rob_Van_der_Plas ;
+  schema:isbn "0933201117" ;
+  bibliographica:binNumber 10 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1098766690.ttl"^^xsd:anyURI ;
+  rdfs:label "The Bicycle Repair Book" ;
 .
 bibliographica:Big_Stone_Gap
   rdf:type schema:Book ;
@@ -856,6 +888,17 @@ bibliographica:Boy_Meets_Girl
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/871012100.ttl"^^xsd:anyURI ;
   rdfs:label "Boy Meets Girl" ;
 .
+bibliographica:Brave_New_World
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Aldous_Huxley ;
+  dcterms:title "Brave New World" ;
+  schema:author bibliographica:Aldous_Huxley ;
+  schema:isbn "0060830956" ;
+  bibliographica:binNumber 10 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1192992461.ttl"^^xsd:anyURI ;
+  rdfs:label "Brave New World" ;
+.
 bibliographica:Break_In
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Dick_Francis ;
@@ -994,7 +1037,8 @@ bibliographica:Catcher_in_the_Rye
   schema:author bibliographica:JD_Salinger ;
   schema:isbn "031654003X" ;
   bibliographica:binNumber 9 ;
-  bibliographica:numberOfitems 1 ;
+  bibliographica:binNumber 10 ;
+  bibliographica:numberOfitems 2 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1153562713.ttl"^^xsd:anyURI ;
   rdfs:label "The Catcher in the Rye" ;
 .
@@ -1117,6 +1161,17 @@ bibliographica:ChroniclesOne
   schema:author bibliographica:Bob_Dylan ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/56634799.ttl"^^xsd:anyURI ;
   rdfs:label "Chronicles, Volume One" ;
+.
+bibliographica:Clockwork_Orange
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Anthony_Burgess ;
+  dcterms:title "Close Case" ;
+  schema:author bibliographica:Anthony_Burgess ;
+  schema:isbn "0345284119" ;
+  bibliographica:binNumber 10 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/9950377.ttl"^^xsd:anyURI ;
+  rdfs:label "A Clockwork Orange" ;
 .
 bibliographica:Close_Case
   rdf:type schema:Book ;
@@ -1262,6 +1317,17 @@ bibliographica:Cordelia_Underwood
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/38324648.ttl"^^xsd:anyURI ;
   rdfs:label "Cordelia Underwood" ;
 .
+bibliographica:Courage_to_Create
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Rollo_May ;
+  dcterms:title "The Courage to Create" ;
+  schema:author bibliographica:Rollo_May ;
+  schema:isbn "0844668540" ;
+  bibliographica:binNumber 10 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/231586929.ttl"^^xsd:anyURI ;
+  rdfs:label "The Courage to Create" ;
+.
 bibliographica:Coyote_Silk
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Gino_Sky ;
@@ -1294,6 +1360,16 @@ bibliographica:Creative_Origami
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/450459795.ttl"^^xsd:anyURI ;
   rdfs:label "Creative Origami" ;
+.
+bibliographica:Creative_Process
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Brewster_Ghiselin ;
+  dcterms:title "The Creative Process" ;
+  schema:author bibliographica:Brewster_Ghiselin ;
+  bibliographica:binNumber 10 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/752951877.ttl"^^xsd:anyURI ;
+  rdfs:label "The Creative Process" ;
 .
 bibliographica:Crescent_Dawn
   rdf:type schema:Book ;
@@ -1428,6 +1504,17 @@ bibliographica:Deadhead_Forever
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/231686069.ttl"^^xsd:anyURI ;
   rdfs:label "Deadhead Forever : Property of Haze" ;
 .
+bibliographica:Deans_December
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Saul_Bellow ;
+  dcterms:title "The Dean's December" ;
+  schema:author bibliographica:Saul_Bellow ;
+  schema:isbn "067145806X" ;
+  bibliographica:binNumber 10 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/802995500.ttl"^^xsd:anyURI ;
+  rdfs:label "The Dean's December" ;
+.
 bibliographica:Death_of_Ivan_Lynch
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Leo_Tolstoy ;
@@ -1446,6 +1533,16 @@ bibliographica:Decade_score
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/36033939.ttl"^^xsd:anyURI ;
   rdfs:label "Decade" ;
+.
+bibliographica:Demian
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Hermann_Hesse ;
+  dcterms:title "Demian" ;
+  schema:author bibliographica:Hermann_Hesse ;
+  bibliographica:binNumber 10 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/987251577.ttl"^^xsd:anyURI ;
+  rdfs:label "Demian" ;
 .
 bibliographica:Demon_Box
   rdf:type schema:Book ;
@@ -1709,6 +1806,17 @@ bibliographica:Emotionally_Weird
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/44120095.ttl"^^xsd:anyURI ;
   rdfs:label "Emotionally Weird" ;
+.
+bibliographica:En_Attendant_Godot
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Samuel_Beckett ;
+  dcterms:title "En Attendant Godot" ;
+  schema:author bibliographica:Samuel_Beckett ;
+  schema:isbn "2707301485" ;
+  bibliographica:binNumber 10 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/248338524.ttl"^^xsd:anyURI ;
+  rdfs:label "En Attendant Godot" ;
 .
 bibliographica:Encounters_with_the_Archdruid
   rdf:type schema:Book ;
@@ -2383,6 +2491,17 @@ bibliographica:Hemingways_Chair
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/38970321.ttl"^^xsd:anyURI ;
   rdfs:label "Hemingway's Chair" ;
 .
+bibliographica:Henderson_Rain_King
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Saul_Bellow ;
+  dcterms:title "Henderson, the Rain King" ;
+  schema:author bibliographica:Saul_Bellow ;
+  schema:isbn "0140189424" ;
+  bibliographica:binNumber 10 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/263635216.ttl"^^xsd:anyURI ;
+  rdfs:label "Henderson, the Rain King" ;
+.
 bibliographica:Her_Native_Colors
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Elisabeth_Hyde ;
@@ -2985,6 +3104,28 @@ bibliographica:Legends_of_the_Fall
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/4549238.ttl"^^xsd:anyURI ;
   rdfs:label "Legends of the Fall" ;
 .
+bibliographica:Les_Miserables
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Victor_Hugo ;
+  dcterms:title "Les Misérables" ;
+  schema:author bibliographica:Victor_Hugo ;
+  schema:isbn "0449300021" ;
+  bibliographica:binNumber 10 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1140268812.ttl"^^xsd:anyURI ;
+  rdfs:label "Les Misérables" ;
+.
+bibliographica:Letranger
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Albert_Camus ;
+  dcterms:title "L'étranger" ;
+  schema:author bibliographica:Albert_Camus ;
+  schema:isbn "2070360024" ;
+  bibliographica:binNumber 10 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/476921778.ttl"^^xsd:anyURI ;
+  rdfs:label "L'étranger" ;
+.
 bibliographica:Lets_Cook_It_Right
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Adelle_Davis ;
@@ -3097,6 +3238,17 @@ bibliographica:Mama_Day
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/302016615.ttl"^^xsd:anyURI ;
   rdfs:label "Mama Day" ;
+.
+bibliographica:Man_of_People
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Chinua_Achebe ;
+  dcterms:title "Things Fall Apart" ;
+  schema:author bibliographica:Chinua_Achebe ;
+  schema:isbn "0385086164" ;
+  bibliographica:binNumber 10 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1052671814.ttl"^^xsd:anyURI ;
+  rdfs:label "Things Fall Apart" ;
 .
 bibliographica:Man_on_Spikes
   rdf:type schema:Book ;
@@ -3405,6 +3557,16 @@ bibliographica:Neil_Young_Rolling_stone_files
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/243807016.ttl"^^xsd:anyURI ;
   rdfs:label "Neil Young, the Rolling Stone Files" ;
+.
+bibliographica:New_Dictionary_Music
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Arthur_Jacobs ;
+  dcterms:title "A New Dictionary Music" ;
+  schema:author bibliographica:Arthur_Jacobs ;
+  bibliographica:binNumber 10 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1072411046.ttl"^^xsd:anyURI ;
+  rdfs:label "A New Dictionary Music" ;
 .
 bibliographica:New_Natural_Foods_Cookbook
   rdf:type schema:Book ;
@@ -4272,6 +4434,17 @@ bibliographica:Salamander
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/45414348.ttl"^^xsd:anyURI ;
   rdfs:label "Salamander" ;
 .
+bibliographica:Sand_County_Almanac
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Aldo_Leopold ;
+  dcterms:title "A sand county almanac : with essays on conservation from Round River" ;
+  schema:author bibliographica:Aldo_Leopold ;
+  schema:isbn "0345253361195" ;
+  bibliographica:binNumber 10 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/254229667.ttl"^^xsd:anyURI ;
+  rdfs:label "A Sand County Almanac" ;
+.
 bibliographica:Saratoga_Haunting
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Stephen_Dobyns ;
@@ -4374,7 +4547,8 @@ bibliographica:Selected_Journals_of_Thoreau
   dcterms:title "Selected Journals of Henry David Thoreau" ;
   schema:author bibliographica:Carl_Bode ;
   bibliographica:binNumber 5 ;
-  bibliographica:numberOfitems 1 ;
+  bibliographica:binNumber 10 ;
+  bibliographica:numberOfitems 2 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1404769.ttl"^^xsd:anyURI ;
   rdfs:label "Selected Journals of Henry David Thoreau" ;
 .
@@ -6079,6 +6253,16 @@ bibliographica:Theme_From_The_Simpsons
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/460555576.ttl"^^xsd:anyURI ;
   rdfs:label "Theme From The Simpsons" ;
 .
+bibliographica:Things_Fall_Apart
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Chinua_Achebe ;
+  dcterms:title "Things Fall Apart" ;
+  schema:author bibliographica:Chinua_Achebe ;
+  bibliographica:binNumber 10 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1015005083.ttl"^^xsd:anyURI ;
+  rdfs:label "Things Fall Apart" ;
+.
 bibliographica:Things_my_girlfriend_and_I_argued_about
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Mil_Millington ;
@@ -6589,6 +6773,17 @@ bibliographica:What_bred_in_the_bone
   schema:author bibliographica:Robertson_Davies ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/12549454.ttl"^^xsd:anyURI ;
   rdfs:label "What's Bred in the Bone" ;
+.
+bibliographica:What_Listen_for_Music
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Aaron_Copeland ;
+  dcterms:title "What to Listen for in Music" ;
+  schema:author bibliographica:Aaron_Copeland ;
+  schema:isbn "0451627350" ;
+  bibliographica:binNumber 10 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/16871938.ttl"^^xsd:anyURI ;
+  rdfs:label "What to Listen for in Music" ;
 .
 bibliographica:White_Death
   rdf:type schema:Book ;
