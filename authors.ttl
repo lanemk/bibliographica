@@ -561,6 +561,13 @@ bibliographica:Camilla_Lackberg
   rdfs:label "Camilla Läckberg" ;
   foaf:name "Camilla Läckberg" ;
 .
+bibliographica:Camille_Paglia
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Camille_Paglia.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/27119934/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Camille Paglia" ;
+  foaf:name "Camille Paglia" ;
+.
 bibliographica:Carl_Bode
   rdf:type schema:Person ;
   bibliographica:viafURI "http://viaf.org/viaf/91264195/rdf.xml"^^xsd:anyURI ;
@@ -749,6 +756,11 @@ bibliographica:Dan_Haerle
   rdfs:label "Dan Haerle" ;
   foaf:name "Dan Haerle" ;
 .
+bibliographica:Dan_Homeres
+  rdf:type schema:Person ;
+  rdfs:label "Dan Homeres" ;
+  foaf:name "Dan Homeres" ;
+.
 bibliographica:Dan_Millman
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Dan_Millman.ttl"^^xsd:anyURI ;
@@ -808,6 +820,19 @@ bibliographica:Dave_DeWitt
   bibliographica:viafURI "http://viaf.org/viaf/65287136/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Dave DeWitt" ;
   foaf:name "Dave DeWitt" ;
+.
+bibliographica:Dave_Eggers
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Dave_Eggers.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/56593673/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Dave Eggers" ;
+  foaf:name "Dave Eggers" ;
+.
+bibliographica:Dave_Miller
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/35830302/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Dave Miller" ;
+  foaf:name "Dave Miller" ;
 .
 bibliographica:David_Arnason
   rdf:type schema:Person ;
@@ -1073,6 +1098,13 @@ bibliographica:Eoin_Colfer
   rdfs:label "Eoin Colfer" ;
   foaf:name "Eoin Colfer" ;
 .
+bibliographica:Eric_Schlosser
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Eric_Schlosser.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/56834947/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Eric Schlosser" ;
+  foaf:name "Eric Schlosser" ;
+.
 bibliographica:Ernest_Callenbach
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Ernest_Callenbach.ttl"^^xsd:anyURI ;
@@ -1199,6 +1231,12 @@ bibliographica:Gary_Snyder
   bibliographica:viafURI "http://viaf.org/viaf/68944804/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Gary Snyder" ;
   foaf:name "Gary Snyder" ;
+.
+bibliographica:George_Petrides
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/35980503/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "George Petrides" ;
+  foaf:name "George Petrides" ;
 .
 bibliographica:Gia-fu_Feng
   rdf:type schema:Person ;
@@ -2079,6 +2117,13 @@ bibliographica:Leo_Tolstoy
   rdfs:label "Leo Tolstoy" ;
   foaf:name "graf Leo Tolstoy" ;
 .
+bibliographica:Leonardo_Maugeri
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Leonardo_Maugeri.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/84412375/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Leonardo Maugeri" ;
+  foaf:name "Leonardo Maugeri" ;
+.
 bibliographica:Lewis_Carroll
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Lewis_Carroll.ttl"^^xsd:anyURI ;
@@ -2325,6 +2370,13 @@ bibliographica:Michael_Dibdin
   rdfs:label "Michael Dibdin" ;
   foaf:name "Michael Dibdin" ;
 .
+bibliographica:Michael_Dorris
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Michael_Dorris.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/76330722/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Michael Dorris" ;
+  foaf:name "Michael Dorris" ;
+.
 bibliographica:Michael_Kernan
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Michael_Kernan.ttl"^^xsd:anyURI ;
@@ -2387,6 +2439,13 @@ bibliographica:Mickey_Spillane
   bibliographica:viafURI "http://viaf.org/viaf/12315338/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Mickey Spillane" ;
   foaf:name "Mickey Spillane" ;
+.
+bibliographica:Miklos_Udvardy
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Miklos_Udvardy.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/110129554/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Miklos Udvardy" ;
+  foaf:name "Miklos Udvardy" ;
 .
 bibliographica:Mil_Millington
   rdf:type schema:Person ;
@@ -2825,6 +2884,12 @@ bibliographica:Richard_Powers
   rdfs:label "Richard Powers" ;
   foaf:name "Richard Powers" ;
 .
+bibliographica:Richard_Spellenberg
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/66537526/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Richard Spellenberg" ;
+  foaf:name "Richard Spellenberg" ;
+.
 bibliographica:Rigoberta_Menchu
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Rigoberta_Menchú.ttl"^^xsd:anyURI ;
@@ -3009,6 +3074,12 @@ bibliographica:Samuel_Beckett
   bibliographica:viafURI "https://viaf.org/viaf/7386737/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Samuel Beckett" ;
   foaf:name "Samuel Beckett" ;
+.
+bibliographica:Samuel_Fromartz
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/53563060/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Samuel Fromartz" ;
+  foaf:name "Samuel Fromartz" ;
 .
 bibliographica:Sandra_Benitez
   rdf:type schema:Person ;
@@ -3309,6 +3380,13 @@ bibliographica:Tim_Dorsey
   rdfs:label "Tim Dorsey" ;
   foaf:name "Tim Dorsey" ;
 .
+bibliographica:Tim_Folger
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Tim_Folger.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/131146094150600330369/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Tim Folger" ;
+  foaf:name "Tim Folger" ;
+.
 bibliographica:Tim_OBrien
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Tim_O'Brien_(author).ttl"^^xsd:anyURI ;
@@ -3432,6 +3510,13 @@ bibliographica:Vijay_Hassin
   rdfs:label "Vijay Hassin" ;
   foaf:name "Vijay Hassin" ;
 .
+bibliographica:Vikram_Chandra
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Vikram_Chandra_(novelist).ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/31973215/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Vikram Chandra" ;
+  foaf:name "Vikram Chandra" ;
+.
 bibliographica:Vincent_Kohler
   rdf:type schema:Person ;
   bibliographica:viafURI "http://viaf.org/viaf/43641873/rdf.xml"^^xsd:anyURI ;
@@ -3548,6 +3633,13 @@ bibliographica:Yamaha
   bibliographica:dbpediaURI "http://dbpedia.org/data/Yamaha_Corporation.ttl"^^xsd:anyURI ;
   rdfs:label "Yamaha" ;
   foaf:name "Yamaha" ;
+.
+bibliographica:Yann_Martel
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Yann_Martel.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/85372278/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Yann Martel" ;
+  foaf:name "Yann Martel" ;
 .
 bibliographica:Zoe_Weil
   rdf:type schema:Person ;
