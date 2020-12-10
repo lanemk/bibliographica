@@ -1125,6 +1125,74 @@ bibliographica:Lynyrd_Skynyrd
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/c544ed4d-2390-4442-a83e-1ea2883b09c8"^^xsd:anyURI ;
   rdfs:label "Lynyrd Skynyrd" ;
 .
+bibliographica:MC5
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/MC5.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/08b736bb-1c82-40b4-8b0b-49e2182a067a"^^xsd:anyURI ;
+  rdfs:label "MC5" ;
+.
+bibliographica:Mahavishnu_Orchestra
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Mahavishnu_Orchestra.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/a2be74f5-0735-46f7-a295-7e41aab30029"^^xsd:anyURI ;
+  rdfs:label "Mahavishnu Orchestra" ;
+.
+bibliographica:Mahlathini_Mahotella_Queens
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Mahlathini_and_the_Mahotella_Queens.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/7a63191f-6d03-4b91-ae21-86dac044bec8"^^xsd:anyURI ;
+  rdfs:label "Mahlathini and the Mahotella Queens" ;
+.
+bibliographica:Mahotella_Queens
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Mahotella_Queens.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/cf54350f-92c4-495e-9a72-8691b0657aaf"^^xsd:anyURI ;
+  rdfs:label "Mahotella Queens" ;
+.
+bibliographica:Mannheim_Steamroller
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Mannheim_Steamroller.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/922a18b1-0aba-4868-8f38-2aa4f324fe16"^^xsd:anyURI ;
+  rdfs:label "Mannheim Steamroller" ;
+.
+bibliographica:Mary_Lees_Corvette
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Mary_Lee's_Corvette.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/c0ef3bec-1e2e-46b3-a826-7887349739f9"^^xsd:anyURI ;
+  rdfs:label "Mary Lee's Corvette" ;
+.
+bibliographica:Massacre
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Massacre_(experimental_band).ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/4b71450d-9889-4175-a391-16b9b2f63408"^^xsd:anyURI ;
+  rdfs:label "Massacre" ;
+.
+bibliographica:Master_Drummers_Dagbon
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassMP ;
+  rdfs:label "Master Drummers Of Dagbon" ;
+.
+bibliographica:Material
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Material_(band).ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/ceaf841a-60e9-4391-9e26-88b853cd4658"^^xsd:anyURI ;
+  rdfs:label "Material" ;
+.
+bibliographica:Medeski_Martin_Wood
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Medeski_Martin_%26_Wood.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/6eed1ed9-ab02-45cd-a306-828bc1b98671"^^xsd:anyURI ;
+  rdfs:label "Medeski Martin & Wood" ;
+.
 bibliographica:Meters
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassMP ;
@@ -1132,6 +1200,13 @@ bibliographica:Meters
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/851827d6-ae31-4093-a166-1420cac610a4"^^xsd:anyURI ;
   rdfs:label "The Meters" ;
   skos:altLabel "The Funky Meters" ;
+.
+bibliographica:Modern_Lovers
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/The_Modern_Lovers.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/535f06f0-7ea2-41a4-a967-743b25558805"^^xsd:anyURI ;
+  rdfs:label "The Modern Lovers" ;
 .
 bibliographica:Nick_Cave_Bad_Seeds
   rdf:type mo:MusicGroup ;
