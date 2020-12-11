@@ -291,6 +291,13 @@ bibliographica:Baaba_Maal
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/cec7447d-a39c-41c5-ba74-5d7057e5c731"^^xsd:anyURI ;
   rdfs:label "Baaba Maal" ;
 .
+bibliographica:Babatunde_Olatunji
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Babatunde_Olatunji.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/afe0acea-f6be-418a-b1dd-3ef0e06c3672"^^xsd:anyURI ;
+  rdfs:label "Babatunde Olatunji" ;
+.
 bibliographica:Badi_Assad
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassAD ;
@@ -2380,6 +2387,18 @@ bibliographica:Monica_Augustine
   rdf:type bibliographica:AlphaClassAD ;
   rdfs:label "Monica Augustine" ;
 .
+bibliographica:Mutabaruka
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Mutabaruka.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/a81dde75-8a81-40aa-ba73-cad6d3dd9ed9"^^xsd:anyURI ;
+  rdfs:label "Mutabaruka" ;
+.
+bibliographica:Mykel_Perkins
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassMP ;
+  rdfs:label "Mykel Perkins" ;
+.
 bibliographica:Nanci_Griffith
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassEH ;
@@ -2393,6 +2412,20 @@ bibliographica:Natalie_Imbruglia
   bibliographica:dbpediaURI "http://dbpedia.org/data/Natalie_Imbruglia.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/60530915-9371-4b16-bc31-5c4456317ae0"^^xsd:anyURI ;
   rdfs:label "Natalie Imbruglia" ;
+.
+bibliographica:Natalie_MacMaster
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Natalie_MacMaster.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/4fccc5ba-950d-4698-8655-10844cad67b4"^^xsd:anyURI ;
+  rdfs:label "Natalie MacMaster" ;
+.
+bibliographica:Natalie_Merchant
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Natalie_Merchant.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/ba03daa8-0a45-4432-881f-4de8e0e05305"^^xsd:anyURI ;
+  rdfs:label "Natalie Merchant" ;
 .
 bibliographica:Ned_Lagin
   rdf:type mo:SoloMusicArtist ;
@@ -2428,6 +2461,13 @@ bibliographica:Nick_Lowe
   bibliographica:dbpediaURI "http://dbpedia.org/data/Nick_Lowe.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/a3d5a6bf-c86d-44d3-969b-f345620009c6"^^xsd:anyURI ;
   rdfs:label "Nick Lowe" ;
+.
+bibliographica:Nico
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Nico.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/37c61bf2-5fb1-47ae-9605-80025d956958"^^xsd:anyURI ;
+  rdfs:label "Nico" ;
 .
 bibliographica:Nicolette_Larson
   rdf:type mo:SoloMusicArtist ;
@@ -2469,6 +2509,13 @@ bibliographica:Nurudafina_Pili_Adena
   rdf:type bibliographica:AlphaClassAD ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/e9e668c6-41a3-4c69-af91-df8bc7856950"^^xsd:anyURI ;
   rdfs:label "Nurudafina Pili Adena" ;
+.
+bibliographica:Omara_Portuondo
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Omara_Portuondo.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/d2e06763-1035-4b1a-82c7-b7c08e06ba48"^^xsd:anyURI ;
+  rdfs:label "Omara Portuondo" ;
 .
 bibliographica:Orlando_Julius
   rdf:type mo:SoloMusicArtist ;
@@ -2518,6 +2565,13 @@ bibliographica:Paolo_Conte
   bibliographica:dbpediaURI "http://dbpedia.org/data/Paolo_Conte.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/777bfd31-0c54-49b9-b057-c1fa742cdcf1"^^xsd:anyURI ;
   rdfs:label "Paolo Conte" ;
+.
+bibliographica:Pat_Metheny
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Pat_Metheny.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/7daac7f9-8fcc-485f-a14f-f8091d98cf25"^^xsd:anyURI ;
+  rdfs:label "Pat Metheny" ;
 .
 bibliographica:Patrice_Ratsimbazafy
   rdf:type mo:SoloMusicArtist ;

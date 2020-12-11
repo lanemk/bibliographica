@@ -1208,6 +1208,71 @@ bibliographica:Modern_Lovers
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/535f06f0-7ea2-41a4-a967-743b25558805"^^xsd:anyURI ;
   rdfs:label "The Modern Lovers" ;
 .
+bibliographica:Monkey_Siren
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/d1e6b55d-7660-4009-a7ca-5d69b7c772a1"^^xsd:anyURI ;
+  rdfs:label "Monkey Siren" ;
+.
+bibliographica:Montreux
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Montreux_(band).ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/1ecf6231-4914-4d71-8ed0-954122c55f60"^^xsd:anyURI ;
+  rdfs:label "Montreux" ;
+.
+bibliographica:Moody_Blues
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/The_Moody_Blues.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/774666d2-2064-4d6c-856c-f8cda0aaf9f0"^^xsd:anyURI ;
+  rdfs:label "The Moody Blues" ;
+.
+bibliographica:Morcheeba
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Morcheeba.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/067102ea-9519-4622-9077-57ca4164cfbb"^^xsd:anyURI ;
+  rdfs:label "Morcheeba" ;
+.
+bibliographica:My_Sister_Kate
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassMP ;
+  rdfs:label "My Sister Kate" ;
+.
+bibliographica:NRBQ
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/NRBQ.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/4777dc1b-2533-4189-9062-c1b2b477d5c5"^^xsd:anyURI ;
+  rdfs:label "NRBQ" ;
+.
+bibliographica:Never_the_Bride
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Never_the_Bride.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/6ff4d2a6-7731-4265-ae97-9ed72cdc07c0"^^xsd:anyURI ;
+  rdfs:label "Never the Bride" ;
+.
+bibliographica:Neville_Brothers
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/The_Neville_Brothers.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/5464e20c-7dcb-4a3e-9b25-13bb959fadc9"^^xsd:anyURI ;
+  rdfs:label "The Neville Brothers" ;
+.
+bibliographica:New_Grass_Revival
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/New_Grass_Revival.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/9b6f3084-7bd7-444a-b0a5-d2dc78c19284"^^xsd:anyURI ;
+  rdfs:label "New Grass Revival" ;
+.
+bibliographica:New_Shining_Soul_Band
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassMP ;
+  rdfs:label "New Shining Soul Band" ;
+.
 bibliographica:Nick_Cave_Bad_Seeds
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassAD ;
@@ -1215,12 +1280,97 @@ bibliographica:Nick_Cave_Bad_Seeds
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/172e1f1a-504d-4488-b053-6344ba63e6d0"^^xsd:anyURI ;
   rdfs:label "Nick Cave & the Bad Seeds" ;
 .
+bibliographica:Nirvana
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Nirvana_(band).ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/5b11f4ce-a62d-471e-81fc-a69a8278c7da"^^xsd:anyURI ;
+  rdfs:label "Nirvana" ;
+.
+bibliographica:Nomad
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassMP ;
+  rdfs:label "Nomad" ;
+.
+bibliographica:Old_In_the_Gray
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Old_%26_In_the_Gray.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/2feac672-164e-4375-baeb-54178e3bfccf"^^xsd:anyURI ;
+  rdfs:label "Old & In the Gray" ;
+.
+bibliographica:Old_In_the_Way
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Old_%26_In_the_Way.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/e3a2d328-2dbb-45d7-b9b5-548c7804f04f"^^xsd:anyURI ;
+  rdfs:label "Old & In the Way" ;
+.
+bibliographica:Old_School_String_Band
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassMP ;
+  rdfs:label "Old School String Band" ;
+.
+bibliographica:Orchestra_Baobab
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Orchestra_Baobab.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/30331c85-26d4-4daa-9f66-3075cac4c20b"^^xsd:anyURI ;
+  rdfs:label "Orchestra Baobab" ;
+.
+bibliographica:Oregon_Composers
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassMP ;
+  rdfs:label "Oregon Composers" ;
+.
+bibliographica:Oysterband
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Oysterband.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/c4be8a78-d4a8-4515-9759-5aa61162b197"^^xsd:anyURI ;
+  rdfs:label "Oysterband" ;
+.
+bibliographica:Patrick_Street
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Patrick_Street.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/622b1e36-4d4e-4744-80b3-056d4484a1ae"^^xsd:anyURI ;
+  rdfs:label "Patrick Street" ;
+.
 bibliographica:Paul_Butterfield_Blues_Band
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassAD ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Paul_Butterfield.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/20dcf3aa-c313-4f24-acd4-461327a76a73"^^xsd:anyURI ;
   rdfs:label "The Paul Butterfield Blues Band" ;
+.
+bibliographica:Peace_Orchestra
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Peace_Orchestra.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/334cd452-8833-4da4-8f14-90136cb0492f"^^xsd:anyURI ;
+  rdfs:label "Peace Orchestra" ;
+.
+bibliographica:Pentangle
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Pentangle_(band).ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/a4e31e59-e662-4cf4-bd4f-d7bf712bc21f"^^xsd:anyURI ;
+  rdfs:label "Pentangle" ;
+.
+bibliographica:Phish
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Phish.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/e01646f2-2a04-450d-8bf2-0d993082e058"^^xsd:anyURI ;
+  rdfs:label "Phish" ;
+.
+bibliographica:Pink_Floyd
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Pink_Floyd.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/83d91898-7763-47d7-b03b-b92132375c47"^^xsd:anyURI ;
+  rdfs:label "Pink Floyd" ;
 .
 bibliographica:Ravi_Harris_Prophets
   rdf:type mo:MusicGroup ;
