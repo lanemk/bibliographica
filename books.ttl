@@ -943,6 +943,17 @@ bibliographica:Breath_Eyes_Memory
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1020220168.ttl"^^xsd:anyURI ;
   rdfs:label "Breath, Eyes, Memory" ;
 .
+bibliographica:Breathing_Lessons
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Anne_Tyler ;
+  dcterms:title "Breathing Lessons" ;
+  schema:author bibliographica:Anne_Tyler ;
+  schema:isbn "042516313X" ;
+  bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/716133121.ttl"^^xsd:anyURI ;
+  rdfs:label "Breathing Lessons" ;
+.
 bibliographica:Brimhall_Jazz_Standards
   rdf:type schema:Book ;
   dcterms:creator bibliographica:John_Brimhall ;
@@ -1631,6 +1642,17 @@ bibliographica:Dharma_Gaia
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/963458729.ttl"^^xsd:anyURI ;
   rdfs:label "Dharma Gaia" ;
 .
+bibliographica:Dictionary_of_Multimedia
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Brad_Hansen ;
+  dcterms:title "The dictionary of multimedia : terms & acronyms" ;
+  schema:author bibliographica:Brad_Hansen ;
+  schema:isbn "1887902147" ;
+  bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/955549428.ttl"^^xsd:anyURI ;
+  rdfs:label "The Dictionary of Multimedia" ;
+.
 bibliographica:Diet_for_a_New_America
   rdf:type schema:Book ;
   dcterms:creator bibliographica:John_Robbins ;
@@ -1685,6 +1707,16 @@ bibliographica:Discovery_of_Dragons
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/44851685.ttl"^^xsd:anyURI ;
   rdfs:label "The Discovery of Dragons" ;
+.
+bibliographica:Dog_Falling
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Dan_Homeres ;
+  dcterms:title "Dog Falling" ;
+  schema:author bibliographica:Dan_Homeres ;
+  schema:isbn "1608132722" ;
+  bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 1 ;
+  rdfs:label "Dog Falling" ;
 .
 bibliographica:Dont_think_twice
   rdf:type schema:Book ;
@@ -1897,6 +1929,17 @@ bibliographica:Essential_Calvin_and_Hobbes
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/441440805.ttl"^^xsd:anyURI ;
   rdfs:label "The Essential Calvin and Hobbes" ;
 .
+bibliographica:Eureka_Street
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Robert_McLiam_Wilson ;
+  dcterms:title "Eureka Street : a novel of Ireland like no other" ;
+  schema:author bibliographica:Robert_McLiam_Wilson ;
+  schema:isbn "0345427130" ;
+  bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/963043270.ttl"^^xsd:anyURI ;
+  rdfs:label "Eureka Street" ;
+.
 bibliographica:Eva_Luna
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Isabel_Allende ;
@@ -2022,6 +2065,17 @@ bibliographica:Fields_of_Fire
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1091588382.ttl"^^xsd:anyURI ;
   rdfs:label "Fields of Fire" ;
+.
+bibliographica:Fierce_Invalids
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Tom_Robbins ;
+  dcterms:title "Fierce Invalids Home from Hot Climates" ;
+  schema:author bibliographica:Tom_Robbins ;
+  schema:isbn "055337933X" ;
+  bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1157176163.ttl"^^xsd:anyURI ;
+  rdfs:label "Fierce Invalids Home from Hot Climates" ;
 .
 bibliographica:Fifty_Guitar_Solos
   rdf:type schema:Book ;
@@ -2247,6 +2301,17 @@ bibliographica:Going_after_Cacciato
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/471548545.ttl"^^xsd:anyURI ;
   rdfs:label "Going After Cacciato : a novel" ;
+.
+bibliographica:God_Delusion
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Richard_Dawkins ;
+  dcterms:title "The God Delusion" ;
+  schema:author bibliographica:Richard_Dawkins ;
+  schema:isbn "0618680004" ;
+  bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/475140358.ttl"^^xsd:anyURI ;
+  rdfs:label "The God Delusion" ;
 .
 bibliographica:Gold_Bug_Variations
   rdf:type schema:Book ;
@@ -2567,6 +2632,17 @@ bibliographica:Her_Native_Colors
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1035616489.ttl"^^xsd:anyURI ;
   rdfs:label "Her Native Colors" ;
+.
+bibliographica:Herb_Book
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:John_Lust ;
+  dcterms:title "The Herb Book" ;
+  schema:author bibliographica:John_Lust ;
+  schema:isbn "05531222428" ;
+  bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/717193103.ttl"^^xsd:anyURI ;
+  rdfs:label "The Herb Book" ;
 .
 bibliographica:Higher_Creativity
   rdf:type schema:Book ;
@@ -2907,6 +2983,26 @@ bibliographica:Ireland_selected_stories
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/607404449.ttl"^^xsd:anyURI ;
   rdfs:label "Ireland : selected stories" ;
 .
+bibliographica:Ireland_Sings
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Dominic_Behan ;
+  dcterms:title "Ireland Sings" ;
+  schema:author bibliographica:Dominic_Behan ;
+  bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/917052153.ttl"^^xsd:anyURI ;
+  rdfs:label "Ireland Sings" ;
+.
+bibliographica:Irish_Pub_Songs
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Ossian_Publications ;
+  dcterms:title "The Irish pub songbook : 36 of the very best Irish pubsongs : with complete words, music and guitar chords" ;
+  schema:author bibliographica:Ossian_Publications ;
+  bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/917052153.ttl"^^xsd:anyURI ;
+  rdfs:label "The Irish Pub Songbook" ;
+.
 bibliographica:Irons_in_the_Fire
   rdf:type schema:Book ;
   dcterms:creator bibliographica:John_McPhee ;
@@ -3065,6 +3161,17 @@ bibliographica:Judgment_Calls
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/55476003.ttl"^^xsd:anyURI ;
   rdfs:label "Judgment Calls" ;
+.
+bibliographica:Juliet_Naked
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Nick_Hornby ;
+  dcterms:title "Juliet, Naked" ;
+  schema:author bibliographica:Nick_Hornby ;
+  schema:isbn "9781594484773" ;
+  bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1059570310.ttl"^^xsd:anyURI ;
+  rdfs:label "Juliet, Naked" ;
 .
 bibliographica:Julip
   rdf:type schema:Book ;
@@ -3799,6 +3906,17 @@ bibliographica:Omelette_and_Glass_of_Wine
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1036779322.ttl"^^xsd:anyURI ;
   rdfs:label "An Omelette and a Glass of Wine" ;
+.
+bibliographica:On_Celtic_Tides
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Chris_Duff ;
+  dcterms:title "On Celtic Tides" ;
+  schema:author bibliographica:Chris_Duff ;
+  schema:isbn "0312263686" ;
+  bibliographica:binNumber 1 ;
+  bibliographica:numberOfitems 11 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/600186523.ttl"^^xsd:anyURI ;
+  rdfs:label "On Celtic Tides" ;
 .
 bibliographica:On_Food_and_Cooking
   rdf:type schema:Book ;
@@ -4831,7 +4949,7 @@ bibliographica:Singin_and_swingin
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/2213357.ttl"^^xsd:anyURI ;
   rdfs:label "Singin' and swingin' and gettin' merry like Christmas" ;
 .
-bibliographica:Sisters_of_the_Earth-2
+bibliographica:Sisters_of_the_Earth
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Lorraine_Anderson ;
   dcterms:title "Sisters of the Earth : women's prose and poetry about nature" ;
@@ -4840,7 +4958,7 @@ bibliographica:Sisters_of_the_Earth-2
   bibliographica:binNumber 6 ;
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/924995896.ttl"^^xsd:anyURI ;
-  rdfs:label "Sisters of the Earth : women's prose and poetry about nature" ;
+  rdfs:label "Sisters of the Earth" ;
 .
 bibliographica:Sivananda_companion_yoga
   rdf:type schema:Book ;
@@ -4849,7 +4967,8 @@ bibliographica:Sivananda_companion_yoga
   schema:author bibliographica:Lorraine_Anderson ;
   schema:isbn "0671470884" ;
   bibliographica:binNumber 10 ;
-  bibliographica:numberOfitems 1 ;
+  bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 2 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/435300858.ttl"^^xsd:anyURI ;
   rdfs:label "The Sivananda Companion to Yoga" ;
 .
@@ -4995,6 +5114,17 @@ bibliographica:Stars_Planets_and_Galaxies
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/434838755.ttl"^^xsd:anyURI ;
   rdfs:label "Stars, Planets, and Galaxies" ;
+.
+bibliographica:Starship_and_Canoe
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Kenneth_Brower ;
+  dcterms:title "The Starship and the Canoe" ;
+  schema:author bibliographica:Kenneth_Brower ;
+  schema:isbn "0060910305" ;
+  bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/9466934.ttl"^^xsd:anyURI ;
+  rdfs:label "The Starship and the Canoe" ;
 .
 bibliographica:Step_by_Step_Organic_Vegetable
   rdf:type schema:Book ;
@@ -6796,20 +6926,23 @@ bibliographica:Walden
   schema:author bibliographica:Henry_David_Thoreau ;
   schema:isbn "0879050934" ;
   bibliographica:binNumber 3 ;
-  bibliographica:numberOfitems 2 ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/966556.ttl"^^xsd:anyURI ;
-  rdfs:label "Walden" ;
-.
-bibliographica:Walden_2
-  rdf:type schema:Book ;
-  dcterms:creator bibliographica:Henry_David_Thoreau ;
-  dcterms:title "Walden" ;
-  schema:author bibliographica:Henry_David_Thoreau ;
-  schema:isbn "0879050934" ;
   bibliographica:binNumber 9 ;
   bibliographica:numberOfitems 2 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/966556.ttl"^^xsd:anyURI ;
   rdfs:label "Walden" ;
+.
+bibliographica:Walking_With_the_Wind
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:John_Lewis ;
+  dcterms:creator bibliographica:Mike_DOrso ;
+  dcterms:title "Walking with the wind : a memoir of the movement" ;
+  schema:author bibliographica:John_Lewis ;
+  schema:author bibliographica:Mike_DOrso ;
+  schema:isbn "0156007088" ;
+  bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/849221955.ttl"^^xsd:anyURI ;
+  rdfs:label "Walking with the Wind" ;
 .
 bibliographica:Warlock
   rdf:type schema:Book ;
