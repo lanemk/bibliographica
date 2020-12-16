@@ -611,6 +611,12 @@ bibliographica:Endangered_Species
   rdf:type bibliographica:AlphaClassEH ;
   rdfs:label "Endangered Species" ;
 .
+bibliographica:Energisers
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/cf5bb96f-019d-41e1-bb1d-14525c744cf1"^^xsd:anyURI ;
+  rdfs:label "The Energisers" ;
+.
 bibliographica:English_Beat
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassEH ;
@@ -1372,6 +1378,48 @@ bibliographica:Pink_Floyd
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/83d91898-7763-47d7-b03b-b92132375c47"^^xsd:anyURI ;
   rdfs:label "Pink Floyd" ;
 .
+bibliographica:Pink_Martini
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Pink_Martini.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/113e0972-077f-423b-9b5f-3cc8a5bafa0f"^^xsd:anyURI ;
+  rdfs:label "Pink Martini" ;
+.
+bibliographica:Po_Girl
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Po'_Girl.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/74c94b37-d05b-4d7e-910b-2afbffef342f"^^xsd:anyURI ;
+  rdfs:label "Po' Girl" ;
+.
+bibliographica:Pogues
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/The_Pogues.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/d41a6875-b626-4c0f-89a1-aecb643d29ff"^^xsd:anyURI ;
+  rdfs:label "The Pogues" ;
+.
+bibliographica:Poi_Dog_Pondering
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Poi_Dog_Pondering.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/b0b95c2e-a361-4a36-bd77-9dfb6ce41014"^^xsd:anyURI ;
+  rdfs:label "The Pogues" ;
+.
+bibliographica:Police
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/The_Police.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/9e0e2b01-41db-4008-bd8b-988977d6019a"^^xsd:anyURI ;
+  rdfs:label "The Police" ;
+.
+bibliographica:Psychefunkapus
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Psychefunkapus.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/b8edbfe9-9ab0-400f-b544-81ba7d57d2f1"^^xsd:anyURI ;
+  rdfs:label "Psychefunkapus" ;
+.
 bibliographica:Ravi_Harris_Prophets
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassEH ;
@@ -1385,6 +1433,12 @@ bibliographica:Seven_Year_Bitch
   bibliographica:dbpediaURI "http://dbpedia.org/data/7_Year_Bitch.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/91d06612-5c1e-4278-b40b-b6ce22dc9bb4"^^xsd:anyURI ;
   rdfs:label "7 Year Bitch" ;
+.
+bibliographica:Red_Knuckles_Trailblazers
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/97240950-0968-4d30-8358-8d233be84d5d"^^xsd:anyURI ;
+  rdfs:label "Red Knuckles & the Trailblazers" ;
 .
 bibliographica:Ten_Thousand_Maniacs
   rdf:type mo:MusicGroup ;
