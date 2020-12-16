@@ -606,6 +606,13 @@ bibliographica:Easy_Star_All-Stars
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/0cee95e3-a61d-4cd1-a39c-75464a05b606"^^xsd:anyURI ;
   rdfs:label "Easy Star All‐Stars" ;
 .
+bibliographica:Ed_Palermo_Big_Band
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Ed_Palermo_Big_Band.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/9ec14940-69f1-4537-afe3-c2b94e96b028"^^xsd:anyURI ;
+  rdfs:label "The Ed Palermo Big Band" ;
+.
 bibliographica:Endangered_Species
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassEH ;
@@ -1145,6 +1152,12 @@ bibliographica:Mahavishnu_Orchestra
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/a2be74f5-0735-46f7-a295-7e41aab30029"^^xsd:anyURI ;
   rdfs:label "Mahavishnu Orchestra" ;
 .
+bibliographica:Mahavishnu_Project
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/accc8399-1bdf-491e-a3a7-cf99302c65c4"^^xsd:anyURI ;
+  rdfs:label "The Mahavishnu Project" ;
+.
 bibliographica:Mahlathini_Mahotella_Queens
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassMP ;
@@ -1234,12 +1247,25 @@ bibliographica:Moody_Blues
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/774666d2-2064-4d6c-856c-f8cda0aaf9f0"^^xsd:anyURI ;
   rdfs:label "The Moody Blues" ;
 .
+bibliographica:Moon_Seven_Times
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/b42712b3-bdf5-4c6a-b082-87eb92ba82dd"^^xsd:anyURI ;
+  rdfs:label "The Moon Seven Times" ;
+.
 bibliographica:Morcheeba
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassMP ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Morcheeba.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/067102ea-9519-4622-9077-57ca4164cfbb"^^xsd:anyURI ;
   rdfs:label "Morcheeba" ;
+.
+bibliographica:Murmers
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/The_Murmurs.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/c5db90c4-580d-4f33-b364-fbaa5a3a58b5"^^xsd:anyURI ;
+  rdfs:label "The Murmurs" ;
 .
 bibliographica:My_Sister_Kate
   rdf:type mo:MusicGroup ;
@@ -1434,6 +1460,13 @@ bibliographica:Seven_Year_Bitch
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/91d06612-5c1e-4278-b40b-b6ce22dc9bb4"^^xsd:anyURI ;
   rdfs:label "7 Year Bitch" ;
 .
+bibliographica:Sun_Kil_Moon
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Sun_Kil_Moon.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/ef2c6449-d02b-415b-ad8c-c14c08266552"^^xsd:anyURI ;
+  rdfs:label "Sun Kil Moon" ;
+.
 bibliographica:Red_Knuckles_Trailblazers
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassQT ;
@@ -1601,4 +1634,11 @@ bibliographica:ZappaPlaysZappa
   bibliographica:dbpediaURI "http://dbpedia.org/data/Zappa_Plays_Zappa.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/fcebdabe-319f-4690-8827-c8fac63b1b80"^^xsd:anyURI ;
   rdfs:label "Zappa Plays Zappa" ;
+.
+bibliographica:Ziggy_Marley_Melody_Makers
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Ziggy_Marley_and_the_Melody_Makers.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/7b5239b1-07ff-41ce-834b-29fe98de9970"^^xsd:anyURI ;
+  rdfs:label "Ziggy Marley & The Melody Makers" ;
 .
