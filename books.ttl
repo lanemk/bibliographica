@@ -425,6 +425,17 @@ bibliographica:Atlas_Shrugged
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/944146779.ttl"^^xsd:anyURI ;
   rdfs:label "Atlas Shrugged" ;
 .
+bibliographica:Atlas
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:William_Vollmann ;
+  dcterms:title "The Atlas" ;
+  schema:author bibliographica:William_Vollmann ;
+  schema:isbn "0140254498 " ;
+  bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/944146779.ttl"^^xsd:anyURI ;
+  rdfs:label "The Atlas" ;
+.
 bibliographica:Atomic_Lobster
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Tim_Dorsey ;
@@ -433,7 +444,7 @@ bibliographica:Atomic_Lobster
   schema:isbn "9780060829704" ;
   bibliographica:binNumber 6 ;
   bibliographica:numberOfitems 1 ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/299578298.ttl"^^xsd:anyURI ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/493630106.ttl"^^xsd:anyURI ;
   rdfs:label "Atomic Lobster" ;
 .
 bibliographica:Authentic_Guitar_Classics
@@ -2165,9 +2176,9 @@ bibliographica:Florida_Roadkill
 .
 bibliographica:Flounder
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Günter_Grass ;
+  dcterms:creator bibliographica:Gunter_Grass ;
   dcterms:title "The Flounder" ;
-  schema:author bibliographica:Günter_Grass ;
+  schema:author bibliographica:Gunter_Grass ;
   schema:isbn "0156319357" ;
   bibliographica:binNumber 1 ;
   bibliographica:numberOfitems 1 ;
@@ -2345,6 +2356,17 @@ bibliographica:Grandma_Lived_in_Gooligulch
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/812934933.ttl"^^xsd:anyURI ;
   rdfs:label "My Grandma Lived in Gooligulch" ;
+.
+bibliographica:Grasshopper_Trap
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Patrick_McManus ;
+  dcterms:title "The Grasshopper Trap" ;
+  schema:author bibliographica:Patrick_McManus ;
+  schema:isbn "0805001115" ;
+  bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/858692462.ttl"^^xsd:anyURI ;
+  rdfs:label "The Grasshopper Trap" ;
 .
 bibliographica:Grateful_Dead_Anthology
   rdf:type schema:Book ;
@@ -4047,6 +4069,17 @@ bibliographica:Organic_Inc
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/607090487.ttl"^^xsd:anyURI ;
   rdfs:label "Organic, Inc." ;
 .
+bibliographica:Our_Lady_Forest
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:David_Guterson ;
+  dcterms:title "Our Lady of the Forest" ;
+  schema:author bibliographica:David_Guterson ;
+  schema:isbn "0375726578" ;
+  bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1054961278.ttl"^^xsd:anyURI ;
+  rdfs:label "Our Lady of the Forest" ;
+.
 bibliographica:Pagan_Babies
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Elmore_Leonard ;
@@ -5227,6 +5260,16 @@ bibliographica:Sugar_Cane
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/23765961.ttl"^^xsd:anyURI ;
   rdfs:label "Sugar Cane" ;
 .
+bibliographica:Sultans_Qaboos
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Salma_Samar_Damluji ;
+  dcterms:title "The Sultan Qaboos Grand Mosque" ;
+  schema:author bibliographica:Salma_Samar_Damluji ;
+  bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/913023300.ttl"^^xsd:anyURI ;
+  rdfs:label "The Sultan Qaboos Grand Mosque" ;
+.
 bibliographica:Sun_Dogs
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Robert_Olen_Butler ;
@@ -5714,14 +5757,6 @@ bibliographica:The_Flanders_Panel
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/33407942.ttl"^^xsd:anyURI ;
   rdfs:label "The Flanders Panel" ;
-.
-bibliographica:The_Flounder
-  rdf:type schema:Book ;
-  dcterms:creator bibliographica:Günter_Grass ;
-  dcterms:title "The Flounder" ;
-  schema:author bibliographica:Günter_Grass ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/3915421.ttl"^^xsd:anyURI ;
-  rdfs:label "The Flounder" ;
 .
 bibliographica:The_Forms_of_Water
   rdf:type schema:Book ;
@@ -6908,6 +6943,17 @@ bibliographica:Voice_Crying_in_the_Wilderness
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/22392647.ttl"^^xsd:anyURI ;
   rdfs:label "A Voice Crying in the Wilderness" ;
 .
+bibliographica:Voices_in_Mirror
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Gordon_Parks ;
+  dcterms:title "Voices in the Mirror : an autobiography" ;
+  schema:author bibliographica:Gordon_Parks ;
+  schema:isbn "0767922123" ;
+  bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/839973475.ttl"^^xsd:anyURI ;
+  rdfs:label "Voices in the Mirror" ;
+.
 bibliographica:WLT_a_radio_romance
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Garrsion_Keillor ;
@@ -7091,6 +7137,17 @@ bibliographica:Whiteness_of_Bones
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/817662337.ttl"^^xsd:anyURI ;
   rdfs:label "The Whiteness of Bones : a novel" ;
+.
+bibliographica:Wild_Life
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Molly_Gloss ;
+  dcterms:title "Wild Life" ;
+  schema:author bibliographica:Molly_Gloss ;
+  schema:isbn "0618131574" ;
+  bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/704899989.ttl"^^xsd:anyURI ;
+  rdfs:label "Wild Life" ;
 .
 bibliographica:Wild_meat_and_bully_burgers
   rdf:type schema:Book ;
@@ -7304,7 +7361,7 @@ bibliographica:_365_Zen
 .
 <http://www.connaissance.io/onto/biblio/books>
   rdf:type owl:Ontology ;
-  dcterms:modified "2019-09-12" ;
+  dcterms:modified "2020-12-17" ;
   schema:license "https://creativecommons.org/licenses/by-nc-sa/4.0/"^^xsd:anyURI ;
   schema:license "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode"^^xsd:anyURI ;
   rdfs:comment "Books classified by author's last name." ;
@@ -7312,5 +7369,5 @@ bibliographica:_365_Zen
   owl:imports <http://www.connaissance.io/onto/biblio/SoloMusicArtist> ;
   owl:imports <http://www.connaissance.io/onto/biblio/authors> ;
   owl:imports <http://www.connaissance.io/onto/biblio/bibliographica> ;
-  owl:versionInfo "Developed by M Lane, Portland, Oregon" ;
+  owl:versionInfo "Developed by M Lane" ;
 .

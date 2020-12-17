@@ -1303,6 +1303,13 @@ bibliographica:Gloria_Naylor
   rdfs:label "Gloria Naylor" ;
   foaf:name "Gloria Naylor" ;
 .
+bibliographica:Gordon_Parks
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Gordon_Parks.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/112248361/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Gordon Parks" ;
+  foaf:name "Gordon Parks" ;
+.
 bibliographica:Graeme_Base
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Graeme_Base.ttl"^^xsd:anyURI ;
@@ -2509,8 +2516,25 @@ bibliographica:Mil_Millington
   foaf:name "Mil Millington" ;
 .
 bibliographica:Miles_Davis
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Miles_Davis.ttl"^^xsd:anyURI ;
   bibliographica:viafURI "http://viaf.org/viaf/97762193/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Miles Davis" ;
   foaf:name "Miles Davis" ;
+.
+bibliographica:Mil_Millington
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Mil_Millington.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/3536494/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Mil Millington" ;
+  foaf:name "Mil Millington" ;
+.
+bibliographica:Molly_Gloss
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Molly_Gloss.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/58051379/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Molly Gloss" ;
+  foaf:name "Molly Gloss" ;
 .
 bibliographica:Moosewood_Collective
   rdf:type schema:Organization ;
@@ -2695,6 +2719,13 @@ bibliographica:Patricia_Schechter
   bibliographica:viafURI "https://viaf.org/viaf/7267162/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Patricia Schechter" ;
   foaf:name "Patricia Schechter" ;
+.
+bibliographica:Patrick_McManus
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Patrick_F._McManus.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/52934600/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Patrick McManus" ;
+  foaf:name "Patrick McManus" ;
 .
 bibliographica:Patti_Smith
   bibliographica:viafURI "http://viaf.org/viaf/84037206/rdf.xml"^^xsd:anyURI ;
@@ -3148,6 +3179,13 @@ bibliographica:SE_Hinton
   bibliographica:viafURI "http://viaf.org/viaf/39583594/rdf.xml"^^xsd:anyURI ;
   rdfs:label "S. E. Hinton" ;
   foaf:name "S. E. Hinton" ;
+.
+bibliographica:Salma_Samar_Damluji
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Salma_Samar_Damluji.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/92515267/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Salma Samar Damluji" ;
+  foaf:name "Salma Samar Damluji" ;
 .
 bibliographica:Samuel_Beckett
   rdf:type schema:Person ;
