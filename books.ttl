@@ -621,6 +621,17 @@ bibliographica:Basket_Case
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/47255262.ttl"^^xsd:anyURI ;
   rdfs:label "Basket Case" ;
 .
+bibliographica:Be_Expert_Map_Compass
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Bjorn_Kjellstrom ;
+  dcterms:title "Be Expert with Map and Compass" ;
+  schema:author bibliographica:Bjorn_Kjellstrom ;
+  schema:isbn "0684164132" ;
+  bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/658234821.ttl"^^xsd:anyURI ;
+  rdfs:label "Be Expert with Map and Compass" ;
+.
 bibliographica:Beach_Road
   rdf:type schema:Book ;
   dcterms:creator bibliographica:James_Patterson ;
@@ -642,6 +653,17 @@ bibliographica:Beachcombing_for_a_Shipwrecked_God
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/472919327.ttl"^^xsd:anyURI ;
   rdfs:label "Beachcombing for a Shipwrecked God" ;
+.
+bibliographica:Bean_Trees
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Barbara_Kingsolver ;
+  dcterms:title "The Bean Trees : a novel" ;
+  schema:author bibliographica:Barbara_Kingsolver ;
+  schema:isbn "0060915544" ;
+  bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/709411408.ttl"^^xsd:anyURI ;
+  rdfs:label "The Bean Trees" ;
 .
 bibliographica:Beard_on_Bread
   rdf:type schema:Book ;
@@ -1477,6 +1499,15 @@ bibliographica:Cucina_Leggera
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/27147191.ttl"^^xsd:anyURI ;
   rdfs:label "Cucina Leggera" ;
 .
+bibliographica:Curve_of_Time
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:M_Wylie_Blanchet ;
+  dcterms:title "The curve of time : the classic memoir of a woman and her children who explored the coastal waters of the Pacific Northwest" ;
+  schema:author bibliographica:M_Wylie_Blanchet ;
+  schema:isbn "1580050727" ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/180082723.ttl"^^xsd:anyURI ;
+  rdfs:label "The Curve of Time" ;
+.
 bibliographica:Cyclops
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Clive_Cussler ;
@@ -2195,6 +2226,17 @@ bibliographica:Forgetting_Room
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/60183520.ttl"^^xsd:anyURI ;
   rdfs:label "The Forgetting Room" ;
+.
+bibliographica:Four_Agreements
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Don_Miguel_Ruiz ;
+  dcterms:title "The four agreements : a practical guide to personal freedom" ;
+  schema:author bibliographica:Don_Miguel_Ruiz ;
+  schema:isbn "1878424319" ;
+  bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1083740655.ttl"^^xsd:anyURI ;
+  rdfs:label "The Four Agreements" ;
 .
 bibliographica:Freak_Brothers_4
   rdf:type schema:Book ;
@@ -4047,6 +4089,17 @@ bibliographica:Ordinances
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/729785974.ttl"^^xsd:anyURI ;
   rdfs:label "Ordinances" ;
 .
+bibliographica:Oregon
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Judy_Jewell ;
+  dcterms:title "Oregon" ;
+  schema:author bibliographica:Judy_Jewell ;
+  schema:isbn "1878867881" ;
+  bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/873183171.ttl"^^xsd:anyURI ;
+  rdfs:label "Oregon" ;
+.
 bibliographica:Oregon_Atlas_Gazetteer
   rdf:type schema:Book ;
   dcterms:creator bibliographica:DeLorme_Mapping_Company ;
@@ -5137,6 +5190,16 @@ bibliographica:Spin_Mag
   bibliographica:numberOfitems 1 ;
   rdfs:label "Spin Magazine" ;
 .
+bibliographica:Sprouting_Health
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Phillip_Allen ;
+  dcterms:title "Sprouting for health in the 90s : build your immune system and detox your body" ;
+  schema:author bibliographica:Phillip_Allen ;
+  bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/397965461.ttl"^^xsd:anyURI ;
+  rdfs:label "Sprouting for Health in the 90s" ;
+.
 bibliographica:Stars_Planets_and_Galaxies
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Sune_Engelbrektson ;
@@ -5436,6 +5499,17 @@ bibliographica:Te_of_Piglet
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/438340159.ttl"^^xsd:anyURI ;
   rdfs:label "Te of Piglet" ;
+.
+bibliographica:Teachings_Don_Juan
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Carlos_Castaneda ;
+  dcterms:title "The teachings of Don Juan : a Yaqui way of knowledge" ;
+  schema:author bibliographica:Carlos_Castaneda ;
+  schema:isbn "671787489" ;
+  bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/924626383.ttl"^^xsd:anyURI ;
+  rdfs:label "The Teachings of Don Juan" ;
 .
 bibliographica:Tender_at_the_Bone
   rdf:type schema:Book ;
@@ -6569,6 +6643,28 @@ bibliographica:Things_my_girlfriend_and_I_argued_about
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/50205712.ttl"^^xsd:anyURI ;
   rdfs:label "Things My Girlfriend and I Have Argued About : a novel" ;
 .
+bibliographica:ThreeSixtyFive_Zen
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Jean_Smith ;
+  dcterms:title "365 Zen" ;
+  schema:editor bibliographica:Jean_Smith ;
+  schema:isbn "0062516027" ;
+  bibliographica:binNumber 6 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/40255968.ttl"^^xsd:anyURI ;
+  rdfs:label "365 Zen" ;
+.
+bibliographica:Through_Painted_Deserts
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Donald_Miller ;
+  dcterms:title "Through painted deserts : light, God, and beauty on the open road" ;
+  schema:author bibliographica:Donald_Miller ;
+  schema:isbn "0785209824" ;
+  bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/58807183.ttl"^^xsd:anyURI ;
+  rdfs:label "Through Painted Deserts" ;
+.
 bibliographica:Tick_Tock
   rdf:type schema:Book ;
   dcterms:creator bibliographica:James_Patterson ;
@@ -7269,6 +7365,17 @@ bibliographica:Worst_Band_Universe
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/822072431.ttl"^^xsd:anyURI ;
   rdfs:label "The Worst Band in the Universe" ;
 .
+bibliographica:Worst_Case_Scenario
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Joshua_Piven ;
+  dcterms:title "The worst-case scenario survival handbook : dating & sex" ;
+  schema:author bibliographica:Joshua_Piven ;
+  schema:isbn "0811832414" ;
+  bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/48834019.ttl"^^xsd:anyURI ;
+  rdfs:label "The Worst-case Scenario Survival Handbook" ;
+.
 bibliographica:Yamaha_Song_Book
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Yamaha ;
@@ -7288,6 +7395,17 @@ bibliographica:Yellow_Raft_Blue_River
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/256099430.ttl"^^xsd:anyURI ;
   rdfs:label "A Yellow Raft in Blue Water" ;
+.
+bibliographica:You_Shall_Know_Velocity
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Dave_Eggers ;
+  dcterms:title "You shall know our velocity : previously retitled as Sacrament" ;
+  schema:author bibliographica:Dave_Eggers ;
+  schema:isbn "1400033543" ;
+  bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/940711110.ttl"^^xsd:anyURI ;
+  rdfs:label "You Shall Know our Velocity" ;
 .
 bibliographica:Zen_Master_Hakuin
   rdf:type schema:Book ;
@@ -7347,17 +7465,6 @@ bibliographica:Zippy_nation_of_pinheads
   schema:author bibliographica:Bill_Griffith ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/28767387.ttl"^^xsd:anyURI ;
   rdfs:label "Zippy : nation of pinheads " ;
-.
-bibliographica:_365_Zen
-  rdf:type schema:Book ;
-  dcterms:creator bibliographica:Jean_Smith ;
-  dcterms:title "365 Zen" ;
-  schema:editor bibliographica:Jean_Smith ;
-  schema:isbn "0062516027" ;
-  bibliographica:binNumber 6 ;
-  bibliographica:numberOfitems 1 ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/40255968.ttl"^^xsd:anyURI ;
-  rdfs:label "365 Zen" ;
 .
 <http://www.connaissance.io/onto/biblio/books>
   rdf:type owl:Ontology ;

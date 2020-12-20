@@ -457,6 +457,13 @@ bibliographica:Bill_Watterson
   rdfs:label "Bill Watterson" ;
   foaf:name "Bill Watterson" ;
 .
+bibliographica:Bjorn_Kjellstrom
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Bj%C3%B6rn_Kjellstr%C3%B6m.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/17193500/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Björn Kjellström" ;
+  foaf:name "Björn Kjellström" ;
+.
 bibliographica:Black_Elk
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Black_Elk.ttl"^^xsd:anyURI ;
@@ -976,12 +983,26 @@ bibliographica:Dominic_Behan
   rdfs:label "Dominic Behan" ;
   foaf:name "Dominic Behan" ;
 .
+bibliographica:Don_Miguel_Ruiz
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Don_Miguel_Ruiz.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/61710035/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Don Miguel Ruiz" ;
+  foaf:name "Don Miguel Ruiz" ;
+.
 bibliographica:Donald_Peattie
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Donald_C._Peattie.ttl"^^xsd:anyURI ;
   bibliographica:viafURI "http://viaf.org/viaf/79210486/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Donald C. Peattie" ;
   foaf:name "Donald Culcross Peattie" ;
+.
+bibliographica:Donald_Miller
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Donald_Miller_(author).ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/38073734/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Donald Miller" ;
+  foaf:name "Donald Miller" ;
 .
 bibliographica:Dorothy_Dunnett
   rdf:type schema:Person ;
@@ -1932,6 +1953,12 @@ bibliographica:Joseph_Sheban
   rdfs:label "Joseph Sheban" ;
   foaf:name "Joseph Sheban" ;
 .
+bibliographica:Joshua_Piven
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/34635256/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Joshua Piven" ;
+  foaf:name "Joshua Piven" ;
+.
 bibliographica:Jostein_Gaarder
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Jostein_Gaarder.ttl"^^xsd:anyURI ;
@@ -1945,6 +1972,12 @@ bibliographica:Judy_Fong_Bates
   bibliographica:viafURI "http://viaf.org/viaf/42136645/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Judy Fong Bates" ;
   foaf:name "Judy Fong Bates" ;
+.
+bibliographica:Judy_Jewell
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/48413628/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Judy Jewell" ;
+  foaf:name "Judy Jewell" ;
 .
 bibliographica:Julee_Rosso
   rdf:type schema:Person ;
@@ -2237,6 +2270,13 @@ bibliographica:Lucy_Lidell
   bibliographica:viafURI "https://viaf.org/viaf/15382531/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Lucy Lidell" ;
   foaf:name "Lucy Lidell" ;
+.
+bibliographica:M_Wylie_Blanchet
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/M._Wylie_Blanchet.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/76391491/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Muriel Wylie Blanchet" ;
+  foaf:name "Muriel Wylie Blanchet" ;
 .
 bibliographica:Madeleine_Lengle
   rdf:type schema:Person ;
@@ -2871,6 +2911,11 @@ bibliographica:Philip_Kapleau
   bibliographica:viafURI "http://viaf.org/viaf/79078238/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Philip Kapleau" ;
   foaf:name "Philip Kapleau" ;
+.
+bibliographica:Phillip_Allen
+  rdf:type schema:Person ;
+  rdfs:label "Phillip Wayne Allen" ;
+  foaf:name "Phillip Wayne Allen" ;
 .
 bibliographica:Quincy_Troupe
   rdf:type schema:Person ;
