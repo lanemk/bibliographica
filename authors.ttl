@@ -654,19 +654,6 @@ bibliographica:Charles_Frazier
   rdfs:label "Charles Frazier" ;
   foaf:name "Charles Frazier" ;
 .
-bibliographica:Charles_Scribner_Sons
-  rdf:type schema:Person ;
-  bibliographica:dbpediaURI "http://dbpedia.org/data/Charles_Scribner's_Sons.ttl"^^xsd:anyURI ;
-  bibliographica:viafURI "https://viaf.org/viaf/121555288/rdf.xml"^^xsd:anyURI ;
-  rdfs:label "Charles Scribner's Sons" ;
-  foaf:name "Charles Scribner's Sons" ;
-.
-bibliographica:Wayne_Johnston
-  rdf:type schema:Person ;
-  bibliographica:viafURI "https://viaf.org/viaf/120612960/rdf.xml"^^xsd:anyURI ;
-  rdfs:label "Wayne Johnston" ;
-  foaf:name "Wayne Johnston" ;
-.
 bibliographica:Charles_Larson
   rdf:type schema:Person ;
   bibliographica:viafURI "https://viaf.org/viaf/56738394/rdf.xml"^^xsd:anyURI ;
@@ -679,6 +666,13 @@ bibliographica:Charles_Mingus
   bibliographica:viafURI "http://viaf.org/viaf/24604680/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Charles Mingus" ;
   foaf:name "Charles Mingus" ;
+.
+bibliographica:Charles_Scribner_Sons
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Charles_Scribner's_Sons.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/121555288/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Charles Scribner's Sons" ;
+  foaf:name "Charles Scribner's Sons" ;
 .
 bibliographica:Charlie_Smith
   rdf:type schema:Person ;
@@ -990,19 +984,19 @@ bibliographica:Don_Miguel_Ruiz
   rdfs:label "Don Miguel Ruiz" ;
   foaf:name "Don Miguel Ruiz" ;
 .
-bibliographica:Donald_Peattie
-  rdf:type schema:Person ;
-  bibliographica:dbpediaURI "http://dbpedia.org/data/Donald_C._Peattie.ttl"^^xsd:anyURI ;
-  bibliographica:viafURI "http://viaf.org/viaf/79210486/rdf.xml"^^xsd:anyURI ;
-  rdfs:label "Donald C. Peattie" ;
-  foaf:name "Donald Culcross Peattie" ;
-.
 bibliographica:Donald_Miller
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Donald_Miller_(author).ttl"^^xsd:anyURI ;
   bibliographica:viafURI "https://viaf.org/viaf/38073734/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Donald Miller" ;
   foaf:name "Donald Miller" ;
+.
+bibliographica:Donald_Peattie
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Donald_C._Peattie.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/79210486/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Donald C. Peattie" ;
+  foaf:name "Donald Culcross Peattie" ;
 .
 bibliographica:Dorothy_Dunnett
   rdf:type schema:Person ;
@@ -1338,18 +1332,18 @@ bibliographica:Graeme_Base
   rdfs:label "Graeme Base" ;
   foaf:name "Graeme Base" ;
 .
-bibliographica:Gwen_Diehn
-  rdf:type schema:Person ;
-  bibliographica:viafURI "http://viaf.org/viaf/3930403/rdf.xml"^^xsd:anyURI ;
-  rdfs:label "Gwen Diehn" ;
-  foaf:name "Gwen Diehn" ;
-.
 bibliographica:Gunter_Grass
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/G%C3%BCnter_Grass.ttl"^^xsd:anyURI ;
   bibliographica:viafURI "http://viaf.org/viaf/102319859/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Günter Grass" ;
   foaf:name "Günter Grass" ;
+.
+bibliographica:Gwen_Diehn
+  rdf:type schema:Person ;
+  bibliographica:viafURI "http://viaf.org/viaf/3930403/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Gwen Diehn" ;
+  foaf:name "Gwen Diehn" ;
 .
 bibliographica:HA_VanderCook
   rdf:type schema:Person ;
@@ -2443,13 +2437,6 @@ bibliographica:Merrill_Gilfillan
   rdfs:label "Merrill Gilfillan" ;
   foaf:name "Merrill Gilfillan" ;
 .
-bibliographica:Mike_DOrso
-  rdf:type schema:Person ;
-  bibliographica:dbpediaURI "http://dbpedia.org/data/Mike_D'Orso.ttl"^^xsd:anyURI ;
-  bibliographica:viafURI "https://viaf.org/viaf/84626415/rdf.xml"^^xsd:anyURI ;
-  rdfs:label "Mike D'Orso" ;
-  foaf:name "Mike D'Orso" ;
-.
 bibliographica:Michael_Connelly
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Michael_Connelly.ttl"^^xsd:anyURI ;
@@ -2541,6 +2528,13 @@ bibliographica:Mickey_Spillane
   rdfs:label "Mickey Spillane" ;
   foaf:name "Mickey Spillane" ;
 .
+bibliographica:Mike_DOrso
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Mike_D'Orso.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/84626415/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Mike D'Orso" ;
+  foaf:name "Mike D'Orso" ;
+.
 bibliographica:Miklos_Udvardy
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Miklos_Udvardy.ttl"^^xsd:anyURI ;
@@ -2561,13 +2555,6 @@ bibliographica:Miles_Davis
   bibliographica:viafURI "http://viaf.org/viaf/97762193/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Miles Davis" ;
   foaf:name "Miles Davis" ;
-.
-bibliographica:Mil_Millington
-  rdf:type schema:Person ;
-  bibliographica:dbpediaURI "http://dbpedia.org/data/Mil_Millington.ttl"^^xsd:anyURI ;
-  bibliographica:viafURI "http://viaf.org/viaf/3536494/rdf.xml"^^xsd:anyURI ;
-  rdfs:label "Mil Millington" ;
-  foaf:name "Mil Millington" ;
 .
 bibliographica:Molly_Gloss
   rdf:type schema:Person ;
@@ -3143,18 +3130,18 @@ bibliographica:Roddy_Doyle
   rdfs:label "Roddy Doyle" ;
   foaf:name "Roddy Doyle" ;
 .
+bibliographica:Rolling_Stone
+  rdf:type schema:Organization ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Rolling_Stone.ttl"^^xsd:anyURI ;
+  rdfs:label "Rolling Stone" ;
+  foaf:name "Rolling Stone" ;
+.
 bibliographica:Rollo_May
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Rollo_May.ttl"^^xsd:anyURI ;
   bibliographica:viafURI "https://viaf.org/viaf/108159288/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Rollo May" ;
   foaf:name "Rollo May" ;
-.
-bibliographica:Rolling_Stone
-  rdf:type schema:Organization ;
-  bibliographica:dbpediaURI "http://dbpedia.org/data/Rolling_Stone.ttl"^^xsd:anyURI ;
-  rdfs:label "Rolling Stone" ;
-  foaf:name "Rolling Stone" ;
 .
 bibliographica:Ron_Hansen
   rdf:type schema:Person ;
@@ -3437,18 +3424,18 @@ bibliographica:Susanna_Moore
   rdfs:label "Susanna Moore" ;
   foaf:name "Susanna Moore" ;
 .
+bibliographica:Swain_Wolfe
+  rdf:type schema:Person ;
+  bibliographica:viafURI "http://viaf.org/viaf/22852278/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Swain Wolfe" ;
+  foaf:name "Swain Wolfe" ;
+.
 bibliographica:Sylvan_Barnet
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Sylvan_Barnet.ttl"^^xsd:anyURI ;
   bibliographica:viafURI "https://viaf.org/viaf/109902730/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Sylvan Barnet" ;
   foaf:name "Sylvan Barnet" ;
-.
-bibliographica:Swain_Wolfe
-  rdf:type schema:Person ;
-  bibliographica:viafURI "http://viaf.org/viaf/22852278/rdf.xml"^^xsd:anyURI ;
-  rdfs:label "Swain Wolfe" ;
-  foaf:name "Swain Wolfe" ;
 .
 bibliographica:TS_Eliot
   rdf:type schema:Person ;

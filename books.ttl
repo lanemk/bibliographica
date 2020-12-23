@@ -415,16 +415,6 @@ bibliographica:Atlantis_Found
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/41967119.ttl"^^xsd:anyURI ;
   rdfs:label "Atlantis Found" ;
 .
-bibliographica:Atlas_Shrugged
-  rdf:type schema:Book ;
-  dcterms:creator bibliographica:Ayn_Rand ;
-  dcterms:title "Atlantis Found" ;
-  schema:author bibliographica:Ayn_Rand ;
-  bibliographica:binNumber 10 ;
-  bibliographica:numberOfitems 1 ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/944146779.ttl"^^xsd:anyURI ;
-  rdfs:label "Atlas Shrugged" ;
-.
 bibliographica:Atlas
   rdf:type schema:Book ;
   dcterms:creator bibliographica:William_Vollmann ;
@@ -435,6 +425,16 @@ bibliographica:Atlas
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/944146779.ttl"^^xsd:anyURI ;
   rdfs:label "The Atlas" ;
+.
+bibliographica:Atlas_Shrugged
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Ayn_Rand ;
+  dcterms:title "Atlantis Found" ;
+  schema:author bibliographica:Ayn_Rand ;
+  bibliographica:binNumber 10 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/944146779.ttl"^^xsd:anyURI ;
+  rdfs:label "Atlas Shrugged" ;
 .
 bibliographica:Atomic_Lobster
   rdf:type schema:Book ;
@@ -1102,8 +1102,8 @@ bibliographica:Catcher_in_the_Rye
   dcterms:title "The Catcher in the Rye" ;
   schema:author bibliographica:JD_Salinger ;
   schema:isbn "031654003X" ;
-  bibliographica:binNumber 9 ;
   bibliographica:binNumber 10 ;
+  bibliographica:binNumber 9 ;
   bibliographica:numberOfitems 2 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1153562713.ttl"^^xsd:anyURI ;
   rdfs:label "The Catcher in the Rye" ;
@@ -2344,17 +2344,6 @@ bibliographica:Get_Outta_Town
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1033660650.ttl"^^xsd:anyURI ;
   rdfs:label "Get Outta Town : a Tale of the Grateful Dead, the IRS, and Coffee" ;
 .
-bibliographica:Going_after_Cacciato
-  rdf:type schema:Book ;
-  dcterms:creator bibliographica:Tim_OBrien ;
-  dcterms:title "Going After Cacciato : a novel" ;
-  schema:author bibliographica:Tim_OBrien ;
-  schema:isbn "0385283490" ;
-  bibliographica:binNumber 3 ;
-  bibliographica:numberOfitems 1 ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/471548545.ttl"^^xsd:anyURI ;
-  rdfs:label "Going After Cacciato : a novel" ;
-.
 bibliographica:God_Delusion
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Richard_Dawkins ;
@@ -2365,6 +2354,17 @@ bibliographica:God_Delusion
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/475140358.ttl"^^xsd:anyURI ;
   rdfs:label "The God Delusion" ;
+.
+bibliographica:Going_after_Cacciato
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Tim_OBrien ;
+  dcterms:title "Going After Cacciato : a novel" ;
+  schema:author bibliographica:Tim_OBrien ;
+  schema:isbn "0385283490" ;
+  bibliographica:binNumber 3 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/471548545.ttl"^^xsd:anyURI ;
+  rdfs:label "Going After Cacciato : a novel" ;
 .
 bibliographica:Gold_Bug_Variations
   rdf:type schema:Book ;
@@ -2877,8 +2877,8 @@ bibliographica:I_Become_Part_of_It
   dcterms:creator bibliographica:DM_Dooling ;
   dcterms:creator bibliographica:Paul_Jordan_Smith ;
   dcterms:title "I become part of it : sacred dimensions in native American life" ;
-  schema:editor bibliographica:Paul_Jordan_Smith ;
   schema:editor bibliographica:DM_Dooling ;
+  schema:editor bibliographica:Paul_Jordan_Smith ;
   schema:isbn "0062502352" ;
   bibliographica:binNumber 10 ;
   bibliographica:numberOfitems 1 ;
@@ -3036,6 +3036,16 @@ bibliographica:Intro_Lit
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/939890273.ttl"^^xsd:anyURI ;
   rdfs:label "An Introduction to Literature" ;
 .
+bibliographica:Ireland_Sings
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Dominic_Behan ;
+  dcterms:title "Ireland Sings" ;
+  schema:author bibliographica:Dominic_Behan ;
+  bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/917052153.ttl"^^xsd:anyURI ;
+  rdfs:label "Ireland Sings" ;
+.
 bibliographica:Ireland_selected_stories
   rdf:type schema:Book ;
   dcterms:creator bibliographica:William_Trevor ;
@@ -3046,16 +3056,6 @@ bibliographica:Ireland_selected_stories
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/607404449.ttl"^^xsd:anyURI ;
   rdfs:label "Ireland : selected stories" ;
-.
-bibliographica:Ireland_Sings
-  rdf:type schema:Book ;
-  dcterms:creator bibliographica:Dominic_Behan ;
-  dcterms:title "Ireland Sings" ;
-  schema:author bibliographica:Dominic_Behan ;
-  bibliographica:binNumber 11 ;
-  bibliographica:numberOfitems 1 ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/917052153.ttl"^^xsd:anyURI ;
-  rdfs:label "Ireland Sings" ;
 .
 bibliographica:Irish_Pub_Songs
   rdf:type schema:Book ;
@@ -4133,6 +4133,17 @@ bibliographica:Our_Lady_Forest
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1054961278.ttl"^^xsd:anyURI ;
   rdfs:label "Our Lady of the Forest" ;
 .
+bibliographica:PSI_What_Is_It
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Louisa_Rhine ;
+  dcterms:title "PSI what is it?" ;
+  schema:author bibliographica:Louisa_Rhine ;
+  schema:isbn "0439136369" ;
+  bibliographica:binNumber 10 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1039070350.ttl"^^xsd:anyURI ;
+  rdfs:label "PSI what is it?" ;
+.
 bibliographica:Pagan_Babies
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Elmore_Leonard ;
@@ -4280,8 +4291,8 @@ bibliographica:Poisonwood_Bible
   dcterms:title "Poisonwood Bible" ;
   schema:author bibliographica:Barbara_Kingsolver ;
   schema:isbn "0060930535" ;
-  bibliographica:binNumber 9 ;
   bibliographica:binNumber 11 ;
+  bibliographica:binNumber 9 ;
   bibliographica:numberOfitems 2 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/825557679.ttl"^^xsd:anyURI ;
   rdfs:label "Poisonwood Bible" ;
@@ -4394,17 +4405,6 @@ bibliographica:Project_Mgmt
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/828199043.ttl"^^xsd:anyURI ;
   rdfs:label "Teach Yourself Project Management" ;
-.
-bibliographica:PSI_What_Is_It
-  rdf:type schema:Book ;
-  dcterms:creator bibliographica:Louisa_Rhine ;
-  dcterms:title "PSI what is it?" ;
-  schema:author bibliographica:Louisa_Rhine ;
-  schema:isbn "0439136369" ;
-  bibliographica:binNumber 10 ;
-  bibliographica:numberOfitems 1 ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1039070350.ttl"^^xsd:anyURI ;
-  rdfs:label "PSI what is it?" ;
 .
 bibliographica:Purity_of_Blood
   rdf:type schema:Book ;
@@ -4861,8 +4861,8 @@ bibliographica:Selected_Journals_of_Thoreau
   dcterms:creator bibliographica:Carl_Bode ;
   dcterms:title "Selected Journals of Henry David Thoreau" ;
   schema:author bibliographica:Carl_Bode ;
-  bibliographica:binNumber 5 ;
   bibliographica:binNumber 10 ;
+  bibliographica:binNumber 5 ;
   bibliographica:numberOfitems 2 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1404769.ttl"^^xsd:anyURI ;
   rdfs:label "Selected Journals of Henry David Thoreau" ;
@@ -4912,14 +4912,6 @@ bibliographica:Seventh_Heaven
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/500372274.ttl"^^xsd:anyURI ;
   rdfs:label "Seventh Heaven" ;
 .
-bibliographica:Sex_and_Sunsets
-  rdf:type schema:Book ;
-  dcterms:creator bibliographica:Tim_Sandlin ;
-  dcterms:title "Sex and Sunsets" ;
-  schema:author bibliographica:Tim_Sandlin ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/14003275.ttl"^^xsd:anyURI ;
-  rdfs:label "Sex and Sunsets" ;
-.
 bibliographica:Sex_Art_Culture
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Camille_Paglia ;
@@ -4930,6 +4922,14 @@ bibliographica:Sex_Art_Culture
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1050040955.ttl"^^xsd:anyURI ;
   rdfs:label "Sex, art, and American culture essays" ;
+.
+bibliographica:Sex_and_Sunsets
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Tim_Sandlin ;
+  dcterms:title "Sex and Sunsets" ;
+  schema:author bibliographica:Tim_Sandlin ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/14003275.ttl"^^xsd:anyURI ;
+  rdfs:label "Sex and Sunsets" ;
 .
 bibliographica:Shadow_Ranch
   rdf:type schema:Book ;
@@ -7174,14 +7174,6 @@ bibliographica:What_Am_I_Doing_Here
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/889698709.ttl"^^xsd:anyURI ;
   rdfs:label "What Am I Doing Here" ;
 .
-bibliographica:What_bred_in_the_bone
-  rdf:type schema:Book ;
-  dcterms:creator bibliographica:Robertson_Davies ;
-  dcterms:title "What's bred in the bone" ;
-  schema:author bibliographica:Robertson_Davies ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/12549454.ttl"^^xsd:anyURI ;
-  rdfs:label "What's Bred in the Bone" ;
-.
 bibliographica:What_Is_What
   rdf:type schema:Book ;
   dcterms:creator bibliographica:Dave_Eggers ;
@@ -7192,6 +7184,14 @@ bibliographica:What_Is_What
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1141749822.ttl"^^xsd:anyURI ;
   rdfs:label "What Is the What" ;
+.
+bibliographica:What_bred_in_the_bone
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:Robertson_Davies ;
+  dcterms:title "What's bred in the bone" ;
+  schema:author bibliographica:Robertson_Davies ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/12549454.ttl"^^xsd:anyURI ;
+  rdfs:label "What's Bred in the Bone" ;
 .
 bibliographica:White_Death
   rdf:type schema:Book ;
