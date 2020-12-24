@@ -15,17 +15,6 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-bibliographica:AMA_Guide
-  rdf:type schema:Book ;
-  dcterms:creator bibliographica:AMA ;
-  dcterms:title "The American Medical Association guide to your family's symptoms" ;
-  schema:author bibliographica:AMA ;
-  schema:isbn "0679741283" ;
-  bibliographica:binNumber 9 ;
-  bibliographica:numberOfitems 1 ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1010990221.ttl"^^xsd:anyURI ;
-  rdfs:label "The American Medical Association guide to your family's symptoms" ;
-.
 bibliographica:A_Confederacy_of_Dunces
   rdf:type schema:Book ;
   dcterms:creator bibliographica:John_Kennedy_Toole ;
@@ -2720,9 +2709,9 @@ bibliographica:Higher_Creativity
 .
 bibliographica:Higher_Taste
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:AC_Bhaktivedanta_Swami ;
+  dcterms:creator authors:AC_Bhaktivedanta_Swami ;
   dcterms:title "The Higher Taste : a guide to gourmet vegetarian cooking and a karma-free diet" ;
-  schema:author bibliographica:AC_Bhaktivedanta_Swami ;
+  schema:author authors:AC_Bhaktivedanta_Swami ;
   schema:isbn "0892131284" ;
   bibliographica:binNumber 1 ;
   bibliographica:numberOfitems 1 ;
@@ -7477,4 +7466,15 @@ bibliographica:Zippy_nation_of_pinheads
   owl:imports <http://www.connaissance.io/onto/biblio/authors> ;
   owl:imports <http://www.connaissance.io/onto/biblio/bibliographica> ;
   owl:versionInfo "Developed by M Lane" ;
+.
+:AMA_Guide
+  rdf:type schema:Book ;
+  dcterms:creator bibliographica:AMA ;
+  dcterms:title "The American Medical Association guide to your family's symptoms" ;
+  schema:author bibliographica:AMA ;
+  schema:isbn "0679741283" ;
+  bibliographica:binNumber 9 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1010990221.ttl"^^xsd:anyURI ;
+  rdfs:label "The American Medical Association guide to your family's symptoms" ;
 .
