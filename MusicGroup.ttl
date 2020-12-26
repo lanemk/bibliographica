@@ -1212,6 +1212,13 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/6eed1ed9-ab02-45cd-a306-828bc1b98671"^^xsd:anyURI ;
   rdfs:label "Medeski Martin & Wood" ;
 .
+:Mescaleros
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/The_Mescaleros.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/39c1e474-647e-42ef-a157-fcfb30c2c2ff"^^xsd:anyURI ;
+  rdfs:label "The Mescaleros" ;
+.
 :Meters
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassMP ;

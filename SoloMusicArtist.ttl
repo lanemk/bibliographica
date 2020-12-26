@@ -1393,6 +1393,12 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/a61930ae-dfe3-4574-bc5b-b0fa8d8efb62"^^xsd:anyURI ;
   rdfs:label "Ibrahim Ferrer" ;
 .
+:Ira_Stein
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/bf04ba36-394d-41cf-a94b-7cc9ffc02445"^^xsd:anyURI ;
+  rdfs:label "Ira Stein" ;
+.
 :Iris_DeMent
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassAD ;
@@ -1448,6 +1454,13 @@
   bibliographica:dbpediaURI "http://dbpedia.org/data/James_McMurtry.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/0d842c11-3f11-4dae-aa41-4e6e8beccc09"^^xsd:anyURI ;
   rdfs:label "James McMurtry" ;
+.
+:James_Taylor
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/James_Taylor.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/107d0c22-d051-4d98-8206-4e14de02132a"^^xsd:anyURI ;
+  rdfs:label "James Taylor" ;
 .
 :Jan_Hellriegel
   rdf:type mo:SoloMusicArtist ;
@@ -1525,6 +1538,13 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/2280ca0e-6968-4349-8c36-cb0cbd6ee95f"^^xsd:anyURI ;
   rdfs:label "Jello Biafra" ;
 .
+:Jen_Trynin
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Jen_Trynin.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/75d3704c-f5ab-4001-97de-740972461a7d"^^xsd:anyURI ;
+  rdfs:label "Jen Trynin" ;
+.
 :Jennifer_Berezan
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassAD ;
@@ -1600,6 +1620,13 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/519774a4-3b18-4042-b8c0-927845a616c9"^^xsd:anyURI ;
   rdfs:label "Jimmy Page" ;
 .
+:JoEl_Sonnier
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Jo-El_Sonnier.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/cae92fc4-ebf8-4940-badf-d54cc6b8e6d3"^^xsd:anyURI ;
+  rdfs:label "Jo-El Sonnier" ;
+.
 :Joan_Armatrading
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassAD ;
@@ -1655,6 +1682,13 @@
   bibliographica:dbpediaURI "http://dbpedia.org/data/Joe_Jackson_(musician).ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/07f6d469-38f3-46da-9cfa-2f532422b84e"^^xsd:anyURI ;
   rdfs:label "Joe Jackson" ;
+.
+:Joe_Strummer
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Joe_Strummer.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/af4ea2a3-c54d-40b4-8120-a1f0b838ad54"^^xsd:anyURI ;
+  rdfs:label "Joe Strummer" ;
 .
 :John_Coltrane
   rdf:type mo:SoloMusicArtist ;
@@ -1789,6 +1823,13 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/83a81b17-e725-4e5d-a607-375d66306e09"^^xsd:anyURI ;
   rdfs:label "Jonathan Edwards" ;
 .
+:Jonathan_Richmond
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Jonathan_Richman.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/bae34b81-9abd-416e-a720-fedc359df775"^^xsd:anyURI ;
+  rdfs:label "Jonathan Richmond" ;
+.
 :Joni_Mitchell
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassMP ;
@@ -1808,6 +1849,13 @@
   rdf:type bibliographica:AlphaClassIL ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/f4bf07da-92d9-449f-bbb9-ff104b7321db"^^xsd:anyURI ;
   rdfs:label "José Soto \"Sorderita\"" ;
+.
+:Joshua_Redman
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Joshua_Redman.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/b00a17c3-72b2-4e39-96f9-770ba6cf4573"^^xsd:anyURI ;
+  rdfs:label "Joshua Redman" ;
 .
 :Joy_Askew
   rdf:type mo:SoloMusicArtist ;
@@ -1874,6 +1922,13 @@
   bibliographica:dbpediaURI "http://dbpedia.org/data/Julie_Miller.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/fd8fbe47-d815-474b-b0cf-b21c2f87c397"^^xsd:anyURI ;
   rdfs:label "Julie Miller" ;
+.
+:June_Tabor
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/June_Tabor.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/55bd9053-241d-4ba5-b0b3-f9b792ab1c7d"^^xsd:anyURI ;
+  rdfs:label "June Tabor" ;
 .
 :Junis_Ponds
   rdf:type mo:SoloMusicArtist ;
@@ -3021,6 +3076,12 @@
   bibliographica:dbpediaURI "http://dbpedia.org/data/Russ_Barenberg.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/10df6b2d-e016-4a51-a97c-f9f8814cabef"^^xsd:anyURI ;
   rdfs:label "Russ Barenberg" ;
+.
+:Russel_Walder
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassWZ ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/5b964a8f-462b-4653-8d96-159f989f8674"^^xsd:anyURI ;
+  rdfs:label "Russel Walder" ;
 .
 :Ry_Cooder
   rdf:type mo:SoloMusicArtist ;
