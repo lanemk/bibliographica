@@ -1033,6 +1033,13 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/f052725a-f7aa-4764-b5ec-0ff39619fa78"^^xsd:anyURI ;
   rdfs:label "Latin Playboys" ;
 .
+:Lavay_Smith_Skillet_Lickers
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Lavay_Smith.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/cb8d5012-d384-4574-a0b4-59a3aedddf52"^^xsd:anyURI ;
+  rdfs:label "Lavay Smith & Her Red Hot Skillet Lickers" ;
+.
 :Laughing_Hands
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassIL ;
