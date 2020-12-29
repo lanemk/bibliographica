@@ -1280,7 +1280,7 @@
   rdfs:label "George Petrides" ;
   foaf:name "George Petrides" ;
 .
-:Gia-fu_Feng
+:Giafu_Feng
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Gia-Fu_Feng.ttl"^^xsd:anyURI ;
   bibliographica:viafURI "https://viaf.org/viaf/69491160/rdf.xml"^^xsd:anyURI ;
@@ -2858,7 +2858,7 @@
   rdfs:label "Peter Deadman" ;
   foaf:name "Peter Deadman" ;
 .
-:Peter_Høeg
+:Peter_Hoeg
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Peter_H%C3%B8eg.ttl"^^xsd:anyURI ;
   bibliographica:viafURI "http://viaf.org/viaf/114758804/rdf.xml"^^xsd:anyURI ;
@@ -3318,7 +3318,7 @@
   rdfs:label "Shuntō Aoyama" ;
   foaf:name "Shuntō Aoyama" ;
 .
-:Somerville_E_Œ
+:Somerville_E
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Edith_Somerville.ttl"^^xsd:anyURI ;
   bibliographica:viafURI "http://viaf.org/viaf/96053713/rdf.xml"^^xsd:anyURI ;
@@ -3475,6 +3475,13 @@
   bibliographica:viafURI "https://viaf.org/viaf/84546714/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Terry McMillan" ;
   foaf:name "Terry McMillan" ;
+.
+:Thich_Nhat_Hanh
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Th%C3%ADch_Nh%E1%BA%A5t_H%E1%BA%A1nh.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "http://viaf.org/viaf/87670142/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Thích. Nhất Hạnh" ;
+  foaf:name "Thích. Nhất Hạnh" ;
 .
 :Thomas_Hardy
   rdf:type schema:Person ;
@@ -3797,11 +3804,4 @@
   bibliographica:viafURI "http://viaf.org/viaf/62824341/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Zora Neale Hurston" ;
   foaf:name "Zora Neale Hurston" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#Thích._Nhat_Hạnh>
-  rdf:type schema:Person ;
-  bibliographica:dbpediaURI "http://dbpedia.org/data/Th%C3%ADch_Nh%E1%BA%A5t_H%E1%BA%A1nh.ttl"^^xsd:anyURI ;
-  bibliographica:viafURI "http://viaf.org/viaf/87670142/rdf.xml"^^xsd:anyURI ;
-  rdfs:label "Thích. Nhất Hạnh" ;
-  foaf:name "Thích. Nhất Hạnh" ;
 .
