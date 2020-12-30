@@ -2755,6 +2755,9 @@
   foaf:name "Patrick McManus" ;
 .
 :Patti_Smith
+  rdf:type schema:Person ;
+  owl:sameAs SoloMusicArtist:Patti_Smith ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Patti_Smith.ttl"^^xsd:anyURI ;
   bibliographica:viafURI "http://viaf.org/viaf/84037206/rdf.xml"^^xsd:anyURI ;
   foaf:name "Patti Smith" ;
 .

@@ -41,7 +41,7 @@
   rdf:type schema:Book ;
   dcterms:creator authors:Edward_Rice ;
   dcterms:title "Captain Sir Richard Francis Burton. A biography" ;
-  schema:author bibliographica:Edward_Rice ;
+  schema:author authors:Edward_Rice ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/20296326.ttl"^^xsd:anyURI ;
   rdfs:label "Captain Sir Richard Francis Burton. A biography" ;
 .
@@ -6497,9 +6497,9 @@
 .
 :A_Keeper_of_Sheep
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:William_Carpenter ;
+  dcterms:creator authors:William_Carpenter ;
   dcterms:title "A Keeper of Sheep" ;
-  schema:author bibliographica:William_Carpenter ;
+  schema:author authors:William_Carpenter ;
   schema:isbn "1571310002" ;
   bibliographica:binNumber 1 ;
   bibliographica:numberOfitems 1 ;
@@ -6508,33 +6508,33 @@
 .
 :A_Life_in_Hand
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Hannah_Hinchman ;
+  dcterms:creator authors:Hannah_Hinchman ;
   dcterms:title "A Life in Hand" ;
-  schema:author bibliographica:Hannah_Hinchman ;
+  schema:author authors:Hannah_Hinchman ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/23383660.ttl"^^xsd:anyURI ;
   rdfs:label "A Life in Hand" ;
 .
 :A_Little_Too_Much_is_Enough
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Kathleen_Tyau ;
+  dcterms:creator authors:Kathleen_Tyau ;
   dcterms:title "A Little Too Much is Enough" ;
-  schema:author bibliographica:Kathleen_Tyau ;
+  schema:author authors:Kathleen_Tyau ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/32693013.ttl"^^xsd:anyURI ;
   rdfs:label "A Little Too Much is Enough" ;
 .
 :A_Recipe_for_Bees
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Gail_Anderson-Dargatz ;
+  dcterms:creator authors:Gail_Anderson-Dargatz ;
   dcterms:title "A Recipe for Bees" ;
-  schema:author bibliographica:Gail_Anderson-Dargatz ;
+  schema:author authors:Gail_Anderson-Dargatz ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/40979987.ttl"^^xsd:anyURI ;
   rdfs:label "A Recipe for Bees" ;
 .
 :A_Sand_County_Almanac
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Aldo_Leopold ;
+  dcterms:creator authors:Aldo_Leopold ;
   dcterms:title "A Sand County Almanac" ;
-  schema:author bibliographica:Aldo_Leopold ;
+  schema:author authors:Aldo_Leopold ;
   schema:isbn "019505928X" ;
   bibliographica:binNumber 9 ;
   bibliographica:numberOfitems 1 ;
@@ -6543,17 +6543,17 @@
 .
 :A_Wolverine_is_Eating_My_Leg
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Tim_Cahill ;
+  dcterms:creator authors:Tim_Cahill ;
   dcterms:title "A Wolverine is Eating My Leg" ;
-  schema:author bibliographica:Tim_Cahill ;
+  schema:author authors:Tim_Cahill ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/18463134.ttl"^^xsd:anyURI ;
   rdfs:label "A Wolverine is Eating My Leg" ;
 .
 :A_Wrinkle_in_Time
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Madeleine_Lengle ;
+  dcterms:creator authors:Madeleine_Lengle ;
   dcterms:title "A Wrinkle in Time" ;
-  schema:author bibliographica:Madeleine_Lengle ;
+  schema:author authors:Madeleine_Lengle ;
   schema:isbn "0440498058" ;
   bibliographica:binNumber 5 ;
   bibliographica:numberOfitems 1 ;
@@ -6562,9 +6562,9 @@
 .
 :A_cat_man_and_two_women
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Junichiro_Tanizaki ;
+  dcterms:creator authors:Junichiro_Tanizaki ;
   dcterms:title "A Cat, a Man, and Two Women : stories" ;
-  schema:author bibliographica:Junichiro_Tanizaki ;
+  schema:author authors:Junichiro_Tanizaki ;
   schema:isbn "4770016050" ;
   bibliographica:binNumber 3 ;
   bibliographica:numberOfitems 1 ;
@@ -6573,43 +6573,43 @@
 .
 :A_good_day_to_die
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Jim_Harrison ;
+  dcterms:creator authors:Jim_Harrison ;
   dcterms:title "A good day to die; a novel" ;
-  schema:author bibliographica:Jim_Harrison ;
+  schema:author authors:Jim_Harrison ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/681996.ttl"^^xsd:anyURI ;
   rdfs:label "A good day to die; a novel" ;
 .
 :A_history_of_philosophy
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Frederick_Copleston ;
+  dcterms:creator authors:Frederick_Copleston ;
   dcterms:title "A History of Philosophy" ;
-  schema:author bibliographica:Frederick_Copleston ;
+  schema:author authors:Frederick_Copleston ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/612596482.ttl"^^xsd:anyURI ;
   rdfs:label "A History of Philosophy, Books 1-3" ;
 .
 :A_trail_through_leaves
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Hannah_Hinchman ;
+  dcterms:creator authors:Hannah_Hinchman ;
   dcterms:title "A trail through leaves : the journal as a path to place" ;
-  schema:author bibliographica:Hannah_Hinchman ;
+  schema:author authors:Hannah_Hinchman ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/62782890.ttl"^^xsd:anyURI ;
   rdfs:label "A trail through leaves" ;
 .
 :Acid_Dreams
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Bruce_Shlain ;
-  dcterms:creator bibliographica:Martin_Lee ;
+  dcterms:creator authors:Bruce_Shlain ;
+  dcterms:creator authors:Martin_Lee ;
   dcterms:title "Acid dreams : the CIA, LSD, and the sixties rebellion" ;
-  schema:author bibliographica:Bruce_Shlain ;
-  schema:author bibliographica:Martin_Lee ;
+  schema:author authors:Bruce_Shlain ;
+  schema:author authors:Martin_Lee ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/12342491.ttl"^^xsd:anyURI ;
   rdfs:label "Acid Dreams" ;
 .
 :Adventures_of_Huckleberry_Finn
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Mark_Twain ;
+  dcterms:creator authors:Mark_Twain ;
   dcterms:title "The Adventures of Huckleberry Finn" ;
-  schema:author bibliographica:Mark_Twain ;
+  schema:author authors:Mark_Twain ;
   schema:isbn "0553210793" ;
   bibliographica:binNumber 9 ;
   bibliographica:numberOfitems 1 ;
@@ -6618,9 +6618,9 @@
 .
 :Aegypt
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:John_Crowley ;
+  dcterms:creator authors:John_Crowley ;
   dcterms:title "Aegypt" ;
-  schema:author bibliographica:John_Crowley ;
+  schema:author authors:John_Crowley ;
   schema:isbn "0553374303" ;
   bibliographica:binNumber 6 ;
   bibliographica:numberOfitems 1 ;
@@ -6629,9 +6629,9 @@
 .
 :Age_of_Oil
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Leonardo_Maugeri ;
+  dcterms:creator authors:Leonardo_Maugeri ;
   dcterms:title "The Age of Oil : What They Don't Want You to Know About the World's Most Controversial Resource" ;
-  schema:author bibliographica:Leonardo_Maugeri ;
+  schema:author authors:Leonardo_Maugeri ;
   schema:isbn "9781599211183" ;
   bibliographica:binNumber 11 ;
   bibliographica:numberOfitems 1 ;
@@ -6640,9 +6640,9 @@
 .
 :Age_of_Reason
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Jean_Paul_Sartre ;
+  dcterms:creator authors:Jean_Paul_Sartre ;
   dcterms:title "The Age of Reason" ;
-  schema:author bibliographica:Jean_Paul_Sartre ;
+  schema:author authors:Jean_Paul_Sartre ;
   schema:isbn "0394718380" ;
   bibliographica:binNumber 10 ;
   bibliographica:numberOfitems 1 ;
@@ -6651,9 +6651,9 @@
 .
 :Alice_in_Wonderland
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Lewis_Carroll ;
+  dcterms:creator authors:Lewis_Carroll ;
   dcterms:title "Alice in Wonderland and Through the Looking Glass" ;
-  schema:author bibliographica:Lewis_Carroll ;
+  schema:author authors:Lewis_Carroll ;
   bibliographica:binNumber 7 ;
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/8990946.ttl"^^xsd:anyURI ;
@@ -6661,9 +6661,9 @@
 .
 :All_Souls_Day
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Bill_Morris ;
+  dcterms:creator authors:Bill_Morris ;
   dcterms:title "All Souls' Day : a novel" ;
-  schema:author bibliographica:Bill_Morris ;
+  schema:author authors:Bill_Morris ;
   schema:isbn "0380791161" ;
   bibliographica:binNumber 5 ;
   bibliographica:numberOfitems 1 ;
@@ -6672,17 +6672,17 @@
 .
 :All_the_Pretty_Horses
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Cormac_McCarthy ;
+  dcterms:creator authors:Cormac_McCarthy ;
   dcterms:title "All the Pretty Horses" ;
-  schema:author bibliographica:Cormac_McCarthy ;
+  schema:author authors:Cormac_McCarthy ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/25704649.ttl"^^xsd:anyURI ;
   rdfs:label "All the Pretty Horses" ;
 .
 :American_Heritage_Dictionary
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Peter_Davies ;
+  dcterms:creator authors:Peter_Davies ;
   dcterms:title "The American Heritage dictionary of the English language" ;
-  schema:author bibliographica:Peter_Davies ;
+  schema:author authors:Peter_Davies ;
   schema:isbn "0440503701" ;
   bibliographica:binNumber 10 ;
   bibliographica:numberOfitems 1 ;
@@ -6691,9 +6691,9 @@
 .
 :American_Primitive
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Mary_Oliver ;
+  dcterms:creator authors:Mary_Oliver ;
   dcterms:title "American Primitive : poems" ;
-  schema:author bibliographica:Mary_Oliver ;
+  schema:author authors:Mary_Oliver ;
   schema:isbn "0316650048" ;
   bibliographica:binNumber 5 ;
   bibliographica:numberOfitems 1 ;
@@ -6702,17 +6702,17 @@
 .
 :An_Almanac_for_Moderns
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Donald_Peattie ;
+  dcterms:creator authors:Donald_Peattie ;
   dcterms:title "An Almanac for Moderns " ;
-  schema:author bibliographica:Donald_Peattie ;
+  schema:author authors:Donald_Peattie ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1445415.ttl"^^xsd:anyURI ;
   rdfs:label "An Almanac for Moderns" ;
 .
 :An_Aroma_of_Coffee
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Dany_Laferriere ;
+  dcterms:creator authors:Dany_Laferriere ;
   dcterms:title "An Aroma of Coffee" ;
-  schema:author bibliographica:Dany_Laferriere ;
+  schema:author authors:Dany_Laferriere ;
   schema:isbn "0889104395" ;
   bibliographica:binNumber 5 ;
   bibliographica:numberOfitems 1 ;
@@ -6721,9 +6721,9 @@
 .
 :Angels_in_Black
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Max_Allan_Collins ;
+  dcterms:creator authors:Max_Allan_Collins ;
   dcterms:title "Angels in Black" ;
-  schema:author bibliographica:Max_Allan_Collins ;
+  schema:author authors:Max_Allan_Collins ;
   schema:isbn "0451205170" ;
   bibliographica:binNumber 9 ;
   bibliographica:numberOfitems 1 ;
@@ -6732,9 +6732,9 @@
 .
 :Animalia
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Graeme_Base ;
+  dcterms:creator authors:Graeme_Base ;
   dcterms:title "Animalia" ;
-  schema:author bibliographica:Graeme_Base ;
+  schema:author authors:Graeme_Base ;
   schema:isbn "0670079138" ;
   bibliographica:binNumber 1 ;
   bibliographica:numberOfitems 2 ;
@@ -6743,9 +6743,9 @@
 .
 :Anna_Karenina_Book_1
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Leo_Tolstoy ;
+  dcterms:creator authors:Leo_Tolstoy ;
   dcterms:title "Anna Karenina. Book 1" ;
-  schema:author bibliographica:Leo_Tolstoy ;
+  schema:author authors:Leo_Tolstoy ;
   bibliographica:binNumber 1 ;
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/907464794.ttl"^^xsd:anyURI ;
@@ -6753,9 +6753,9 @@
 .
 :Anna_Karenina_Book_2
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Leo_Tolstoy ;
+  dcterms:creator authors:Leo_Tolstoy ;
   dcterms:title "Anna Karenina. Book 2" ;
-  schema:author bibliographica:Leo_Tolstoy ;
+  schema:author authors:Leo_Tolstoy ;
   bibliographica:binNumber 1 ;
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/934765377.ttl"^^xsd:anyURI ;
@@ -6763,9 +6763,9 @@
 .
 :Another_Roadside_Attraction
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Tom_Robbins ;
+  dcterms:creator authors:Tom_Robbins ;
   dcterms:title "Another Roadside Attraction" ;
-  schema:author bibliographica:Tom_Robbins ;
+  schema:author authors:Tom_Robbins ;
   schema:isbn "1842431293" ;
   bibliographica:binNumber 9 ;
   bibliographica:numberOfitems 1 ;
@@ -6774,18 +6774,18 @@
 .
 :Antarctic_navigation_a_novel
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Elizabeth_Arthur ;
+  dcterms:creator authors:Elizabeth_Arthur ;
   dcterms:title "Antarctic navigation : a novel" ;
-  schema:author bibliographica:Elizabeth_Arthur ;
+  schema:author authors:Elizabeth_Arthur ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/28291634.ttl"^^xsd:anyURI ;
   rdfs:label "Antarctic navigation : a novel" ;
 .
 :Anton_Chekhov_selected_stories
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Ann_Dunnigan ;
-  dcterms:creator bibliographica:Anton_Chekhov ;
+  dcterms:creator authors:Ann_Dunnigan ;
+  dcterms:creator authors:Anton_Chekhov ;
   dcterms:title "Anton Chekhov selected stories" ;
-  schema:translator bibliographica:Ann_Dunnigan ;
+  schema:translator authors:Ann_Dunnigan ;
   bibliographica:binNumber 7 ;
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/15869268.ttl"^^xsd:anyURI ;
@@ -6803,9 +6803,9 @@
 .
 :Arctic_Dreams
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Barry_Lopez ;
+  dcterms:creator authors:Barry_Lopez ;
   dcterms:title "Arctic Dreams: imagination and desire in a northern landscape " ;
-  schema:author bibliographica:Barry_Lopez ;
+  schema:author authors:Barry_Lopez ;
   schema:isbn "0553346644" ;
   bibliographica:binNumber 3 ;
   bibliographica:numberOfitems 1 ;
@@ -6821,9 +6821,9 @@
 .
 :Art_of_Cheese
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Try_Foods_Intl ;
+  dcterms:creator authors:Try_Foods_Intl ;
   dcterms:title "The Art of Selecting and Serving Cheese" ;
-  schema:author bibliographica:Try_Foods_Intl ;
+  schema:author authors:Try_Foods_Intl ;
   bibliographica:binNumber 8 ;
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1057356347.ttl"^^xsd:anyURI ;
@@ -6831,9 +6831,9 @@
 .
 :Art_of_Digital_Video
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:John_Watkinson ;
+  dcterms:creator authors:John_Watkinson ;
   dcterms:title "The Art of Digital Video" ;
-  schema:author bibliographica:John_Watkinson ;
+  schema:author authors:John_Watkinson ;
   schema:isbn "0240515862" ;
   bibliographica:binNumber 2 ;
   bibliographica:numberOfitems 1 ;
@@ -6842,9 +6842,9 @@
 .
 :Artemis_Fowl
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Eoin_Colfer ;
+  dcterms:creator authors:Eoin_Colfer ;
   dcterms:title "Artemis Fowl" ;
-  schema:author bibliographica:Eoin_Colfer ;
+  schema:author authors:Eoin_Colfer ;
   schema:isbn "0786814934" ;
   bibliographica:binNumber 7 ;
   bibliographica:numberOfitems 2 ;
@@ -6853,9 +6853,9 @@
 .
 :Atlantis_Found
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Clive_Cussler ;
+  dcterms:creator authors:Clive_Cussler ;
   dcterms:title "Atlantis Found" ;
-  schema:author bibliographica:Clive_Cussler ;
+  schema:author authors:Clive_Cussler ;
   schema:isbn "0425177173" ;
   bibliographica:binNumber 3 ;
   bibliographica:numberOfitems 1 ;
@@ -6864,9 +6864,9 @@
 .
 :Atlas
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:William_Vollmann ;
+  dcterms:creator authors:William_Vollmann ;
   dcterms:title "The Atlas" ;
-  schema:author bibliographica:William_Vollmann ;
+  schema:author authors:William_Vollmann ;
   schema:isbn "0140254498 " ;
   bibliographica:binNumber 11 ;
   bibliographica:numberOfitems 1 ;
@@ -6875,9 +6875,9 @@
 .
 :Atlas_Shrugged
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Ayn_Rand ;
+  dcterms:creator authors:Ayn_Rand ;
   dcterms:title "Atlantis Found" ;
-  schema:author bibliographica:Ayn_Rand ;
+  schema:author authors:Ayn_Rand ;
   bibliographica:binNumber 10 ;
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/944146779.ttl"^^xsd:anyURI ;
@@ -6885,9 +6885,9 @@
 .
 :Atomic_Lobster
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Tim_Dorsey ;
+  dcterms:creator authors:Tim_Dorsey ;
   dcterms:title "Atomic Lobster" ;
-  schema:author bibliographica:Tim_Dorsey ;
+  schema:author authors:Tim_Dorsey ;
   schema:isbn "9780060829704" ;
   bibliographica:binNumber 6 ;
   bibliographica:numberOfitems 1 ;
@@ -6896,9 +6896,9 @@
 .
 :Authentic_Guitar_Classics
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Jerry_Garcia ;
+  dcterms:creator authors:Jerry_Garcia ;
   dcterms:title "Grateful Dead : Authentic Guitar Classics, Vol. 2" ;
-  schema:author bibliographica:Jerry_Garcia ;
+  schema:author authors:Jerry_Garcia ;
   schema:isbn "1576232565" ;
   bibliographica:binNumber 2 ;
   bibliographica:numberOfitems 1 ;
@@ -6907,9 +6907,9 @@
 .
 :Avalanche_Safety
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:ER_LaChapelle ;
+  dcterms:creator authors:ER_LaChapelle ;
   dcterms:title "Avalanche Safety" ;
-  schema:author bibliographica:ER_LaChapelle ;
+  schema:author authors:ER_LaChapelle ;
   bibliographica:binNumber 4 ;
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/500458312.ttl"^^xsd:anyURI ;
@@ -6917,9 +6917,9 @@
 .
 :Awakened_Eye
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Frederick_Franck ;
+  dcterms:creator authors:Frederick_Franck ;
   dcterms:title "The awakened eye : a companion volume to The Zen of seeing : seeing, drawing as meditation" ;
-  schema:author bibliographica:Frederick_Franck ;
+  schema:author authors:Frederick_Franck ;
   schema:isbn "0394740211" ;
   bibliographica:binNumber 9 ;
   bibliographica:numberOfitems 1 ;
@@ -6928,17 +6928,17 @@
 .
 :Axe_Handles
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Gary_Snyder ;
+  dcterms:creator authors:Gary_Snyder ;
   dcterms:title "Axe Handles: poems by Gary Snyder" ;
-  schema:author bibliographica:Gary_Snyder ;
+  schema:author authors:Gary_Snyder ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/10080488.ttl"^^xsd:anyURI ;
   rdfs:label "Axe Handles" ;
 .
 :Babel
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Patti_Smith ;
+  dcterms:creator authors:Patti_Smith ;
   dcterms:title "Babel" ;
-  schema:author bibliographica:Patti_Smith ;
+  schema:author authors:Patti_Smith ;
   schema:isbn "399121021" ;
   bibliographica:binNumber 5 ;
   bibliographica:numberOfitems 1 ;
@@ -6947,9 +6947,9 @@
 .
 :Baby_Driver
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Jan_Kerouac ;
+  dcterms:creator authors:Jan_Kerouac ;
   dcterms:title "Baby Driver" ;
-  schema:author bibliographica:Jan_Kerouac ;
+  schema:author authors:Jan_Kerouac ;
   schema:isbn "0030625386" ;
   bibliographica:binNumber 9 ;
   bibliographica:numberOfitems 1 ;
@@ -6958,9 +6958,9 @@
 .
 :Baby_No-Eyes
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Patricia_Grace ;
+  dcterms:creator authors:Patricia_Grace ;
   dcterms:title "Baby No-Eyes" ;
-  schema:author bibliographica:Patricia_Grace ;
+  schema:author authors:Patricia_Grace ;
   schema:isbn "0824821610" ;
   bibliographica:binNumber 3 ;
   bibliographica:numberOfitems 1 ;
@@ -6969,25 +6969,25 @@
 .
 :Baby_of_the_Family
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Tina_McElroy_Ansa ;
+  dcterms:creator authors:Tina_McElroy_Ansa ;
   dcterms:title "Baby of the Family" ;
-  schema:author bibliographica:Tina_McElroy_Ansa ;
+  schema:author authors:Tina_McElroy_Ansa ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/19554008.ttl"^^xsd:anyURI ;
   rdfs:label "Baby of the Family" ;
 .
 :Bad_Heir_Day
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Wendy_Holden ;
+  dcterms:creator authors:Wendy_Holden ;
   dcterms:title "Bad Heir Day" ;
-  schema:author bibliographica:Wendy_Holden ;
+  schema:author authors:Wendy_Holden ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/45208000.ttl"^^xsd:anyURI ;
   rdfs:label "Bad Heir Day" ;
 .
 :Bad_Luck_and_Trouble
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Lee_Child ;
+  dcterms:creator authors:Lee_Child ;
   dcterms:title "Bad Luck and Trouble" ;
-  schema:author bibliographica:Lee_Child ;
+  schema:author authors:Lee_Child ;
   schema:isbn "9780440246015" ;
   bibliographica:binNumber 5 ;
   bibliographica:numberOfitems 1 ;
@@ -6996,17 +6996,17 @@
 .
 :Baileys_Cafe
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Gloria_Naylor ;
+  dcterms:creator authors:Gloria_Naylor ;
   dcterms:title "Bailey's Café" ;
-  schema:author bibliographica:Gloria_Naylor ;
+  schema:author authors:Gloria_Naylor ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/24871307.ttl"^^xsd:anyURI ;
   rdfs:label "Bailey's Café" ;
 .
 :Bangkok_8
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:John_Burdett ;
+  dcterms:creator authors:John_Burdett ;
   dcterms:title "Bangkok 8" ;
-  schema:author bibliographica:John_Burdett ;
+  schema:author authors:John_Burdett ;
   schema:isbn "1400032903" ;
   bibliographica:binNumber 6 ;
   bibliographica:numberOfitems 1 ;
@@ -7015,9 +7015,9 @@
 .
 :Bangkok_Tattoo
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:John_Burdett ;
+  dcterms:creator authors:John_Burdett ;
   dcterms:title "Bangkok Tattoo" ;
-  schema:author bibliographica:John_Burdett ;
+  schema:author authors:John_Burdett ;
   schema:isbn "1400032911" ;
   bibliographica:binNumber 6 ;
   bibliographica:numberOfitems 1 ;
@@ -7026,9 +7026,9 @@
 .
 :Banjo_Boy
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Vincent_Kohler ;
+  dcterms:creator authors:Vincent_Kohler ;
   dcterms:title "Banjo Boy" ;
-  schema:author bibliographica:Vincent_Kohler ;
+  schema:author authors:Vincent_Kohler ;
   schema:isbn "0312114753" ;
   bibliographica:binNumber 3 ;
   bibliographica:numberOfitems 1 ;
@@ -7037,9 +7037,9 @@
 .
 :Basic_Rockcraft
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Royal_Robbins ;
+  dcterms:creator authors:Royal_Robbins ;
   dcterms:title "Basic Rockcraft" ;
-  schema:author bibliographica:Royal_Robbins ;
+  schema:author authors:Royal_Robbins ;
   schema:isbn "0910856346" ;
   bibliographica:binNumber 4 ;
   bibliographica:numberOfitems 1 ;
@@ -7048,9 +7048,9 @@
 .
 :Basic_Writings_of_Nietzsche
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Friedrick_Nietzsche ;
+  dcterms:creator authors:Friedrick_Nietzsche ;
   dcterms:title "Basic Writings of Nietzsche" ;
-  schema:author bibliographica:Friedrick_Nietzsche ;
+  schema:author authors:Friedrick_Nietzsche ;
   schema:isbn "0394604067" ;
   bibliographica:binNumber 6 ;
   bibliographica:numberOfitems 1 ;
@@ -7059,9 +7059,9 @@
 .
 :Basket_Case
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Carl_Hiaasen ;
+  dcterms:creator authors:Carl_Hiaasen ;
   dcterms:title "Basket Case" ;
-  schema:author bibliographica:Carl_Hiaasen ;
+  schema:author authors:Carl_Hiaasen ;
   schema:isbn "044661193X" ;
   bibliographica:binNumber 7 ;
   bibliographica:numberOfitems 1 ;
@@ -7070,9 +7070,9 @@
 .
 :Be_Expert_Map_Compass
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Bjorn_Kjellstrom ;
+  dcterms:creator authors:Bjorn_Kjellstrom ;
   dcterms:title "Be Expert with Map and Compass" ;
-  schema:author bibliographica:Bjorn_Kjellstrom ;
+  schema:author authors:Bjorn_Kjellstrom ;
   schema:isbn "0684164132" ;
   bibliographica:binNumber 11 ;
   bibliographica:numberOfitems 1 ;
@@ -7081,9 +7081,9 @@
 .
 :Beach_Road
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:James_Patterson ;
+  dcterms:creator authors:James_Patterson ;
   dcterms:title "Beach Road" ;
-  schema:author bibliographica:James_Patterson ;
+  schema:author authors:James_Patterson ;
   schema:isbn "1600242510" ;
   bibliographica:binNumber 1 ;
   bibliographica:numberOfitems 1 ;
@@ -7092,9 +7092,9 @@
 .
 :Beachcombing_for_a_Shipwrecked_God
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Joe_Coomer ;
+  dcterms:creator authors:Joe_Coomer ;
   dcterms:title "Beachcombing for a Shipwrecked God" ;
-  schema:author bibliographica:Joe_Coomer ;
+  schema:author authors:Joe_Coomer ;
   schema:isbn "068482440X" ;
   bibliographica:binNumber 6 ;
   bibliographica:numberOfitems 1 ;
@@ -7103,9 +7103,9 @@
 .
 :Bean_Trees
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Barbara_Kingsolver ;
+  dcterms:creator authors:Barbara_Kingsolver ;
   dcterms:title "The Bean Trees : a novel" ;
-  schema:author bibliographica:Barbara_Kingsolver ;
+  schema:author authors:Barbara_Kingsolver ;
   schema:isbn "0060915544" ;
   bibliographica:binNumber 11 ;
   bibliographica:numberOfitems 1 ;
@@ -7114,9 +7114,9 @@
 .
 :Beard_on_Bread
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:James_Beard ;
+  dcterms:creator authors:James_Beard ;
   dcterms:title "Beard on Bread" ;
-  schema:author bibliographica:James_Beard ;
+  schema:author authors:James_Beard ;
   schema:isbn "0394473450" ;
   bibliographica:binNumber 10 ;
   bibliographica:numberOfitems 1 ;
@@ -7125,9 +7125,9 @@
 .
 :Been_in_Sorrows_Kitchen
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Susan_Straight ;
+  dcterms:creator authors:Susan_Straight ;
   dcterms:title "I Been in Sorrow's Kitchen and Licked Out All the Pots" ;
-  schema:author bibliographica:Susan_Straight ;
+  schema:author authors:Susan_Straight ;
   schema:isbn "0385470126" ;
   bibliographica:binNumber 5 ;
   bibliographica:numberOfitems 1 ;
@@ -7136,9 +7136,9 @@
 .
 :Being_nobody_going_nowhere
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Ayya_Khema ;
+  dcterms:creator authors:Ayya_Khema ;
   dcterms:title "Being Nobody, Going Nowhere" ;
-  schema:author bibliographica:Ayya_Khema ;
+  schema:author authors:Ayya_Khema ;
   schema:isbn "0861710525" ;
   bibliographica:binNumber 5 ;
   bibliographica:numberOfitems 1 ;
@@ -7147,9 +7147,9 @@
 .
 :Beneath_the_Underdog
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Nel_King ;
+  dcterms:creator authors:Nel_King ;
   dcterms:title "Beneath the underdog: his world as composed by Mingus" ;
-  schema:author bibliographica:Nel_King ;
+  schema:author authors:Nel_King ;
   schema:isbn "0679737618" ;
   bibliographica:binNumber 4 ;
   bibliographica:numberOfitems 1 ;
@@ -7158,9 +7158,9 @@
 .
 :Best_American_Science_Writing
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Tim_Folger ;
+  dcterms:creator authors:Tim_Folger ;
   dcterms:title "The best American science and nature writing, 2004" ;
-  schema:author bibliographica:Tim_Folger ;
+  schema:author authors:Tim_Folger ;
   schema:isbn "0618246983" ;
   bibliographica:binNumber 11 ;
   bibliographica:numberOfitems 1 ;
@@ -7169,9 +7169,9 @@
 .
 :Best_of_the_Beatles
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Beatles ;
+  dcterms:creator authors:Beatles ;
   dcterms:title "The Best of the Beatles : 25 greatest hits" ;
-  schema:author bibliographica:Beatles ;
+  schema:author authors:Beatles ;
   schema:isbn "0793537541" ;
   bibliographica:binNumber 2 ;
   bibliographica:numberOfitems 1 ;
@@ -7180,9 +7180,9 @@
 .
 :Bicycle_Repair_Book
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Rob_Van_der_Plas ;
+  dcterms:creator authors:Rob_Van_der_Plas ;
   dcterms:title "The bicycle repair book : the complete manual of bicycle care" ;
-  schema:author bibliographica:Rob_Van_der_Plas ;
+  schema:author authors:Rob_Van_der_Plas ;
   schema:isbn "0933201117" ;
   bibliographica:binNumber 10 ;
   bibliographica:numberOfitems 1 ;
@@ -7191,17 +7191,17 @@
 .
 :Big_Stone_Gap
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Adriana_Trigiani ;
+  dcterms:creator authors:Adriana_Trigiani ;
   dcterms:title "Big Stone Gap : a novel" ;
-  schema:author bibliographica:Adriana_Trigiani ;
+  schema:author authors:Adriana_Trigiani ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/42072234.ttl"^^xsd:anyURI ;
   rdfs:label "Big Stone Gap : a novel" ;
 .
 :Bite_Me
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Christopher_Moore ;
+  dcterms:creator authors:Christopher_Moore ;
   dcterms:title "Bite Me" ;
-  schema:author bibliographica:Christopher_Moore ;
+  schema:author authors:Christopher_Moore ;
   schema:isbn "9780061779732" ;
   bibliographica:binNumber 5 ;
   bibliographica:numberOfitems 1 ;
@@ -7210,9 +7210,9 @@
 .
 :Bitter_Grounds
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Sandra_Benitez ;
+  dcterms:creator authors:Sandra_Benitez ;
   dcterms:title "Bitter Grounds" ;
-  schema:author bibliographica:Sandra_Benitez ;
+  schema:author authors:Sandra_Benitez ;
   schema:isbn "0312195419" ;
   bibliographica:binNumber 3 ;
   bibliographica:numberOfitems 1 ;
@@ -7221,11 +7221,11 @@
 .
 :Black_Elk_Speaks
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Black_Elk ;
-  dcterms:creator bibliographica:John_Neihardt ;
+  dcterms:creator authors:Black_Elk ;
+  dcterms:creator authors:John_Neihardt ;
   dcterms:title "Black Elk Speaks" ;
-  schema:author bibliographica:Black_Elk ;
-  schema:author bibliographica:John_Neihardt ;
+  schema:author authors:Black_Elk ;
+  schema:author authors:John_Neihardt ;
   schema:isbn "0743506391" ;
   bibliographica:binNumber 1 ;
   bibliographica:numberOfitems 1 ;
@@ -7234,17 +7234,17 @@
 .
 :Blackwater
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Kerstin_Ekman ;
+  dcterms:creator authors:Kerstin_Ekman ;
   dcterms:title "Blackwater" ;
-  schema:author bibliographica:Kerstin_Ekman ;
+  schema:author authors:Kerstin_Ekman ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/32665465.ttl"^^xsd:anyURI ;
   rdfs:label "Blackwater" ;
 .
 :Blue_Gold
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Clive_Cussler ;
+  dcterms:creator authors:Clive_Cussler ;
   dcterms:title "Blue Gold" ;
-  schema:author bibliographica:Clive_Cussler ;
+  schema:author authors:Clive_Cussler ;
   schema:isbn "0743506391" ;
   bibliographica:binNumber 1 ;
   bibliographica:numberOfitems 1 ;
@@ -7253,9 +7253,9 @@
 .
 :Blueprint_for_Disaster
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Darby_Conley ;
+  dcterms:creator authors:Darby_Conley ;
   dcterms:title "Get Fuzzy : Blueprint for Disaster" ;
-  schema:author bibliographica:Darby_Conley ;
+  schema:author authors:Darby_Conley ;
   schema:isbn "0740738089" ;
   bibliographica:binNumber 8 ;
   bibliographica:numberOfitems 1 ;
@@ -7264,9 +7264,9 @@
 .
 :Blues_Fakebook
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Woody_Mann ;
+  dcterms:creator authors:Woody_Mann ;
   dcterms:title "The Blues Fakebook" ;
-  schema:author bibliographica:Woody_Mann ;
+  schema:author authors:Woody_Mann ;
   schema:isbn "0825614171" ;
   bibliographica:binNumber 2 ;
   bibliographica:numberOfitems 1 ;
@@ -7275,9 +7275,9 @@
 .
 :Bluesman
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Andre_Dubus ;
+  dcterms:creator authors:Andre_Dubus ;
   dcterms:title "Bluesman" ;
-  schema:author bibliographica:Andre_Dubus ;
+  schema:author authors:Andre_Dubus ;
   schema:isbn "0571198414" ;
   bibliographica:binNumber 5 ;
   bibliographica:numberOfitems 1 ;
@@ -7286,9 +7286,9 @@
 .
 :Bone_carving
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Stephen_Myhre ;
+  dcterms:creator authors:Stephen_Myhre ;
   dcterms:title "Bone carving : a skillbase of techniques and concepts" ;
-  schema:author bibliographica:Stephen_Myhre ;
+  schema:author authors:Stephen_Myhre ;
   schema:isbn "0790000393" ;
   bibliographica:binNumber 7 ;
   bibliographica:numberOfitems 1 ;
@@ -7297,9 +7297,9 @@
 .
 :Bone_in_the_Throat
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Anthony_Bourdain ;
+  dcterms:creator authors:Anthony_Bourdain ;
   dcterms:title "Bone in the Throat" ;
-  schema:author bibliographica:Anthony_Bourdain ;
+  schema:author authors:Anthony_Bourdain ;
   schema:isbn "1582341028" ;
   bibliographica:binNumber 6 ;
   bibliographica:numberOfitems 1 ;
@@ -7308,9 +7308,9 @@
 .
 :Book_of_Dreams
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Jack_Kerouac ;
+  dcterms:creator authors:Jack_Kerouac ;
   dcterms:title "Book of Dreams" ;
-  schema:author bibliographica:Jack_Kerouac ;
+  schema:author authors:Jack_Kerouac ;
   schema:isbn "0872860272" ;
   bibliographica:binNumber 5 ;
   bibliographica:numberOfitems 1 ;
@@ -7319,9 +7319,9 @@
 .
 :Book_of_Hopi
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Frank_Waters ;
+  dcterms:creator authors:Frank_Waters ;
   dcterms:title "The Book of the Hopi" ;
-  schema:author bibliographica:Frank_Waters ;
+  schema:author authors:Frank_Waters ;
   schema:isbn "0140045279" ;
   bibliographica:binNumber 10 ;
   bibliographica:numberOfitems 1 ;
@@ -7330,9 +7330,9 @@
 .
 :Book_of_Macrobiotics
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Michio_Kushi ;
+  dcterms:creator authors:Michio_Kushi ;
   dcterms:title "The Book of Macrobiotics" ;
-  schema:author bibliographica:Michio_Kushi ;
+  schema:author authors:Michio_Kushi ;
   schema:isbn "0870403818" ;
   bibliographica:binNumber 10 ;
   bibliographica:numberOfitems 1 ;
@@ -7341,9 +7341,9 @@
 .
 :Book_of_Tea
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Okakura_Kakuzo ;
+  dcterms:creator authors:Okakura_Kakuzo ;
   dcterms:title "The Book of Tea" ;
-  schema:author bibliographica:Okakura_Kakuzo ;
+  schema:author authors:Okakura_Kakuzo ;
   schema:isbn "1040121798" ;
   bibliographica:binNumber 9 ;
   bibliographica:numberOfitems 1 ;
@@ -7352,9 +7352,9 @@
 .
 :Book_of_blues_guitar_licks
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Austin_Sicard ;
+  dcterms:creator authors:Austin_Sicard ;
   dcterms:title "Mel Bay's Complete Book of Blues Guitar Licks & Phrases" ;
-  schema:author bibliographica:Austin_Sicard ;
+  schema:author authors:Austin_Sicard ;
   schema:isbn "1562222880" ;
   bibliographica:binNumber 2 ;
   bibliographica:numberOfitems 1 ;
@@ -7363,17 +7363,17 @@
 .
 :Borderliners
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Peter_Hoeg ;
+  dcterms:creator authors:Peter_Hoeg ;
   dcterms:title "Borderliners" ;
-  schema:author bibliographica:Peter_Hoeg ;
+  schema:author authors:Peter_Hoeg ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/30437554.ttl"^^xsd:anyURI ;
   rdfs:label "Borderliners" ;
 .
 :Botany
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Jean_Zallinger ;
+  dcterms:creator authors:Jean_Zallinger ;
   dcterms:title "Botany" ;
-  schema:author bibliographica:Jean_Zallinger ;
+  schema:author authors:Jean_Zallinger ;
   bibliographica:binNumber 4 ;
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1030409675.ttl"^^xsd:anyURI ;
@@ -7381,9 +7381,9 @@
 .
 :Boy_Meets_Girl
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Meg_Cabot ;
+  dcterms:creator authors:Meg_Cabot ;
   dcterms:title "Boy Meets Girl" ;
-  schema:author bibliographica:Meg_Cabot ;
+  schema:author authors:Meg_Cabot ;
   schema:isbn "0060096195" ;
   bibliographica:binNumber 5 ;
   bibliographica:numberOfitems 1 ;
@@ -7392,9 +7392,9 @@
 .
 :Brave_New_World
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Aldous_Huxley ;
+  dcterms:creator authors:Aldous_Huxley ;
   dcterms:title "Brave New World" ;
-  schema:author bibliographica:Aldous_Huxley ;
+  schema:author authors:Aldous_Huxley ;
   schema:isbn "0060830956" ;
   bibliographica:binNumber 10 ;
   bibliographica:numberOfitems 1 ;
@@ -7403,9 +7403,9 @@
 .
 :Break_In
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Dick_Francis ;
+  dcterms:creator authors:Dick_Francis ;
   dcterms:title "Break In" ;
-  schema:author bibliographica:Dick_Francis ;
+  schema:author authors:Dick_Francis ;
   schema:isbn "0449207552" ;
   bibliographica:binNumber 7 ;
   bibliographica:numberOfitems 1 ;
@@ -7414,9 +7414,9 @@
 .
 :Breath_Eyes_Memory
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Edwidge_Danticat ;
+  dcterms:creator authors:Edwidge_Danticat ;
   dcterms:title "Breath, Eyes, Memory" ;
-  schema:author bibliographica:Edwidge_Danticat ;
+  schema:author authors:Edwidge_Danticat ;
   schema:isbn "0679756612" ;
   bibliographica:binNumber 5 ;
   bibliographica:numberOfitems 1 ;
@@ -7425,9 +7425,9 @@
 .
 :Breathing_Lessons
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Anne_Tyler ;
+  dcterms:creator authors:Anne_Tyler ;
   dcterms:title "Breathing Lessons" ;
-  schema:author bibliographica:Anne_Tyler ;
+  schema:author authors:Anne_Tyler ;
   schema:isbn "042516313X" ;
   bibliographica:binNumber 11 ;
   bibliographica:numberOfitems 1 ;
@@ -7436,9 +7436,9 @@
 .
 :Brimhall_Jazz_Standards
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:John_Brimhall ;
+  dcterms:creator authors:John_Brimhall ;
   dcterms:title "The Best of the Best of Brimhall Jazz Standards" ;
-  schema:author bibliographica:John_Brimhall ;
+  schema:author authors:John_Brimhall ;
   schema:isbn "0769216722" ;
   bibliographica:binNumber 2 ;
   bibliographica:numberOfitems 1 ;
@@ -7447,17 +7447,17 @@
 .
 :Budding_Prospects
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:T_Coraghessan_Boyle ;
+  dcterms:creator authors:T_Coraghessan_Boyle ;
   dcterms:title "Budding Prospects" ;
-  schema:author bibliographica:T_Coraghessan_Boyle ;
+  schema:author authors:T_Coraghessan_Boyle ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/10146303.ttl"^^xsd:anyURI ;
   rdfs:label "Budding Prospects" ;
 .
 :Burning_Ground
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Pearl_Luke ;
+  dcterms:creator authors:Pearl_Luke ;
   dcterms:title "Burning Ground" ;
-  schema:author bibliographica:Pearl_Luke ;
+  schema:author authors:Pearl_Luke ;
   schema:isbn "0452282675" ;
   bibliographica:binNumber 3 ;
   bibliographica:numberOfitems 1 ;
@@ -7466,17 +7466,17 @@
 .
 :Burnt_House_to_Paw_Paw
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:Merrill_Gilfillan ;
+  dcterms:creator authors:Merrill_Gilfillan ;
   dcterms:title "Burnt House to Paw Paw" ;
-  schema:author bibliographica:Merrill_Gilfillan ;
+  schema:author authors:Merrill_Gilfillan ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/35911879.ttl"^^xsd:anyURI ;
   rdfs:label "Burnt House to Paw Paw" ;
 .
 :Butterfly_Stories
   rdf:type schema:Book ;
-  dcterms:creator bibliographica:William_Vollmann ;
+  dcterms:creator authors:William_Vollmann ;
   dcterms:title "Butterfly Stories" ;
-  schema:author bibliographica:William_Vollmann ;
+  schema:author authors:William_Vollmann ;
   schema:isbn "0802134009" ;
   bibliographica:binNumber 6 ;
   bibliographica:numberOfitems 1 ;

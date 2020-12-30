@@ -1377,7 +1377,7 @@
   rdfs:label "Oysterband" ;
 .
 :Patrick_Street
-  rdf:type mo:SoloMusicArtist ;
+  rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassMP ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Patrick_Street.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/622b1e36-4d4e-4744-80b3-056d4484a1ae"^^xsd:anyURI ;
@@ -1391,80 +1391,207 @@
   rdfs:label "The Paul Butterfield Blues Band" ;
 .
 :Peace_Orchestra
-  rdf:type mo:SoloMusicArtist ;
+  rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassMP ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Peace_Orchestra.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/334cd452-8833-4da4-8f14-90136cb0492f"^^xsd:anyURI ;
   rdfs:label "Peace Orchestra" ;
 .
 :Pentangle
-  rdf:type mo:SoloMusicArtist ;
+  rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassMP ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Pentangle_(band).ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/a4e31e59-e662-4cf4-bd4f-d7bf712bc21f"^^xsd:anyURI ;
   rdfs:label "Pentangle" ;
 .
 :Phish
-  rdf:type mo:SoloMusicArtist ;
+  rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassMP ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Phish.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/e01646f2-2a04-450d-8bf2-0d993082e058"^^xsd:anyURI ;
   rdfs:label "Phish" ;
 .
 :Pink_Floyd
-  rdf:type mo:SoloMusicArtist ;
+  rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassMP ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Pink_Floyd.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/83d91898-7763-47d7-b03b-b92132375c47"^^xsd:anyURI ;
   rdfs:label "Pink Floyd" ;
 .
 :Pink_Martini
-  rdf:type mo:SoloMusicArtist ;
+  rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassMP ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Pink_Martini.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/113e0972-077f-423b-9b5f-3cc8a5bafa0f"^^xsd:anyURI ;
   rdfs:label "Pink Martini" ;
 .
 :Po_Girl
-  rdf:type mo:SoloMusicArtist ;
+  rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassMP ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Po'_Girl.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/74c94b37-d05b-4d7e-910b-2afbffef342f"^^xsd:anyURI ;
   rdfs:label "Po' Girl" ;
 .
 :Pogues
-  rdf:type mo:SoloMusicArtist ;
+  rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassMP ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/The_Pogues.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/d41a6875-b626-4c0f-89a1-aecb643d29ff"^^xsd:anyURI ;
   rdfs:label "The Pogues" ;
 .
 :Poi_Dog_Pondering
-  rdf:type mo:SoloMusicArtist ;
+  rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassMP ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Poi_Dog_Pondering.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/b0b95c2e-a361-4a36-bd77-9dfb6ce41014"^^xsd:anyURI ;
   rdfs:label "The Pogues" ;
 .
 :Police
-  rdf:type mo:SoloMusicArtist ;
+  rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassMP ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/The_Police.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/9e0e2b01-41db-4008-bd8b-988977d6019a"^^xsd:anyURI ;
   rdfs:label "The Police" ;
 .
 :Psychefunkapus
-  rdf:type mo:SoloMusicArtist ;
+  rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassMP ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Psychefunkapus.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/b8edbfe9-9ab0-400f-b544-81ba7d57d2f1"^^xsd:anyURI ;
   rdfs:label "Psychefunkapus" ;
+.
+:Quadrophonnes
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassQT ;
+  rdfs:label "Quadrophonnes" ;
+.
+:Radiators
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/The_Radiators_(American_band).ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/4bd3fb40-1c6f-4056-a0ee-8427685586fc"^^xsd:anyURI ;
+  rdfs:label "The Radiators" ;
+.
+:Radiohead
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Radiohead.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/a74b1b7f-71a5-4011-9441-d0b5e4122711"^^xsd:anyURI ;
+  rdfs:label "Radiohead" ;
+.
+:Ramones
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Ramones.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/d6ed7887-a401-47a8-893c-34b967444d26"^^xsd:anyURI ;
+  rdfs:label "Ramones" ;
+.
+:Rara_Machine
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/e3ef17ef-2b6c-459a-bfb9-e482d4a4798e"^^xsd:anyURI ;
+  rdfs:label "Rara Machine" ;
 .
 :Ravi_Harris_Prophets
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassEH ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/baabbfb9-43cd-4507-bbdb-5345606d0156"^^xsd:anyURI ;
   rdfs:label "Ravi Harris & The Prophets" ;
+.
+:Red_Knuckles
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassQT ;
+  owl:sameAs :Hot_Rize
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Hot_Rize.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/97240950-0968-4d30-8358-8d233be84d5d"^^xsd:anyURI ;
+  rdfs:label "Red Knuckles and the Trailblazers" ;
+  rdfs:comment "Pseudonym/side project for the group Hot Rize." ;
+.
+:Renaissance
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Renaissance_(band).ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/874aec28-dfa7-4a73-a3fa-8212f769754d"^^xsd:anyURI ;
+  rdfs:label "Renaissance" ;
+.
+:Rising_Sons
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Rising_Sons.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/e9005740-188b-4f57-bb02-a5cdafeb6a6f"^^xsd:anyURI ;
+  rdfs:label "Rising Sons" ;
+.
+:Roches
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/The_Roches.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/4ee9f5ed-5f20-41a7-b467-72c79549a67d"^^xsd:anyURI ;
+  rdfs:label "The Roches" ;
+.
+:Rockpile
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Rockpile.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/e0bcd6af-e702-4e3c-964d-355801ce2c65"^^xsd:anyURI ;
+  rdfs:label "Rockpile" ;
+.
+:Rodrigo_y_Gabriela
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Rodrigo_y_Gabriela.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/a8ed28e3-5c08-4448-b889-867483e251f5"^^xsd:anyURI ;
+  rdfs:label "Rodrigo y Gabriela" ;
+.
+:Rolling_Stones
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/The_Rolling_Stones.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/b071f9fa-14b0-4217-8e97-eb41da73f598"^^xsd:anyURI ;
+  rdfs:label "The Rolling Stones" ;
+.
+:Rusted_Root
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Rusted_Root.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/eec37ec3-79f5-4158-bed8-370ccb4aa295"^^xsd:anyURI ;
+  rdfs:label "Rusted Root" ;
+.
+:Sacrificial_Lamb
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassQT ;
+  rdfs:label "Sacrificial Lamb" ;
+.
+:Salamander_Crossing
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Salamander_Crossing.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/637a3c83-9b1c-44a1-b0af-85c2125d680f"^^xsd:anyURI ;
+  rdfs:label "Salamander Crossing" ;
+.
+:Santana
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Santana_(band).ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/9a3bf45c-347d-4630-894d-7cf3e8e0b632"^^xsd:anyURI ;
+  rdfs:label "Santana" ;
+.
+:Second_Hand_Smokers
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassQT ;
+  rdfs:label "Second Hand Smokers" ;
+.
+:Seldom_Scene
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/The_Seldom_Scene.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/62014a59-8f3f-4f8a-80ed-5c2b794bde0d"^^xsd:anyURI ;
+  rdfs:label "The Seldom Scene" ;
+.
+:Serah
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/e2c79dde-12eb-4588-bc15-09706ba09d44"^^xsd:anyURI ;
+  rdfs:label "Serah" ;
 .
 :Seven_Year_Bitch
   rdf:type mo:MusicGroup ;
@@ -1473,6 +1600,127 @@
   bibliographica:dbpediaURI "http://dbpedia.org/data/7_Year_Bitch.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/91d06612-5c1e-4278-b40b-b6ce22dc9bb4"^^xsd:anyURI ;
   rdfs:label "7 Year Bitch" ;
+.
+:Sex_Pistols
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Sex_Pistols.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/e5db18cb-4b1f-496d-a308-548b611090d3"^^xsd:anyURI ;
+  rdfs:label "Sex Pistols" ;
+.
+:Shakespears_Sister
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Shakespears_Sister.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/4f20b3e2-adda-4063-a43b-2432ddf9ba8d"^^xsd:anyURI ;
+  rdfs:label "Shakespears Sister" ;
+.
+:Shakti
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Shakti_(band).ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/1eb30e7e-e374-4de7-8d13-ae5855ae6df8"^^xsd:anyURI ;
+  rdfs:label "Shakti" ;
+.
+:Signals
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassQT ;
+  rdfs:label "Signals" ;
+.
+:Silly_Sisters
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Silly_Sisters_(band).ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/ba256d10-3ef9-4393-a9b3-6ac14e4342eb"^^xsd:anyURI ;
+  rdfs:label "Silly Sisters" ;
+.
+:Simon_Garfunkel
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Simon_&_Garfunkel.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/5d02f264-e225-41ff-83f7-d9b1f0b1874a"^^xsd:anyURI ;
+  rdfs:label "Simon & Garfunkel" ;
+.
+:Sixteen_Horsepower
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/16_Horsepower.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/9a22fc7b-ad7f-4c70-9e0f-4d40cd7562cd"^^xsd:anyURI ;
+  rdfs:label "Sixteen Horsepower" ;
+.
+:Skanic
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/56cb417b-31c4-40ce-aa78-00b159c3c164"^^xsd:anyURI ;
+  rdfs:label "Skavoovie & The Epitones" ;
+.
+:Skavoovie
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Skavoovie_and_the_Epitones.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/d0176597-caee-4e66-80a9-fc054ad4698c"^^xsd:anyURI ;
+  rdfs:label "Skavoovie & The Epitones" ;
+.
+:Skin
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassQT ;
+  rdfs:label "Skin" ;
+.
+:Sixteen_Horsepower
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/16_Horsepower.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/9a22fc7b-ad7f-4c70-9e0f-4d40cd7562cd"^^xsd:anyURI ;
+  rdfs:label "Sixteen Horsepower" ;
+.
+:Sleater_Kinney
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Sleater-Kinney.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/e36e78eb-3ace-4acd-882c-16789e700ab7"^^xsd:anyURI ;
+  rdfs:label "Sleater Kinney" ;
+.
+:Sly_and_Robbie
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Sly_and_Robbie.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/6e14dc18-9313-4afa-9344-4b6c2bf80fca"^^xsd:anyURI ;
+  rdfs:label "Sly & Robbie" ;
+.
+:Sly_Family_Stone
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Sly_and_the_Family_Stone.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/b7ec4c54-1f93-4bf2-957f-7b9921ab84ea"^^xsd:anyURI ;
+  rdfs:label "Sly & the Family Stone" ;
+.
+:Soft_Machine
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Soft_Machine.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/5193ce6b-a315-4c50-ae49-54e69ffbc988"^^xsd:anyURI ;
+  rdfs:label "Soft Machine" ;
+.
+:Solas
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Solas_(group).ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/ae389557-f85b-4954-88f2-7b542db07ff8"^^xsd:anyURI ;
+  rdfs:label "Solas" ;
+.
+:Son_Volt
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Son_Volt.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/ecbd1331-95b6-4a77-b739-b4bd8ef222a7"^^xsd:anyURI ;
+  rdfs:label "Son Volt" ;
+.
+:Sonia_Dada
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Sonia_Dada.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/44f04c5e-63e1-4729-ba40-a471b7252259"^^xsd:anyURI ;
+  rdfs:label "Sonia Dada" ;
 .
 :Sun_Kil_Moon
   rdf:type mo:MusicGroup ;
