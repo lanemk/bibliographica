@@ -917,6 +917,12 @@
   rdfs:label "David Sibley" ;
   foaf:name "David Sibley" ;
 .
+:David_Smith_Ferri
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/68362669/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "David Smith-Ferri" ;
+  foaf:name "David Smith-Ferri" ;
+.
 :David_Stanley
   rdf:type schema:Person ;
   bibliographica:viafURI "http://viaf.org/viaf/95326516/rdf.xml"^^xsd:anyURI ;
@@ -1273,6 +1279,13 @@
   bibliographica:viafURI "http://viaf.org/viaf/68944804/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Gary Snyder" ;
   foaf:name "Gary Snyder" ;
+.
+:George_Crile
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/George_Crile_III.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/71728324/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "George Crile" ;
+  foaf:name "George Crile" ;
 .
 :George_Petrides
   rdf:type schema:Person ;
@@ -3366,6 +3379,13 @@
   rdfs:label "Steven Jenkins" ;
   foaf:name "Steven Jenkins" ;
 .
+:Steven_Johnson
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Steven_Johnson_(author).ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/42099221/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Steven Johnson" ;
+  foaf:name "Steven Johnson" ;
+.
 :Steven_Nightingale
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Steven_Nightingale.ttl"^^xsd:anyURI ;
@@ -3393,6 +3413,19 @@
   bibliographica:viafURI "http://viaf.org/viaf/108957653/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Stuart Woods" ;
   foaf:name "Stuart Woods" ;
+.
+:Studs_Terkel
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Studs_Terkel.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/36925056/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Studs Terkel" ;
+  foaf:name "Studs Terkel" ;
+.
+:Sue_Silverman
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/68191561/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Sue William Silverman" ;
+  foaf:name "Sue William Silverman" ;
 .
 :Sune_Engelbrektson
   rdf:type schema:Person ;
