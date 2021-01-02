@@ -1,4 +1,5 @@
 # baseURI: http://www.connaissance.io/onto/biblio/bibliographica
+# imports: http://musicontology.com/specification/
 # imports: http://purl.org/dc/terms/
 # imports: http://topbraid.org/schema/
 # imports: http://topbraid.org/schema/schema-single-range
@@ -25,6 +26,7 @@ mo:MusicGroup
   rdf:type owl:Ontology ;
   dcterms:modified "2020-10-24"^^xsd:date ;
   rdfs:comment "Created by M Lane" ;
+  owl:imports <http://musicontology.com/specification/> ;
   owl:imports dcterms: ;
   owl:imports <http://topbraid.org/schema/> ;
   owl:imports <http://topbraid.org/schema/schema-single-range> ;
