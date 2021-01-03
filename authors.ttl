@@ -56,6 +56,11 @@
   rdfs:label "American Medical Association" ;
   foaf:name "American Medical Association" ;
 .
+:APA_Press
+  rdf:type schema:Organization ;
+  rdfs:label "APA Press" ;
+  foaf:name "APA Press" ;
+.
 :AS_Byatt
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/A._S._Byatt.ttl"^^xsd:anyURI ;
@@ -205,6 +210,13 @@
   bibliographica:viafURI "http://viaf.org/viaf/28328862/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Andrea Dodi" ;
   foaf:name "Andrea Dodi" ;
+.
+:Andrew_Boyd
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Andrew_Boyd_(author).ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/42916451/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Andrew Boyd" ;
+  foaf:name "Andrew Boyd" ;
 .
 :Angelo_Pellegrini
   rdf:type schema:Person ;
@@ -688,6 +700,13 @@
   rdfs:label "Chinua Achebe" ;
   foaf:name "Chinua Achebe" ;
 .
+:Chogyam_Trungpa
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Ch%C3%B6gyam_Trungpa.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/95161934/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Chögyam Trungpa" ;
+  foaf:name "Chögyam Trungpa" ;
+.
 :Chris_Bohjalian
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Chris_Bohjalian.ttl"^^xsd:anyURI ;
@@ -888,6 +907,12 @@
   bibliographica:viafURI "http://viaf.org/viaf/84055110/rdf.xml"^^xsd:anyURI ;
   rdfs:label "David Guterson" ;
   foaf:name "David Guterson" ;
+.
+:David_Hoffmann
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/85687253/rdf.xml"^^xsd:anyURI ;F:A
+  rdfs:label "David Hoffmann" ;
+  foaf:name "David Hoffmann" ;
 .
 :David_James_Duncan
   rdf:type schema:Person ;
@@ -1914,6 +1939,12 @@
   rdfs:label "John Watkinson" ;
   foaf:name "John Watkinson" ;
 .
+:John_Wiessinger
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/40901161/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "John Wiessinger" ;
+  foaf:name "John Wiessinger" ;
+.
 :Jon_Hassler
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Jon_Hassler.ttl"^^xsd:anyURI ;
@@ -2152,6 +2183,13 @@
   bibliographica:viafURI "http://viaf.org/viaf/37335012/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Krystyna Pomorska" ;
   foaf:name "Krystyna Pomorska" ;
+.
+:Kurt_Vonnegut
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Kurt_Vonnegut.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/71398958/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Kurt Vonnegut" ;
+  foaf:name "Kurt Vonnegut" ;
 .
 :Kwadwo_Agymah_Kamau
   rdf:type schema:Person ;
@@ -3096,6 +3134,13 @@
   bibliographica:viafURI "http://viaf.org/viaf/28683531/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Robert Kay" ;
   foaf:name "Robert F. Kay" ;
+.
+:Robert_Linssen
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Robert_Linssen.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/13998/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Robert Linssen" ;
+  foaf:name "Robert Linssen" ;
 .
 :Robert_Ludlum
   rdf:type schema:Person ;

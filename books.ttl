@@ -337,6 +337,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1148843196.ttl"^^xsd:anyURI ;
   rdfs:label "Another Roadside Attraction" ;
 .
+:Another_Roadside_Attraction_2
+  rdf:type schema:Book ;
+  dcterms:creator authors:Tom_Robbins ;
+  dcterms:title "Another Roadside Attraction" ;
+  schema:author authors:Tom_Robbins ;
+  schema:isbn "0345292456" ;
+  bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1148843196.ttl"^^xsd:anyURI ;
+  rdfs:label "Another Roadside Attraction" ;
+.
 :Antarctic_navigation_a_novel
   rdf:type schema:Book ;
   dcterms:creator authors:Elizabeth_Arthur ;
@@ -1119,6 +1130,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/873134307.ttl"^^xsd:anyURI ;
   rdfs:label "Cat Chaser" ;
 .
+:Cats_Cradle
+  rdf:type schema:Book ;
+  dcterms:creator authors:Kurt_Vonnegut ;
+  dcterms:title "Cat's Cradle" ;
+  schema:author authors:Kurt_Vonnegut ;
+  schema:isbn "0440111498" ;
+  bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/19000012.ttl"^^xsd:anyURI ;
+  rdfs:label "Cat's Cradle" ;
+.
 :Catcher_in_the_Rye
   rdf:type schema:Book ;
   dcterms:creator authors:JD_Salinger ;
@@ -1553,6 +1575,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/12836017.ttl"^^xsd:anyURI ;
   rdfs:label "Cyclops" ;
 .
+:Daily_Afflictions
+  rdf:type schema:Book ;
+  dcterms:creator authors:Andrew_Boyd ;
+  dcterms:title "Daily afflictions : the agony of being connected to everything in the universe" ;
+  schema:author authors:Andrew_Boyd ;
+  schema:isbn "0393322815" ;
+  bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/46685676.ttl"^^xsd:anyURI ;
+  rdfs:label "Daily Afflictions" ;
+.
 :Daily_Exercises_Minor_Modes
   rdf:type schema:Book ;
   dcterms:creator authors:Barry_Galbraith ;
@@ -1601,6 +1634,17 @@
   schema:author authors:Stuart_Woods ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/42415284.ttl"^^xsd:anyURI ;
   rdfs:label "Dead in the Water" ;
+.
+:Deadeye_Dick
+  rdf:type schema:Book ;
+  dcterms:creator authors:Kurt_Vonnegut ;
+  dcterms:title "Deadeye Dick : [a novel]" ;
+  schema:author authors:Kurt_Vonnegut ;
+  schema:isbn "0440117658" ;
+  bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/314044679.ttl"^^xsd:anyURI ;
+  rdfs:label "Deadeye Dick" ;
 .
 :Deadhead_Forever
   rdf:type schema:Book ;
@@ -2250,6 +2294,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/39118958.ttl"^^xsd:anyURI ;
   rdfs:label "The Flounder" ;
 .
+:Flowers_Ferns_Fungi
+  rdf:type schema:Book ;
+  dcterms:creator authors:John_Wiessinger ;
+  dcterms:title "Flowers, ferns, and fungi-right before your eyes" ;
+  schema:author authors:John_Wiessinger ;
+  schema:isbn "0894902679" ;
+  bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/19514853.ttl"^^xsd:anyURI ;
+  rdfs:label "Flowers, Ferns, and Fungi" ;
+.
 :Forgetting_Room
   rdf:type schema:Book ;
   dcterms:creator authors:Nick_Bantock ;
@@ -2326,6 +2381,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/973542925.ttl"^^xsd:anyURI ;
   rdfs:label "Full Woman, Fleshy Apple, Hot Moon" ;
 .
+:Galapagos
+  rdf:type schema:Book ;
+  dcterms:creator authors:Kurt_Vonnegut ;
+  dcterms:title "Galápagos : a novel" ;
+  schema:author authors:Kurt_Vonnegut ;
+  schema:isbn "0440127793" ;
+  bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/441835988.ttl"^^xsd:anyURI ;
+  rdfs:label "Galápagos" ;
+.
 :Galleys_of_Nantucket
   rdf:type schema:Book ;
   dcterms:creator authors:Ladies_Union_Circle ;
@@ -2377,6 +2443,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1033660650.ttl"^^xsd:anyURI ;
   rdfs:label "Get Outta Town : a Tale of the Grateful Dead, the IRS, and Coffee" ;
+.
+:God_Bless_You_Mr_Rosewater
+  rdf:type schema:Book ;
+  dcterms:creator authors:Kurt_Vonnegut ;
+  dcterms:title "God bless you, Mr. Rosewater" ;
+  schema:author authors:Kurt_Vonnegut ;
+  schema:isbn "044012929X" ;
+  bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/850813719.ttl"^^xsd:anyURI ;
+  rdfs:label "God bless you, Mr. Rosewater" ;
 .
 :God_Delusion
   rdf:type schema:Book ;
@@ -2701,6 +2778,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/377083.ttl"^^xsd:anyURI ;
   rdfs:label "Hell's Angels : a strange and terrible saga" ;
 .
+:Hells_Angels_2
+  rdf:type schema:Book ;
+  dcterms:creator authors:Hunter_S_Thompson ;
+  dcterms:title "Hell's Angels : a strange and terrible saga" ;
+  schema:author authors:Hunter_S_Thompson ;
+  schema:isbn "0345292383" ;
+  bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/377083.ttl"^^xsd:anyURI ;
+  rdfs:label "Hell's Angels : a strange and terrible saga" ;
+.
 :Hemingways_Chair
   rdf:type schema:Book ;
   dcterms:creator authors:Michael_Palin ;
@@ -2741,6 +2829,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/717193103.ttl"^^xsd:anyURI ;
   rdfs:label "The Herb Book" ;
+.
+:Herbal_Handbook
+  rdf:type schema:Book ;
+  dcterms:creator authors:David_Hoffmann ;
+  dcterms:title "The herbal handbook : a user's guide to medical herbalism" ;
+  schema:author authors:David_Hoffmann ;
+  schema:isbn "0892812753" ;
+  bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/245935628.ttl"^^xsd:anyURI ;
+  rdfs:label "The Herbal Handbook" ;
 .
 :Higher_Creativity
   rdf:type schema:Book ;
@@ -3238,6 +3337,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/59002778.ttl"^^xsd:anyURI ;
   rdfs:label "Joni Mitchell" ;
 .
+:Journey_to_Ixtlan
+  rdf:type schema:Book ;
+  dcterms:creator authors:Carlos_Castaneda ;
+  dcterms:title "Journey to Ixtlan the lessons of Don Juan" ;
+  schema:author authors:Carlos_Castaneda ;
+  schema:isbn "0671827685" ;
+  bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1075682359.ttl"^^xsd:anyURI ;
+  rdfs:label "Journey to Ixtlan" ;
+.
 :Joy_of_Cooking
   rdf:type schema:Book ;
   dcterms:creator authors:Irma_Rombauer ;
@@ -3458,6 +3568,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1004997897.ttl"^^xsd:anyURI ;
   rdfs:label "Living on the Earth" ;
+.
+:Living_Zen
+  rdf:type schema:Book ;
+  dcterms:creator authors:Robert_Linssen ;
+  dcterms:title "Living Zen" ;
+  schema:author authors:Robert_Linssen ;
+  schema:isbn "0802131360" ;
+  bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/21261631.ttl"^^xsd:anyURI ;
+  rdfs:label "Living Zen" ;
 .
 :Looking_for_a_Ship
   rdf:type schema:Book ;
@@ -3702,6 +3823,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/908211929.ttl"^^xsd:anyURI ;
   rdfs:label "Modoc" ;
+.
+:Monkey_Wrench_Gang
+  rdf:type schema:Book ;
+  dcterms:creator authors:Edward_Abbey ;
+  dcterms:title "The Monkey Wrench Gang" ;
+  schema:author authors:Edward_Abbey ;
+  schema:isbn "038000741X" ;
+  bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/895549785.ttl"^^xsd:anyURI ;
+  rdfs:label "The Monkey Wrench Gang" ;
 .
 :Monoosook_Valley
   rdf:type schema:Book ;
@@ -4199,6 +4331,15 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1039070350.ttl"^^xsd:anyURI ;
   rdfs:label "PSI what is it?" ;
+.
+:Pacific_Northwest
+  rdf:type schema:Book ;
+  dcterms:creator authors:APA_PRess ;
+  dcterms:title "The Pacific Northwest" ;
+  schema:author authors:APA_PRess ;
+  bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 1 ;
+  rdfs:label "The Pacific Northwest" ;
 .
 :Pagan_Babies
   rdf:type schema:Book ;
@@ -5000,6 +5141,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/34026629.ttl"^^xsd:anyURI ;
   rdfs:label "Shadow Ranch : a novel" ;
 .
+:Shambhala
+  rdf:type schema:Book ;
+  dcterms:creator authors:Chogyam_Trungpa ;
+  dcterms:title "Shambhala : the sacred path of the warrior" ;
+  schema:author authors:Chogyam_Trungpa ;
+  schema:isbn "055326172X" ;
+  bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/636492791.ttl"^^xsd:anyURI ;
+  rdfs:label "Shambhala" ;
+.
 :Shark_dialogues
   rdf:type schema:Book ;
   dcterms:creator authors:Kiana_Davenport ;
@@ -5023,6 +5175,17 @@
   schema:author authors:David_Sibley ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/52077800.ttl"^^xsd:anyURI ;
   rdfs:label "Sibley field Guide to Birds of Western North America" ;
+.
+:Siddhartha
+  rdf:type schema:Book ;
+  dcterms:creator authors:Hermann_Hesse ;
+  dcterms:title "Siddhartha" ;
+  schema:author authors:Hermann_Hesse ;
+  schema:isbn "1529024048" ;
+  bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1126002453.ttl"^^xsd:anyURI ;
+  rdfs:label "Siddhartha" ;
 .
 :Sideways
   rdf:type schema:Book ;
@@ -5148,6 +5311,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/965568651.ttl"^^xsd:anyURI ;
   rdfs:label "Skinny Dip" ;
+.
+:Slaughterhouse_Five
+  rdf:type schema:Book ;
+  dcterms:creator authors:Kurt_Vonnegut ;
+  dcterms:title "Slaughterhouse-five, or, The children's crusade : a duty dance with death" ;
+  schema:author authors:Kurt_Vonnegut ;
+  schema:isbn "0440180295" ;
+  bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/232125225.ttl"^^xsd:anyURI ;
+  rdfs:label "Slaughterhouse Five" ;
 .
 :Snow_Falling_on_Cedars
   rdf:type schema:Book ;
@@ -5304,6 +5478,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/12235397.ttl"^^xsd:anyURI ;
   rdfs:label "Still Life" ;
+.
+:Still_Life_With_Woodpecker
+  rdf:type schema:Book ;
+  dcterms:creator authors:Tom_Robbins ;
+  dcterms:title "Still life with woodpecker : [a sort of a love story]" ;
+  schema:author authors:Tom_Robbins ;
+  schema:isbn "0553245694" ;
+  bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/630825504.ttl"^^xsd:anyURI ;
+  rdfs:label "Still Life With Woodpecker" ;
 .
 :Stone_Cowboy
   rdf:type schema:Book ;
@@ -5480,6 +5665,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/800837351.ttl"^^xsd:anyURI ;
   rdfs:label "Tales of Ordinary Madness" ;
+.
+:Tales_of_Power
+  rdf:type schema:Book ;
+  dcterms:creator authors:Carlos_Castaneda ;
+  dcterms:title "Tales of Power" ;
+  schema:author authors:Carlos_Castaneda ;
+  schema:isbn "0140041443" ;
+  bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/760555328.ttl"^^xsd:anyURI ;
+  rdfs:label "Tales of Power" ;
 .
 :Tales_of_the_Night
   rdf:type schema:Book ;
