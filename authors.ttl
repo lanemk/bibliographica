@@ -157,6 +157,13 @@
   rdfs:label "Aldous Huxley" ;
   foaf:name "Aldous Huxley" ;
 .
+:Alfredo_Vea
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Alfredo_V%C3%A9a_Jr..ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/91422052/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Alfredo Véa" ;
+  foaf:name "Alfredo Véa" ;
+.
 :Alice_Hoffman
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Alice_Hoffman.ttl"^^xsd:anyURI ;
@@ -910,7 +917,7 @@
 .
 :David_Hoffmann
   rdf:type schema:Person ;
-  bibliographica:viafURI "https://viaf.org/viaf/85687253/rdf.xml"^^xsd:anyURI ;F:A
+  bibliographica:viafURI "https://viaf.org/viaf/85687253/rdf.xml"^^xsd:anyURI ;
   rdfs:label "David Hoffmann" ;
   foaf:name "David Hoffmann" ;
 .
@@ -920,6 +927,13 @@
   bibliographica:viafURI "http://viaf.org/viaf/94759891/rdf.xml"^^xsd:anyURI ;
   rdfs:label "David James Duncan" ;
   foaf:name "David James Duncan" ;
+.
+:David_Lamb
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/David_Lamb_(journalist).ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/108184894/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "David Lamb" ;
+  foaf:name "David Lamb" ;
 .
 :David_Rains_Wallace
   rdf:type schema:Person ;
@@ -1036,6 +1050,12 @@
   rdfs:label "Dorothy Dunnett" ;
   foaf:name "Dorothy Dunnett" ;
 .
+:Douglas_Bauer
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/38187142/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Douglas Bauer" ;
+  foaf:name "Douglas Bauer" ;
+.
 :Dr_Seuss
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Dr._Seuss.ttl"^^xsd:anyURI ;
@@ -1104,6 +1124,13 @@
   bibliographica:viafURI "http://viaf.org/viaf/34752384/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Elisabeth Hyde" ;
   foaf:name "Elisabeth Hyde" ;
+.
+:Elise_Juska
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Elise_Juska.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/23974635/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Elise Juska" ;
+  foaf:name "Elise Juska" ;
 .
 :Elizabeth_Arthur
   rdf:type schema:Person ;
@@ -1369,6 +1396,13 @@
   bibliographica:viafURI "http://viaf.org/viaf/64188423/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Graeme Base" ;
   foaf:name "Graeme Base" ;
+.
+:Greg_Garrett
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Greg_Garrett_(writer).ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/209068417/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Greg Garrett" ;
+  foaf:name "Greg Garrett" ;
 .
 :Gunter_Grass
   rdf:type schema:Person ;
@@ -1656,6 +1690,12 @@
   rdfs:label "Jane Rule" ;
   foaf:name "Jane Rule" ;
 .
+:Jane_S_Smith
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/48092805/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Jane S. Smith" ;
+  foaf:name "Jane S. Smith" ;
+.
 :Jane_Urquhart
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Jane_Urquhart.ttl"^^xsd:anyURI ;
@@ -1864,12 +1904,19 @@
   rdfs:label "John Crowley" ;
   foaf:name "John Crowley" ;
 .
+:John_Dufresne
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/John_Dufresne.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/16387181/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "John Dufresne" ;
+  foaf:name "John Dufresne" ;
+.
 :John_Kennedy_Toole
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/John_Kennedy_Toole.ttl"^^xsd:anyURI ;
   bibliographica:viafURI "http://viaf.org/viaf/71398405/rdf.xml"^^xsd:anyURI ;
   rdfs:label "John Kennedy Toole" ;
-  foaf:name "Ayya Khema" ;
+  foaf:name "John Kennedy Toole" ;
 .
 :John_Klemmer
   rdf:type schema:Person ;
@@ -1905,6 +1952,13 @@
   rdfs:label "John McPhee" ;
   foaf:name "John McPhee" ;
 .
+:John_Hanson_Mitchell
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/John_Hanson_Mitchell.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/113703086/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "John Hanson Mitchell" ;
+  foaf:name "John Hanson Mitchell" ;
+.
 :John_Neihardt
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/John_Neihardt.ttl"^^xsd:anyURI ;
@@ -1919,6 +1973,12 @@
   rdfs:label "John Robbins" ;
   foaf:name "John Robbins" ;
 .
+:John_W_Scott
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/33145857162122920108/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "John W. Scott" ;
+  foaf:name "John W. Scott" ;
+.
 :John_Steinbeck
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/John_Steinbeck.ttl"^^xsd:anyURI ;
@@ -1932,6 +1992,19 @@
   bibliographica:viafURI "http://viaf.org/viaf/32131643/rdf.xml"^^xsd:anyURI ;
   rdfs:label "John Straley" ;
   foaf:name "John Straley" ;
+.
+:John_Thorne
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/John_Thorne_(writer).ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/280664031/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "John Thorne" ;
+  foaf:name "John Thorne" ;
+.
+:John_W_Scott
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/33145857162122920108/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "John W. Scott" ;
+  foaf:name "John W. Scott" ;
 .
 :John_Watkinson
   rdf:type schema:Person ;
@@ -2210,6 +2283,13 @@
   rdfs:label "Larry Brown" ;
   foaf:name "Larry Brown" ;
 .
+:Laura_Pedersen
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Laura_Pedersen.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/60711476/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Laura Pedersen" ;
+  foaf:name "Laura Pedersen" ;
+.
 :Laurel_Robertson
   rdf:type schema:Person ;
   bibliographica:viafURI "http://viaf.org/viaf/92470035/rdf.xml"^^xsd:anyURI ;
@@ -2228,6 +2308,13 @@
   bibliographica:viafURI "http://viaf.org/viaf/111665261/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Lawrence Lee" ;
   foaf:name "Lawrence Lee" ;
+.
+:Lawrence_Norfolk
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Lawrence_Norfolk.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/113121215/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Lawrence Norfolk" ;
+  foaf:name "Lawrence Norfolk" ;
 .
 :Lee_Child
   rdf:type schema:Person ;
@@ -2282,6 +2369,12 @@
   bibliographica:viafURI "http://viaf.org/viaf/8029680/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Lindsey Davis" ;
   foaf:name "Lindsey Davis" ;
+.
+:Lisa_Bach
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/51027140/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Lisa Bach" ;
+  foaf:name "Lisa Bach" ;
 .
 :Lois-Ann_Yamanaka
   rdf:type schema:Person ;
@@ -2647,6 +2740,13 @@
   rdfs:label "Neal Cassady" ;
   foaf:name "Neal Cassady" ;
 .
+:Neal_Stephenson
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Neal_Stephenson.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/7524021/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Neal Stephenson" ;
+  foaf:name "Neal Stephenson" ;
+.
 :Nel_King
   rdf:type schema:Person ;
   bibliographica:viafURI "https://viaf.org/viaf/67761281/rdf.xml"^^xsd:anyURI ;
@@ -2740,6 +2840,13 @@
   rdfs:label "Otto Werner" ;
   foaf:name "Otto Werner" ;
 .
+:OU_Levon
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/93061705/rdf.xml"^^xsd:anyURI ;
+  owl:sameAs :Ken_Kesey ;
+  rdfs:label "O.U. Levon" ;
+  foaf:name "O.U. Levon" ;
+.
 :PD_James
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/P._D._James.ttl"^^xsd:anyURI ;
@@ -2797,6 +2904,12 @@
   bibliographica:viafURI "https://viaf.org/viaf/7267162/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Patricia Schechter" ;
   foaf:name "Patricia Schechter" ;
+.
+:Patrick_Humphries
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/52355727/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Patrick Humphries" ;
+  foaf:name "Patrick Humphries" ;
 .
 :Patrick_McManus
   rdf:type schema:Person ;
@@ -3391,6 +3504,20 @@
   rdfs:label "Sonja Maria Dahl" ;
   foaf:name "Sonja Maria Dahl" ;
 .
+:Stanley_Karnow
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Stanley_Karnow.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/47288845/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Stanley Karnow" ;
+  foaf:name "Stanley Karnow" ;
+.
+:Stephen_Coonts
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Stephen_Coonts.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/9870690/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Stephen Coonts" ;
+  foaf:name "Stephen Coonts" ;
+.
 :Stephen_Dobyns
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Stephen_Dobyns.ttl"^^xsd:anyURI ;
@@ -3761,12 +3888,26 @@
   rdfs:label "Vivienne Marquis" ;
   foaf:name "Vivienne Marquis" ;
 .
+:Voltaire
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Voltaire.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/36925746/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Voltaire" ;
+  foaf:name "Voltaire" ;
+.
 :WP_Kinsella
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/W._P._Kinsella.ttl"^^xsd:anyURI ;
   bibliographica:viafURI "http://viaf.org/viaf/957296/rdf.xml"^^xsd:anyURI ;
   rdfs:label "W. P. Kinsella" ;
   foaf:name "William P. Kinsella" ;
+.
+:Walter_Mosley
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Walter_Mosley.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/4979209/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Walter Mosley" ;
+  foaf:name "Walter Mosley" ;
 .
 :Walter_Wager
   rdf:type schema:Person ;
@@ -3872,6 +4013,12 @@
   bibliographica:viafURI "https://viaf.org/viaf/85372278/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Yann Martel" ;
   foaf:name "Yann Martel" ;
+.
+:Zoe_Bran
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/271668481/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Zoë Brân" ;
+  foaf:name "Zoë Brân" ;
 .
 :Zoe_Weil
   rdf:type schema:Person ;

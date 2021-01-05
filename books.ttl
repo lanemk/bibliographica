@@ -243,6 +243,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/25704649.ttl"^^xsd:anyURI ;
   rdfs:label "All the Pretty Horses" ;
 .
+:Almanac_for_Moderns
+  rdf:type schema:Book ;
+  dcterms:creator authors:Donald_Peattie ;
+  dcterms:title "An Almanac for Moderns" ;
+  schema:author authors:Donald_Peattie ;
+  schema:isbn "0879233141" ;
+  bibliographica:binNumber 12 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/6554226.ttl"^^xsd:anyURI ;
+  rdfs:label "An Almanac for Moderns" ;
+.
 :American_Heritage_Dictionary
   rdf:type schema:Book ;
   dcterms:creator authors:Peter_Davies ;
@@ -721,6 +732,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/27266495.ttl"^^xsd:anyURI ;
   rdfs:label "I Been in Sorrow's Kitchen and Licked Out All the Pots" ;
 .
+:Beginners_Luck
+  rdf:type schema:Book ;
+  dcterms:creator authors:Laura_Pedersen ;
+  dcterms:title "Beginner's Luck" ;
+  schema:author authors:Laura_Pedersen ;
+  schema:isbn "0345458303" ;
+  bibliographica:binNumber 12 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/51267386.ttl"^^xsd:anyURI ;
+  rdfs:label "Beginner's Luck" ;
+.
 :Being_nobody_going_nowhere
   rdf:type schema:Book ;
   dcterms:creator authors:Ayya_Khema ;
@@ -826,6 +848,17 @@
   schema:author authors:Kerstin_Ekman ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/32665465.ttl"^^xsd:anyURI ;
   rdfs:label "Blackwater" ;
+.
+:Bloodsucking_Fiends
+  rdf:type schema:Book ;
+  dcterms:creator authors:Christopher_Moore ;
+  dcterms:title "Bloodsucking fiends : a love story" ;
+  schema:author authors:Christopher_Moore ;
+  schema:isbn "0571198414" ;
+  bibliographica:binNumber 12 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/175285154.ttl"^^xsd:anyURI ;
+  rdfs:label "Bloodsucking Fiends" ;
 .
 :Blue_Gold
   rdf:type schema:Book ;
@@ -1081,6 +1114,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/441198481.ttl"^^xsd:anyURI ;
   rdfs:label "A Calculated Risk" ;
 .
+:Candide
+  rdf:type schema:Book ;
+  dcterms:creator authors:Voltaire ;
+  dcterms:title "Candide" ;
+  schema:author authors:Voltaire ;
+  schema:isbn "0486266893" ;
+  bibliographica:binNumber 12 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1178980021.ttl"^^xsd:anyURI ;
+  rdfs:label "Candide" ;
+.
 :Cannery_Row
   rdf:type schema:Book ;
   dcterms:creator authors:John_Steinbeck ;
@@ -1147,11 +1191,32 @@
   dcterms:title "The Catcher in the Rye" ;
   schema:author authors:JD_Salinger ;
   schema:isbn "031654003X" ;
-  bibliographica:binNumber 10 ;
   bibliographica:binNumber 9 ;
-  bibliographica:numberOfitems 2 ;
+  bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1153562713.ttl"^^xsd:anyURI ;
   rdfs:label "The Catcher in the Rye" ;
+.
+:Catcher_in_the_Rye_2
+  rdf:type schema:Book ;
+  dcterms:creator authors:JD_Salinger ;
+  dcterms:title "The Catcher in the Rye" ;
+  schema:author authors:JD_Salinger ;
+  schema:isbn "031654003X" ;
+  bibliographica:binNumber 10 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1153562713.ttl"^^xsd:anyURI ;
+  rdfs:label "The Catcher in the Rye" ;
+.
+:Caverns
+  rdf:type schema:Book ;
+  dcterms:creator authors:OU_Levon ;
+  dcterms:title "Caverns : a novel" ;
+  schema:author authors:OU_Levon ;
+  schema:isbn "0140122087" ;
+  bibliographica:binNumber 12 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/20131987.ttl"^^xsd:anyURI ;
+  rdfs:label "Caverns" ;
 .
 :Celtic_Way_of_Seeing
   rdf:type schema:Book ;
@@ -1534,6 +1599,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/31172683.ttl"^^xsd:anyURI ;
   rdfs:label "Crossing the Mangrove" ;
 .
+:Cryptonomicon
+  rdf:type schema:Book ;
+  dcterms:creator authors:Neal_Stephenson ;
+  dcterms:title "Cryptonomicon" ;
+  schema:author authors:Neal_Stephenson ;
+  schema:isbn "0380788624" ;
+  bibliographica:binNumber 12 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/829769762.ttl"^^xsd:anyURI ;
+  rdfs:label "Cryptonomicon" ;
+.
 :Cuba
   rdf:type schema:Book ;
   dcterms:creator authors:David_Stanley ;
@@ -1635,10 +1711,21 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/42415284.ttl"^^xsd:anyURI ;
   rdfs:label "Dead in the Water" ;
 .
+:Deadbase_X
+  rdf:type schema:Book ;
+  dcterms:creator authors:John_W_Scott ;
+  dcterms:title "DeadBase X : the complete guide to Grateful Dead song lists" ;
+  schema:author authors:John_W_Scott ;
+  schema:isbn "1877657212" ;
+  bibliographica:binNumber 12 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/39303081.ttl"^^xsd:anyURI ;
+  rdfs:label "DeadBase X" ;
+.
 :Deadeye_Dick
   rdf:type schema:Book ;
   dcterms:creator authors:Kurt_Vonnegut ;
-  dcterms:title "Deadeye Dick : [a novel]" ;
+  dcterms:title "Deadeye Dick : a novel" ;
   schema:author authors:Kurt_Vonnegut ;
   schema:isbn "0440117658" ;
   bibliographica:binNumber 11 ;
@@ -1750,6 +1837,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/54527833.ttl"^^xsd:anyURI ;
   rdfs:label "The Detox Diet" ;
+.
+:Dexterity
+  rdf:type schema:Book ;
+  dcterms:creator authors:Douglas_Bauer ;
+  dcterms:title "Dexterity : a novel" ;
+  schema:author authors:Douglas_Bauer ;
+  schema:isbn "0805043020" ;
+  bibliographica:binNumber 12 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/40180202.ttl"^^xsd:anyURI ;
+  rdfs:label "Dexterity" ;
 .
 :Dharma_Gaia
   rdf:type schema:Book ;
@@ -2003,6 +2101,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/154248.ttl"^^xsd:anyURI ;
   rdfs:label "Encounters with the Archdruid" ;
 .
+:Enduring_Cuba
+  rdf:type schema:Book ;
+  dcterms:creator authors:Zoe_Bran ;
+  dcterms:title "Enduring Cuba" ;
+  schema:author authors:Zoe_Bran ;
+  schema:isbn "1740590678" ;
+  bibliographica:binNumber 12 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/948165459.ttl"^^xsd:anyURI ;
+  rdfs:label "Enduring Cuba" ;
+.
 :Enemy_Women
   rdf:type schema:Book ;
   dcterms:creator authors:Paulette_Jiles ;
@@ -2141,7 +2250,7 @@
   schema:author authors:Hunter_S_Thompson ;
   schema:isbn "0446698229" ;
   bibliographica:binNumber 6 ;
-  bibliographica:numberOfitems 2 ;
+  bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/692291194.ttl"^^xsd:anyURI ;
   rdfs:label "Fear and loathing : on the campaign trail '72" ;
 .
@@ -2152,9 +2261,20 @@
   schema:author authors:Hunter_S_Thompson ;
   schema:isbn "0445082488" ;
   bibliographica:binNumber 9 ;
-  bibliographica:numberOfitems 2 ;
+  bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/7451719.ttl"^^xsd:anyURI ;
   rdfs:label "Fear and loathing : on the campaign trail '72" ;
+.
+:Fearless_Jones
+  rdf:type schema:Book ;
+  dcterms:creator authors:Walter_Mosley ;
+  dcterms:title "Fearless Jones : a novel" ;
+  schema:author authors:Walter_Mosley ;
+  schema:isbn "0446610127" ;
+  bibliographica:binNumber 12 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/45393179.ttl"^^xsd:anyURI ;
+  rdfs:label "Fearless Jones" ;
 .
 :Femme_dAdventure
   rdf:type schema:Book ;
@@ -2305,6 +2425,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/19514853.ttl"^^xsd:anyURI ;
   rdfs:label "Flowers, Ferns, and Fungi" ;
 .
+:Fools_Gold
+  rdf:type schema:Book ;
+  dcterms:creator authors:Jane_S_Smith ;
+  dcterms:title "Fool's gold : a novel" ;
+  schema:author authors:Jane_S_Smith ;
+  schema:isbn "1581950357" ;
+  bibliographica:binNumber 12 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/45556213.ttl"^^xsd:anyURI ;
+  rdfs:label "Fool's Gold" ;
+.
 :Forgetting_Room
   rdf:type schema:Book ;
   dcterms:creator authors:Nick_Bantock ;
@@ -2335,6 +2466,17 @@
   bibliographica:binNumber 4 ;
   bibliographica:numberOfitems 1 ;
   rdfs:label "Freak Brothers Issue 4" ;
+.
+:Free_Bird
+  rdf:type schema:Book ;
+  dcterms:creator authors:Greg_Garrett ;
+  dcterms:title "Free Bird" ;
+  schema:author authors:Greg_Garrett ;
+  schema:isbn "0758201397" ;
+  bibliographica:binNumber 12 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/49200765.ttl"^^xsd:anyURI ;
+  rdfs:label "Free Bird" ;
 .
 :French_Cheese
   rdf:type schema:Book ;
@@ -2442,7 +2584,18 @@
   bibliographica:binNumber 5 ;
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1033660650.ttl"^^xsd:anyURI ;
-  rdfs:label "Get Outta Town : a Tale of the Grateful Dead, the IRS, and Coffee" ;
+  rdfs:label "Get Outta Town" ;
+.
+:Getting_Over_Jack_Wagner
+  rdf:type schema:Book ;
+  dcterms:creator authors:Elise_Juska ;
+  dcterms:title "Getting Over Jack Wagner" ;
+  schema:author authors:Elise_Juska ;
+  schema:isbn "0743464672" ;
+  bibliographica:binNumber 12 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/61423521.ttl"^^xsd:anyURI ;
+  rdfs:label "Getting Over Jack Wagner" ;
 .
 :God_Bless_You_Mr_Rosewater
   rdf:type schema:Book ;
@@ -2465,6 +2618,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/475140358.ttl"^^xsd:anyURI ;
   rdfs:label "The God Delusion" ;
+.
+:Gods_Go_Begging
+  rdf:type schema:Book ;
+  dcterms:creator authors:Alfredo_Vea ;
+  dcterms:title "Gods Go Begging" ;
+  schema:author authors:Alfredo_Vea ;
+  schema:isbn "0452281156" ;
+  bibliographica:binNumber 12 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1102248007.ttl"^^xsd:anyURI ;
+  rdfs:label "Gods Go Begging" ;
 .
 :Going_after_Cacciato
   rdf:type schema:Book ;
@@ -2807,6 +2971,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/263635216.ttl"^^xsd:anyURI ;
   rdfs:label "Henderson, the Rain King" ;
+.
+:Her_Fork_Road
+  rdf:type schema:Book ;
+  dcterms:creator authors:Lisa_Bach ;
+  dcterms:title "Her fork in the road : women celebrate food and travel" ;
+  schema:author authors:Lisa_Bach ;
+  schema:isbn "1885211716" ;
+  bibliographica:binNumber 12 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/47667096.ttl"^^xsd:anyURI ;
+  rdfs:label "Her Fork in the Road" ;
 .
 :Her_Native_Colors
   rdf:type schema:Book ;
@@ -3426,6 +3601,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/877228297.ttl"^^xsd:anyURI ;
   rdfs:label "Knots, ties and splices" ;
 .
+:La_Place_de_la_Concorde
+  rdf:type schema:Book ;
+  dcterms:creator authors:John_McPhee ;
+  dcterms:title "La Place de la Concorde Suisse" ;
+  schema:author authors:John_McPhee ;
+  schema:isbn "0374182418" ;
+  bibliographica:binNumber 12 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/924482221.ttl"^^xsd:anyURI ;
+  rdfs:label "La Place de la Concorde Suisse" ;
+.
 :Last_Voyage_of_Somebody_Sailor
   rdf:type schema:Book ;
   dcterms:creator authors:John_Barth ;
@@ -3473,6 +3659,17 @@
   schema:author authors:Jim_Harrison ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/4549238.ttl"^^xsd:anyURI ;
   rdfs:label "Legends of the Fall" ;
+.
+:Lemprieres_Dictionary
+  rdf:type schema:Book ;
+  dcterms:creator authors:Lawrence_Norfolk ;
+  dcterms:title "Lemprière's Dictionary" ;
+  schema:author authors:Lawrence_Norfolk ;
+  schema:isbn "0517581841" ;
+  bibliographica:binNumber 12 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/29152200.ttl"^^xsd:anyURI ;
+  rdfs:label "Lemprière's Dictionary" ;
 .
 :Les_Miserables
   rdf:type schema:Book ;
@@ -3547,6 +3744,17 @@
   bibliographica:numberOfitems 1 ;
   rdfs:label "A Little Treasure of Modern Poetry" ;
 .
+:Living_at_the_End_of_Time
+  rdf:type schema:Book ;
+  dcterms:creator authors:John_Hanson_Mitchell ;
+  dcterms:title "Living at the End of Time" ;
+  schema:author authors:John_Hanson_Mitchell ;
+  schema:isbn "0395445949" ;
+  bibliographica:binNumber 12 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/20723110.ttl"^^xsd:anyURI ;
+  rdfs:label "Living at the End of Time" ;
+.
 :Living_at_the_Movies
   rdf:type schema:Book ;
   dcterms:creator authors:Jim_Carroll ;
@@ -3587,6 +3795,17 @@
   schema:author authors:John_McPhee ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/21442775.ttl"^^xsd:anyURI ;
   rdfs:label "Looking for a Ship" ;
+.
+:Louisiana_Power_Light
+  rdf:type schema:Book ;
+  dcterms:creator authors:John_Dufresne ;
+  dcterms:title "Louisiana Power & Light" ;
+  schema:author authors:John_Dufresne ;
+  schema:isbn "0452275024" ;
+  bibliographica:binNumber 12 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/890376703.ttl"^^xsd:anyURI ;
+  rdfs:label "Louisiana Power & Light" ;
 .
 :Love_n_Sleep
   rdf:type schema:Book ;
@@ -3732,6 +3951,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/52981160.ttl"^^xsd:anyURI ;
   rdfs:label "Merriam-Webster's Pocket Dictionary" ;
 .
+:Mexico_City_Blues
+  rdf:type schema:Book ;
+  dcterms:creator authors:Jack_Kerouac ;
+  dcterms:title "Mexico city blues : (242 choruses)" ;
+  schema:author authors:Jack_Kerouac ;
+  schema:isbn "0394172876" ;
+  bibliographica:binNumber 12 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/631233507.ttl"^^xsd:anyURI ;
+  rdfs:label "Mexico City Blues" ;
+.
 :Midnight_at_the_Dragon_Cafe
   rdf:type schema:Book ;
   dcterms:creator authors:Judy_Fong_Bates ;
@@ -3831,6 +4061,17 @@
   schema:author authors:Edward_Abbey ;
   schema:isbn "038000741X" ;
   bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/895549785.ttl"^^xsd:anyURI ;
+  rdfs:label "The Monkey Wrench Gang" ;
+.
+:Monkey_Wrench_Gang_2
+  rdf:type schema:Book ;
+  dcterms:creator authors:Edward_Abbey ;
+  dcterms:title "The Monkey Wrench Gang" ;
+  schema:author authors:Edward_Abbey ;
+  schema:isbn "038000741X" ;
+  bibliographica:binNumber 12 ;
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/895549785.ttl"^^xsd:anyURI ;
   rdfs:label "The Monkey Wrench Gang" ;
@@ -4087,6 +4328,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/503131711.ttl"^^xsd:anyURI ;
   rdfs:label "Non-Flowering Plants" ;
+.
+:Not_Fade_Away
+  rdf:type schema:Book ;
+  dcterms:creator authors:Jim_Dodge ;
+  dcterms:title "Not Fade Away" ;
+  schema:author authors:Jim_Dodge ;
+  schema:isbn "0802135846" ;
+  bibliographica:binNumber 12 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/319775091.ttl"^^xsd:anyURI ;
+  rdfs:label "Not Fade Away" ;
 .
 :Notes_from_a_bottle
   rdf:type schema:Book ;
@@ -4780,6 +5032,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/47731235.ttl"^^xsd:anyURI ;
   rdfs:label "Repair to Her Grave" ;
 .
+:Richard_Thompson_bio
+  rdf:type schema:Book ;
+  dcterms:creator authors:Patrick_Humphries ;
+  dcterms:title "Richard Thompson : the biography" ;
+  schema:author authors:Patrick_Humphries ;
+  schema:isbn "0028647521" ;
+  bibliographica:binNumber 12 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/36017030.ttl"^^xsd:anyURI ;
+  rdfs:label "Richard Thompson : the biography" ;
+.
 :Ringolevio
   rdf:type schema:Book ;
   dcterms:creator authors:Emmett_Grogan ;
@@ -5086,6 +5349,17 @@
   schema:author authors:Seamus_Heaney ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/22284187.ttl"^^xsd:anyURI ;
   rdfs:label "Selected poems, 1966-1987" ;
+.
+:Serious_Pig
+  rdf:type schema:Book ;
+  dcterms:creator authors:John_Thorne ;
+  dcterms:title "Serious pig : an American cook in search of his roots" ;
+  schema:author authors:John_Thorne ;
+  schema:isbn "0865475970" ;
+  bibliographica:binNumber 12 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/46925809.ttl"^^xsd:anyURI ;
+  rdfs:label "Serious Pig" ;
 .
 :Seven_Types_of_Ambiguity
   rdf:type schema:Book ;
@@ -6221,6 +6495,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/27188228.ttl"^^xsd:anyURI ;
   rdfs:label "The Infinite Plan" ;
 .
+:The_Intruders
+  rdf:type schema:Book ;
+  dcterms:creator authors:Stephen_Coonts ;
+  dcterms:title "The Intruders" ;
+  schema:author authors:Stephen_Coonts ;
+  schema:isbn "0671870602" ;
+  bibliographica:binNumber 12 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/779355780.ttl"^^xsd:anyURI ;
+  rdfs:label "The Intruders" ;
+.
 :The_Invisible_Circus
   rdf:type schema:Book ;
   dcterms:creator authors:Jennifer_Egan ;
@@ -7245,6 +7530,28 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/23383660.ttl"^^xsd:anyURI ;
   rdfs:label "Video demystified : a handbook for the digital engineer" ;
 .
+:Vietnam_History
+  rdf:type schema:Book ;
+  dcterms:creator authors:Stanley_Karnow ;
+  dcterms:title "Vietnam : a history" ;
+  schema:author authors:Stanley_Karnow ;
+  schema:isbn "0670746045" ;
+  bibliographica:binNumber 12 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1001499478.ttl"^^xsd:anyURI ;
+  rdfs:label "Vietnam : a history" ;
+.
+:Vietnam_Now
+  rdf:type schema:Book ;
+  dcterms:creator authors:David_Lamb ;
+  dcterms:title "Vietnam, now : a reporter returns" ;
+  schema:author authors:David_Lamb ;
+  schema:isbn "1586481835" ;
+  bibliographica:binNumber 12 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/52620020.ttl"^^xsd:anyURI ;
+  rdfs:label "Vietnam, Now" ;
+.
 :Villa_Incognito
   rdf:type schema:Book ;
   dcterms:creator authors:Tom_Robbins ;
@@ -7256,13 +7563,13 @@
 :Vincent_van_Gogh
   rdf:type schema:Book ;
   dcterms:creator authors:Per_Amann ;
-  dcterms:title "Vincent van Gogh " ;
+  dcterms:title "Vincent van Gogh" ;
   schema:author authors:Per_Amann ;
   schema:isbn "9783930653355" ;
   bibliographica:binNumber 7 ;
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/37790325.ttl"^^xsd:anyURI ;
-  rdfs:label "Vincent van Gogh " ;
+  rdfs:label "Vincent van Gogh" ;
 .
 :Vintage_Pellegrini
   rdf:type schema:Book ;
@@ -7718,8 +8025,8 @@
 :Zippy_nation_of_pinheads
   rdf:type schema:Book ;
   dcterms:creator authors:Bill_Griffith ;
-  dcterms:title "Zippy : nation of pinheads " ;
+  dcterms:title "Zippy : nation of pinheads" ;
   schema:author authors:Bill_Griffith ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/28767387.ttl"^^xsd:anyURI ;
-  rdfs:label "Zippy : nation of pinheads " ;
+  rdfs:label "Zippy : nation of pinheads" ;
 .
