@@ -1198,6 +1198,12 @@
   rdfs:label "Eoin Colfer" ;
   foaf:name "Eoin Colfer" ;
 .
+:Eric_Goodman
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/6202519/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Eric Goodman" ;
+  foaf:name "Eric Goodman" ;
+.
 :Eric_Schlosser
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Eric_Schlosser.ttl"^^xsd:anyURI ;
@@ -1741,6 +1747,12 @@
   rdfs:label "Jean Zallinger" ;
   foaf:name "Jean Zallinger" ;
 .
+:
+  rdf:type schema:Person ;
+  bibliographica:viafURI "http://viaf.org/viaf/56717951/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Jeff Shapiro" ;
+  foaf:name "Jeff Shapiro" ;
+.
 :Jennifer_Egan
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Jennifer_Egan.ttl"^^xsd:anyURI ;
@@ -1814,6 +1826,13 @@
   bibliographica:viafURI "https://viaf.org/viaf/3717010/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Jim Webb" ;
   foaf:name "Jim Webb" ;
+.
+:Jimmy_McDonough
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Jimmy_McDonough.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/78120958/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Jimmy McDonough" ;
+  foaf:name "Jimmy McDonough" ;
 .
 :Jingxiong_Wu
   rdf:type schema:Person ;
@@ -2057,6 +2076,13 @@
   bibliographica:viafURI "https://viaf.org/viaf/9844141/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Joseph Campbell" ;
   foaf:name "Joseph Campbell" ;
+.
+:Joseph_Heller
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Joseph_Heller.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/36926967/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Joseph Heller" ;
+  foaf:name "Joseph Heller" ;
 .
 :Joseph_Sheban
   rdf:type schema:Person ;
@@ -2376,7 +2402,7 @@
   rdfs:label "Lisa Bach" ;
   foaf:name "Lisa Bach" ;
 .
-:Lois-Ann_Yamanaka
+:Lois_Ann_Yamanaka
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Lois-Ann_Yamanaka.ttl"^^xsd:anyURI ;
   bibliographica:viafURI "https://viaf.org/viaf/115656872/rdf.xml"^^xsd:anyURI ;
@@ -2497,6 +2523,13 @@
   bibliographica:viafURI "https://viaf.org/viaf/50566653/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Mark Twain" ;
   foaf:name "Mark Twain" ;
+.
+:Martin_Cruz_Smith
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Martin_Cruz_Smith.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/95175916/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Martin Cruz Smith" ;
+  foaf:name "Martin Cruz Smith" ;
 .
 :Martin_Lee
   rdf:type schema:Person ;
@@ -3213,6 +3246,13 @@
   bibliographica:viafURI "https://viaf.org/viaf/30274975/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Rob Van der Plas" ;
   foaf:name "Rob Van der Plas" ;
+.
+:Robert_B_Parker
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Robert_B._Parker.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/101763416/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Robert B. Parker" ;
+  foaf:name "Robert B. Parker" ;
 .
 :Robert_Boswell
   rdf:type schema:Person ;

@@ -1185,6 +1185,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/19000012.ttl"^^xsd:anyURI ;
   rdfs:label "Cat's Cradle" ;
 .
+:Catch_22
+  rdf:type schema:Book ;
+  dcterms:creator authors:Joseph_Heller ;
+  dcterms:title "Catch 22" ;
+  schema:author authors:Joseph_Heller ;
+  schema:isbn "0440511208" ;
+  bibliographica:binNumber 12 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1089509739.ttl"^^xsd:anyURI ;
+  rdfs:label "Catch 22" ;
+.
 :Catcher_in_the_Rye
   rdf:type schema:Book ;
   dcterms:creator authors:JD_Salinger ;
@@ -1371,6 +1382,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/70170656.ttl"^^xsd:anyURI ;
   rdfs:label "Close Case" ;
 .
+:Closers
+  rdf:type schema:Book ;
+  dcterms:creator authors:Michael_Connelly ;
+  dcterms:title "The Closers" ;
+  schema:author authors:Michael_Connelly ;
+  schema:isbn " 1760875929" ;
+  bibliographica:binNumber 12 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1122586914.ttl"^^xsd:anyURI ;
+  rdfs:label "The Closers" ;
+.
 :Cloud_hidden
   rdf:type schema:Book ;
   dcterms:creator authors:Alan_Watts ;
@@ -1515,6 +1537,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/231586929.ttl"^^xsd:anyURI ;
   rdfs:label "The Courage to Create" ;
 .
+:Cousins
+  rdf:type schema:Book ;
+  dcterms:creator authors:Patricia_Grace ;
+  dcterms:title "Cousins" ;
+  schema:author authors:Patricia_Grace ;
+  schema:isbn "0824820746" ;
+  bibliographica:binNumber 12 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/474299813.ttl"^^xsd:anyURI ;
+  rdfs:label "Cousins" ;
+.
 :Coyote_Silk
   rdf:type schema:Book ;
   dcterms:creator authors:Gino_Sky ;
@@ -1590,6 +1623,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/225870340.ttl"^^xsd:anyURI ;
   rdfs:label "Cross Country" ;
+.
+:Cross_Fire
+  rdf:type schema:Book ;
+  dcterms:creator authors:James_Patterson ;
+  dcterms:title "Cross Fire" ;
+  schema:author authors:James_Patterson ;
+  schema:isbn "9780446574716" ;
+  bibliographica:binNumber 12 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/797257798.ttl"^^xsd:anyURI ;
+  rdfs:label "Cross Fire" ;
 .
 :Crossing_the_Mangrove
   rdf:type schema:Book ;
@@ -2597,6 +2641,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/61423521.ttl"^^xsd:anyURI ;
   rdfs:label "Getting Over Jack Wagner" ;
 .
+:Giving_Good_Weight
+  rdf:type schema:Book ;
+  dcterms:creator authors:John_McPhee ;
+  dcterms:title "Giving Good Weight" ;
+  schema:author authors:John_McPhee ;
+  schema:isbn "0374516006" ;
+  bibliographica:binNumber 12 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/222792443.ttl"^^xsd:anyURI ;
+  rdfs:label "Giving Good Weight" ;
+.
 :God_Bless_You_Mr_Rosewater
   rdf:type schema:Book ;
   dcterms:creator authors:Kurt_Vonnegut ;
@@ -2908,6 +2963,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/51532204.ttl"^^xsd:anyURI ;
   rdfs:label "Harry Potter and the Order of the Phoenix" ;
+.
+:Havana_Bay
+  rdf:type schema:Book ;
+  dcterms:creator authors:Martin_Cruz_Smith ;
+  dcterms:title "Havana Bay : a novel" ;
+  schema:author authors:Martin_Cruz_Smith ;
+  schema:isbn "0345390458" ;
+  bibliographica:binNumber 12 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1145761747.ttl"^^xsd:anyURI ;
+  rdfs:label "Havana Bay" ;
 .
 :Heaing_Toward_Omega
   rdf:type schema:Book ;
@@ -3270,6 +3336,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/252481990.ttl"^^xsd:anyURI ;
   rdfs:label "Improvising Jazz" ;
 .
+:In_Days_of_Awe
+  rdf:type schema:Book ;
+  dcterms:creator authors:Eric_Goodman ;
+  dcterms:title "In Days of Awe" ;
+  schema:author authors:Eric_Goodman ;
+  schema:isbn "0671776738" ;
+  bibliographica:binNumber 12 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/238151132.ttl"^^xsd:anyURI ;
+  rdfs:label "In Days of Awe" ;
+.
 :In_the_Drink
   rdf:type schema:Book ;
   dcterms:creator authors:Kate_Atkinson ;
@@ -3500,6 +3577,17 @@
   schema:author authors:Lewis_Porter ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/37693923.ttl"^^xsd:anyURI ;
   rdfs:label "John Coltrane : his life and music" ;
+.
+:Jolie_Blons_Bounce
+  rdf:type schema:Book ;
+  dcterms:creator authors:James_Lee_Burke ;
+  dcterms:title "Jolie Blon's Bounce : a novel" ;
+  schema:author authors:James_Lee_Burke ;
+  schema:isbn "0743411447" ;
+  bibliographica:binNumber 12 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/53110192.ttl"^^xsd:anyURI ;
+  rdfs:label "Jolie Blon's Bounce" ;
 .
 :Joni_Mitchell
   rdf:type schema:Book ;
@@ -4104,6 +4192,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/15535896.ttl"^^xsd:anyURI ;
   rdfs:label "Mountaineering Medicine" ;
+.
+:Mumbo_Jumbo
+  rdf:type schema:Book ;
+  dcterms:creator authors:JJ_Henderson ;
+  dcterms:title "Mumbo Jumbo" ;
+  schema:author authors:JJ_Henderson ;
+  schema:isbn "0689707304" ;
+  bibliographica:binNumber 12 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/974305617.ttl"^^xsd:anyURI ;
+  rdfs:label "Mumbo Jumbo" ;
 .
 :Murder_on_Naked_Beach
   rdf:type schema:Book ;
@@ -4734,15 +4833,36 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/12198235.ttl"^^xsd:anyURI ;
   rdfs:label "Playing in the band : an oral and visual portrait of the Grateful Dead" ;
 .
+:Polar_Shift
+  rdf:type schema:Book ;
+  dcterms:creator authors:Clive_Cussler ;
+  dcterms:title "Polar Shift" ;
+  schema:author authors:Clive_Cussler ;
+  schema:isbn "0060930535" ;
+  bibliographica:binNumber 12 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1012397947.ttl"^^xsd:anyURI ;
+  rdfs:label "Polar Shift" ;
+.
 :Poisonwood_Bible
   rdf:type schema:Book ;
   dcterms:creator authors:Barbara_Kingsolver ;
   dcterms:title "Poisonwood Bible" ;
   schema:author authors:Barbara_Kingsolver ;
   schema:isbn "0060930535" ;
-  bibliographica:binNumber 11 ;
   bibliographica:binNumber 9 ;
-  bibliographica:numberOfitems 2 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/825557679.ttl"^^xsd:anyURI ;
+  rdfs:label "Poisonwood Bible" ;
+.
+:Poisonwood_Bible_2
+  rdf:type schema:Book ;
+  dcterms:creator authors:Barbara_Kingsolver ;
+  dcterms:title "Poisonwood Bible" ;
+  schema:author authors:Barbara_Kingsolver ;
+  schema:isbn "0060930535" ;
+  bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/825557679.ttl"^^xsd:anyURI ;
   rdfs:label "Poisonwood Bible" ;
 .
@@ -4778,6 +4898,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/23652129.ttl"^^xsd:anyURI ;
   rdfs:label "Possession : a romance" ;
+.
+:Postcard_Killers
+  rdf:type schema:Book ;
+  dcterms:creator authors:James_Patterson ;
+  dcterms:title "The Postcard Killers : a novel" ;
+  schema:author authors:James_Patterson ;
+  schema:isbn "9781455506637" ;
+  bibliographica:binNumber 12 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/752069903.ttl"^^xsd:anyURI ;
+  rdfs:label "The Postcard Killers" ;
 .
 :Potters_Companion
   rdf:type schema:Book ;
@@ -4844,6 +4975,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/610301939.ttl"^^xsd:anyURI ;
   rdfs:label "The Prisoner of Azkaban" ;
+.
+:Private_Games
+  rdf:type schema:Book ;
+  dcterms:creator authors:James_Patterson ;
+  dcterms:title "Private Games" ;
+  schema:author authors:James_Patterson ;
+  schema:isbn "9781455512973" ;
+  bibliographica:binNumber 12 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/768792793.ttl"^^xsd:anyURI ;
+  rdfs:label "Private Games" ;
 .
 :Project_Mgmt
   rdf:type schema:Book ;
@@ -5020,6 +5162,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/800739511.ttl"^^xsd:anyURI ;
   rdfs:label "Remembering the Power of Words" ;
+.
+:Renatos_Luck
+  rdf:type schema:Book ;
+  dcterms:creator authors:Jeff_Shapiro ;
+  dcterms:title "Renato's Luck" ;
+  schema:author authors:Jeff_Shapiro ;
+  schema:isbn "0060932198" ;
+  bibliographica:binNumber 12 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/762824742.ttl"^^xsd:anyURI ;
+  rdfs:label "Renato's Luck" ;
 .
 :Repair_to_Her_Grave
   rdf:type schema:Book ;
@@ -5415,6 +5568,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/34026629.ttl"^^xsd:anyURI ;
   rdfs:label "Shadow Ranch : a novel" ;
 .
+:Shakey
+  rdf:type schema:Book ;
+  dcterms:creator authors:Jimmy_McDonough ;
+  dcterms:title "Shakey : Neil Young's biography" ;
+  schema:author authors:Jimmy_McDonough ;
+  schema:isbn "0679427724" ;
+  bibliographica:binNumber 12 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/923857680.ttl"^^xsd:anyURI ;
+  rdfs:label "Shakey : Neil Young's biography" ;
+.
 :Shambhala
   rdf:type schema:Book ;
   dcterms:creator authors:Chogyam_Trungpa ;
@@ -5698,6 +5862,17 @@
   bibliographica:binNumber 1 ;
   bibliographica:numberOfitems 1 ;
   rdfs:label "Spin Magazine" ;
+.
+:Split_Image
+  rdf:type schema:Book ;
+  dcterms:creator authors:Robert_B_Parker ;
+  dcterms:title "Split Image" ;
+  schema:author authors:Robert_B_Parker ;
+  schema:isbn "9780425239735" ;
+  bibliographica:binNumber 12 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/993110744.ttl"^^xsd:anyURI ;
+  rdfs:label "Split Image" ;
 .
 :Sprouting_Health
   rdf:type schema:Book ;
@@ -6479,6 +6654,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/31331359.ttl"^^xsd:anyURI ;
   rdfs:label "The House on the Lagoon" ;
 .
+:The_Hunted
+  rdf:type schema:Book ;
+  dcterms:creator authors:Elmore_Leonard ;
+  dcterms:title "The Hunted" ;
+  schema:author authors:Elmore_Leonard ;
+  schema:isbn "9780060084066" ;
+  bibliographica:binNumber 12 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/464594938.ttl"^^xsd:anyURI ;
+  rdfs:label "The Hunted" ;
+.
 :The_Ice_Princess
   rdf:type schema:Book ;
   dcterms:creator authors:Camilla_Lackberg ;
@@ -6559,6 +6745,17 @@
   schema:editor authors:Mark_Jacobson ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/56411820.ttl"^^xsd:anyURI ;
   rdfs:label "The KGB Bar Nonfiction Reader" ;
+.
+:The_Kingdom
+  rdf:type schema:Book ;
+  dcterms:creator authors:Clive_Cussler ;
+  dcterms:title "The Kingdom : a Fargo Adventure" ;
+  schema:author authors:Clive_Cussler ;
+  schema:isbn "9780425248089" ;
+  bibliographica:binNumber 12 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1102141184.ttl"^^xsd:anyURI ;
+  rdfs:label "The Kingdom : a Fargo Adventure" ;
 .
 :The_Last_Detective
   rdf:type schema:Book ;
@@ -7818,7 +8015,18 @@
   bibliographica:binNumber 6 ;
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/636113793.ttl"^^xsd:anyURI ;
-  rdfs:label "Wild Meat and the Bully Burgers : [a novel]" ;
+  rdfs:label "Wild Meat and the Bully Burgers" ;
+.
+:Wild_meat_and_bully_burgers_2
+  rdf:type schema:Book ;
+  dcterms:creator authors:Lois-Ann_Yamanaka ;
+  dcterms:title "Wild Meat and the Bully Burgers : [a novel]" ;
+  schema:author authors:Lois-Ann_Yamanaka ;
+  schema:isbn "0374290202" ;
+  bibliographica:binNumber 12 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/636113793.ttl"^^xsd:anyURI ;
+  rdfs:label "Wild Meat and the Bully Burgers" ;
 .
 :Winnie_the_Pooh
   rdf:type schema:Book ;
@@ -7835,6 +8043,17 @@
   schema:author authors:AA_Milne ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/4677728.ttl"^^xsd:anyURI ;
   rdfs:label "Winnie the Pooh (Dell ed.)" ;
+.
+:Winter_of_Our_Discontent
+  rdf:type schema:Book ;
+  dcterms:creator authors:John_Steinbeck ;
+  dcterms:title "The Winter of Our Discontent" ;
+  schema:author authors:John_Steinbeck ;
+  schema:isbn "0140062211" ;
+  bibliographica:binNumber 12 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/410042654.ttl"^^xsd:anyURI ;
+  rdfs:label "The Winter of Our Discontent" ;
 .
 :Wintergreen_rambles_in_a_ravaged_land
   rdf:type schema:Book ;
