@@ -2132,10 +2132,45 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/40ca4c75-bac3-4d30-ac01-e0aea128c1e9"^^xsd:anyURI ;
   rdfs:label "Two Nice Girls" ;
 .
+:U2
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassUV ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/U2.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432"^^xsd:anyURI ;
+  rdfs:label "U2" ;
+.
+:UB40
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassUV ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/UB40.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/7113aab7-628f-4050-ae49-dbecac110ca8"^^xsd:anyURI ;
+  rdfs:label "UB40" ;
+.
 :VariousBluegrass
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassUW ;
   rdfs:label "Various Bluegrass" ;
+.
+:Velvet_Underground
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassUV ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/The_Velvet_Underground.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/54aa91b4-7099-4461-8873-e6768226e61f"^^xsd:anyURI ;
+  rdfs:label "Velvet Underground" ;
+.
+:Vika_Linda
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassUV ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Vika_and_Linda.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/fe70ae16-d1a9-4250-8dff-5cbda7274ac8"^^xsd:anyURI ;
+  rdfs:label "Vika and Linda" ;
+.
+:Violent_Femmes
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassUV ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Violent_Femmes.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/2aab61bc-67f4-4722-8c6e-e1821b2e32a6"^^xsd:anyURI ;
+  rdfs:label "Violent Femmes" ;
 .
 :Weather_Report
   rdf:type mo:MusicGroup ;
