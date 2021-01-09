@@ -308,6 +308,12 @@
   rdfs:label "Anton Chekhov" ;
   foaf:name "Anton Pavlovich Chekhov" ;
 .
+:Apple
+  rdf:type schema:Organization ;
+  bibliographica:viafURI "https://viaf.org/viaf/154701873/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Apple Computer, Inc" ;
+  foaf:name "Apple Computer, Inc" ;
+.
 :April_Sinclair
   rdf:type schema:Person ;
   bibliographica:viafURI "http://viaf.org/viaf/69650371/rdf.xml"^^xsd:anyURI ;
@@ -921,6 +927,13 @@
   rdfs:label "David Hoffmann" ;
   foaf:name "David Hoffmann" ;
 .
+:David_Huber
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/David_Miles_Huber.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/64325693/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "David Miles Huber" ;
+  foaf:name "David Miles Huber" ;
+.
 :David_James_Duncan
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/David_James_Duncan.ttl"^^xsd:anyURI ;
@@ -1218,6 +1231,12 @@
   rdfs:label "Ernest Callenbach" ;
   foaf:name "Ernest Callenbach" ;
 .
+:Esther_Grassian
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/1516256/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Esther S. Grassian" ;
+  foaf:name "Esther S. Grassian" ;
+.
 :Evan_S_Connell
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Evan_S._Connell.ttl"^^xsd:anyURI ;
@@ -1331,6 +1350,12 @@
   rdfs:label "Garry Trudeau" ;
   foaf:name "Garry Trudeau" ;
 .
+:Gary_Davis
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/223506770/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Gary Davis" ;
+  foaf:name "Gary Davis" ;
+.
 :Gary_Snyder
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Gary_Snyder.ttl"^^xsd:anyURI ;
@@ -1388,6 +1413,12 @@
   bibliographica:viafURI "http://viaf.org/viaf/59679442/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Gloria Naylor" ;
   foaf:name "Gloria Naylor" ;
+.
+:Gorham_Kindem
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/79164430/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Gorham Kindem" ;
+  foaf:name "Gorham Kindem" ;
 .
 :Gordon_Parks
   rdf:type schema:Person ;
@@ -2309,6 +2340,12 @@
   rdfs:label "Larry Brown" ;
   foaf:name "Larry Brown" ;
 .
+:Larry_Rockoff
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/219213732/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Larry Rockoff" ;
+  foaf:name "Larry Rockoff" ;
+.
 :Laura_Pedersen
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Laura_Pedersen.ttl"^^xsd:anyURI ;
@@ -2580,6 +2617,12 @@
   rdfs:label "Maxine Hong Kingston" ;
   foaf:name "Maxine Hong Kingston" ;
 .
+:Maxwell_Eden
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/279280825/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Maxwell Eden" ;
+  foaf:name "Maxwell Eden" ;
+.
 :Maya_Angelou
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Maya_Angelou.ttl"^^xsd:anyURI ;
@@ -2833,6 +2876,12 @@
   bibliographica:viafURI "https://viaf.org/viaf/32121840/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Norman Waddell" ;
   foaf:name "Norman Waddell" ;
+.
+:Oasis_Project
+  rdf:type schema:Organization ;
+  bibliographica:viafURI "https://viaf.org/viaf/132764033/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Oasis Project" ;
+  foaf:name "Oasis Project" ;
 .
 :Octavia_E_Butler
   rdf:type schema:Person ;
@@ -3099,6 +3148,12 @@
   rdfs:label "Philip Kapleau" ;
   foaf:name "Philip Kapleau" ;
 .
+:Philip_Pratt
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/17404904/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Philip J. Pratt" ;
+  foaf:name "Philip J. Pratt" ;
+.
 :Phillip_Allen
   rdf:type schema:Person ;
   rdfs:label "Phillip Wayne Allen" ;
@@ -3110,6 +3165,12 @@
   bibliographica:viafURI "http://viaf.org/viaf/100269725/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Quincy Troupe" ;
   foaf:name "Quincy Troupe" ;
+.
+:Rachel_Biheller_Bunin
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/46256461/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Rachel Biheller Bunin" ;
+  foaf:name "Rachel Biheller Bunin" ;
 .
 :Rachel_Cusk
   rdf:type schema:Person ;
@@ -3730,6 +3791,12 @@
   bibliographica:viafURI "http://viaf.org/viaf/87670142/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Thích. Nhất Hạnh" ;
   foaf:name "Thích. Nhất Hạnh" ;
+.
+:Thomas_Connolly
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/55060755/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Thomas M. Connolly" ;
+  foaf:name "Thomas M. Connolly" ;
 .
 :Thomas_Hardy
   rdf:type schema:Person ;

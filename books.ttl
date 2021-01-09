@@ -1442,6 +1442,15 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1111713310.ttl"^^xsd:anyURI ;
   rdfs:label "The Colony of Unrequited Dreams" ;
 .
+:Color_Setup_Guide
+  rdf:type schema:Book ;
+  dcterms:creator authors:Apple ;
+  dcterms:title "Color Setup Guide" ;
+  schema:author authors:Apple ;
+  bibliographica:binNumber 13 ;
+  bibliographica:numberOfitems 1 ;
+  rdfs:label "Color Setup Guide" ;
+.
 :Comfort_me_with_apples
   rdf:type schema:Book ;
   dcterms:creator authors:Ruth_Reichl ;
@@ -1492,6 +1501,15 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/40979987.ttl"^^xsd:anyURI ;
   rdfs:label "The Concise Bob Dylan" ;
+.
+:Connections_Tech_Training
+  rdf:type schema:Book ;
+  dcterms:creator authors:Oasis_Project ;
+  dcterms:title "Connections Technology Training" ;
+  schema:author authors:Oasis_Project ;
+  bibliographica:binNumber 13 ;
+  bibliographica:numberOfitems 1 ;
+  rdfs:label "Connections Technology Training" ;
 .
 :Continental_Drift
   rdf:type schema:Book ;
@@ -1727,6 +1745,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1080411368.ttl"^^xsd:anyURI ;
   rdfs:label "Data mining : concepts and techniques" ;
+.
+:Database_Systems
+  rdf:type schema:Book ;
+  dcterms:creator authors:Thomas_Connolly ;
+  dcterms:title "Database Systems: a practical approach to design, implementation, and management" ;
+  schema:author authors:Thomas_Connolly ;
+  schema:isbn "9780321523068" ;
+  bibliographica:binNumber 13 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/780977394.ttl"^^xsd:anyURI ;
+  rdfs:label "Database Systems" ;
 .
 :Dead_Lagoon
   rdf:type schema:Book ;
@@ -2860,6 +2889,16 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/317714834.ttl"^^xsd:anyURI ;
   rdfs:label "Guide to Chords, Scales, & Arpeggios" ;
 .
+:Guide_to_SQL
+  rdf:type schema:Book ;
+  dcterms:creator authors:Philip_Pratt ;
+  dcterms:title "A Guide to SQL" ;
+  schema:author authors:Philip_Pratt ;
+  bibliographica:binNumber 13 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/653070023.ttl"^^xsd:anyURI ;
+  rdfs:label "A Guide to SQL" ;
+.
 :Guitar_Chord_Chart
   rdf:type schema:Book ;
   dcterms:creator authors:Mel_Bay ;
@@ -3385,6 +3424,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/27980135.ttl"^^xsd:anyURI ;
   rdfs:label "In the Country of the Great King" ;
 .
+:Information_Literacy_Instruction
+  rdf:type schema:Book ;
+  dcterms:creator authors:Esther_Grassian ;
+  dcterms:title "Information literacy instruction : theory and practice" ;
+  schema:author authors:Esther_Grassian ;
+  schema:isbn "9781555706661" ;
+  bibliographica:binNumber 13 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1144562550.ttl"^^xsd:anyURI ;
+  rdfs:label "Information Literacy Instruction" ;
+.
 :Inner_Chapters
   rdf:type schema:Book ;
   dcterms:creator authors:Gia-fu_Feng ;
@@ -3679,6 +3729,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/19322955.ttl"^^xsd:anyURI ;
   rdfs:label "Keep the Change" ;
 .
+:Kiteworks
+  rdf:type schema:Book ;
+  dcterms:creator authors:Maxwell_Eden ;
+  dcterms:title "Kiteworks : explorations in kite building & flying" ;
+  schema:author authors:Maxwell_Eden ;
+  schema:isbn "0806967137" ;
+  bibliographica:binNumber 13 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/477519337.ttl"^^xsd:anyURI ;
+  rdfs:label "Kiteworks" ;
+.
 :Knots_ties_splices
   rdf:type schema:Book ;
   dcterms:creator authors:Crab_Searl ;
@@ -3699,6 +3760,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/924482221.ttl"^^xsd:anyURI ;
   rdfs:label "La Place de la Concorde Suisse" ;
+.
+:Language_of_SQL
+  rdf:type schema:Book ;
+  dcterms:creator authors:Larry_Rockoff ;
+  dcterms:title "The Language of SQL" ;
+  schema:author authors:Larry_Rockoff ;
+  schema:isbn "9781435457515" ;
+  bibliographica:binNumber 13 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/820396166.ttl"^^xsd:anyURI ;
+  rdfs:label "The Language of SQL" ;
 .
 :Last_Voyage_of_Somebody_Sailor
   rdf:type schema:Book ;
@@ -4050,6 +4122,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/631233507.ttl"^^xsd:anyURI ;
   rdfs:label "Mexico City Blues" ;
 .
+:Microsoft_Project_2010
+  rdf:type schema:Book ;
+  dcterms:creator authors:Rachel_Biheller_Bunin ;
+  dcterms:title "Microsoft Project 2010 : Introductory" ;
+  schema:author authors:Rachel_Biheller_Bunin ;
+  schema:isbn "9780538746762" ;
+  bibliographica:binNumber 13 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/737492568.ttl"^^xsd:anyURI ;
+  rdfs:label "Microsoft Project 2010" ;
+.
 :Midnight_at_the_Dragon_Cafe
   rdf:type schema:Book ;
   dcterms:creator authors:Judy_Fong_Bates ;
@@ -4119,6 +4202,17 @@
   schema:author authors:Peter_Hoeg ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/29543911.ttl"^^xsd:anyURI ;
   rdfs:label "Miss Smilla's feeling for snow" ;
+.
+:Modern_Recording_Techniques
+  rdf:type schema:Book ;
+  dcterms:creator authors:David_Huber ;
+  dcterms:title "Modern Recording Techniques" ;
+  schema:author authors:David_Huber ;
+  schema:isbn "0240803086" ;
+  bibliographica:binNumber 13 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/924953624.ttl"^^xsd:anyURI ;
+  rdfs:label "Modern Recording Techniques" ;
 .
 :Modern_Yoga_Handbook
   rdf:type schema:Book ;
@@ -4192,6 +4286,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/15535896.ttl"^^xsd:anyURI ;
   rdfs:label "Mountaineering Medicine" ;
+.
+:Moving_Image
+  rdf:type schema:Book ;
+  dcterms:creator authors:Gorham_Kindem ;
+  dcterms:title "The moving image : production principles and practices" ;
+  schema:author authors:Gorham_Kindem ;
+  schema:isbn "0673155749" ;
+  bibliographica:binNumber 13 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/475596637.ttl"^^xsd:anyURI ;
+  rdfs:label "The Moving Image" ;
 .
 :Mumbo_Jumbo
   rdf:type schema:Book ;
@@ -5844,6 +5949,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/492941920.ttl"^^xsd:anyURI ;
   rdfs:label "The Sound of One Hand Clapping" ;
+.
+:Sound_Reinforcement_Handbook
+  rdf:type schema:Book ;
+  dcterms:creator authors:Gary_Davis ;
+  dcterms:title "The sound reinforcement handbook" ;
+  schema:author authors:Gary_Davis ;
+  schema:isbn "0881889008" ;
+  bibliographica:binNumber 13 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/993110744.ttl"^^xsd:anyURI ;
+  rdfs:label "Sound Reinforcement Handbook" ;
 .
 :Spartan_Gold
   rdf:type schema:Book ;
