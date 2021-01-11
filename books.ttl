@@ -1155,6 +1155,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/18416377.ttl"^^xsd:anyURI ;
   rdfs:label "Cascade-Olympic Natural History" ;
 .
+:Case_Constructivist_Classrooms
+  rdf:type schema:Book ;
+  dcterms:creator authors:Jacqueline_Brooks ;
+  dcterms:title "The Case for Constructivist Classrooms : in search of understanding" ;
+  schema:author authors:Jacqueline_Brooks ;
+  schema:isbn "0871202115" ;
+  bibliographica:binNumber 13 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/257054770.ttl"^^xsd:anyURI ;
+  rdfs:label "The Case for Constructivist Classrooms" ;
+.
 :Case_histories
   rdf:type schema:Book ;
   dcterms:creator authors:Kate_Atkinson ;
@@ -1173,6 +1184,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/873134307.ttl"^^xsd:anyURI ;
   rdfs:label "Cat Chaser" ;
+.
+:Cataloging_Classification
+  rdf:type schema:Book ;
+  dcterms:creator authors:Lois_Mai_Chan ;
+  dcterms:title "Cataloging and classification : an introduction" ;
+  schema:author authors:Lois_Mai_Chan ;
+  schema:isbn "9780810860001" ;
+  bibliographica:binNumber 13 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/804354590.ttl"^^xsd:anyURI ;
+  rdfs:label "Cataloging and Classification" ;
 .
 :Cats_Cradle
   rdf:type schema:Book ;
@@ -1511,6 +1533,17 @@
   bibliographica:numberOfitems 1 ;
   rdfs:label "Connections Technology Training" ;
 .
+:Contemporary_Distance_Educ
+  rdf:type schema:Book ;
+  dcterms:creator authors:Michael_G_Moore ;
+  dcterms:title "Contemporary Issues in American Distance Education" ;
+  schema:author authors:Michael_G_Moore ;
+  schema:isbn "008040233X" ;
+  bibliographica:binNumber 13 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/260145553.ttl"^^xsd:anyURI ;
+  rdfs:label "Contemporary Issues in American Distance Education" ;
+.
 :Continental_Drift
   rdf:type schema:Book ;
   dcterms:creator authors:Russell_Banks ;
@@ -1554,6 +1587,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/231586929.ttl"^^xsd:anyURI ;
   rdfs:label "The Courage to Create" ;
+.
+:Courage_to_Teach
+  rdf:type schema:Book ;
+  dcterms:creator authors:Parker_Palmer ;
+  dcterms:title "The Courage to Teach : exploring the inner landscape of a teacher's life" ;
+  schema:author authors:Parker_Palmer ;
+  schema:isbn "0787996866" ;
+  bibliographica:binNumber 13 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1141230024.ttl"^^xsd:anyURI ;
+  rdfs:label "The Courage to Teach" ;
 .
 :Cousins
   rdf:type schema:Book ;
@@ -2130,6 +2174,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/8625399.ttl"^^xsd:anyURI ;
   rdfs:label "Ecotopia Emerging" ;
 .
+:Educational_Research
+  rdf:type schema:Book ;
+  dcterms:creator authors:James_McMillan ;
+  dcterms:title "Educational Research : fundamentals for the consumer" ;
+  schema:author authors:James_McMillan ;
+  schema:isbn "0673384497" ;
+  bibliographica:binNumber 13 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/23731851.ttl"^^xsd:anyURI ;
+  rdfs:label "Educational Research" ;
+.
 :Eleventh_Hour
   rdf:type schema:Book ;
   dcterms:creator authors:Graeme_Base ;
@@ -2366,7 +2421,7 @@
   bibliographica:binNumber 11 ;
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/421844379.ttl"^^xsd:anyURI ;
-  rdfs:label "A Field Guide to Trees and Shrubs " ;
+  rdfs:label "A Field Guide to Trees and Shrubs" ;
 .
 :Fields_of_Fire
   rdf:type schema:Book ;
@@ -2389,6 +2444,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1157176163.ttl"^^xsd:anyURI ;
   rdfs:label "Fierce Invalids Home from Hot Climates" ;
+.
+:Fifth_Discipline
+  rdf:type schema:Book ;
+  dcterms:creator authors:George_Petrides ;
+  dcterms:title "The Fifth Discipline : the art and practice of the learning organization" ;
+  schema:author authors:George_Petrides ;
+  schema:isbn "0385260954" ;
+  bibliographica:binNumber 13 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/263627570.ttl"^^xsd:anyURI ;
+  rdfs:label "The Fifth Discipline" ;
 .
 :Fifty_Guitar_Solos
   rdf:type schema:Book ;
@@ -3365,6 +3431,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/904948711.ttl"^^xsd:anyURI ;
   rdfs:label "Illywhacker" ;
 .
+:Implementing_Tech_Librqaries
+  rdf:type schema:Book ;
+  dcterms:creator authors:Karen_Cox ;
+  dcterms:title "Implementing Technology Solutions in Libraries : Techniques, Tools, and Tips from the Trenches" ;
+  schema:author authors:Karen_Cox ;
+  schema:isbn "9781573874038" ;
+  bibliographica:binNumber 13 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/952745432.ttl"^^xsd:anyURI ;
+  rdfs:label "Implementing Technology Solutions in Libraries" ;
+.
 :Improvising_Jazz
   rdf:type schema:Book ;
   dcterms:creator authors:Jerry_Coker ;
@@ -3459,6 +3536,28 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/32860604.ttl"^^xsd:anyURI ;
   rdfs:label "The Inner Reaches of Outer Space" ;
+.
+:Instructional_Technology
+  rdf:type schema:Book ;
+  dcterms:creator authors:Barbara_Seels ;
+  dcterms:title "Instructional Technology : the definition and domains of the field." ;
+  schema:author authors:Barbara_Seels ;
+  schema:isbn "0892400722" ;
+  bibliographica:binNumber 13 ;
+  bibliographica:numberOfitems 2 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/856782733.ttl"^^xsd:anyURI ;
+  rdfs:label "Instructional Technology" ;
+.
+:Instructional_Tech_Foundations
+  rdf:type schema:Book ;
+  dcterms:creator authors:Robert_Gagne ;
+  dcterms:title "Instructional Technology : Foundations" ;
+  schema:author authors:Robert_Gagne ;
+  schema:isbn "0898598788" ;
+  bibliographica:binNumber 13 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/697784346.ttl"^^xsd:anyURI ;
+  rdfs:label "Instructional Technology : Foundations" ;
 .
 :Intro_Lit
   rdf:type schema:Book ;
@@ -3750,6 +3849,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/877228297.ttl"^^xsd:anyURI ;
   rdfs:label "Knots, ties and splices" ;
 .
+:Knowledge_Mgmt
+  rdf:type schema:Book ;
+  dcterms:creator authors:Kevin_Desouza ;
+  dcterms:title "Knowledge Management: An Introduction" ;
+  schema:author authors:Kevin_Desouza ;
+  schema:isbn "9781555707200" ;
+  bibliographica:binNumber 13 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1201641193.ttl"^^xsd:anyURI ;
+  rdfs:label "Knowledge Management" ;
+.
 :La_Place_de_la_Concorde
   rdf:type schema:Book ;
   dcterms:creator authors:John_McPhee ;
@@ -3947,6 +4057,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/21261631.ttl"^^xsd:anyURI ;
   rdfs:label "Living Zen" ;
+.
+:Looking_for_Info
+  rdf:type schema:Book ;
+  dcterms:creator authors:David_Case ;
+  dcterms:title "Looking for information : a survey of research on information seeking, needs, and behavior" ;
+  schema:author authors:David_Case ;
+  schema:isbn "9780123694300" ;
+  bibliographica:binNumber 13 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/476199086.ttl"^^xsd:anyURI ;
+  rdfs:label "Looking for Information" ;
 .
 :Looking_for_a_Ship
   rdf:type schema:Book ;
@@ -4297,6 +4418,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/475596637.ttl"^^xsd:anyURI ;
   rdfs:label "The Moving Image" ;
+.
+:Multimedia_Learning
+  rdf:type schema:Book ;
+  dcterms:creator authors:Richard_Mayer ;
+  dcterms:title "Cambridge Handbook of Multimedia Learning" ;
+  schema:author authors:Richard_Mayer ;
+  schema:isbn "0521547512" ;
+  bibliographica:binNumber 13 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/123232811.ttl"^^xsd:anyURI ;
+  rdfs:label "Cambridge Handbook of Multimedia Learning" ;
 .
 :Mumbo_Jumbo
   rdf:type schema:Book ;
@@ -5070,6 +5202,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/70143924.ttl"^^xsd:anyURI ;
   rdfs:label "Pretty Birds" ;
 .
+:Principles_Instructional_Design
+  rdf:type schema:Book ;
+  dcterms:creator authors:Robert_Gagne ;
+  dcterms:title "Principles of Instructional Design" ;
+  schema:author authors:Robert_Gagne ;
+  schema:isbn "0030347572" ;
+  bibliographica:binNumber 13 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/473873958.ttl"^^xsd:anyURI ;
+  rdfs:label "Principles of Instructional Design" ;
+.
 :Prisoner_of_Azkaban
   rdf:type schema:Book ;
   dcterms:creator authors:JK_Rowling ;
@@ -5092,6 +5235,15 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/768792793.ttl"^^xsd:anyURI ;
   rdfs:label "Private Games" ;
 .
+:Process_Quality_Mgmt
+  rdf:type schema:Book ;
+  dcterms:creator authors:ATT ;
+  dcterms:title "Process Quality Managment & Improvement Guidelines" ;
+  schema:author authors:ATT ;
+  bibliographica:binNumber 13 ;
+  bibliographica:numberOfitems 1 ;
+  rdfs:label "Process Quality Managment & Improvement Guidelines" ;
+.
 :Project_Mgmt
   rdf:type schema:Book ;
   dcterms:creator authors:Phil_Baguley ;
@@ -5101,6 +5253,15 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/828199043.ttl"^^xsd:anyURI ;
   rdfs:label "Teach Yourself Project Management" ;
+.
+:Publishing_DVD
+  rdf:type schema:Book ;
+  dcterms:creator authors:Sonic_Solutions ;
+  dcterms:title "Publishing in the Age of DVD" ;
+  schema:author authors:Sonic_Solutions ;
+  bibliographica:binNumber 13 ;
+  bibliographica:numberOfitems 1 ;
+  rdfs:label "Publishing in the Age of DVD" ;
 .
 :Purity_of_Blood
   rdf:type schema:Book ;
@@ -5167,6 +5328,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/46952110.ttl"^^xsd:anyURI ;
   rdfs:label "The Raw and the Cooked" ;
+.
+:Reality_Is_Broken
+  rdf:type schema:Book ;
+  dcterms:creator authors:Jane_McGonigal ;
+  dcterms:title "Reality is broken : why games make us better and how they can change the world" ;
+  schema:author authors:Jane_McGonigal ;
+  schema:isbn "9781594202858" ;
+  bibliographica:binNumber 13 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/894571741.ttl"^^xsd:anyURI ;
+  rdfs:label "Reality is Broken" ;
 .
 :Red_Earth_Pouring_Rain
   rdf:type schema:Book ;
@@ -5920,6 +6092,15 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/970506555.ttl"^^xsd:anyURI ;
   rdfs:label "Sometimes a Great Notion" ;
 .
+:Sonar3
+  rdf:type schema:Book ;
+  dcterms:creator authors:Twelve_Time_Sys ;
+  dcterms:title "Sonar 3" ;
+  schema:author authors:Twelve_Time_Sys ;
+  bibliographica:binNumber 13 ;
+  bibliographica:numberOfitems 1 ;
+  rdfs:label "Sonar 3" ;
+.
 :Song_of_Solomon
   rdf:type schema:Book ;
   dcterms:creator authors:Toni_Morrison ;
@@ -6332,6 +6513,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/924626383.ttl"^^xsd:anyURI ;
   rdfs:label "The Teachings of Don Juan" ;
+.
+:Teachings_Learning_Online
+  rdf:type schema:Book ;
+  dcterms:creator authors:John_Stephenson ;
+  dcterms:title "Teaching & learning online : pedagogies for new technologies" ;
+  schema:author authors:John_Stephenson ;
+  schema:isbn "0749435119" ;
+  bibliographica:binNumber 13 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/752300699.ttl"^^xsd:anyURI ;
+  rdfs:label "Teaching & Learning Online" ;
 .
 :Tender_at_the_Bone
   rdf:type schema:Book ;
@@ -8031,6 +8223,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/611657875.ttl"^^xsd:anyURI ;
   rdfs:label "Way of the Peaceful Warrior" ;
+.
+:Web_Database_Apps
+  rdf:type schema:Book ;
+  dcterms:creator authors:Hugh_Williams ;
+  dcterms:title "Web Database Applications with PHP & MySQL" ;
+  schema:author authors:Hugh_Williams ;
+  schema:isbn "0596000413" ;
+  bibliographica:binNumber 13 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/493005759.ttl"^^xsd:anyURI ;
+  rdfs:label "Web Database Applications" ;
 .
 :Week_on_the_Concord_and_Merrimack
   rdf:type schema:Book ;
