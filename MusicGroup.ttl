@@ -159,8 +159,8 @@
 :Baka_Beyond
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassAD ;
-  bibliographica:dbpediaURI "http://dbpedia.org/data/Adalberto_%C3%81lvarez_y_su_Son.ttl"^^xsd:anyURI ;
-  bibliographica:musicbrainzURI "http://dbpedia.org/data/Baka_Beyond.ttl"^^xsd:anyURI ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Baka_Beyond.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/bc30924c-1900-41c3-9a97-41a93433836f"^^xsd:anyURI ;
   rdfs:label "Baka Beyond" ;
 .
 :Band_Du_Jour

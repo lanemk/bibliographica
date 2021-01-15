@@ -54,7 +54,6 @@
   rdf:type schema:MusicAlbum ;
   dcterms:creator MusicGroup:Amaduduzo ;
   bibliographica:byArtist MusicGroup:Amaduduzo ;
-  bibliographica:musicbrainzURI "https://musicbrainz.org/release/87a19e7a-4820-4218-b2ee-c3ac418773b4"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/be3a6956-3b0d-4e98-b8ef-7475970c929e"^^xsd:anyURI ;
   rdfs:label "Amaduduzo (compilation)" ;
 .
@@ -68,6 +67,26 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/0375a849-d8b1-4851-9faf-2ea75e78173b"^^xsd:anyURI ;
   rdfs:label "Amanda Marshall (cd)" ;
 .
+:Amazulu
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Amazulu ;
+  bibliographica:byArtist MusicGroup:Amazulu ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/609cbe7e-fcb3-4965-a392-5cbb51f22b2c"^^xsd:anyURI ;
+  rdfs:label "Amazulu" ;
+.
+:America_Live
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:America ;
+  bibliographica:byArtist MusicGroup:America ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/1c08f8c7-ba86-4c66-be7f-0a0f3e87cc8b"^^xsd:anyURI ;
+  rdfs:label "America" ;
+.
 :AniDiFranco_CD
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -77,6 +96,16 @@
   bibliographica:byArtist SoloMusicArtist:Ani_DiFranco ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/2f220c9c-9f5f-35dc-8c62-b9b48827032e"^^xsd:anyURI ;
   rdfs:label "Ani DiFranco" ;
+.
+:Another_Side_Dylan
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bob_Dylan ;
+  bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/b18ef710-0e47-3c10-ab0b-6631533549ee"^^xsd:anyURI ;
+  rdfs:label "Another Side of Bob Dylan" ;
 .
 :Anthem
   rdf:type mo:CD ;
@@ -88,6 +117,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a4fe9bb1-1790-4d5f-93b1-aabe513ec6ff"^^xsd:anyURI ;
   rdfs:label "Anthem" ;
 .
+:Anthology_Bad_Company
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Bad_Company ;
+  bibliographica:byArtist MusicGroup:Bad_Company ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/df329032-9dc4-39bf-b70e-127c8ae1c2b1"^^xsd:anyURI ;
+  rdfs:label "Bad Company ‘Original’ Anthology" ;
+.
 :Arethas_Gold
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -97,6 +136,16 @@
   bibliographica:byArtist SoloMusicArtist:Aretha_Franklin ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/6f06ad48-e381-449f-9174-938872d24c92"^^xsd:anyURI ;
   rdfs:label "Aretha’s Gold" ;
+.
+:At_Budokan
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bob_Dylan ;
+  bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/77c2d53b-072c-3bd6-91ae-5d66a28ebd2f"^^xsd:anyURI ;
+  rdfs:label "At Budokan" ;
 .
 :At_Fillmore_East
   rdf:type mo:CD ;
@@ -178,6 +227,18 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/148045ee-7fb7-4978-aefe-bcb162ac2941"^^xsd:anyURI ;
   rdfs:label "Bare" ;
 .
+:Basement_Tapes
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bob_Dylan ;
+  dcterms:creator MusicGroup:The_Band ;
+  bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
+  bibliographica:byArtist MusicGroup:The_Band ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/47873729-6db0-3431-99e7-0292e939dadf"^^xsd:anyURI ;
+  rdfs:label "The Basement Tapes" ;
+.
 :Bawdy_Sea_Chanties
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -198,6 +259,18 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/2c996e0f-e8c2-3167-894c-ab59a7c74989"^^xsd:anyURI ;
   rdfs:label "Bebel Gilberto (CD)" ;
 .
+:Before_Flood
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bob_Dylan ;
+  dcterms:creator MusicGroup:The_Band ;
+  bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
+  bibliographica:byArtist MusicGroup:The_Band ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/d11eff0d-e0e7-35f4-b114-c90910028333"^^xsd:anyURI ;
+  rdfs:label "Before the Flood" ;
+.
 :Bigger_Better_Faster_More
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -208,6 +281,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/9154385d-5ea3-4dc6-b5bb-b7433ba32243"^^xsd:anyURI ;
   rdfs:label "Bigger, Better, Faster, More" ;
 .
+:Biograph
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bob_Dylan ;
+  bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/b5cbeb61-6e9c-38a8-9cb7-caf456782361"^^xsd:anyURI ;
+  rdfs:label "Biograph" ;
+.
 :Blind_Faith_CD
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -217,6 +300,26 @@
   bibliographica:byArtist MusicGroup:Blind_Faith ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/53fa91ca-a2b9-463d-b78e-daca9894082a"^^xsd:anyURI ;
   rdfs:label "Blind Faith" ;
+.
+:Blonde_on_Blonde
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bob_Dylan ;
+  bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/329fb554-2a81-3d8a-8e22-ec2c66810019"^^xsd:anyURI ;
+  rdfs:label "Blonde on Blonde" ;
+.
+:Blood_on_Tracks
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bob_Dylan ;
+  bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/9c1b8072-eb1d-33d2-af8c-984d46e40902"^^xsd:anyURI ;
+  rdfs:label "Blood on the Tracks" ;
 .
 :Bluegrass_Reunion
   rdf:type mo:CD ;
@@ -240,7 +343,7 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/6b28ecf0-94e6-48bb-aa2a-5ede325b675b"^^xsd:anyURI ;
   rdfs:label "Blues Traveler" ;
 .
-:Born_Under_a_Bad_Sign
+:Born_Under_Bad_Sign
   rdf:type mo:CD ;
   rdf:type mo:Record ;
   rdf:type mo:Release ;
@@ -250,7 +353,7 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/9fa36ff8-ba96-3201-bda1-729389a87620"^^xsd:anyURI ;
   rdfs:label "Born Under a Bad Sign" ;
 .
-:Bouncing_Off_The_Satellites
+:Bouncing_Off_Satellites
   rdf:type mo:CD ;
   rdf:type mo:Record ;
   rdf:type mo:Release ;
@@ -402,6 +505,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/9d9560ff-bac3-43ef-8ded-442d34ec8d68"^^xsd:anyURI ;
   rdfs:label "Deeper Still" ;
 .
+:Desire
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bob_Dylan ;
+  bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/fc325dd3-73ed-36aa-9c77-6b65a958e3cf"^^xsd:anyURI ;
+  rdfs:label "Desire" ;
+.
 :Desire_Of_The_Rhino_King
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -462,6 +575,18 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/81ca2960-9b7b-4715-a58b-0ea48965793e"^^xsd:anyURI ;
   rdfs:label "Double Barrel Blues" ;
 .
+:Dylan_and_Dead
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bob_Dylan ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/4eed761b-1e14-43ec-902c-852656fa91fd"^^xsd:anyURI ;
+  rdfs:label "Dylan & the Dead" ;
+.
 :Eat_a_Peach
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -510,6 +635,16 @@
   dcterms:creator MusicGroup:Band_Du_Jour ;
   bibliographica:byArtist MusicGroup:Band_Du_Jour ;
   rdfs:label "Feel The Sun" ;
+.
+:Fingerlings_Three
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Andrew_Bird ;
+  bibliographica:byArtist SoloMusicArtist:Andrew_Bird ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/fe9668c3-69fd-3e11-ac34-c66fbc329c6c"^^xsd:anyURI ;
+  rdfs:label "Fingerlings 3" ;
 .
 :Friend_of_Mine
   rdf:type mo:CD ;
@@ -632,7 +767,7 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/7a2ad97a-55e9-48a4-953b-45ddc10f7f0f"^^xsd:anyURI ;
   rdfs:label "Homogenic" ;
 .
-:Horses_In_The_Mines
+:Horses_In_Mines
   rdf:type mo:CD ;
   rdf:type mo:Record ;
   rdf:type mo:Release ;
@@ -691,6 +826,28 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/79c313a5-0e50-4572-8aa6-fd0d297abd97"^^xsd:anyURI ;
   rdfs:label "Let It Be" ;
 .
+:Little_Plastic_Castle
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ani_DiFranco ;
+  bibliographica:byArtist SoloMusicArtist:Ani_DiFranco ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/585b0223-d5a5-3839-880f-590a64a62bc7"^^xsd:anyURI ;
+  rdfs:label "Little Plastic Castle" ;
+.
+:Live_Adventures
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Al_Kooper ;
+  dcterms:creator SoloMusicArtist:Mike_Bloomfield ;
+  bibliographica:byArtist SoloMusicArtist:Al_Kooper ;
+  bibliographica:byArtist SoloMusicArtist:Mike_Bloomfield ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/af443909-b1fb-3be9-bd9f-452821fbb26d"^^xsd:anyURI ;
+  rdfs:label "Live Adventures" ;
+.
 :Live_Art
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -701,13 +858,13 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/61282502-0f84-4c30-aea1-90b9e823107c"^^xsd:anyURI ;
   rdfs:label "Live Art" ;
 .
-:Live_From_the_Left_Coast
+:Live_From_Left_Coast
   rdf:type mo:CD ;
   rdf:type mo:Record ;
   rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
-  dcterms:creator SoloMusicArtist:BeauSoleil ;
-  bibliographica:byArtist SoloMusicArtist:BeauSoleil ;
+  dcterms:creator MusicGroup:BeauSoleil ;
+  bibliographica:byArtist MusicGroup:BeauSoleil ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e848f2d0-2506-4378-8f2f-dbd599cf853f"^^xsd:anyURI ;
   rdfs:label "Live! From the Left Coast" ;
 .
@@ -788,6 +945,7 @@
   rdf:type schema:MusicAlbum ;
   dcterms:creator SoloMusicArtist:Ana_Egge ;
   bibliographica:byArtist SoloMusicArtist:Ana_Egge ;
+  rdfs:comment "Item not listed in MusicBrainz." ;
   rdfs:label "Mile Marker" ;
 .
 :Mr_Music_Head
@@ -799,6 +957,16 @@
   bibliographica:byArtist SoloMusicArtist:Adrian_Belew ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/12a04743-dff0-49b8-a5cb-e4368920cd30"^^xsd:anyURI ;
   rdfs:label "Mr Music Head" ;
+.
+:One_Kind
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bill_Bruford ;
+  bibliographica:byArtist SoloMusicArtist:Bill_Bruford ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/d2595b71-5353-3ae7-853d-3490e0622353"^^xsd:anyURI ;
+  rdfs:label "One of a Kind" ;
 .
 :Original_Bad_Co_Anthology
   rdf:type mo:CD ;
@@ -920,6 +1088,18 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/b42e2f6e-587b-37f7-b750-362ec21a1e52"^^xsd:anyURI ;
   rdfs:label "River Under The Road" ;
 .
+:Root_of_Steely_Dan
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Donald_Fagen ;
+  dcterms:creator SoloMusicArtist:Walter_Becker ;
+  bibliographica:byArtist SoloMusicArtist:Donald_Fagen ;
+  bibliographica:byArtist SoloMusicArtist:Walter_Becker ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/127fbd4a-f67a-4797-b360-75a9cf448bc5"^^xsd:anyURI ;
+  rdfs:label "The Root of Steely Dan" ;
+.
 :Sampler
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -928,6 +1108,16 @@
   dcterms:creator SoloMusicArtist:Andrew_Bird ;
   bibliographica:byArtist SoloMusicArtist:Andrew_Bird ;
   rdfs:label "Sampler" ;
+.
+:Sand_Water
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Beth_Nielsen_Chapman ;
+  bibliographica:byArtist SoloMusicArtist:Beth_Nielsen_Chapman ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/b44ebc7f-0564-3c9e-b2f5-47f9abc78e7a"^^xsd:anyURI ;
+  rdfs:label "Sand and Water" ;
 .
 :Side_Four
   rdf:type mo:CD ;
@@ -958,6 +1148,16 @@
   bibliographica:byArtist MusicGroup:Black_Uhuru ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c3a34cfd-e931-43ca-acbb-f0a820cd9340"^^xsd:anyURI ;
   rdfs:label "Sinsemilla" ;
+.
+:Siyabamukela
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Amaduduzo ;
+  bibliographica:byArtist MusicGroup:Amaduduzo ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/fb46f60d-700f-4de4-b1da-f2a885327eea"^^xsd:anyURI ;
+  rdfs:label "Siyabamukela" ;
 .
 :Slow_Circle
   rdf:type mo:CD ;
@@ -1031,7 +1231,7 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/d87c9431-cc3e-37e8-9181-5fc69a917c3a"^^xsd:anyURI ;
   rdfs:label "Southern Exposure" ;
 .
-:Spirit_of_the_Century
+:Spirit_of_Century
   rdf:type mo:CD ;
   rdf:type mo:Record ;
   rdf:type mo:Release ;
@@ -1040,6 +1240,16 @@
   bibliographica:byArtist MusicGroup:Blind_Boys_of_Alabama ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/0a1e35f6-255f-4701-b6ec-7e0a9e376c08"^^xsd:anyURI ;
   rdfs:label "Spirit of the Century" ;
+.
+:Spirit_of_Forest
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Baka_Beyond ;
+  bibliographica:byArtist MusicGroup:Baka_Beyond ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/cd30cc39-3855-3e83-ab92-623831c66829"^^xsd:anyURI ;
+  rdfs:label "Spirit of the Forest" ;
 .
 :Stranger_to_This_Land
   rdf:type mo:CD ;
@@ -1281,6 +1491,18 @@
   bibliographica:byArtist SoloMusicArtist:Ani_DiFranco ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/07a48cd5-2fd5-3c3f-b61b-569ecd2c86e0"^^xsd:anyURI ;
   rdfs:label "Up Up Up Up Up Up" ;
+.
+:Upper_Extremities
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bill_Bruford ;
+  dcterms:creator SoloMusicArtist:Tony_Levin ;
+  bibliographica:byArtist SoloMusicArtist:Bill_Bruford ;
+  bibliographica:byArtist SoloMusicArtist:Tony_Levin ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a485361f-b525-4543-ac0b-61c97421b13d"^^xsd:anyURI ;
+  rdfs:label "Upper Extremities" ;
 .
 :Viva_Zapata
   rdf:type mo:CD ;

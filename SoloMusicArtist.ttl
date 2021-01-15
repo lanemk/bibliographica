@@ -497,6 +497,7 @@
 :Bob_Dylan
   rdf:type bibliographica:AlphaClassAD ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Bob_Dylan.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/72c536dc-7137-4477-a521-567eeb840fa8"^^xsd:anyURI ;
   rdfs:label "Bob Dylan" ;
 .
 :Bob_James
@@ -1094,6 +1095,13 @@
   bibliographica:dbpediaURI "http://dbpedia.org/data/Dolly_Parton.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/1d543e07-d0d2-4834-a8db-d65c50c2a856"^^xsd:anyURI ;
   rdfs:label "Dolly Parton" ;
+.
+:Donald_Fagen
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Donald_Fagen.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/70047e57-0153-4117-b0fc-a1d2e322e5ef"^^xsd:anyURI ;
+  rdfs:label "Donald Fagen" ;
 .
 :Duke_Ellington
   rdf:type mo:SoloMusicArtist ;
