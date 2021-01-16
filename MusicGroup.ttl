@@ -707,6 +707,14 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/b4375768-3c8b-46e7-b578-c920ccfe725f"^^xsd:anyURI ;
   rdfs:label "The Flying Burrito Brothers" ;
 .
+:Four_Non_Blondes
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassEH ;
+  rdf:type bibliographica:AlphaClassNUM ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/4_Non_Blondes.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/efef848b-63e4-4323-8ef7-69a48fbdd51d"^^xsd:anyURI ;
+  rdfs:label "4 Non Blondes" ;
+.
 :Freetown
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassEH ;
@@ -726,14 +734,6 @@
   bibliographica:dbpediaURI "http://dbpedia.org/data/Funk,_Inc..ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/ba4b6cca-e93f-451e-bf40-23e5af36f1fb"^^xsd:anyURI ;
   rdfs:label "Funk Inc." ;
-.
-:Four_Non_Blondes
-  rdf:type mo:MusicGroup ;
-  rdf:type bibliographica:AlphaClassEH ;
-  rdf:type bibliographica:AlphaClassNUM ;
-  bibliographica:dbpediaURI "http://dbpedia.org/data/4_Non_Blondes.ttl"^^xsd:anyURI ;
-  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/efef848b-63e4-4323-8ef7-69a48fbdd51d"^^xsd:anyURI ;
-  rdfs:label "4 Non Blondes" ;
 .
 :Gaelic_Storm
   rdf:type mo:MusicGroup ;
@@ -804,56 +804,6 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/e9b2f192-d21e-471b-8842-71373cb20080"^^xsd:anyURI ;
   rdfs:label "Guadalcanal Diary" ;
 .
-:Illinois_Jacquet_Ben_Webster
-  rdf:type mo:MusicGroup ;
-  rdf:type bibliographica:AlphaClassIL ;
-  bibliographica:dbpediaURI "http://dbpedia.org/data/Illinois_Jacquet.ttl"^^xsd:anyURI ;
-  bibliographica:dbpediaURI "http://dbpedia.org/data/Ben_Webster.ttl"^^xsd:anyURI ;
-  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/45288d5c-6d6c-41fb-acf9-e83b23ee01cb"^^xsd:anyURI ;
-  rdfs:label "Illinois Jacquet & Ben Webster Sextet" ;
-.
-:Indigenous
-  rdf:type mo:MusicGroup ;
-  rdf:type bibliographica:AlphaClassIL ;
-  bibliographica:dbpediaURI "http://dbpedia.org/data/Indigenous_(band).ttl"^^xsd:anyURI ;
-  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/4cd0fc03-a6a4-4bf5-b09b-5fdc6e510e42"^^xsd:anyURI ;
-  rdfs:label "Indigenous" ;
-.
-:Indigo_Girls
-  rdf:type mo:MusicGroup ;
-  rdf:type bibliographica:AlphaClassIL ;
-  bibliographica:dbpediaURI "http://dbpedia.org/data/Indigo_Girls.ttl"^^xsd:anyURI ;
-  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/00c49f40-d715-4b79-b223-432048602cce"^^xsd:anyURI ;
-  rdfs:label "Indigo Girls" ;
-.
-:Iron_Butterfly
-  rdf:type mo:MusicGroup ;
-  rdf:type bibliographica:AlphaClassIL ;
-  bibliographica:dbpediaURI "http://dbpedia.org/data/Iron_Butterfly.ttl"^^xsd:anyURI ;
-  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/3da3e7e1-e817-47e8-8624-635df4aedbe6"^^xsd:anyURI ;
-  rdfs:label "Iron Butterfly" ;
-.
-:James_Gang
-  rdf:type mo:MusicGroup ;
-  rdf:type bibliographica:AlphaClassIL ;
-  bibliographica:dbpediaURI "http://dbpedia.org/data/James_Gang.ttl"^^xsd:anyURI ;
-  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/4167b497-1ae5-4502-a8e6-e1546ffbe514"^^xsd:anyURI ;
-  rdfs:label "James Gang" ;
-.
-:Janes_Addiction
-  rdf:type mo:MusicGroup ;
-  rdf:type bibliographica:AlphaClassIL ;
-  bibliographica:dbpediaURI "http://dbpedia.org/data/Jane's_Addiction.ttl"^^xsd:anyURI ;
-  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/e3434cc7-d348-491a-9dc8-325af3d9086d"^^xsd:anyURI ;
-  rdfs:label "Jane's Addiction" ;
-.
-:Jazz_Is_Dead
-  rdf:type mo:MusicGroup ;
-  rdf:type bibliographica:AlphaClassIL ;
-  bibliographica:dbpediaURI "http://dbpedia.org/data/Jazz_Is_Dead.ttl"^^xsd:anyURI ;
-  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/df3226af-d263-4cf0-9ce8-fb3182eddba8"^^xsd:anyURI ;
-  rdfs:label "Jazz Is Dead" ;
-.
 :Halibuts
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassEH ;
@@ -881,18 +831,18 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/b746c051-3a42-4cf6-871a-bdcb39e78686"^^xsd:anyURI ;
   rdfs:label "Hart-Rouge" ;
 .
+:Heads
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/840645fa-d7ce-4ccb-8581-311efe6c2383"^^xsd:anyURI ;
+  rdfs:label "The Heads" ;
+.
 :Heart
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassEH ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Heart_(band).ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/bdbd48f5-abf3-4a4f-9a21-4551dbc3fde9"^^xsd:anyURI ;
   rdfs:label "Heart" ;
-.
-:Heads
-  rdf:type mo:MusicGroup ;
-  rdf:type bibliographica:AlphaClassEH ;
-  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/840645fa-d7ce-4ccb-8581-311efe6c2383"^^xsd:anyURI ;
-  rdfs:label "The Heads" ;
 .
 :Hem
   rdf:type mo:MusicGroup ;
@@ -928,12 +878,41 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/5c4c90a4-539f-4101-83cf-301bc6a94e06"^^xsd:anyURI ;
   rdfs:label "Hüsker Dü" ;
 .
+:Illinois_Jacquet_Ben_Webster
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Ben_Webster.ttl"^^xsd:anyURI ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Illinois_Jacquet.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/45288d5c-6d6c-41fb-acf9-e83b23ee01cb"^^xsd:anyURI ;
+  rdfs:label "Illinois Jacquet & Ben Webster Sextet" ;
+.
 :Incredible_String_Band
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassIL ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/The_Incredible_String_Band.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/04da193a-a956-4940-a6ca-e6021c7861c2"^^xsd:anyURI ;
   rdfs:label "The Incredible String Band" ;
+.
+:Indigenous
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Indigenous_(band).ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/4cd0fc03-a6a4-4bf5-b09b-5fdc6e510e42"^^xsd:anyURI ;
+  rdfs:label "Indigenous" ;
+.
+:Indigo_Girls
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Indigo_Girls.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/00c49f40-d715-4b79-b223-432048602cce"^^xsd:anyURI ;
+  rdfs:label "Indigo Girls" ;
+.
+:Iron_Butterfly
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Iron_Butterfly.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/3da3e7e1-e817-47e8-8624-635df4aedbe6"^^xsd:anyURI ;
+  rdfs:label "Iron Butterfly" ;
 .
 :JBs
   rdf:type mo:MusicGroup ;
@@ -948,6 +927,27 @@
   bibliographica:dbpediaURI "http://dbpedia.org/data/The_Jam.'s.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/23228f18-01d5-493e-94ce-cfcde82a8db2"^^xsd:anyURI ;
   rdfs:label "The Jam" ;
+.
+:James_Gang
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/James_Gang.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/4167b497-1ae5-4502-a8e6-e1546ffbe514"^^xsd:anyURI ;
+  rdfs:label "James Gang" ;
+.
+:Janes_Addiction
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Jane's_Addiction.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/e3434cc7-d348-491a-9dc8-325af3d9086d"^^xsd:anyURI ;
+  rdfs:label "Jane's Addiction" ;
+.
+:Jazz_Is_Dead
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Jazz_Is_Dead.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/df3226af-d263-4cf0-9ce8-fb3182eddba8"^^xsd:anyURI ;
+  rdfs:label "Jazz Is Dead" ;
 .
 :Jerry_Garcia_Band
   rdf:type mo:MusicGroup ;
@@ -1040,13 +1040,6 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/f052725a-f7aa-4764-b5ec-0ff39619fa78"^^xsd:anyURI ;
   rdfs:label "Latin Playboys" ;
 .
-:Lavay_Smith_Skillet_Lickers
-  rdf:type mo:MusicGroup ;
-  rdf:type bibliographica:AlphaClassQT ;
-  bibliographica:dbpediaURI "http://dbpedia.org/data/Lavay_Smith.ttl"^^xsd:anyURI ;
-  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/cb8d5012-d384-4574-a0b4-59a3aedddf52"^^xsd:anyURI ;
-  rdfs:label "Lavay Smith & Her Red Hot Skillet Lickers" ;
-.
 :Laughing_Hands
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassIL ;
@@ -1058,6 +1051,13 @@
   rdf:type bibliographica:AlphaClassIL ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/844c9b91-dee4-4d83-bb68-fe488a745b23"^^xsd:anyURI ;
   rdfs:label "Laurel Canyon Ramblers" ;
+.
+:Lavay_Smith_Skillet_Lickers
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Lavay_Smith.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/cb8d5012-d384-4574-a0b4-59a3aedddf52"^^xsd:anyURI ;
+  rdfs:label "Lavay Smith & Her Red Hot Skillet Lickers" ;
 .
 :Led_Zeppelin
   rdf:type mo:MusicGroup ;
@@ -1522,11 +1522,11 @@
 :Red_Knuckles
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassQT ;
-  owl:sameAs :Hot_Rize ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Hot_Rize.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/97240950-0968-4d30-8358-8d233be84d5d"^^xsd:anyURI ;
-  rdfs:label "Red Knuckles and the Trailblazers" ;
   rdfs:comment "Pseudonym/side project for the group Hot Rize." ;
+  rdfs:label "Red Knuckles and the Trailblazers" ;
+  owl:sameAs :Hot_Rize ;
 .
 :Renaissance
   rdf:type mo:MusicGroup ;
@@ -1707,13 +1707,6 @@
   rdf:type bibliographica:AlphaClassQT ;
   rdfs:label "Skin" ;
 .
-:Sixteen_Horsepower
-  rdf:type mo:MusicGroup ;
-  rdf:type bibliographica:AlphaClassQT ;
-  bibliographica:dbpediaURI "http://dbpedia.org/data/16_Horsepower.ttl"^^xsd:anyURI ;
-  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/9a22fc7b-ad7f-4c70-9e0f-4d40cd7562cd"^^xsd:anyURI ;
-  rdfs:label "Sixteen Horsepower" ;
-.
 :Sleater_Kinney
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassQT ;
@@ -1721,19 +1714,19 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/e36e78eb-3ace-4acd-882c-16789e700ab7"^^xsd:anyURI ;
   rdfs:label "Sleater Kinney" ;
 .
-:Sly_and_Robbie
-  rdf:type mo:MusicGroup ;
-  rdf:type bibliographica:AlphaClassQT ;
-  bibliographica:dbpediaURI "http://dbpedia.org/data/Sly_and_Robbie.ttl"^^xsd:anyURI ;
-  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/6e14dc18-9313-4afa-9344-4b6c2bf80fca"^^xsd:anyURI ;
-  rdfs:label "Sly & Robbie" ;
-.
 :Sly_Family_Stone
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassQT ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Sly_and_the_Family_Stone.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/b7ec4c54-1f93-4bf2-957f-7b9921ab84ea"^^xsd:anyURI ;
   rdfs:label "Sly & the Family Stone" ;
+.
+:Sly_and_Robbie
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Sly_and_Robbie.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/6e14dc18-9313-4afa-9344-4b6c2bf80fca"^^xsd:anyURI ;
+  rdfs:label "Sly & Robbie" ;
 .
 :Soft_Machine
   rdf:type mo:MusicGroup ;
@@ -1880,13 +1873,6 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/28b6ce62-5e14-443c-80b4-ebb8e04936e1"^^xsd:anyURI ;
   rdfs:label "Sweet Honey in the Rock" ;
 .
-:Sweet_Honey_Rock
-  rdf:type mo:MusicGroup ;
-  rdf:type bibliographica:AlphaClassQT ;
-  bibliographica:dbpediaURI "http://dbpedia.org/data/Sweet_Honey_in_the_Rock.ttl"^^xsd:anyURI ;
-  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/28b6ce62-5e14-443c-80b4-ebb8e04936e1"^^xsd:anyURI ;
-  rdfs:label "Sweet Honey in the Rock" ;
-.
 :Syrens
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassQT ;
@@ -1923,9 +1909,9 @@
 :Tarika_Sammy
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassQT ;
-  owl:sameAs :Tarika ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/e01363bc-0fd5-4f4b-9051-683c54c299ac"^^xsd:anyURI ;
   rdfs:label "Tarika Sammy" ;
+  owl:sameAs :Tarika ;
 .
 :Ten_Thousand_Maniacs
   rdf:type mo:MusicGroup ;
@@ -2199,6 +2185,13 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/c9e99d40-4a2c-4ca7-ac5b-e842264ee271"^^xsd:anyURI ;
   rdfs:label "The Wailers" ;
 .
+:War
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassWZ ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/War_(American_band).ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/3e6bbdb8-66c8-439c-a3d9-87391ce88740"^^xsd:anyURI ;
+  rdfs:label "War" ;
+.
 :Waterboys
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassWZ ;
@@ -2212,13 +2205,6 @@
   bibliographica:dbpediaURI "http://dbpedia.org/data/Waterson–Carthy.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/5e4be767-e691-415a-8f99-17d2fcbc4ce3"^^xsd:anyURI ;
   rdfs:label "Waterson:Carthy" ;
-.
-:War
-  rdf:type mo:MusicGroup ;
-  rdf:type bibliographica:AlphaClassWZ ;
-  bibliographica:dbpediaURI "http://dbpedia.org/data/War_(American_band).ttl"^^xsd:anyURI ;
-  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/3e6bbdb8-66c8-439c-a3d9-87391ce88740"^^xsd:anyURI ;
-  rdfs:label "War" ;
 .
 :Weather_Report
   rdf:type mo:MusicGroup ;
@@ -2253,6 +2239,12 @@
   rdf:type bibliographica:AlphaClassWZ ;
   rdfs:label "Word" ;
 .
+:Wynton_Kelly_Trio
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassWZ ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/8218b061-2d51-4375-affd-2e272083d12a"^^xsd:anyURI ;
+  rdfs:label "The Wynton Kelly Trio" ;
+.
 :X
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassWZ ;
@@ -2279,12 +2271,6 @@
   bibliographica:dbpediaURI "http://dbpedia.org/data/Yothu_Yindi.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/af5958c6-59b0-4335-a245-ddd46c4a4d9e"^^xsd:anyURI ;
   rdfs:label "Yothu Yindi" ;
-.
-:Wynton_Kelly_Trio
-  rdf:type mo:MusicGroup ;
-  rdf:type bibliographica:AlphaClassWZ ;
-  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/8218b061-2d51-4375-affd-2e272083d12a"^^xsd:anyURI ;
-  rdfs:label "The Wynton Kelly Trio" ;
 .
 :Zap_Mama
   rdf:type mo:MusicGroup ;

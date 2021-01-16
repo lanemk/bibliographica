@@ -1802,6 +1802,12 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/f39fe911-99b2-4a27-898e-c2f0ff458eed"^^xsd:anyURI ;
   rdfs:label "Jill Cohn" ;
 .
+:Jim_Harvey
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/113131a3-205a-4e78-87e5-daf3c52ffd43"^^xsd:anyURI ;
+  rdfs:label "Jim Harvey" ;
+.
 :Jim_McCaffrey
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassMP ;
@@ -1813,12 +1819,6 @@
   bibliographica:dbpediaURI "http://dbpedia.org/data/Jim_White_(musician).ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/e1f83b22-d40e-400a-8ebb-4e59b5b53d31"^^xsd:anyURI ;
   rdfs:label "Jim White" ;
-.
-:Jim_Harvey
-  rdf:type mo:SoloMusicArtist ;
-  rdf:type bibliographica:AlphaClassEH ;
-  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/113131a3-205a-4e78-87e5-daf3c52ffd43"^^xsd:anyURI ;
-  rdfs:label "Jim Harvey" ;
 .
 :Jimi_Hendrix
   rdf:type mo:SoloMusicArtist ;
@@ -2323,19 +2323,19 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/576134a6-9f1f-4bfa-af04-4848195849ca"^^xsd:anyURI ;
   rdfs:label "King Tubby" ;
 .
-:Kris_Delmhorst
-  rdf:type mo:SoloMusicArtist ;
-  rdf:type bibliographica:AlphaClassAD ;
-  bibliographica:dbpediaURI "http://dbpedia.org/data/Kris_Delmhorst.ttl"^^xsd:anyURI ;
-  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/67f50b10-79fb-487d-a6a0-1e8cc51e622b"^^xsd:anyURI ;
-  rdfs:label "Kris Delmhorst" ;
-.
 :Koko_Taylor
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassQT ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Koko_Taylor.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/9ebffe22-c6e0-49bc-a6c2-f79a97bc38b3"^^xsd:anyURI ;
   rdfs:label "Koko Taylor" ;
+.
+:Kris_Delmhorst
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Kris_Delmhorst.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/67f50b10-79fb-487d-a6a0-1e8cc51e622b"^^xsd:anyURI ;
+  rdfs:label "Kris Delmhorst" ;
 .
 :Kris_Kristofferson
   rdf:type mo:SoloMusicArtist ;
@@ -2561,19 +2561,19 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/eea8a864-fcda-4602-9569-38ab446decd6"^^xsd:anyURI ;
   rdfs:label "Louis Armstrong" ;
 .
-:Lucky_Dube
-  rdf:type mo:SoloMusicArtist ;
-  rdf:type bibliographica:AlphaClassAD ;
-  bibliographica:dbpediaURI "http://dbpedia.org/data/Lucky_Dube.ttl"^^xsd:anyURI ;
-  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/97aeedc1-f252-4cfa-a8d8-c895c490532f"^^xsd:anyURI ;
-  rdfs:label "Lucky Dube" ;
-.
 :Lucinda_Williams
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassWZ ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Lucinda_Williams.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/21685b15-3074-446e-aa1d-ff7157014f53"^^xsd:anyURI ;
   rdfs:label "Lucinda Williams" ;
+.
+:Lucky_Dube
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Lucky_Dube.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/97aeedc1-f252-4cfa-a8d8-c895c490532f"^^xsd:anyURI ;
+  rdfs:label "Lucky Dube" ;
 .
 :Lucy_Kaplansky
   rdf:type mo:SoloMusicArtist ;
@@ -2992,7 +2992,7 @@
 .
 :Neil_Young
   rdf:type mo:SoloMusicArtist ;
-  rdf:type bibliographica:AlphaClassXZ ;
+  rdf:type bibliographica:AlphaClassWZ ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Neil_Young.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/75167b8b-44e4-407b-9d35-effe87b223cf"^^xsd:anyURI ;
   rdfs:label "Neil Young" ;
@@ -3532,13 +3532,6 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/0f50beab-d77d-4f0f-ac26-0b87d3e9b11b"^^xsd:anyURI ;
   rdfs:label "Roger Waters" ;
 .
-:Rossy
-  rdf:type mo:SoloMusicArtist ;
-  rdf:type bibliographica:AlphaClassQT ;
-  bibliographica:dbpediaURI "http://dbpedia.org/data/Rossy_(musician).ttl"^^xsd:anyURI ;
-  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/c39462a1-2b7a-4333-b95f-d0620d974504"^^xsd:anyURI ;
-  rdfs:label "Rossy" ;
-.
 :Rory_Block
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassAD ;
@@ -3566,6 +3559,13 @@
   bibliographica:dbpediaURI "http://dbpedia.org/data/Rosie_Ledet.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/4d83ff86-8bab-4bbf-a64f-45a7e63f4339"^^xsd:anyURI ;
   rdfs:label "Rosie Ledet" ;
+.
+:Rossy
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Rossy_(musician).ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/c39462a1-2b7a-4333-b95f-d0620d974504"^^xsd:anyURI ;
+  rdfs:label "Rossy" ;
 .
 :Roy_Buchanan
   rdf:type mo:SoloMusicArtist ;
@@ -3622,19 +3622,19 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/a4e2650b-938b-4b72-95bc-6e229cd34601"^^xsd:anyURI ;
   rdfs:label "Ry Cooder" ;
 .
-:Sainkho_Namtchylak
-  rdf:type mo:SoloMusicArtist ;
-  rdf:type bibliographica:AlphaClassMP ;
-  bibliographica:dbpediaURI "http://dbpedia.org/data/Sainkho_Namtchylak.ttl"^^xsd:anyURI ;
-  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/b2b97779-e09d-4e76-a0c9-a4c80cf043fa"^^xsd:anyURI ;
-  rdfs:label "Sainkho Namtchylak" ;
-.
 :Sade
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassQT ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Sade_(singer).ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/67930b3e-e00b-469f-8c74-fd69f20522ec"^^xsd:anyURI ;
   rdfs:label "Sade Adu" ;
+.
+:Sainkho_Namtchylak
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Sainkho_Namtchylak.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/b2b97779-e09d-4e76-a0c9-a4c80cf043fa"^^xsd:anyURI ;
+  rdfs:label "Sainkho Namtchylak" ;
 .
 :Sally_Fingerett
   rdf:type mo:SoloMusicArtist ;
@@ -3994,19 +3994,19 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/7944ed53-2a58-4035-9b93-140a71e41c34"^^xsd:anyURI ;
   rdfs:label "Sting" ;
 .
-:Sun_Ra
-  rdf:type mo:SoloMusicArtist ;
-  rdf:type bibliographica:AlphaClassQT ;
-  bibliographica:dbpediaURI "http://dbpedia.org/data/Sun_Ra.ttl"^^xsd:anyURI ;
-  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/c27cac8e-4c4a-48c0-a4ba-41399b9c176d"^^xsd:anyURI ;
-  rdfs:label "Sun Ra" ;
-.
 :Sue_Foley
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassEH ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Sue_Foley.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/7699f64f-9a90-4291-902e-afeeed3e138f"^^xsd:anyURI ;
   rdfs:label "Sue Foley" ;
+.
+:Sun_Ra
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Sun_Ra.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/c27cac8e-4c4a-48c0-a4ba-41399b9c176d"^^xsd:anyURI ;
+  rdfs:label "Sun Ra" ;
 .
 :Susan_Greenbaum
   rdf:type mo:SoloMusicArtist ;
@@ -4214,6 +4214,13 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/1fd8a385-ab08-418e-afc1-cb85f8e96b3f"^^xsd:anyURI ;
   rdfs:label "Tony Levin" ;
 .
+:Tony_Rice
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Tony_Rice.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/ca90a5b0-cb18-4f94-9c14-116826fcc422"^^xsd:anyURI ;
+  rdfs:label "Tony Rice" ;
+.
 :Tony_Rich
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassQT ;
@@ -4221,13 +4228,6 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/1e3bdbd0-f15b-4038-895f-d9a1f6571436"^^xsd:anyURI ;
   rdfs:label "Tony Rich" ;
   skos:altLabel "The Tony Rich Project" ;
-.
-:Tony_Rice
-  rdf:type mo:SoloMusicArtist ;
-  rdf:type bibliographica:AlphaClassQT ;
-  bibliographica:dbpediaURI "http://dbpedia.org/data/Tony_Rice.ttl"^^xsd:anyURI ;
-  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/ca90a5b0-cb18-4f94-9c14-116826fcc422"^^xsd:anyURI ;
-  rdfs:label "Tony Rice" ;
 .
 :Tori_Amos
   rdf:type mo:SoloMusicArtist ;
