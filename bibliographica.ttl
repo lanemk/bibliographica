@@ -43,100 +43,106 @@ mo:MusicGroup
   rdf:type rdfs:Datatype ;
   rdf:type owl:Class ;
   rdfs:comment "Use for classifying creators by name as a group." ;
-  rdfs:label "Alphabetical Class A-D" ;
+  rdfs:label "A-D" ;
   rdfs:subClassOf :AlphaClass ;
   owl:disjointWith :AlphaClassEH ;
+  owl:disjointWith :AlphaClassIL ;
   owl:disjointWith :AlphaClassMP ;
   owl:disjointWith :AlphaClassNUM ;
   owl:disjointWith :AlphaClassQT ;
-  owl:disjointWith :AlphaClassUW ;
+  owl:disjointWith :AlphaClassUV ;
   owl:disjointWith :AlphaClassVarious ;
-  owl:disjointWith :AlphaClassXZ ;
+  owl:disjointWith :AlphaClassWZ ;
 .
 :AlphaClassEH
   rdf:type rdfs:Datatype ;
   rdf:type owl:Class ;
   rdfs:comment "Use for classifying creators by name as a group." ;
-  rdfs:label "Alphabetical Class E-H" ;
+  rdfs:label "E-H" ;
   rdfs:subClassOf :AlphaClass ;
   owl:disjointWith :AlphaClassAD ;
+  owl:disjointWith :AlphaClassIL ;
   owl:disjointWith :AlphaClassMP ;
   owl:disjointWith :AlphaClassNUM ;
   owl:disjointWith :AlphaClassQT ;
-  owl:disjointWith :AlphaClassUW ;
+  owl:disjointWith :AlphaClassUV ;
   owl:disjointWith :AlphaClassVarious ;
-  owl:disjointWith :AlphaClassXZ ;
+  owl:disjointWith :AlphaClassWZ ;
 .
 :AlphaClassIL
   rdf:type rdfs:Datatype ;
   rdf:type owl:Class ;
   rdfs:comment "Use for classifying creators by name as a group." ;
-  rdfs:label "Alphabetical Class I-L" ;
+  rdfs:label "I-L" ;
   rdfs:subClassOf :AlphaClass ;
   owl:disjointWith :AlphaClassAD ;
   owl:disjointWith :AlphaClassEH ;
   owl:disjointWith :AlphaClassMP ;
   owl:disjointWith :AlphaClassNUM ;
   owl:disjointWith :AlphaClassQT ;
-  owl:disjointWith :AlphaClassUW ;
+  owl:disjointWith :AlphaClassUV ;
   owl:disjointWith :AlphaClassVarious ;
-  owl:disjointWith :AlphaClassXZ ;
+  owl:disjointWith :AlphaClassWZ ;
 .
 :AlphaClassMP
   rdf:type rdfs:Datatype ;
   rdf:type owl:Class ;
   rdfs:comment "Use for classifying creators by name as a group." ;
-  rdfs:label "Alphabetical Class M-P" ;
+  rdfs:label "M-P" ;
   rdfs:subClassOf :AlphaClass ;
   owl:disjointWith :AlphaClassAD ;
   owl:disjointWith :AlphaClassEH ;
+  owl:disjointWith :AlphaClassIL ;
   owl:disjointWith :AlphaClassNUM ;
   owl:disjointWith :AlphaClassQT ;
-  owl:disjointWith :AlphaClassUW ;
+  owl:disjointWith :AlphaClassUV ;
   owl:disjointWith :AlphaClassVarious ;
-  owl:disjointWith :AlphaClassXZ ;
+  owl:disjointWith :AlphaClassWZ ;
 .
 :AlphaClassNUM
   rdf:type rdfs:Datatype ;
   rdf:type owl:Class ;
   rdfs:comment "Use for classifying creators by name as a group, only the name begins with a number (i.e., 10,000 Maniacs or 4 Non Blondes)." ;
-  rdfs:label "Alphabetical Class Numeric" ;
+  rdfs:label "Numeric" ;
   rdfs:subClassOf :AlphaClass ;
   owl:disjointWith :AlphaClassAD ;
   owl:disjointWith :AlphaClassEH ;
+  owl:disjointWith :AlphaClassIL ;
   owl:disjointWith :AlphaClassMP ;
   owl:disjointWith :AlphaClassQT ;
-  owl:disjointWith :AlphaClassUW ;
+  owl:disjointWith :AlphaClassUV ;
   owl:disjointWith :AlphaClassVarious ;
-  owl:disjointWith :AlphaClassXZ ;
+  owl:disjointWith :AlphaClassWZ ;
 .
 :AlphaClassQT
   rdf:type rdfs:Datatype ;
   rdf:type owl:Class ;
   rdfs:comment "Use for classifying creators by name as a group." ;
-  rdfs:label "Alphabetical Class Q-T" ;
+  rdfs:label "Q-T" ;
   rdfs:subClassOf :AlphaClass ;
   owl:disjointWith :AlphaClassAD ;
   owl:disjointWith :AlphaClassEH ;
+  owl:disjointWith :AlphaClassIL ;
   owl:disjointWith :AlphaClassMP ;
   owl:disjointWith :AlphaClassNUM ;
-  owl:disjointWith :AlphaClassUW ;
+  owl:disjointWith :AlphaClassUV ;
   owl:disjointWith :AlphaClassVarious ;
-  owl:disjointWith :AlphaClassXZ ;
+  owl:disjointWith :AlphaClassWZ ;
 .
-:AlphaClassUW
+:AlphaClassUV
   rdf:type rdfs:Datatype ;
   rdf:type owl:Class ;
   rdfs:comment "Use for classifying creators by name as a group." ;
-  rdfs:label "Alphabetical Class U-W" ;
+  rdfs:label "U-V" ;
   rdfs:subClassOf :AlphaClass ;
   owl:disjointWith :AlphaClassAD ;
   owl:disjointWith :AlphaClassEH ;
+  owl:disjointWith :AlphaClassIL ;
   owl:disjointWith :AlphaClassMP ;
   owl:disjointWith :AlphaClassNUM ;
   owl:disjointWith :AlphaClassQT ;
   owl:disjointWith :AlphaClassVarious ;
-  owl:disjointWith :AlphaClassXZ ;
+  owl:disjointWith :AlphaClassWZ ;
 .
 :AlphaClassVarious
   rdf:type rdfs:Datatype ;
@@ -146,24 +152,26 @@ mo:MusicGroup
   rdfs:subClassOf :AlphaClass ;
   owl:disjointWith :AlphaClassAD ;
   owl:disjointWith :AlphaClassEH ;
+  owl:disjointWith :AlphaClassIL ;
   owl:disjointWith :AlphaClassMP ;
   owl:disjointWith :AlphaClassNUM ;
   owl:disjointWith :AlphaClassQT ;
-  owl:disjointWith :AlphaClassUW ;
-  owl:disjointWith :AlphaClassXZ ;
+  owl:disjointWith :AlphaClassUV ;
+  owl:disjointWith :AlphaClassWZ ;
 .
-:AlphaClassXZ
+:AlphaClassWZ
   rdf:type rdfs:Datatype ;
   rdf:type owl:Class ;
   rdfs:comment "Use for classifying creators by name as a group." ;
-  rdfs:label "Alphabetical Class X-Z" ;
+  rdfs:label "W-Z" ;
   rdfs:subClassOf :AlphaClass ;
   owl:disjointWith :AlphaClassAD ;
   owl:disjointWith :AlphaClassEH ;
+  owl:disjointWith :AlphaClassIL ;
   owl:disjointWith :AlphaClassMP ;
   owl:disjointWith :AlphaClassNUM ;
   owl:disjointWith :AlphaClassQT ;
-  owl:disjointWith :AlphaClassUW ;
+  owl:disjointWith :AlphaClassUV ;
   owl:disjointWith :AlphaClassVarious ;
 .
 :LiveMusicRec
