@@ -4145,13 +4145,13 @@
 :Man_of_People
   rdf:type schema:Book ;
   dcterms:creator authors:Chinua_Achebe ;
-  dcterms:title "Things Fall Apart" ;
+  dcterms:title "A Man of the People" ;
   schema:author authors:Chinua_Achebe ;
   schema:isbn "0385086164" ;
   bibliographica:binNumber 10 ;
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1052671814.ttl"^^xsd:anyURI ;
-  rdfs:label "Things Fall Apart" ;
+  rdfs:label "A Man of the People" ;
 .
 :Man_on_Spikes
   rdf:type schema:Book ;
