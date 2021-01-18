@@ -343,6 +343,64 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/6b28ecf0-94e6-48bb-aa2a-5ede325b675b"^^xsd:anyURI ;
   rdfs:label "Blues Traveler" ;
 .
+:Bootleg_Series_Vol_1_3
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bob_Dylan ;
+  bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/695c83f9-0919-32b0-af9a-4e58eaf0411e"^^xsd:anyURI ;
+  rdfs:label "The Bootleg Series, Volumes 1–3: 1961–1991: Rare and Unreleased" ;
+.
+:Bootleg_Series_Vol_2
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bob_Dylan ;
+  bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
+  rdfs:label "The Bootleg Series, Volume 2" ;
+.
+:Bootleg_Series_Vol_3
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bob_Dylan ;
+  bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
+  rdfs:label "The Bootleg Series, Volume 3" ;
+.
+:Bootleg_Series_Vol_4
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bob_Dylan ;
+  bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/49da924d-13fd-32be-8e22-7093f5ef400e"^^xsd:anyURI ;
+  rdfs:label "The Bootleg Series, Vol. 4: Live 1966: The “Royal Albert Hall” Concert" ;
+.
+:Bootleg_Series_Vol_5
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bob_Dylan ;
+  bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/8ca47636-6fd8-3e17-9095-09503f605440"^^xsd:anyURI ;
+  rdfs:label "The Bootleg Series, Vol. 5: Live 1975: The Rolling Thunder Revue" ;
+.
+:Bootleg_Series_Vol_6
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bob_Dylan ;
+  bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/a7a11770-e2e5-38a3-8c5b-9280d65dd9a5"^^xsd:anyURI ;
+  rdfs:label "The Bootleg Series, Vol. 6: Live 1964: Concert at Philharmonic Hall" ;
+.
 :Born_Under_Bad_Sign
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -575,6 +633,18 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/81ca2960-9b7b-4715-a58b-0ea48965793e"^^xsd:anyURI ;
   rdfs:label "Double Barrel Blues" ;
 .
+:Dylan_Cash_Sessions
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bob_Dylan ;
+  dcterms:creator SoloMusicArtist:Johnny_Cash ;
+  bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
+  bibliographica:byArtist SoloMusicArtist:Johnny_Cash ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/60984c42-154f-46cc-ba2e-e7503f582646"^^xsd:anyURI ;
+  rdfs:label "The Dylan/Cash Sessions" ;
+.
 :Dylan_and_Dead
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -606,6 +676,26 @@
   bibliographica:byArtist SoloMusicArtist:Badi_Assad ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c69cdb18-5195-4a43-9e26-9d66622fd926"^^xsd:anyURI ;
   rdfs:label "Echoes of Brazil" ;
+.
+:Emmett_Grogan_Acetates
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bob_Dylan ;
+  bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d05fa3ed-3cd3-48d5-95e0-48f90882d476"^^xsd:anyURI ;
+  rdfs:label "Emmett Grogan Acetates" ;
+.
+:Empire_Burlesque
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bob_Dylan ;
+  bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/a90b32b2-c84d-35ad-bab3-07e6799cde5b"^^xsd:anyURI ;
+  rdfs:label "Empire Burlesque" ;
 .
 :Essential_the_Very_Best_Of
   rdf:type mo:CD ;
@@ -668,6 +758,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/da61b4b3-33c4-4995-92a2-ecc58c46c4d8"^^xsd:anyURI ;
   rdfs:label "Go Tell It On The Mountain" ;
 .
+:Good_As_I_Been_to_You
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bob_Dylan ;
+  bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/43f420f8-44ca-3ff2-92c2-c6f285cb163b"^^xsd:anyURI ;
+  rdfs:label "Good As I Been to You" ;
+.
 :Good_Stuff
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -717,6 +817,16 @@
   bibliographica:byArtist MusicGroup:Baka_Beyond ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/30258950-da8c-4b26-b3eb-42ab828e682d"^^xsd:anyURI ;
   rdfs:label "Heart of the Forest" ;
+.
+:Highway_61_Revisited
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bob_Dylan ;
+  bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/fb48b1dc-412f-36aa-8820-1023c08c46c6"^^xsd:anyURI ;
+  rdfs:label "Highway 61 Revisited" ;
 .
 :Highway_Cafe_Of_The_Damned
   rdf:type mo:CD ;
@@ -805,6 +915,26 @@
   bibliographica:byArtist MusicGroup:Ten_Thousand_Maniacs ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/53349b3c-d994-465e-a317-01853338178b"^^xsd:anyURI ;
   rdfs:label "In My Tribe" ;
+.
+:Infidels
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bob_Dylan ;
+  bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/60f27712-263a-348c-8eda-b5315a67e8c2"^^xsd:anyURI ;
+  rdfs:label "Infidels" ;
+.
+:Influence_Vol_2
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bob_Dylan ;
+  bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/0187ebe9-bc40-48d5-bee0-716ec5c4996d"^^xsd:anyURI ;
+  rdfs:label "Influence Vol. 2: I Was Young When I Left Home" ;
 .
 :L_Amour_ou_la_Folie
   rdf:type mo:CD ;
@@ -908,6 +1038,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e92792f7-ed85-4e80-8e38-c06646222c03"^^xsd:anyURI ;
   rdfs:label "Lone Rhino" ;
 .
+:Love_and_Theft
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bob_Dylan ;
+  bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/9980ffe5-c5b5-3a83-8c1e-1ec6618f97ca"^^xsd:anyURI ;
+  rdfs:label "Love and Theft" ;
+.
 :Lost_In_Space
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -927,6 +1067,27 @@
   bibliographica:byArtist SoloMusicArtist:Connie_Kaldor ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/0c307b37-f849-485b-ae2f-c2cbd1591269"^^xsd:anyURI ;
   rdfs:label "Love Is A Truck" ;
+.
+:MTV_Unplugged
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bob_Dylan ;
+  bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/3ee15c41-77b1-32bd-9513-d6035444a34e"^^xsd:anyURI ;
+  rdfs:label "MTV Unplugged" ;
+.
+:Masked_and_Anonymous
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:VariousDylan ;
+  bibliographica:byArtist MusicGroup:VariousDylan ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/85acb6fb-8fc2-48b5-9ec5-d764c752d2ec"^^xsd:anyURI ;
+  rdfs:label "Masked and Anonymous" ;
+  skos:related SoloMusicArtist:Bob_Dylan ;
 .
 :Medusa
   rdf:type mo:CD ;
@@ -948,6 +1109,16 @@
   rdfs:comment "Item not listed in MusicBrainz." ;
   rdfs:label "Mile Marker" ;
 .
+:Modern_Times
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bob_Dylan ;
+  bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/d300b74b-02b4-33e3-998e-e4405e8e6580"^^xsd:anyURI ;
+  rdfs:label "Modern Times" ;
+.
 :Mr_Music_Head
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -957,6 +1128,26 @@
   bibliographica:byArtist SoloMusicArtist:Adrian_Belew ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/12a04743-dff0-49b8-a5cb-e4368920cd30"^^xsd:anyURI ;
   rdfs:label "Mr Music Head" ;
+.
+:Nashville_Skyline
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bob_Dylan ;
+  bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/2ca28746-8987-3015-b54c-75b3aa8ca1a1"^^xsd:anyURI ;
+  rdfs:label "Nashville Skyline" ;
+.
+:Oh_Mercy
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bob_Dylan ;
+  bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/36675813-6c3c-33fa-8eaf-b1cd66d4f006"^^xsd:anyURI ;
+  rdfs:label "Oh Mercy" ;
 .
 :One_Kind
   rdf:type mo:CD ;
@@ -1048,6 +1239,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/420c81ba-31a2-4475-8c8d-3dfa94a44985"^^xsd:anyURI ;
   rdfs:label "Places" ;
 .
+:Planet_Waves
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bob_Dylan ;
+  bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/aedd518d-d7e0-3595-80c7-54d2aad292f8"^^xsd:anyURI ;
+  rdfs:label "Planet Waves" ;
+.
 :Pulse_Where_Rhythm_Begins
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1057,6 +1258,16 @@
   bibliographica:byArtist SoloMusicArtist:Brent_Lewis ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/bff31636-944b-4d39-8bab-5f6e7e5dd3be"^^xsd:anyURI ;
   rdfs:label "Pulse - Where the Rhythm Begins" ;
+.
+:Real_Live
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bob_Dylan ;
+  bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/c071ff9b-51f6-3999-aaba-594002dc6022"^^xsd:anyURI ;
+  rdfs:label "Real Live" ;
 .
 :Reckoning_Revelling
   rdf:type mo:CD ;
@@ -1118,6 +1329,16 @@
   bibliographica:byArtist SoloMusicArtist:Beth_Nielsen_Chapman ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/b44ebc7f-0564-3c9e-b2f5-47f9abc78e7a"^^xsd:anyURI ;
   rdfs:label "Sand and Water" ;
+.
+:Self_Portrait
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bob_Dylan ;
+  bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/6163aa70-d97f-34e5-a5bf-54b7d85a7ea0"^^xsd:anyURI ;
+  rdfs:label "Self Portrait" ;
 .
 :Side_Four
   rdf:type mo:CD ;
@@ -1383,6 +1604,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/6b54bc4b-f8a5-43c4-80e4-b5b4fe4b93c4"^^xsd:anyURI ;
   rdfs:label "The Wishing Chair" ;
 .
+:Theme_Time_Radio_Hour
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:VariousDylan ;
+  bibliographica:byArtist MusicGroup:VariousDylan ;
+  rdfs:label "Theme Time Radio Hour" ;
+  skos:related SoloMusicArtist:Bob_Dylan ;
+.
 :There_Must_Be_a_Better_World
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1392,6 +1623,16 @@
   bibliographica:byArtist SoloMusicArtist:BB_King ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/09f8ede5-4767-41ee-9831-24475a8cf2d2"^^xsd:anyURI ;
   rdfs:label "There Must Be a Better World" ;
+.
+:Thin_Wild_Mercury_Music
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bob_Dylan ;
+  bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/38f40f0f-677a-40ce-ba2f-4da1c93cfa70"^^xsd:anyURI ;
+  rdfs:label "Thin Wild Mercury Music" ;
 .
 :Thirty_Greatest_Hits
   rdf:type mo:CD ;
@@ -1412,6 +1653,26 @@
   bibliographica:byArtist MusicGroup:Arrested_Development ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/ede793b4-4976-3b7a-ba3b-fde6801de64c"^^xsd:anyURI ;
   rdfs:label "3 Years, 5 Months & 2 Days in the Life of…" ;
+.
+:Time_Out_of_Mind
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bob_Dylan ;
+  bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/dad1dada-1fda-3186-beb7-3bc80e90f9e0"^^xsd:anyURI ;
+  rdfs:label "Time Out of Mind" ;
+.
+:Together_Through_Life
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bob_Dylan ;
+  bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/2202f7cc-6ce1-3aea-85b0-163347528402"^^xsd:anyURI ;
+  rdfs:label "Together Through Life" ;
 .
 :Too_Good_to_Be_Forgotten
   rdf:type mo:CD ;
@@ -1471,6 +1732,16 @@
   bibliographica:byArtist SoloMusicArtist:Anita_O_Day ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/68c030aa-d70b-4c14-92bb-feebcca9eb6f"^^xsd:anyURI ;
   rdfs:label "Ultimate Anita O'Day" ;
+.
+:Under_Red_Sky
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bob_Dylan ;
+  bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/8d231aa3-4a4e-306a-a3f9-4421e846bb1a"^^xsd:anyURI ;
+  rdfs:label "Under the Red Sky" ;
 .
 :Unplugged
   rdf:type mo:CD ;
@@ -1584,6 +1855,16 @@
   bibliographica:byArtist SoloMusicArtist:Billy_Bragg ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/01f8a2a0-8996-4277-9f00-10b27b51db78"^^xsd:anyURI ;
   rdfs:label "William Bloke" ;
+.
+:World_Gone_Wrong
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bob_Dylan ;
+  bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/3cba7f03-13b4-4c2c-9307-f8dc3db4a678"^^xsd:anyURI ;
+  rdfs:label "World Gone Wrong" ;
 .
 :Year_of_the_Cat
   rdf:type mo:CD ;

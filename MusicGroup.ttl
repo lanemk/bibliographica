@@ -2157,6 +2157,11 @@
   rdf:type bibliographica:AlphaClassWZ ;
   rdfs:label "Various Bluegrass" ;
 .
+:VariousDylan
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassWZ ;
+  rdfs:label "Various Dylan Contributors" ;
+.
 :Velvet_Underground
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassUV ;
