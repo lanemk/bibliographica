@@ -305,6 +305,7 @@
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassIL ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/B.B._King.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/dcb03ce3-67a5-4eb3-b2d1-2a12d93a38f3"^^xsd:anyURI ;
   rdfs:label "B.B. King" ;
 .
 :Baaba_Maal
@@ -532,6 +533,7 @@
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassAD ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Bobby_Bland.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/66ebc271-6a26-4fe7-848b-f217da119d92"^^xsd:anyURI ;
   rdfs:label "Bobby Bland" ;
 .
 :Bonnie_Raitt

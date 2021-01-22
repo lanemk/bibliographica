@@ -127,6 +127,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/df329032-9dc4-39bf-b70e-127c8ae1c2b1"^^xsd:anyURI ;
   rdfs:label "Bad Company ‘Original’ Anthology" ;
 .
+:Anything_Anytime_Anywhere
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/a570c094-2522-3717-8236-1b6cf1863536"^^xsd:anyURI ;
+  rdfs:label "Anything Anytime Anywhere (Singles 1979-2002)" ;
+.
 :Arethas_Gold
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -232,10 +242,10 @@
   rdf:type mo:Record ;
   rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
-  dcterms:creator SoloMusicArtist:Bob_Dylan ;
   dcterms:creator MusicGroup:The_Band ;
-  bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
+  dcterms:creator SoloMusicArtist:Bob_Dylan ;
   bibliographica:byArtist MusicGroup:The_Band ;
+  bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/47873729-6db0-3431-99e7-0292e939dadf"^^xsd:anyURI ;
   rdfs:label "The Basement Tapes" ;
 .
@@ -264,12 +274,22 @@
   rdf:type mo:Record ;
   rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
-  dcterms:creator SoloMusicArtist:Bob_Dylan ;
   dcterms:creator MusicGroup:The_Band ;
-  bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
+  dcterms:creator SoloMusicArtist:Bob_Dylan ;
   bibliographica:byArtist MusicGroup:The_Band ;
+  bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/d11eff0d-e0e7-35f4-b114-c90910028333"^^xsd:anyURI ;
   rdfs:label "Before the Flood" ;
+.
+:Big_Circumstance
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/a6949ea3-e29c-3fa3-a21a-2c87b38c4e72"^^xsd:anyURI ;
+  rdfs:label "Big Circumstance" ;
 .
 :Bigger_Better_Faster_More
   rdf:type mo:CD ;
@@ -421,6 +441,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/8a01d8cb-52dd-464f-9f3f-82feed851ee2"^^xsd:anyURI ;
   rdfs:label "Bouncing Off The Satellites" ;
 .
+:Breakfast_New_Orleans_Dinner_Timbuktu
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/08bc0277-fcb2-3a52-8bbc-f7411d76d6df"^^xsd:anyURI ;
+  rdfs:label "Breakfast in New Orleans, Dinner in Timbuktu" ;
+.
 :Brothers_And_Sisters
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -461,6 +491,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/7f2ed214-9239-4c78-8059-4da3bcd50b0e"^^xsd:anyURI ;
   rdfs:label "Chameleon" ;
 .
+:Charity_of_Night
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/79f2f3a8-102a-3046-b2ff-bdfa2a1c63db"^^xsd:anyURI ;
+  rdfs:label "The Charity of Night" ;
+.
 :Check_It_Out
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -490,6 +530,26 @@
   bibliographica:byArtist SoloMusicArtist:Christine_Kane ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/17c91d2f-df86-4355-b7c0-55d4046e0cb2"^^xsd:anyURI ;
   rdfs:label "Christine Kane Live" ;
+.
+:Christmas
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/3d92083e-0fb5-3196-bc5c-8caf855f5f24"^^xsd:anyURI ;
+  rdfs:label "Christmas" ;
+.
+:Circles_Stream
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/c0177a80-ebea-33e5-a68b-4427f315337c"^^xsd:anyURI ;
+  rdfs:label "Circles in the Stream" ;
 .
 :Colour_Moving_Still
   rdf:type mo:CD ;
@@ -543,6 +603,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/6b452115-016f-4253-967a-21ef6c661ea8"^^xsd:anyURI ;
   rdfs:label "Cut Me Loose" ;
 .
+:Dancing_Dragons_Jaws
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/ba5f83b8-90cb-306c-b445-ca4bf0d6eb03"^^xsd:anyURI ;
+  rdfs:label "Dancing in the Dragon's Jaws" ;
+.
 :Dark_Massive_Disengage
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -552,6 +622,16 @@
   bibliographica:byArtist SoloMusicArtist:Bill_Laswell ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/26c06ad5-e1c3-44e5-b0e8-ca17c6a25e7c"^^xsd:anyURI ;
   rdfs:label "Dark Massive Disengage Ambient Compendium" ;
+.
+:Dart_to_Heart
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/678bef56-4dc4-39b2-9d2f-e0ede6c0a7b9"^^xsd:anyURI ;
+  rdfs:label "Dart to the Heart" ;
 .
 :Deeper_Still
   rdf:type mo:CD ;
@@ -650,10 +730,10 @@
   rdf:type mo:Record ;
   rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
-  dcterms:creator SoloMusicArtist:Bob_Dylan ;
   dcterms:creator MusicGroup:Grateful_Dead ;
-  bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
+  dcterms:creator SoloMusicArtist:Bob_Dylan ;
   bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/4eed761b-1e14-43ec-902c-852656fa91fd"^^xsd:anyURI ;
   rdfs:label "Dylan & the Dead" ;
 .
@@ -748,6 +828,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/8070e370-5fe6-48c7-bad5-77c9a013da13"^^xsd:anyURI ;
   rdfs:label "Friend of Mine" ;
 .
+:Further_Adventures_Of
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/6b80ccf2-7b73-3f5d-81e4-482f9ba038bd"^^xsd:anyURI ;
+  rdfs:label "Further Adventures Of" ;
+.
 :Go_Tell_It_On_The_Mountain
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -808,6 +898,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/30183d1e-5e82-4e4e-aa21-24acb295d0d3"^^xsd:anyURI ;
   rdfs:label "Gravity (bonus disc)" ;
 .
+:Harbourfront
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
+  rdfs:label "Harbourfront" ;
+  rdfs:comment "Can't locate on Musicbrainz." ;
+.
 :Heart_of_the_Forest
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -817,6 +917,16 @@
   bibliographica:byArtist MusicGroup:Baka_Beyond ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/30258950-da8c-4b26-b3eb-42ab828e682d"^^xsd:anyURI ;
   rdfs:label "Heart of the Forest" ;
+.
+:High_Winds_White_Sky
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/98b7b16f-650d-3e95-92ff-5ee1f822adb9"^^xsd:anyURI ;
+  rdfs:label "High Winds White Sky" ;
 .
 :Highway_61_Revisited
   rdf:type mo:CD ;
@@ -887,6 +997,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/325514f8-6c84-454e-a082-1801e5334730"^^xsd:anyURI ;
   rdfs:label "Horses In The Mines" ;
 .
+:Humans
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/ccac25e5-6b0b-3c3a-aef9-9a8acec87cc9"^^xsd:anyURI ;
+  rdfs:label "Humans" ;
+.
 :Humpty_Dumpty
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -916,6 +1036,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/53349b3c-d994-465e-a317-01853338178b"^^xsd:anyURI ;
   rdfs:label "In My Tribe" ;
 .
+:In_the_Falling_Dark
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/d24828c6-ac62-33eb-8ac5-284cb38e3b8a"^^xsd:anyURI ;
+  rdfs:label "In the Falling Dark" ;
+.
 :Infidels
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -935,6 +1065,46 @@
   bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/0187ebe9-bc40-48d5-bee0-716ec5c4996d"^^xsd:anyURI ;
   rdfs:label "Influence Vol. 2: I Was Young When I Left Home" ;
+.
+:Inner_City_Front
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/523af397-7eea-3b7b-8af9-72507fc6a811"^^xsd:anyURI ;
+  rdfs:label "Inner City Front" ;
+.
+:Jou_a_Rive
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Boukan_Ginen ;
+  bibliographica:byArtist MusicGroup:Boukan_Ginen ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/6e4709d0-47ed-3545-b93f-305d7bce8033"^^xsd:anyURI ;
+  rdfs:label "Jou A Rive" ;
+.
+:Joy_Will_Find_a_Way
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/993cbfb4-ae76-3ca0-a7ba-fba4eeb4e1fa"^^xsd:anyURI ;
+  rdfs:label "Joy Will Find a Way" ;
+.
+:Kiss_of_Fire
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Brave_Combo ;
+  bibliographica:byArtist MusicGroup:Brave_Combo ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/397ee5d4-80b5-33a1-8a10-77da7e5c1f19"^^xsd:anyURI ;
+  rdfs:label "Kiss of Fire" ;
 .
 :L_Amour_ou_la_Folie
   rdf:type mo:CD ;
@@ -956,6 +1126,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/79c313a5-0e50-4572-8aa6-fd0d297abd97"^^xsd:anyURI ;
   rdfs:label "Let It Be" ;
 .
+:Life_Short_Call_Now
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/8e1b0c51-eafb-38dd-b6cc-c4903f554d1a"^^xsd:anyURI ;
+  rdfs:label "Life Short Call Now" ;
+.
 :Little_Plastic_Castle
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -965,6 +1145,16 @@
   bibliographica:byArtist SoloMusicArtist:Ani_DiFranco ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/585b0223-d5a5-3839-880f-590a64a62bc7"^^xsd:anyURI ;
   rdfs:label "Little Plastic Castle" ;
+.
+:Live_BC
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/0f8aefe0-47e3-394b-83cd-c8e7cb85010d"^^xsd:anyURI ;
+  rdfs:label "Live" ;
 .
 :Live_Adventures
   rdf:type mo:CD ;
@@ -997,6 +1187,26 @@
   bibliographica:byArtist MusicGroup:BeauSoleil ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e848f2d0-2506-4378-8f2f-dbd599cf853f"^^xsd:anyURI ;
   rdfs:label "Live! From the Left Coast" ;
+.
+:Live_at_Habibi
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Boo_Zoo_Chavis ;
+  bibliographica:byArtist SoloMusicArtist:Boo_Zoo_Chavis ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/ca5d4a18-67d1-416c-80c2-68a916d8ba3e"^^xsd:anyURI ;
+  rdfs:label "Live at the Habibi Temple" ;
+.
+:Live_on_World_Cafe
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
+  rdfs:label "Live" ;
+  rdfs:comment "Can't locate on Musicbrainz." ;
 .
 :Living_In_Clip
   rdf:type mo:CD ;
@@ -1038,16 +1248,6 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e92792f7-ed85-4e80-8e38-c06646222c03"^^xsd:anyURI ;
   rdfs:label "Lone Rhino" ;
 .
-:Love_and_Theft
-  rdf:type mo:CD ;
-  rdf:type mo:Record ;
-  rdf:type mo:Release ;
-  rdf:type schema:MusicAlbum ;
-  dcterms:creator SoloMusicArtist:Bob_Dylan ;
-  bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
-  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/9980ffe5-c5b5-3a83-8c1e-1ec6618f97ca"^^xsd:anyURI ;
-  rdfs:label "Love and Theft" ;
-.
 :Lost_In_Space
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1067,6 +1267,16 @@
   bibliographica:byArtist SoloMusicArtist:Connie_Kaldor ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/0c307b37-f849-485b-ae2f-c2cbd1591269"^^xsd:anyURI ;
   rdfs:label "Love Is A Truck" ;
+.
+:Love_and_Theft
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bob_Dylan ;
+  bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/9980ffe5-c5b5-3a83-8c1e-1ec6618f97ca"^^xsd:anyURI ;
+  rdfs:label "Love and Theft" ;
 .
 :MTV_Unplugged
   rdf:type mo:CD ;
@@ -1109,6 +1319,16 @@
   rdfs:comment "Item not listed in MusicBrainz." ;
   rdfs:label "Mile Marker" ;
 .
+:Misc
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Bombay_Black ;
+  bibliographica:byArtist MusicGroup:Bombay_Black ;
+  rdfs:comment "Not sure what release this is; could be Anger Management." ;
+  rdfs:label "Misc" ;
+.
 :Modern_Times
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1129,6 +1349,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/12a04743-dff0-49b8-a5cb-e4368920cd30"^^xsd:anyURI ;
   rdfs:label "Mr Music Head" ;
 .
+:Mummy_Dust
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/b802a83a-e993-35fb-b193-e471df209127"^^xsd:anyURI ;
+  rdfs:label "Mummy Dust" ;
+.
 :Nashville_Skyline
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1138,6 +1368,26 @@
   bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/2ca28746-8987-3015-b54c-75b3aa8ca1a1"^^xsd:anyURI ;
   rdfs:label "Nashville Skyline" ;
+.
+:Night_Vision
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/c663c0fb-c739-3191-b099-13ed01fd6df8"^^xsd:anyURI ;
+  rdfs:label "Night Vision" ;
+.
+:Nothing_But_Burning_Light
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/49fb19c2-b8a3-3462-94ba-8847841024ce"^^xsd:anyURI ;
+  rdfs:label "Nothing But a Burning Light" ;
 .
 :Oh_Mercy
   rdf:type mo:CD ;
@@ -1311,6 +1561,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/127fbd4a-f67a-4797-b360-75a9cf448bc5"^^xsd:anyURI ;
   rdfs:label "The Root of Steely Dan" ;
 .
+:Salt_Sun_Time
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/f13f7bb7-94bf-3630-8b3b-27cbe824da29"^^xsd:anyURI ;
+  rdfs:label "Salt, Sun and Time" ;
+.
 :Sampler
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1380,6 +1640,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/fb46f60d-700f-4de4-b1da-f2a885327eea"^^xsd:anyURI ;
   rdfs:label "Siyabamukela" ;
 .
+:Slice_o_Life
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/c0a1e7f5-c3c1-3bfc-8b06-31c5996928b2"^^xsd:anyURI ;
+  rdfs:label "Slice o Life: Bruce Cockburn Live Solo" ;
+.
 :Slow_Circle
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1399,6 +1669,16 @@
   bibliographica:byArtist MusicGroup:Austin_Lounge_Lizards ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/718c57ed-3fd4-45d0-be22-75366f83c4ca"^^xsd:anyURI ;
   rdfs:label "Small Minds" ;
+.
+:Small_Source_of_Comfort
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/2cd80143-986c-480d-867e-3cd90ddea154"^^xsd:anyURI ;
+  rdfs:label "Small Source of Comfort" ;
 .
 :So_Much_Shouting_So_Much_Laughter
   rdf:type mo:CD ;
@@ -1452,6 +1732,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/d87c9431-cc3e-37e8-9181-5fc69a917c3a"^^xsd:anyURI ;
   rdfs:label "Southern Exposure" ;
 .
+:Speechless
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/6d83ea55-2b3a-3aaf-a9f8-e84d21fc04ef"^^xsd:anyURI ;
+  rdfs:label "Speechless" ;
+.
 :Spirit_of_Century
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1472,6 +1762,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/cd30cc39-3855-3e83-ab92-623831c66829"^^xsd:anyURI ;
   rdfs:label "Spirit of the Forest" ;
 .
+:Stealing_Fire
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/57fa6f1e-4a34-3bc5-9120-5afbbe1ae8a1"^^xsd:anyURI ;
+  rdfs:label "Stealing Fire" ;
+.
 :Stranger_to_This_Land
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1480,6 +1780,16 @@
   dcterms:creator SoloMusicArtist:Barbara_Kessler ;
   bibliographica:byArtist SoloMusicArtist:Barbara_Kessler ;
   rdfs:label "Stranger to This Land" ;
+.
+:Sunwheel_Dance
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/d85e6674-9ff4-3e11-be8f-eb6b11c5f47d"^^xsd:anyURI ;
+  rdfs:label "Sunwheel Dance" ;
 .
 :Super_Session
   rdf:type mo:CD ;
@@ -1664,6 +1974,18 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/dad1dada-1fda-3186-beb7-3bc80e90f9e0"^^xsd:anyURI ;
   rdfs:label "Time Out of Mind" ;
 .
+:Together_Again
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:BB_King ;
+  dcterms:creator SoloMusicArtist:Bobby_Bland ;
+  bibliographica:byArtist SoloMusicArtist:BB_King ;
+  bibliographica:byArtist SoloMusicArtist:Bobby_Bland ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a5318f8d-415a-43b5-bcf5-57ef11428c9a"^^xsd:anyURI ;
+  rdfs:label "Together Again - Live" ;
+.
 :Together_Through_Life
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1693,6 +2015,16 @@
   bibliographica:byArtist SoloMusicArtist:Billy_Cobham ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/6c895bc5-7781-3cef-829e-0e1449b9c2f1"^^xsd:anyURI ;
   rdfs:label "Total Eclipse" ;
+.
+:Trouble_With_Normal
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/27ab04af-2286-3f0d-9793-734b8caa464b"^^xsd:anyURI ;
+  rdfs:label "The Trouble With Normal" ;
 .
 :Tumblin_Down
   rdf:type mo:CD ;
@@ -1866,6 +2198,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/3cba7f03-13b4-4c2c-9307-f8dc3db4a678"^^xsd:anyURI ;
   rdfs:label "World Gone Wrong" ;
 .
+:World_of_Wonders
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/4abb4993-7960-3331-8535-471c71cf9d76"^^xsd:anyURI ;
+  rdfs:label "World of Wonders" ;
+.
 :Year_of_the_Cat
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1876,6 +2218,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/8f195fea-549e-4659-97a8-d9e619361ab0"^^xsd:anyURI ;
   rdfs:label "Year of the Cat" ;
 .
+:You_Pay_Your_Money
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/9a900f5d-28dd-3efa-b3c1-298fc84fc11b"^^xsd:anyURI ;
+  rdfs:label "You Pay Your Money and You Take Your Chance" ;
+.
 :Young_Lions
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1885,4 +2237,14 @@
   bibliographica:byArtist SoloMusicArtist:Adrian_Belew ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/38a32ba3-77e1-35c1-83aa-828b7913fd1a"^^xsd:anyURI ;
   rdfs:label "Young Lions" ;
+.
+:Youve_Never_Seen_Anything
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/6c88bc8e-eaee-3670-ad6b-e37cef8b3e1c"^^xsd:anyURI ;
+  rdfs:label "You've Never Seen Everything" ;
 .
