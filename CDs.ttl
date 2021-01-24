@@ -47,6 +47,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/bc0307b3-229a-4952-ab70-d6b95010d6c6"^^xsd:anyURI ;
   rdfs:label "Alice's Restaurant" ;
 .
+:All_Understood
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Buchanan ;
+  bibliographica:byArtist MusicGroup:Buchanan ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/37668bae-12e8-312e-8a75-5746a27f4d3a"^^xsd:anyURI ;
+  rdfs:label "All Understood" ;
+.
 :Amaduduzo_compilation
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -291,6 +301,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/a6949ea3-e29c-3fa3-a21a-2c87b38c4e72"^^xsd:anyURI ;
   rdfs:label "Big Circumstance" ;
 .
+:Big_Squeeze
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Clifton_Chenier ;
+  bibliographica:byArtist SoloMusicArtist:Clifton_Chenier ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d2b16d45-69ea-463b-847b-2e18dd48bfab"^^xsd:anyURI ;
+  rdfs:label "The Big Squeeze" ;
+.
 :Bigger_Better_Faster_More
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -461,6 +481,25 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d4766e51-f342-33c6-924c-f33f6180775f"^^xsd:anyURI ;
   rdfs:label "Brothers And Sisters" ;
 .
+:Buena_Vista_Social_Club_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Buena_Vista_Social_Club ;
+  bibliographica:byArtist MusicGroup:Buena_Vista_Social_Club ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/32bbab8e-02c0-30d2-9e23-a19739864b84"^^xsd:anyURI ;
+  rdfs:label "Buena Vista Social Club" ;
+.
+:Bug_Toast_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Bug_Toast ;
+  bibliographica:byArtist MusicGroup:Bug_Toast ;
+  rdfs:label "Bug Toast" ;
+.
 :By_The_Hand_Of_The_Father
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -471,6 +510,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/0e7e13a7-0aa9-4d45-9213-2c86581d0ae7"^^xsd:anyURI ;
   rdfs:label "By The Hand Of The Father" ;
 .
+:Caberet_Diosa_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Caberet_Diosa ;
+  bibliographica:byArtist MusicGroup:Caberet_Diosa ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d0bda965-b993-4a69-a128-f246531287f6"^^xsd:anyURI ;
+  rdfs:label "Cajun Conja" ;
+.
 :Cajun_Conja
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -480,6 +529,36 @@
   bibliographica:byArtist MusicGroup:BeauSoleil ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b34eef68-3932-4565-ba34-296fffa71caf"^^xsd:anyURI ;
   rdfs:label "Cajun Conja" ;
+.
+:Camper_Van_Beethoven_Is_Dead
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Camper_Van_Beethoven ;
+  bibliographica:byArtist MusicGroup:Camper_Van_Beethoven ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/6d301dde-12d6-436b-9ebe-b57fc3dd6696"^^xsd:anyURI ;
+  rdfs:label "Camper Van Beethoven Is Dead. Long Live Camper Van Beethoven" ;
+.
+:Camper_Vantiquities
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Camper_Van_Beethoven ;
+  bibliographica:byArtist MusicGroup:Camper_Van_Beethoven ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/76c70a24-7fb9-4714-a34c-8b1a7d0d98d2"^^xsd:anyURI ;
+  rdfs:label "Camper Vantiquities" ;
+.
+:Carried_to_Dust
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Calexico ;
+  bibliographica:byArtist MusicGroup:Calexico ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b83cc750-3ed1-458d-b7f8-a8bbb73e1d21"^^xsd:anyURI ;
+  rdfs:label "Carried to Dust" ;
 .
 :Chameleon
   rdf:type mo:CD ;
@@ -592,6 +671,16 @@
   bibliographica:byArtist SoloMusicArtist:Annie_Gallup ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a4603320-5599-4bc4-894e-b1d6cf523616"^^xsd:anyURI ;
   rdfs:label "Courage My Love" ;
+.
+:Crosswinds
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Capercaillie ;
+  bibliographica:byArtist MusicGroup:Capercaillie ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c1c2ad27-c1c2-4b6a-9e0e-87a88525cce7"^^xsd:anyURI ;
+  rdfs:label "Crosswinds" ;
 .
 :Cut_Me_Loose
   rdf:type mo:CD ;
@@ -712,6 +801,16 @@
   bibliographica:byArtist MusicGroup:Barrel_of_Blues ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/81ca2960-9b7b-4715-a58b-0ea48965793e"^^xsd:anyURI ;
   rdfs:label "Double Barrel Blues" ;
+.
+:Double_Live
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Butthole_Surfers ;
+  bibliographica:byArtist MusicGroup:Butthole_Surfers ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/34e761bc-583e-4715-ac95-734d9d5c5ab0"^^xsd:anyURI ;
+  rdfs:label "Double Live" ;
 .
 :Dylan_Cash_Sessions
   rdf:type mo:CD ;
@@ -1026,6 +1125,26 @@
   bibliographica:byArtist MusicGroup:Bleecker_Street ;
   rdfs:label "I Need A Gun And A Drunk" ;
 .
+:II_and_III
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Camper_Van_Beethoven ;
+  bibliographica:byArtist MusicGroup:Camper_Van_Beethoven ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a505ccef-2315-3339-8a6b-c183dfa9e7c1"^^xsd:anyURI ;
+  rdfs:label "II & III" ;
+.
+:Im_Staying_Out
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Caitlin_Cary ;
+  bibliographica:byArtist SoloMusicArtist:Caitlin_Cary ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a49b0395-f239-48d3-aa65-4149365a9e71"^^xsd:anyURI ;
+  rdfs:label "I'm Staying Out" ;
+.
 :In_My_Tribe
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1045,6 +1164,16 @@
   bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/d24828c6-ac62-33eb-8ac5-284cb38e3b8a"^^xsd:anyURI ;
   rdfs:label "In the Falling Dark" ;
+.
+:In_the_Mouth_Crocodile
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Camper_Van_Beethoven ;
+  bibliographica:byArtist MusicGroup:Camper_Van_Beethoven ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/3bafdd01-b13d-4d27-8625-8a7fba81c096"^^xsd:anyURI ;
+  rdfs:label "In the Mouth of the Crocodile: Live in Seattle" ;
 .
 :Infidels
   rdf:type mo:CD ;
@@ -1076,6 +1205,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/523af397-7eea-3b7b-8af9-72507fc6a811"^^xsd:anyURI ;
   rdfs:label "Inner City Front" ;
 .
+:Jazz_Profile
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Cannonball_Adderley ;
+  bibliographica:byArtist SoloMusicArtist:Cannonball_Adderley ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/ad7e5fe8-6182-4574-b10c-ae65877026b1s"^^xsd:anyURI ;
+  rdfs:label "Jazz Profile" ;
+.
 :Jou_a_Rive
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1096,6 +1235,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/993cbfb4-ae76-3ca0-a7ba-fba4eeb4e1fa"^^xsd:anyURI ;
   rdfs:label "Joy Will Find a Way" ;
 .
+:Key_Lime_Pie
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Camper_Van_Beethoven ;
+  bibliographica:byArtist MusicGroup:Camper_Van_Beethoven ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d826b19f-df20-4a9c-9a49-f10328c9b245"^^xsd:anyURI ;
+  rdfs:label "Key Lime Pie" ;
+.
 :Kiss_of_Fire
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1115,6 +1264,16 @@
   bibliographica:byArtist MusicGroup:BeauSoleil ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/5311e9f9-fe6d-4d1c-ba21-46d4b8e0bd71"^^xsd:anyURI ;
   rdfs:label "L'Amour ou la Folie" ;
+.
+:Last_Time_Around
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Buffalo_Springfield ;
+  bibliographica:byArtist MusicGroup:Buffalo_Springfield ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/fb39d4c7-d68c-36d1-a2c2-93fc7ccbdcc8"^^xsd:anyURI ;
+  rdfs:label "Last Time Around" ;
 .
 :Let_It_Be
   rdf:type mo:CD ;
@@ -1197,6 +1356,16 @@
   bibliographica:byArtist SoloMusicArtist:Boo_Zoo_Chavis ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/ca5d4a18-67d1-416c-80c2-68a916d8ba3e"^^xsd:anyURI ;
   rdfs:label "Live at the Habibi Temple" ;
+.
+:Live_in_Paris
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Burning_Spear ;
+  bibliographica:byArtist MusicGroup:Burning_Spear ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5960fe04-1b1c-4fe0-a557-bdd05dc952ae"^^xsd:anyURI ;
+  rdfs:label "Live in Paris: Zenith '88" ;
 .
 :Live_on_World_Cafe
   rdf:type mo:CD ;
@@ -1359,6 +1528,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/b802a83a-e993-35fb-b193-e471df209127"^^xsd:anyURI ;
   rdfs:label "Mummy Dust" ;
 .
+:My_Baby_Dont_Wear_Shoes
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Clifton_Chenier ;
+  bibliographica:byArtist SoloMusicArtist:Clifton_Chenier ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/eeaa31c9-056c-4d06-8f3c-909fbf7d18ce"^^xsd:anyURI ;
+  rdfs:label "My Baby Don't Wear No Shoes" ;
+.
 :Nashville_Skyline
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1368,6 +1547,16 @@
   bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/2ca28746-8987-3015-b54c-75b3aa8ca1a1"^^xsd:anyURI ;
   rdfs:label "Nashville Skyline" ;
+.
+:New_Roman_Times
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Camper_Van_Beethoven ;
+  bibliographica:byArtist MusicGroup:Camper_Van_Beethoven ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/0f2384c4-7ef1-426e-9fdc-efeaf2d443c5"^^xsd:anyURI ;
+  rdfs:label "New Roman Times" ;
 .
 :Night_Vision
   rdf:type mo:CD ;
@@ -1418,6 +1607,16 @@
   bibliographica:byArtist MusicGroup:Bad_Company ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/191f7ef5-d208-4959-8422-1159844bebb3"^^xsd:anyURI ;
   rdfs:label "The ‘Original’ Bad Co. Anthology" ;
+.
+:Our_Beloved_Revolutionary
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Camper_Van_Beethoven ;
+  bibliographica:byArtist MusicGroup:Camper_Van_Beethoven ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/3a3d0f74-3487-4976-9093-b6414adc6963"^^xsd:anyURI ;
+  rdfs:label "Our Beloved Revolutionary Sweetheart" ;
 .
 :Outbound
   rdf:type mo:CD ;
@@ -1845,6 +2044,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/570f5f29-bf35-38ed-8e6e-26ea1f8e24f4"^^xsd:anyURI ;
   rdfs:label "Tapestry" ;
 .
+:Telephone_Free_Landslide
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Camper_Van_Beethoven ;
+  bibliographica:byArtist MusicGroup:Camper_Van_Beethoven ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/278cf805-812d-3de8-bfc5-f5d5ef5e00fe"^^xsd:anyURI ;
+  rdfs:label "Telephone Free Landslide Victory" ;
+.
 :Tell_It_Like_It_Is
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1944,6 +2153,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/38f40f0f-677a-40ce-ba2f-4da1c93cfa70"^^xsd:anyURI ;
   rdfs:label "Thin Wild Mercury Music" ;
 .
+:Third_Album_Plus_Vampire
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Camper_Van_Beethoven ;
+  bibliographica:byArtist MusicGroup:Camper_Van_Beethoven ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9535e03a-51e0-4919-b508-4391c046c538"^^xsd:anyURI ;
+  rdfs:label "The Third Album plus Vampire Can Mating Oven" ;
+.
 :Thirty_Greatest_Hits
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2006,6 +2225,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/87921985-431d-307c-9627-e3ecbda9e3a7"^^xsd:anyURI ;
   rdfs:label "Too Good to Be Forgotten" ;
 .
+:Too_Much_Fun
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Clifton_Chenier ;
+  bibliographica:byArtist SoloMusicArtist:Clifton_Chenier ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/8662b84c-87f7-4414-8f5b-ab1b82f544e4"^^xsd:anyURI ;
+  rdfs:label "Too Much Fun" ;
+.
 :Total_Eclipse
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2045,6 +2274,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c415ccb6-432f-478e-ab9b-469231b6febb"^^xsd:anyURI ;
   rdfs:label "A Turtle's Dream" ;
 .
+:Tusk_CVB
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Camper_Van_Beethoven ;
+  bibliographica:byArtist MusicGroup:Camper_Van_Beethoven ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/4eb272d9-99cb-462d-a2d9-a6a4fd9bdce0"^^xsd:anyURI ;
+  rdfs:label "Tusk" ;
+.
 :Twang_Bar_King
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2064,6 +2303,17 @@
   bibliographica:byArtist SoloMusicArtist:Anita_O_Day ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/68c030aa-d70b-4c14-92bb-feebcca9eb6f"^^xsd:anyURI ;
   rdfs:label "Ultimate Anita O'Day" ;
+.
+:Ultra_Hi_Fidelity
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Caitlin_Cary ;
+  bibliographica:byArtist SoloMusicArtist:Caitlin_Cary ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/284ce5a4-1b89-4e35-9bf4-e9058736747a"^^xsd:anyURI ;
+  rdfs:label "Ultra Hi-Fidelity" ;
+  rdfs:comment "A bonus CD from While You Weren't Looking" ;
 .
 :Under_Red_Sky
   rdf:type mo:CD ;
@@ -2117,6 +2367,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/f36d8ca5-df31-4f0a-8b30-644dd61c9874"^^xsd:anyURI ;
   rdfs:label "¡Viva Zapata!" ;
 .
+:Waltzie
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Caitlin_Cary ;
+  bibliographica:byArtist SoloMusicArtist:Caitlin_Cary ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/4942576d-9f1a-467e-9b13-b710dc77e187"^^xsd:anyURI ;
+  rdfs:label "Waltzie" ;
+.
 :When_There_is_Love
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2137,6 +2397,16 @@
   bibliographica:byArtist SoloMusicArtist:Anders_Osborne ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e3107a4a-d7d7-4a10-9e4d-5e95d795629f"^^xsd:anyURI ;
   rdfs:label "Which Way to Here" ;
+.
+:While_You_Werent_Looking
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Caitlin_Cary ;
+  bibliographica:byArtist SoloMusicArtist:Caitlin_Cary ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/284ce5a4-1b89-4e35-9bf4-e9058736747a"^^xsd:anyURI ;
+  rdfs:label "While You Weren't Looking" ;
 .
 :White_Album
   rdf:type mo:CD ;

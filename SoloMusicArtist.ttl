@@ -628,12 +628,14 @@
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassAD ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/C._J._Chenier.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/f5133038-c9d7-4fa2-8ec4-a44199571e25"^^xsd:anyURI ;
   rdfs:label "C. J. Chenier" ;
 .
 :Caitlin_Cary
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassAD ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Caitlin_Cary.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/efa0679e-e1f0-4f84-a76a-6482da009343"^^xsd:anyURI ;
   rdfs:label "Caitlin Cary" ;
 .
 :Cal_Tjader
@@ -647,6 +649,7 @@
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassAD ;
   bibliographica:dbpediaURI "http://dbpedia.org/Cannonball_Adderley.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/a4c73ebe-b2c7-4f13-b99d-2fe1f9f27da8"^^xsd:anyURI ;
   rdfs:label "Cannonball Adderley" ;
 .
 :Captain_Beefheart
@@ -811,12 +814,14 @@
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassAD ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Clifford_Brown.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/2a291f34-73cb-40c5-b721-eab1269c7ba8"^^xsd:anyURI ;
   rdfs:label "Clifford Brown" ;
 .
 :Clifton_Chenier
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassAD ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Clifton_Chenier.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/db1a3066-1586-495d-a09c-1312cabab5be"^^xsd:anyURI ;
   rdfs:label "Clifton Chenier" ;
 .
 :Clive_Gregson
