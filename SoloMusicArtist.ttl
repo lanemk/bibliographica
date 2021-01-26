@@ -652,13 +652,6 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/a4c73ebe-b2c7-4f13-b99d-2fe1f9f27da8"^^xsd:anyURI ;
   rdfs:label "Cannonball Adderley" ;
 .
-:Captain_Beefheart
-  rdf:type mo:SoloMusicArtist ;
-  rdf:type bibliographica:AlphaClassAD ;
-  bibliographica:dbpediaURI "http://dbpedia.org/Captain_Beefheart.ttl"^^xsd:anyURI ;
-  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/a1594afa-2f6b-4596-a156-a35853dca691"^^xsd:anyURI ;
-  rdfs:label "Captain Beefheart" ;
-.
 :Carla_Olson
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassMP ;

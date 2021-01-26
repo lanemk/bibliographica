@@ -560,6 +560,15 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b83cc750-3ed1-458d-b7f8-a8bbb73e1d21"^^xsd:anyURI ;
   rdfs:label "Carried to Dust" ;
 .
+:Carlpole_Mudbomb
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Carlpole ;
+  bibliographica:byArtist MusicGroup:Carlpole ;
+  rdfs:label "Carlpole & Buddy Mudbomb" ;
+.
 :Chameleon
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -915,6 +924,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/fe9668c3-69fd-3e11-ac34-c66fbc329c6c"^^xsd:anyURI ;
   rdfs:label "Fingerlings 3" ;
 .
+:First_Time
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Carri_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:Carri_Coltrane ;
+  rdfs:label "The First Time" ;
+  rdfs:comment "No Musicbrainz CD reference." ;
+.
 :Friend_of_Mine
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -936,6 +955,16 @@
   bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/6b80ccf2-7b73-3f5d-81e4-482f9ba038bd"^^xsd:anyURI ;
   rdfs:label "Further Adventures Of" ;
+.
+:Genuine_Negro_Jig
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Carolina_Chocolate_Drops ;
+  bibliographica:byArtist MusicGroup:Carolina_Chocolate_Drops ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c8480d46-bfbc-3213-9717-51d843483f51"^^xsd:anyURI ;
+  rdfs:label "Genuine Negro Jig" ;
 .
 :Go_Tell_It_On_The_Mountain
   rdf:type mo:CD ;
@@ -1284,6 +1313,16 @@
   bibliographica:byArtist MusicGroup:Beatles ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/79c313a5-0e50-4572-8aa6-fd0d297abd97"^^xsd:anyURI ;
   rdfs:label "Let It Be" ;
+.
+:Lick_My_Decals
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Captain_Beefheart_Magic_Band ;
+  bibliographica:byArtist MusicGroup:Captain_Beefheart_Magic_Band ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b8f697e9-5f44-4ff9-82b4-87e7a509e978"^^xsd:anyURI ;
+  rdfs:label "Lick My Decals Off, Baby" ;
 .
 :Life_Short_Call_Now
   rdf:type mo:CD ;
@@ -1799,6 +1838,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/6163aa70-d97f-34e5-a5bf-54b7d85a7ea0"^^xsd:anyURI ;
   rdfs:label "Self Portrait" ;
 .
+:Shiny_Beast
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Captain_Beefheart_Magic_Band ;
+  bibliographica:byArtist MusicGroup:Captain_Beefheart_Magic_Band ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/5887c600-15a7-3c40-9b8b-49aac410be6d"^^xsd:anyURI ;
+  rdfs:label "Shiny Beast (Bat Chain Puller)" ;
+.
 :Side_Four
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2254,6 +2303,16 @@
   bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/27ab04af-2286-3f0d-9793-734b8caa464b"^^xsd:anyURI ;
   rdfs:label "The Trouble With Normal" ;
+.
+:Trout_Mask_Replica
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Captain_Beefheart_Magic_Band ;
+  bibliographica:byArtist MusicGroup:Captain_Beefheart_Magic_Band ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/e6a580bd-5d29-3acd-a959-0bfab002ee6f"^^xsd:anyURI ;
+  rdfs:label "Trout Mask Replica" ;
 .
 :Tumblin_Down
   rdf:type mo:CD ;

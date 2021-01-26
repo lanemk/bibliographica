@@ -391,6 +391,13 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/3020fb04-9795-412f-8474-bf6d2ac6d29c"^^xsd:anyURI ;
   rdfs:label "Capercaillie" ;
 .
+:Captain_Beefheart_Magic_Band
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/Captain_Beefheart.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/8dcd04e4-7695-4d80-bae9-1d7d680a38ef"^^xsd:anyURI ;
+  rdfs:label "Captain Beefheart & His Magic Band" ;
+.
 :Carlpole
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassAD ;
