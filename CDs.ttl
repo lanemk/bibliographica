@@ -569,6 +569,26 @@
   bibliographica:byArtist MusicGroup:Carlpole ;
   rdfs:label "Carlpole & Buddy Mudbomb" ;
 .
+:Catie_Curtis_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Catie_Curtis ;
+  bibliographica:byArtist SoloMusicArtist:Catie_Curtis ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/06a1ea99-732d-477e-ac07-1abb3a09e255"^^xsd:anyURI ;
+  rdfs:label "Catie Curtis" ;
+.
+:Celine_Dion_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Celine_Dion ;
+  bibliographica:byArtist SoloMusicArtist:Celine_Dion ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/cb514bea-1f43-4594-9db0-5038f0677d38"^^xsd:anyURI ;
+  rdfs:label "Céline Dion" ;
+.
 :Chameleon
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -578,6 +598,15 @@
   bibliographica:byArtist SoloMusicArtist:Badi_Assad ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/7f2ed214-9239-4c78-8059-4da3bcd50b0e"^^xsd:anyURI ;
   rdfs:label "Chameleon" ;
+.
+:Chante
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Chante ;
+  bibliographica:byArtist SoloMusicArtist:Chante ;
+  rdfs:label "Prairie Girl" ;
 .
 :Charity_of_Night
   rdf:type mo:CD ;
@@ -1426,6 +1455,15 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/26e2e2c5-be8f-3588-b845-9379c96b4630"^^xsd:anyURI ;
   rdfs:label "Living In Clip" ;
 .
+:Lizard_Music
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Cheifetz_Johansen ;
+  bibliographica:byArtist MusicGroup:Cheifetz_Johansen ;
+  rdfs:label "Lizard Vision" ;
+.
 :Lizard_Vision
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1948,6 +1986,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/df16587e-9f53-4ff2-98c6-4afe28b1f34d"^^xsd:anyURI ;
   rdfs:label "Solo" ;
 .
+:Someone_to_Love
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Charles_Brown ;
+  bibliographica:byArtist SoloMusicArtist:Charles_Brown ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5b673500-3d8d-4899-a373-665849a1cb9e"^^xsd:anyURI ;
+  rdfs:label "Someone to Love" ;
+.
 :Son_of_the_Wind
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1979,6 +2027,16 @@
   bibliographica:byArtist SoloMusicArtist:Alex_de_Grassi ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/d87c9431-cc3e-37e8-9181-5fc69a917c3a"^^xsd:anyURI ;
   rdfs:label "Southern Exposure" ;
+.
+:Sparks_Gonna_Fly
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Catherine_Wheel ;
+  bibliographica:byArtist MusicGroup:Catherine_Wheel ;
+  bibliographica:musicbrainzURI
+  rdfs:label "Sparks Are Gonna Fly (promo)" ;
 .
 :Speechless
   rdf:type mo:CD ;

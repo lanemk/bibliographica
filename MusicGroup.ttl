@@ -417,6 +417,11 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/37e3dd97-73f9-4c69-b50d-0c0e3c47c40c"^^xsd:anyURI ;
   rdfs:label "The Catherine Wheel" ;
 .
+:Cheifetz_Johansen
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassAD ;
+  rdfs:label "Cheifetz & Johansen" ;
+.
 :Cherry_Poppin_Daddies
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassAD ;

@@ -696,13 +696,15 @@
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassAD ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Catie_Curtis.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/85028af2-b99b-3590-bd6b-499dec9ef8d0"^^xsd:anyURI ;
   rdfs:label "Catie Curtis" ;
 .
 :Celine_Dion
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassAD ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Celine_Dion.ttl"^^xsd:anyURI ;
-  rdfs:label "Celine Dion" ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/48d0bd2b-0507-334b-8b67-6ab3897b9a3b"^^xsd:anyURI ;
+  rdfs:label "Céline Dion" ;
 .
 :Cesaria_Evora
   rdf:type mo:SoloMusicArtist ;
@@ -722,6 +724,13 @@
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassAD ;
   rdfs:label "Chanté" ;
+.
+:Charles_Brown
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Charles_Brown_(musician).ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/dbc9229a-6fb7-43b1-9763-df1e87112a93f"^^xsd:anyURI ;
+  rdfs:label "Charles Brown" ;
 .
 :Charles_Mingus
   rdf:type mo:SoloMusicArtist ;
