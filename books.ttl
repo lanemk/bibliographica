@@ -427,6 +427,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/758054751.ttl"^^xsd:anyURI ;
   rdfs:label "The Art of Digital Video" ;
 .
+:Art_of_Garde_Manger
+  rdf:type schema:Book ;
+  dcterms:creator authors:Frederic_Sonnenschmidt ;
+  dcterms:title "The Professional Chef's Art of Garde Manger" ;
+  schema:author authors:Frederic_Sonnenschmidt ;
+  schema:isbn "0843622237" ;
+  bibliographica:binNumber 14 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/7814240.ttl"^^xsd:anyURI ;
+  rdfs:label "The Professional Chef's Art of Garde Manger" ;
+.
 :Artemis_Fowl
   rdf:type schema:Book ;
   dcterms:creator authors:Eoin_Colfer ;
@@ -2010,6 +2021,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/32693013.ttl"^^xsd:anyURI ;
   rdfs:label "Diet for a Small Planet" ;
 .
+:Diet_for_a_Small_Planet_2
+  rdf:type schema:Book ;
+  dcterms:creator authors:Frances_Moore_Lappe ;
+  dcterms:title "Diet for a Small Planet" ;
+  schema:author authors:Frances_Moore_Lappe ;
+  schema:isbn "0345295242" ;
+  bibliographica:binNumber 14 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/32693013.ttl"^^xsd:anyURI ;
+  rdfs:label "Diet for a Small Planet" ;
+.
 :Different_Dances
   rdf:type schema:Book ;
   dcterms:creator authors:Shel_Silverstein ;
@@ -2933,6 +2955,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/492412781.ttl"^^xsd:anyURI ;
   rdfs:label "The Great shark hunt : Strange tales from a strange time" ;
+.
+:Greens_Cookbook
+  rdf:type schema:Book ;
+  dcterms:creator authors:Deborah_Madison ;
+  dcterms:title "The Greens cook book : extraordinary vegetarian cuisine from the celebrated restaurant" ;
+  schema:author authors:Deborah_Madison ;
+  schema:isbn "0553051954" ;
+  bibliographica:binNumber 14 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/606020479.ttl"^^xsd:anyURI ;
+  rdfs:label "The Greens Cook Book" ;
 .
 :Griffin_Sabine
   rdf:type schema:Book ;
@@ -5340,6 +5373,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/894571741.ttl"^^xsd:anyURI ;
   rdfs:label "Reality is Broken" ;
 .
+:Recipe_for_Small_Planet
+  rdf:type schema:Book ;
+  dcterms:creator authors:Ellen_Ewald ;
+  dcterms:title "Recipes for a small planet; the art and science of high protein vegetarian cookery" ;
+  schema:author authors:Ellen_Ewald ;
+  schema:isbn "0345308719" ;
+  bibliographica:binNumber 14 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/699377.ttl"^^xsd:anyURI ;
+  rdfs:label "Recipes for a Small Planet" ;
+.
 :Red_Earth_Pouring_Rain
   rdf:type schema:Book ;
   dcterms:creator authors:Vikram_Chandra ;
@@ -6853,6 +6897,17 @@
   schema:author authors:Andrea_Barrett ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/27068491.ttl"^^xsd:anyURI ;
   rdfs:label "The Forms of Water" ;
+.
+:The_Frugal_Gourmet_Cooks
+  rdf:type schema:Book ;
+  dcterms:creator authors:Jeff_Smith ;
+  dcterms:title "The Frugal Gourmet Cooks Three Ancient Cuisines : China, Greece, Rome" ;
+  schema:author authors:Jeff_Smith ;
+  schema:isbn "0380712172" ;
+  bibliographica:binNumber 14 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/83204475.ttl"^^xsd:anyURI ;
+  rdfs:label "The Frugal Gourmet Cooks Three Ancient Cuisines" ;
 .
 :The_Funnies
   rdf:type schema:Book ;

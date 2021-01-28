@@ -997,6 +997,13 @@
   rdfs:label "David Stanley" ;
   foaf:name "David Stanley" ;
 .
+:Deborah_Madison
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Deborah_Madison.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/6372813/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Deborah Madison" ;
+  foaf:name "Deborah Madison" ;
+.
 :DeLorme_Mapping_Company
   rdf:type schema:Organization ;
   bibliographica:viafURI "https://viaf.org/viaf/266202041/rdf.xml"^^xsd:anyURI ;
@@ -1181,6 +1188,12 @@
   rdfs:label "Elizabeth David" ;
   foaf:name "Elizabeth David" ;
 .
+:Ellen_Ewald
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/116759379/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Ellen Buchman Ewald" ;
+  foaf:name "Ellen Buchman Ewald" ;
+.
 :Elliot_Perlman
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Elliot_Perlman.ttl"^^xsd:anyURI ;
@@ -1309,6 +1322,12 @@
   bibliographica:viafURI "https://viaf.org/viaf/20980989/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Fred Darvill" ;
   foaf:name "Fred T. Darvill, Jr." ;
+.
+:Frederic_Sonnenschmidt
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/24577465/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Frederic H. Sonnenschmidt" ;
+  foaf:name "Frederic H. Sonnenschmidt" ;
 .
 :Frederick_Copleston
   rdf:type schema:Person ;
@@ -1819,11 +1838,18 @@
   rdfs:label "Jean Zallinger" ;
   foaf:name "Jean Zallinger" ;
 .
-:
+:Jeff_Shapiro
   rdf:type schema:Person ;
   bibliographica:viafURI "http://viaf.org/viaf/56717951/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Jeff Shapiro" ;
   foaf:name "Jeff Shapiro" ;
+.
+:Jeff_Smith
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Jeff_Smith_(chef).ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/48620269/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Jeff Smith" ;
+  foaf:name "Jeff Smith" ;
 .
 :Jennifer_Egan
   rdf:type schema:Person ;

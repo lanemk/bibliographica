@@ -757,12 +757,14 @@
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassAD ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Chet_Baker.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/1ba1d493-7114-45e2-b163-a36d49a0c065"^^xsd:anyURI ;
   rdfs:label "Chet Baker" ;
 .
 :Chick_Corea
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassAD ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Chick_Corea.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/8446fcca-109e-4c6d-a2ff-5a269b32b4c2"^^xsd:anyURI ;
   rdfs:label "Chick Corea" ;
 .
 :Chris_Whitley
@@ -776,6 +778,7 @@
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassAD ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Christine_Collister.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/d46021e8-e269-40bd-a6d0-cf20da529b59"^^xsd:anyURI ;
   rdfs:label "Christine Collister" ;
 .
 :Christine_Kane
@@ -810,7 +813,8 @@
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassAD ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Clarence_\"Gatemouth\"_Brown.ttl"^^xsd:anyURI ;
-  rdfs:label "Clarence \"Gatemouth\" Brown" ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/039e3952-2f73-49f4-86fe-7aaee4a89a17"^^xsd:anyURI ;
+  rdfs:label "Clarence Gatemouth Brown" ;
 .
 :Clifford_Brown
   rdf:type mo:SoloMusicArtist ;

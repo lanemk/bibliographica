@@ -37,6 +37,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/2fa972a2-9165-3423-9ab1-38ed7b07e807"^^xsd:anyURI ;
   rdfs:label "Abbey is Blue" ;
 .
+:Acoustic_Band_Alive
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Chick_Corea_Akoustic ;
+  bibliographica:byArtist MusicGroup:Chick_Corea_Akoustic ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/81a1687c-bc01-4e27-b2b2-4f0f89e60c87"^^xsd:anyURI ;
+  rdfs:label "Acoustic Band Alive" ;
+.
 :Alices_Restaurant
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -56,6 +66,26 @@
   bibliographica:byArtist MusicGroup:Buchanan ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/37668bae-12e8-312e-8a75-5746a27f4d3a"^^xsd:anyURI ;
   rdfs:label "All Understood" ;
+.
+:Allies
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Crosby_Stills_Nash_Young ;
+  bibliographica:byArtist MusicGroup:Crosby_Stills_Nash_Young ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/caa689c7-3a25-41a9-aa54-dd48a2e0fa06"^^xsd:anyURI ;
+  rdfs:label "Allies" ;
+.
+:Alright_Again
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Clarence_Gatemouth_Brown ;
+  bibliographica:byArtist SoloMusicArtist:Clarence_Gatemouth_Brown ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/2c4f7d83-a2b0-475c-b12f-9aaf498f66a3"^^xsd:anyURI ;
+  rdfs:label "Alright Again!" ;
 .
 :Amaduduzo_compilation
   rdf:type mo:CD ;
@@ -97,6 +127,26 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/1c08f8c7-ba86-4c66-be7f-0a0f3e87cc8b"^^xsd:anyURI ;
   rdfs:label "America" ;
 .
+:American_Dream
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Crosby_Stills_Nash_Young ;
+  bibliographica:byArtist MusicGroup:Crosby_Stills_Nash_Young ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/21b59084-8dd2-4f42-9bef-a11827c0dc0a"^^xsd:anyURI ;
+  rdfs:label "American Dream" ;
+.
+:An_Equal_Love
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Christine_Collister ;
+  bibliographica:byArtist SoloMusicArtist:Christine_Collister ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/91374080-46c3-41f5-8b0e-9ac998f79a8e"^^xsd:anyURI ;
+  rdfs:label "An Equal Love" ;
+.
 :AniDiFranco_CD
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -116,6 +166,16 @@
   bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/b18ef710-0e47-3c10-ab0b-6631533549ee"^^xsd:anyURI ;
   rdfs:label "Another Side of Bob Dylan" ;
+.
+:Another_Stoney_Evening
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Crosby_Nash ;
+  bibliographica:byArtist MusicGroup:Crosby_Nash ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/7bfad5e9-1f77-45ec-9580-dcb2c2db87d4"^^xsd:anyURI ;
+  rdfs:label "Another Stoney Evening" ;
 .
 :Anthem
   rdf:type mo:CD ;
@@ -291,6 +351,24 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/d11eff0d-e0e7-35f4-b114-c90910028333"^^xsd:anyURI ;
   rdfs:label "Before the Flood" ;
 .
+:Bend_Without_Breaking
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Chris_Maggie ;
+  bibliographica:byArtist MusicGroup:Chris_Maggie ;
+  rdfs:label "Bend Without Breaking" ;
+.
+:Best_Of
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Crosby_Nash ;
+  bibliographica:byArtist MusicGroup:Crosby_Nash ;
+  rdfs:label "Best of" ;
+.
 :Big_Circumstance
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -360,6 +438,16 @@
   bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/9c1b8072-eb1d-33d2-af8c-984d46e40902"^^xsd:anyURI ;
   rdfs:label "Blood on the Tracks" ;
+.
+:Blue_Aconite
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Christine_Collister ;
+  bibliographica:byArtist SoloMusicArtist:Christine_Collister ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d5ec305f-193a-41eb-b93b-98b30f02d48d"^^xsd:anyURI ;
+  rdfs:label "Blue Aconite" ;
 .
 :Bluegrass_Reunion
   rdf:type mo:CD ;
@@ -450,6 +538,16 @@
   bibliographica:byArtist SoloMusicArtist:Albert_King ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/9fa36ff8-ba96-3201-bda1-729389a87620"^^xsd:anyURI ;
   rdfs:label "Born Under a Bad Sign" ;
+.
+:Bottomless_Cup
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Chris_Maggie ;
+  bibliographica:byArtist MusicGroup:Chris_Maggie ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/45cdf271-5e94-4589-8add-71b6d20419de"^^xsd:anyURI ;
+  rdfs:label "Bottomless Cup" ;
 .
 :Bouncing_Off_Satellites
   rdf:type mo:CD ;
@@ -658,6 +756,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/3d92083e-0fb5-3196-bc5c-8caf855f5f24"^^xsd:anyURI ;
   rdfs:label "Christmas" ;
 .
+:Chooglin
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Creedence_Clearwater_Revival ;
+  bibliographica:byArtist MusicGroup:Creedence_Clearwater_Revival ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/bdfa0b7c-10eb-46f2-b5e1-d82bf00c9606"^^xsd:anyURI ;
+  rdfs:label "Chooglin'" ;
+.
 :Circles_Stream
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -668,6 +776,25 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/c0177a80-ebea-33e5-a68b-4427f315337c"^^xsd:anyURI ;
   rdfs:label "Circles in the Stream" ;
 .
+:Clash_on_Broadway
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Clash ;
+  bibliographica:byArtist MusicGroup:Clash ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b11870ca-7b14-4505-8164-2ceee7d11dde"^^xsd:anyURI ;
+  rdfs:label "Clash on Broadway" ;
+.
+:Colores_del_Alma_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Colores_del_Alma ;
+  bibliographica:byArtist MusicGroup:Colores_del_Alma ;
+  rdfs:label "Colores del Alma" ;
+.
 :Colour_Moving_Still
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -677,6 +804,36 @@
   bibliographica:byArtist SoloMusicArtist:Chantal_Kreviazuk ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b47b88b4-9c40-4ea0-b5cb-d96e8a6324d2"^^xsd:anyURI ;
   rdfs:label "Colour Moving and Still" ;
+.
+:Combat_Rock
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Clash ;
+  bibliographica:byArtist MusicGroup:Clash ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/912e77ed-015a-33cc-b6c0-fed80d9de0b7"^^xsd:anyURI ;
+  rdfs:label "Combat Rock" ;
+.
+:Concrete_Blonde_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Concrete_Blonde ;
+  bibliographica:byArtist MusicGroup:Concrete_Blonde ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/14f09b2b-60a5-4f6b-8e53-f388c81eeb06"^^xsd:anyURI ;
+  rdfs:label "Concrete Blonde" ;
+.
+:Concrete_Blonde_Los_Illegals
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Concrete_Blonde ;
+  bibliographica:byArtist MusicGroup:Concrete_Blonde ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/06be49dd-3b5c-480e-ba15-8040ec01acd2"^^xsd:anyURI ;
+  rdfs:label "Concrete Blonde y Los Illegals" ;
 .
 :Cool
   rdf:type mo:CD ;
@@ -710,6 +867,35 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a4603320-5599-4bc4-894e-b1d6cf523616"^^xsd:anyURI ;
   rdfs:label "Courage My Love" ;
 .
+:Crash_of_Rhinos_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Crash_of_Rhinos ;
+  bibliographica:byArtist MusicGroup:Crash_of_Rhinos ;
+  rdfs:label "Crash of Rhinos" ;
+.
+:Crazy_Moon
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Crazy_Horse ;
+  bibliographica:byArtist MusicGroup:Crazy_Horse ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a428807e-af55-42c6-a185-e6b35a2d571e"^^xsd:anyURI ;
+  rdfs:label "Crazy Moon" ;
+.
+:Crossing_Jordan_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Crossing_Jordan ;
+  bibliographica:byArtist MusicGroup:Crossing_Jordan ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/aaa87e9d-f665-44eb-875e-d712e07c61c8"^^xsd:anyURI ;
+  rdfs:label "Crossing Jordan" ;
+.
 :Crosswinds
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -739,6 +925,16 @@
   bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/ba5f83b8-90cb-306c-b445-ca4bf0d6eb03"^^xsd:anyURI ;
   rdfs:label "Dancing in the Dragon's Jaws" ;
+.
+:Dark_Gift_of_Time
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Christine_Collister ;
+  bibliographica:byArtist SoloMusicArtist:Christine_Collister ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a53a90c9-e7be-4bc9-85cd-bd27435a8cfc"^^xsd:anyURI ;
+  rdfs:label "The Dark Gift of Time" ;
 .
 :Dark_Massive_Disengage
   rdf:type mo:CD ;
@@ -934,6 +1130,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/29888d56-d9f0-41d3-b77c-b42f46200d14"^^xsd:anyURI ;
   rdfs:label "Family Man" ;
 .
+:Feed_Us
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Cradle_of_Thorns ;
+  bibliographica:byArtist MusicGroup:Cradle_of_Thorns ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/bd1fac5e-e1d5-4d91-ba01-8ab0ff4430f0"^^xsd:anyURI ;
+  rdfs:label "Feed-Us" ;
+.
 :Feel_The_Sun
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -963,6 +1169,16 @@
   rdfs:label "The First Time" ;
   rdfs:comment "No Musicbrainz CD reference." ;
 .
+:Four_Way_Street
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Crosby_Stills_Nash_Young ;
+  bibliographica:byArtist MusicGroup:Crosby_Stills_Nash_Young ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/0adb00ae-d2f6-4e33-8394-aff5d89c9adb"^^xsd:anyURI ;
+  rdfs:label "4 Way Street" ;
+.
 :Friend_of_Mine
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -974,6 +1190,16 @@
   bibliographica:byArtist SoloMusicArtist:Greg_Brown ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/8070e370-5fe6-48c7-bad5-77c9a013da13"^^xsd:anyURI ;
   rdfs:label "Friend of Mine" ;
+.
+:From_Here_to_Eternity
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Clash ;
+  bibliographica:byArtist MusicGroup:Clash ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/23b1c9f4-4e89-4c20-b497-517a51953e7b"^^xsd:anyURI ;
+  rdfs:label "From Here to Eternity: Live" ;
 .
 :Further_Adventures_Of
   rdf:type mo:CD ;
@@ -1203,6 +1429,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a49b0395-f239-48d3-aa65-4149365a9e71"^^xsd:anyURI ;
   rdfs:label "I'm Staying Out" ;
 .
+:In_New_Orleans
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Clifton_Chenier_Red_Hot ;
+  bibliographica:byArtist MusicGroup:Clifton_Chenier_Red_Hot ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/ae5a184c-5187-4a22-b673-8752311df6ce"^^xsd:anyURI ;
+  rdfs:label "In New Orleans" ;
+.
 :In_My_Tribe
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1263,6 +1499,15 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/523af397-7eea-3b7b-8af9-72507fc6a811"^^xsd:anyURI ;
   rdfs:label "Inner City Front" ;
 .
+:Into_the_Light
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Christine_Collister ;
+  bibliographica:byArtist SoloMusicArtist:Christine_Collister ;
+  rdfs:label "Into the Light" ;
+.
 :Jazz_Profile
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1272,6 +1517,26 @@
   bibliographica:byArtist SoloMusicArtist:Cannonball_Adderley ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/ad7e5fe8-6182-4574-b10c-ae65877026b1s"^^xsd:anyURI ;
   rdfs:label "Jazz Profile" ;
+.
+:Jazz_Profile_CB
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Chet_Baker ;
+  bibliographica:byArtist SoloMusicArtist:Chet_Baker ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b12de027-ba2a-4b5c-a7a6-d4b9f3bb5eef"^^xsd:anyURI ;
+  rdfs:label "Jazz Profile" ;
+.
+:Jazz_Round_Midnight
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Clifford_Brown ;
+  bibliographica:byArtist SoloMusicArtist:Clifford_Brown ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/09a540e2-8a84-4124-bacf-76693aead849"^^xsd:anyURI ;
+  rdfs:label "Jazz 'Round Midnight" ;
 .
 :Jou_a_Rive
   rdf:type mo:CD ;
@@ -1332,6 +1597,16 @@
   bibliographica:byArtist MusicGroup:Buffalo_Springfield ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/fb39d4c7-d68c-36d1-a2c2-93fc7ccbdcc8"^^xsd:anyURI ;
   rdfs:label "Last Time Around" ;
+.
+:Lay_It_Down
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Cowboy_Junkies ;
+  bibliographica:byArtist MusicGroup:Cowboy_Junkies ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e04e5f1c-e502-47b9-9f5c-04dc26ce922d"^^xsd:anyURI ;
+  rdfs:label "Lay It Down" ;
 .
 :Let_It_Be
   rdf:type mo:CD ;
@@ -1405,6 +1680,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/61282502-0f84-4c30-aea1-90b9e823107c"^^xsd:anyURI ;
   rdfs:label "Live Art" ;
 .
+:Live_at_Montreux
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Clifton_Chenier ;
+  bibliographica:byArtist SoloMusicArtist:Clifton_Chenier ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/cb51cdc5-16d8-4219-9104-f09243f0b77d"^^xsd:anyURI ;
+  rdfs:label "Live at Montreux" ;
+.
 :Live_From_Left_Coast
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1473,6 +1758,46 @@
   bibliographica:byArtist SoloMusicArtist:Austin_Lounge_Lizards ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/7185f82b-32dc-48d7-8308-a67e6ff73290"^^xsd:anyURI ;
   rdfs:label "Lizard Vision" ;
+.
+:Looking_Forward
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Crosby_Stills_Nash_Young ;
+  bibliographica:byArtist MusicGroup:Crosby_Stills_Nash_Young ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a7780b66-8058-4d9e-af4c-1ca0e50bb7fc"^^xsd:anyURI ;
+  rdfs:label "Looking Forward" ;
+.
+:London_Calling
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Clash ;
+  bibliographica:byArtist MusicGroup:Clash ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/64cbd9c8-7446-3e26-8db0-81653eadc8dd"^^xsd:anyURI ;
+  rdfs:label "London Calling" ;
+.
+:Long_Journey_Home
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Cowboy_Junkies ;
+  bibliographica:byArtist MusicGroup:Cowboy_Junkies ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d54aef42-1ed1-4600-9719-0d33aaa1fbaf"^^xsd:anyURI ;
+  rdfs:label "Long Journey Home" ;
+.
+:Long_Way_Home
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Clarence_Gatemouth_Brown ;
+  bibliographica:byArtist SoloMusicArtist:Clarence_Gatemouth_Brown ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/8bb890e0-dbc1-4c65-a725-b6e686c40729"^^xsd:anyURI ;
+  rdfs:label "Long Way Home" ;
 .
 :Logozo
   rdf:type mo:CD ;
@@ -1555,6 +1880,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/55229cad-2f4f-4b02-8530-7e9d199018fc"^^xsd:anyURI ;
   rdfs:label "Medusa" ;
 .
+:Mexican_Moon
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Concrete_Blonde ;
+  bibliographica:byArtist MusicGroup:Concrete_Blonde ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b38cf694-5447-42a7-a6ad-c434bdc0cbc8"^^xsd:anyURI ;
+  rdfs:label "Mexican Moon" ;
+.
 :Mile_Marker
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1584,6 +1919,26 @@
   bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/d300b74b-02b4-33e3-998e-e4405e8e6580"^^xsd:anyURI ;
   rdfs:label "Modern Times" ;
+.
+:More_Creedence_Gold
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Creedence_Clearwater_Revival ;
+  bibliographica:byArtist MusicGroup:Creedence_Clearwater_Revival ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/80b30b91-5b5b-433b-8cf7-3590aa31ad79"^^xsd:anyURI ;
+  rdfs:label "More Creedence Gold" ;
+.
+:More_Study_Brown
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Clifford_Brown ;
+  bibliographica:byArtist SoloMusicArtist:Clifford_Brown ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a21ea995-76a6-47c0-9ca8-5569642236c7"^^xsd:anyURI ;
+  rdfs:label "More Study in Brown" ;
 .
 :Mr_Music_Head
   rdf:type mo:CD ;
@@ -1615,6 +1970,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/eeaa31c9-056c-4d06-8f3c-909fbf7d18ce"^^xsd:anyURI ;
   rdfs:label "My Baby Don't Wear No Shoes" ;
 .
+:My_Funny_Valentine
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Chet_Baker ;
+  bibliographica:byArtist SoloMusicArtist:Chet_Baker ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/7c343bdc-f9bf-4960-8830-27bb0672ab4c"^^xsd:anyURI ;
+  rdfs:label "My Funny Valentine" ;
+.
 :Nashville_Skyline
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1624,6 +1989,16 @@
   bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/2ca28746-8987-3015-b54c-75b3aa8ca1a1"^^xsd:anyURI ;
   rdfs:label "Nashville Skyline" ;
+.
+:Neath_Your_Covers
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Cowboy_Junkies ;
+  bibliographica:byArtist MusicGroup:Cowboy_Junkies ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e182adf6-e2a8-444f-9b1f-43bec130ba82"^^xsd:anyURI ;
+  rdfs:label "Neath Your Covers, Part 1" ;
 .
 :New_Roman_Times
   rdf:type mo:CD ;
@@ -1675,6 +2050,46 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/d2595b71-5353-3ae7-853d-3490e0622353"^^xsd:anyURI ;
   rdfs:label "One of a Kind" ;
 .
+:One_More_Mile
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Clarence_Gatemouth_Brown ;
+  bibliographica:byArtist SoloMusicArtist:Clarence_Gatemouth_Brown ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/26c50e80-659f-4f51-ade7-0c8230b39274"^^xsd:anyURI ;
+  rdfs:label "One More Mile" ;
+.
+:One_Soul_Now
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Cowboy_Junkies ;
+  bibliographica:byArtist MusicGroup:Cowboy_Junkies ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a9abedf5-06aa-433c-b79c-9f8c51be0f5b"^^xsd:anyURI ;
+  rdfs:label "One Soul Now" ;
+.
+:Open
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Cowboy_Junkies ;
+  bibliographica:byArtist MusicGroup:Cowboy_Junkies ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/dd18208e-946d-3f05-ac0c-e2a14be0d318"^^xsd:anyURI ;
+  rdfs:label "Open" ;
+.
+:Open_Road
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Cowboy_Junkies ;
+  bibliographica:byArtist MusicGroup:Cowboy_Junkies ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c9c9db42-6c95-4b8f-b827-6aed11f145c1"^^xsd:anyURI ;
+  rdfs:label "Open Road" ;
+.
 :Original_Bad_Co_Anthology
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1704,6 +2119,16 @@
   bibliographica:byArtist MusicGroup:Bela_Fleck_and_the_Flecktones ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/2b766264-7cd9-408b-a73f-bc2b8d270a76"^^xsd:anyURI ;
   rdfs:label "Outbound" ;
+.
+:Pale_Sun_Crescent_Moon
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Cowboy_Junkies ;
+  bibliographica:byArtist MusicGroup:Cowboy_Junkies ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/bcdd7fc9-7c6c-42f2-9d3e-bb99e382c291"^^xsd:anyURI ;
+  rdfs:label "Pale Sun, Crescent Moon" ;
 .
 :Para_Bailar_Casino
   rdf:type mo:CD ;
@@ -1785,6 +2210,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/bff31636-944b-4d39-8bab-5f6e7e5dd3be"^^xsd:anyURI ;
   rdfs:label "Pulse - Where the Rhythm Begins" ;
 .
+:Rat_Patrol_Ft_Bragg
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Clash ;
+  bibliographica:byArtist MusicGroup:Clash ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f3330aa5-4047-4a2d-996f-7e82fe2374e5"^^xsd:anyURI ;
+  rdfs:label "Rat Patrol From Fort Bragg" ;
+.
 :Real_Live
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1804,6 +2239,16 @@
   bibliographica:byArtist SoloMusicArtist:Ani_DiFranco ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/1ebf8024-e2d9-3186-aa40-1f292a4ffa6c"^^xsd:anyURI ;
   rdfs:label "Reckoning/Revelling" ;
+.
+:Renmin_Park
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Cowboy_Junkies ;
+  bibliographica:byArtist MusicGroup:Cowboy_Junkies ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/fbb9c189-64cb-4325-9532-7ac53e658b46"^^xsd:anyURI ;
+  rdfs:label "The Nomad Series, Volume 1: Renmin Park" ;
 .
 :Revolver
   rdf:type mo:CD ;
@@ -1866,6 +2311,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/b44ebc7f-0564-3c9e-b2f5-47f9abc78e7a"^^xsd:anyURI ;
   rdfs:label "Sand and Water" ;
 .
+:Sandinista
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Clash ;
+  bibliographica:byArtist MusicGroup:Clash ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a42ad822-7bdc-4272-93fa-2e04e9f09ce9"^^xsd:anyURI ;
+  rdfs:label "Sandinista!" ;
+.
 :Self_Portrait
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1885,6 +2340,20 @@
   bibliographica:byArtist MusicGroup:Captain_Beefheart_Magic_Band ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/5887c600-15a7-3c40-9b8b-49aac410be6d"^^xsd:anyURI ;
   rdfs:label "Shiny Beast (Bat Chain Puller)" ;
+.
+:Showdown
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Albert_Collins ;
+  bibliographica:byArtist SoloMusicArtist:Albert_Collins ;
+  dcterms:creator SoloMusicArtist:Robert_Cray ;
+  bibliographica:byArtist SoloMusicArtist:Robert_Cray ;
+  dcterms:creator SoloMusicArtist:Johnny_Copeland ;
+  bibliographica:byArtist SoloMusicArtist:Johnny_Copeland ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a4e3c15f-4052-49e8-9787-9b7d5d53aefc"^^xsd:anyURI ;
+  rdfs:label "Showdown!" ;
 .
 :Side_Four
   rdf:type mo:CD ;
@@ -2035,7 +2504,6 @@
   rdf:type schema:MusicAlbum ;
   dcterms:creator MusicGroup:Catherine_Wheel ;
   bibliographica:byArtist MusicGroup:Catherine_Wheel ;
-  bibliographica:musicbrainzURI
   rdfs:label "Sparks Are Gonna Fly (promo)" ;
 .
 :Speechless
@@ -2078,6 +2546,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/57fa6f1e-4a34-3bc5-9120-5afbbe1ae8a1"^^xsd:anyURI ;
   rdfs:label "Stealing Fire" ;
 .
+:Still_in_Hollywood
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Concrete_Blonde ;
+  bibliographica:byArtist MusicGroup:Concrete_Blonde ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/bdce4869-cd60-4a21-adab-74f3d85136eb"^^xsd:anyURI ;
+  rdfs:label "Still in Hollywood" ;
+.
 :Stranger_to_This_Land
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2096,6 +2574,16 @@
   bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/d85e6674-9ff4-3e11-be8f-eb6b11c5f47d"^^xsd:anyURI ;
   rdfs:label "Sunwheel Dance" ;
+.
+:Super_Black_Market_Clash
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Clash ;
+  bibliographica:byArtist MusicGroup:Clash ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a35d4f4f-28b7-4d41-b7c4-0d482cc45794"^^xsd:anyURI ;
+  rdfs:label "Super Black Market Clash" ;
 .
 :Super_Session
   rdf:type mo:CD ;
@@ -2230,6 +2718,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/6b54bc4b-f8a5-43c4-80e4-b5b4fe4b93c4"^^xsd:anyURI ;
   rdfs:label "The Wishing Chair" ;
 .
+:The_Wilderness
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Cowboy_Junkies ;
+  bibliographica:byArtist MusicGroup:Cowboy_Junkies ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/27bcbca0-f3d3-44b6-9b88-4af26bd79bc3"^^xsd:anyURI ;
+  rdfs:label "The Nomad Series, Volume 4: The Wilderness" ;
+.
 :Theme_Time_Radio_Hour
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2352,6 +2850,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/6c895bc5-7781-3cef-829e-0e1449b9c2f1"^^xsd:anyURI ;
   rdfs:label "Total Eclipse" ;
 .
+:Trinity_Session
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Cowboy_Junkies ;
+  bibliographica:byArtist MusicGroup:Cowboy_Junkies ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/faada5d1-971b-499c-b902-5bab9e03bc1b"^^xsd:anyURI ;
+  rdfs:label "The Trinity Session" ;
+.
 :Trouble_With_Normal
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2410,6 +2918,16 @@
   bibliographica:byArtist SoloMusicArtist:Adrian_Belew ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/6ddcaf4c-d7e7-47f6-89c3-b28716bf79d0"^^xsd:anyURI ;
   rdfs:label "Twang Bar King" ;
+.
+:Two_Hundred_Miles
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Cowboy_Junkies ;
+  bibliographica:byArtist MusicGroup:Cowboy_Junkies ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f875da30-52f0-4990-b584-636340fa87fe"^^xsd:anyURI ;
+  rdfs:label "200 More Miles" ;
 .
 :Ultimate_Anita_O-Day
   rdf:type mo:CD ;
@@ -2493,6 +3011,16 @@
   bibliographica:byArtist SoloMusicArtist:Caitlin_Cary ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/4942576d-9f1a-467e-9b13-b710dc77e187"^^xsd:anyURI ;
   rdfs:label "Waltzie" ;
+.
+:Wheels_of_Fire
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Cream ;
+  bibliographica:byArtist MusicGroup:Cream ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/747a1c73-5742-3f0f-8c45-e90629a911c9"^^xsd:anyURI ;
+  rdfs:label "Wheels of Fire" ;
 .
 :When_There_is_Love
   rdf:type mo:CD ;
@@ -2634,4 +3162,24 @@
   bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/6c88bc8e-eaee-3670-ad6b-e37cef8b3e1c"^^xsd:anyURI ;
   rdfs:label "You've Never Seen Everything" ;
+.
+:Zoot_Suit_Riot
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Cherry_Poppin_Daddies ;
+  bibliographica:byArtist MusicGroup:Cherry_Poppin_Daddies ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9798eeb9-1974-4729-a105-fd8498553ebc"^^xsd:anyURI ;
+  rdfs:label "Zoot Suit Riot" ;
+.
+:Zydeco_Dynamite
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Clifton_Chenier ;
+  bibliographica:byArtist SoloMusicArtist:Clifton_Chenier ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f5c9f3aa-9232-49a2-83f0-fef476d10ce2"^^xsd:anyURI ;
+  rdfs:label "Zydeco Dynamite" ;
 .

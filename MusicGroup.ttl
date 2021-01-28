@@ -429,12 +429,32 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/e23612fb-6dd6-4d5c-b638-2611bfc8c48a"^^xsd:anyURI ;
   rdfs:label "The Carolina Chocolate Drops" ;
 .
+:Chick_Corea_Akoustic
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Chick_Corea_Akoustic_Band.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/81fe165e-2cfe-4c52-9bf0-1853647bf489"^^xsd:anyURI ;
+  rdfs:label "Chick Corea Akoustic Band" ;
+.
+:Chris_Maggie
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/091d7dec-1496-402c-8a6b-8058fd0afe3e"^^xsd:anyURI ;
+  rdfs:label "Chris & Maggie" ;
+.
 :Clash
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassAD ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/The_Clash.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/8f92558c-2baa-4758-8c38-615519e9deda"^^xsd:anyURI ;
   rdfs:label "The Clash" ;
+.
+:Clifton_Chenier_Red_Hot
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Clifton_Chenier.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/0fa64acf-5007-4cbd-9cf7-d039fcb503be"^^xsd:anyURI ;
+  rdfs:label "Clifton Chenier and his Red Hot Louisiana Band" ;
 .
 :Colores_del_Alma
   rdf:type mo:MusicGroup ;
@@ -471,7 +491,7 @@
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassAD ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Crazy_Horse_(band).ttl"^^xsd:anyURI ;
-  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/71f754c0-f2d1-4a54-8d70-cc0ee409ca007"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/71f754c0-f2d1-4a54-8d70-cc0ee409ca00"^^xsd:anyURI ;
   rdfs:label "Crazy Horse" ;
 .
 :Cream
@@ -494,6 +514,13 @@
   bibliographica:dbpediaURI "http://dbpedia.org/data/Crosby,_Stills,_Nash_&_Young.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/46a782ea-4308-476b-abd1-a91b197f3037"^^xsd:anyURI ;
   rdfs:label "Crosby, Stills, Nash & Young" ;
+.
+:Crosby_Nash
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Crosby_%26_Nash.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/ed944321-63d7-4275-a272-3e856d42a7bf"^^xsd:anyURI ;
+  rdfs:label "Crosby & Nash" ;
 .
 :Crossing_Jordan
   rdf:type mo:MusicGroup ;
