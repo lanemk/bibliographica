@@ -399,6 +399,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/12665576.ttl"^^xsd:anyURI ;
   rdfs:label "Arctic Dreams" ;
 .
+:Ark_Restaurant_Cookbook
+  rdf:type schema:Book ;
+  dcterms:creator authors:Jimella_Lucas ;
+  dcterms:title "The Ark Restaurant Cookbook : Cuisine of the Pacific Northwest " ;
+  schema:author authors:Jimella_Lucas ;
+  schema:isbn "0140467319" ;
+  bibliographica:binNumber 14 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/12163043.ttl"^^xsd:anyURI ;
+  rdfs:label "The Ark Restaurant Cookbook" ;
+.
 :Art_Culinaire
   rdf:type schema:Book ;
   dcterms:title "Art Culinaire, 62" ;
@@ -1207,17 +1218,6 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/804354590.ttl"^^xsd:anyURI ;
   rdfs:label "Cataloging and Classification" ;
 .
-:Cats_Cradle
-  rdf:type schema:Book ;
-  dcterms:creator authors:Kurt_Vonnegut ;
-  dcterms:title "Cat's Cradle" ;
-  schema:author authors:Kurt_Vonnegut ;
-  schema:isbn "0440111498" ;
-  bibliographica:binNumber 11 ;
-  bibliographica:numberOfitems 1 ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/19000012.ttl"^^xsd:anyURI ;
-  rdfs:label "Cat's Cradle" ;
-.
 :Catch_22
   rdf:type schema:Book ;
   dcterms:creator authors:Joseph_Heller ;
@@ -1250,6 +1250,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1153562713.ttl"^^xsd:anyURI ;
   rdfs:label "The Catcher in the Rye" ;
+.
+:Cats_Cradle
+  rdf:type schema:Book ;
+  dcterms:creator authors:Kurt_Vonnegut ;
+  dcterms:title "Cat's Cradle" ;
+  schema:author authors:Kurt_Vonnegut ;
+  schema:isbn "0440111498" ;
+  bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/19000012.ttl"^^xsd:anyURI ;
+  rdfs:label "Cat's Cradle" ;
 .
 :Caverns
   rdf:type schema:Book ;
@@ -1514,6 +1525,16 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/666901008.ttl"^^xsd:anyURI ;
   rdfs:label "The Compleat Angler" ;
 .
+:Complete_Guide_Home_Carpentry
+  rdf:type schema:Book ;
+  dcterms:creator authors:Creative_Publishing ;
+  dcterms:title "The Complete Guide to Home Carpentry : Carpentry Skills & Projects for Homeowners" ;
+  schema:author authors:Creative_Publishing ;
+  bibliographica:binNumber 14 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/43970873.ttl"^^xsd:anyURI ;
+  rdfs:label "The Complete Guide to Home Carpentry" ;
+.
 :Complete_Guide_to_House_Plants
   rdf:type schema:Book ;
   dcterms:creator authors:Jane_Coleman_Helmer ;
@@ -1565,6 +1586,28 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/10998820.ttl"^^xsd:anyURI ;
   rdfs:label "Continental Drift" ;
+.
+:Cooks_Country_2005
+  rdf:type schema:Book ;
+  dcterms:creator authors:Americas_Test_Kitchen ;
+  dcterms:title "Cook's Country, 2005" ;
+  schema:author authors:Americas_Test_Kitchen ;
+  schema:isbn "0936184949" ;
+  bibliographica:binNumber 14 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/70144009.ttl"^^xsd:anyURI ;
+  rdfs:label "Cook's Country, 2005" ;
+.
+:Cooks_Country_2006
+  rdf:type schema:Book ;
+  dcterms:creator authors:Americas_Test_Kitchen ;
+  dcterms:title "Cook's Country, 2006" ;
+  schema:author authors:Americas_Test_Kitchen ;
+  schema:isbn "9781933615134" ;
+  bibliographica:binNumber 14 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/129837242.ttl"^^xsd:anyURI ;
+  rdfs:label "Cook's Country, 2006" ;
 .
 :Cooks_Tour
   rdf:type schema:Book ;
@@ -1838,6 +1881,17 @@
   schema:author authors:Stuart_Woods ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/42415284.ttl"^^xsd:anyURI ;
   rdfs:label "Dead in the Water" ;
+.
+:Deaf_Smith_Cookbook
+  rdf:type schema:Book ;
+  dcterms:creator authors:Marjorie_Winn_Ford ;
+  dcterms:title "The Deaf Smith Country Cookbook" ;
+  schema:author authors:Marjorie_Winn_Ford ;
+  schema:isbn "0020095007" ;
+  bibliographica:binNumber 14 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/779049687.ttl"^^xsd:anyURI ;
+  rdfs:label "The Deaf Smith Country Cookbook" ;
 .
 :Deadbase_X
   rdf:type schema:Book ;
@@ -3570,17 +3624,6 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/32860604.ttl"^^xsd:anyURI ;
   rdfs:label "The Inner Reaches of Outer Space" ;
 .
-:Instructional_Technology
-  rdf:type schema:Book ;
-  dcterms:creator authors:Barbara_Seels ;
-  dcterms:title "Instructional Technology : the definition and domains of the field." ;
-  schema:author authors:Barbara_Seels ;
-  schema:isbn "0892400722" ;
-  bibliographica:binNumber 13 ;
-  bibliographica:numberOfitems 2 ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/856782733.ttl"^^xsd:anyURI ;
-  rdfs:label "Instructional Technology" ;
-.
 :Instructional_Tech_Foundations
   rdf:type schema:Book ;
   dcterms:creator authors:Robert_Gagne ;
@@ -3591,6 +3634,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/697784346.ttl"^^xsd:anyURI ;
   rdfs:label "Instructional Technology : Foundations" ;
+.
+:Instructional_Technology
+  rdf:type schema:Book ;
+  dcterms:creator authors:Barbara_Seels ;
+  dcterms:title "Instructional Technology : the definition and domains of the field." ;
+  schema:author authors:Barbara_Seels ;
+  schema:isbn "0892400722" ;
+  bibliographica:binNumber 13 ;
+  bibliographica:numberOfitems 2 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/856782733.ttl"^^xsd:anyURI ;
+  rdfs:label "Instructional Technology" ;
 .
 :Intro_Lit
   rdf:type schema:Book ;
@@ -3928,7 +3982,10 @@
   dcterms:creator authors:Laurel_Robertson ;
   dcterms:title "Laurel's kitchen : a handbook for vegetarian cookery & nutrition" ;
   schema:author authors:Laurel_Robertson ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/2373032.ttl"^^xsd:anyURI ;
+  schema:isbn "0394724348" ;
+  bibliographica:binNumber 14 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1005489996.ttl"^^xsd:anyURI ;
   rdfs:label "Laurel's Kitchen" ;
 .
 :Learners_Guide_Principles_of_Instructional_Design
@@ -4047,6 +4104,17 @@
   bibliographica:numberOfitems 1 ;
   rdfs:label "A Little Treasure of Modern Poetry" ;
 .
+:Living_Zen
+  rdf:type schema:Book ;
+  dcterms:creator authors:Robert_Linssen ;
+  dcterms:title "Living Zen" ;
+  schema:author authors:Robert_Linssen ;
+  schema:isbn "0802131360" ;
+  bibliographica:binNumber 11 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/21261631.ttl"^^xsd:anyURI ;
+  rdfs:label "Living Zen" ;
+.
 :Living_at_the_End_of_Time
   rdf:type schema:Book ;
   dcterms:creator authors:John_Hanson_Mitchell ;
@@ -4079,17 +4147,6 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1004997897.ttl"^^xsd:anyURI ;
   rdfs:label "Living on the Earth" ;
-.
-:Living_Zen
-  rdf:type schema:Book ;
-  dcterms:creator authors:Robert_Linssen ;
-  dcterms:title "Living Zen" ;
-  schema:author authors:Robert_Linssen ;
-  schema:isbn "0802131360" ;
-  bibliographica:binNumber 11 ;
-  bibliographica:numberOfitems 1 ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/21261631.ttl"^^xsd:anyURI ;
-  rdfs:label "Living Zen" ;
 .
 :Looking_for_Info
   rdf:type schema:Book ;
@@ -4420,6 +4477,28 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/18559112.ttl"^^xsd:anyURI ;
   rdfs:label "Monoosook Valley" ;
 .
+:Moosewood_Cookbook
+  rdf:type schema:Book ;
+  dcterms:creator authors:Mollie_Katzen ;
+  dcterms:title "The Moosewood Cookbook : Recipes from Moosewood Restaurant" ;
+  schema:author authors:Mollie_Katzen ;
+  schema:isbn "0913668680" ;
+  bibliographica:binNumber 14 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1036761462.ttl"^^xsd:anyURI ;
+  rdfs:label "The Moosewood Cookbook" ;
+.
+:Moosewood_Desserts
+  rdf:type schema:Book ;
+  dcterms:creator authors:Moosewood_Collective ;
+  dcterms:title "Moosewood Restaurant Book of Desserts" ;
+  schema:author authors:Moosewood_Collective ;
+  schema:isbn "0517884933" ;
+  bibliographica:binNumber 14 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1020245835.ttl"^^xsd:anyURI ;
+  rdfs:label "Moosewood Restaurant Book of Desserts" ;
+.
 :Most_Good_Least_Harm
   rdf:type schema:Book ;
   dcterms:creator authors:Zoe_Weil ;
@@ -4569,6 +4648,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/659064350.ttl"^^xsd:anyURI ;
   rdfs:label "The Audubon Society Field Guide to North American Wildflowers - Western Region" ;
+.
+:Natural_Foods_Cookbook
+  rdf:type schema:Book ;
+  dcterms:creator authors:Mary_Estella ;
+  dcterms:title "Natural Foods Cookbook: Vegetarian dairy-free cuisine" ;
+  schema:author authors:Mary_Estella ;
+  schema:isbn "0870405837" ;
+  bibliographica:binNumber 14 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/244156595.ttl"^^xsd:anyURI ;
+  rdfs:label "Natural Foods Cookbook" ;
 .
 :Nature_Guide_to_Healthy_Living
   rdf:type schema:Book ;
@@ -4787,7 +4877,7 @@
   schema:author authors:Chris_Duff ;
   schema:isbn "0312263686" ;
   bibliographica:binNumber 1 ;
-  bibliographica:numberOfitems 11 ;
+  bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/600186523.ttl"^^xsd:anyURI ;
   rdfs:label "On Celtic Tides" ;
 .
@@ -5103,17 +5193,6 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/12198235.ttl"^^xsd:anyURI ;
   rdfs:label "Playing in the band : an oral and visual portrait of the Grateful Dead" ;
 .
-:Polar_Shift
-  rdf:type schema:Book ;
-  dcterms:creator authors:Clive_Cussler ;
-  dcterms:title "Polar Shift" ;
-  schema:author authors:Clive_Cussler ;
-  schema:isbn "0060930535" ;
-  bibliographica:binNumber 12 ;
-  bibliographica:numberOfitems 1 ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1012397947.ttl"^^xsd:anyURI ;
-  rdfs:label "Polar Shift" ;
-.
 :Poisonwood_Bible
   rdf:type schema:Book ;
   dcterms:creator authors:Barbara_Kingsolver ;
@@ -5135,6 +5214,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/825557679.ttl"^^xsd:anyURI ;
   rdfs:label "Poisonwood Bible" ;
+.
+:Polar_Shift
+  rdf:type schema:Book ;
+  dcterms:creator authors:Clive_Cussler ;
+  dcterms:title "Polar Shift" ;
+  schema:author authors:Clive_Cussler ;
+  schema:isbn "0060930535" ;
+  bibliographica:binNumber 12 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1012397947.ttl"^^xsd:anyURI ;
+  rdfs:label "Polar Shift" ;
 .
 :Portable_Graham_Greene
   rdf:type schema:Book ;
@@ -5800,9 +5890,18 @@
   dcterms:creator authors:Carl_Bode ;
   dcterms:title "Selected Journals of Henry David Thoreau" ;
   schema:author authors:Carl_Bode ;
-  bibliographica:binNumber 10 ;
   bibliographica:binNumber 5 ;
-  bibliographica:numberOfitems 2 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1404769.ttl"^^xsd:anyURI ;
+  rdfs:label "Selected Journals of Henry David Thoreau" ;
+.
+:Selected_Journals_of_Thoreau_2
+  rdf:type schema:Book ;
+  dcterms:creator authors:Carl_Bode ;
+  dcterms:title "Selected Journals of Henry David Thoreau" ;
+  schema:author authors:Carl_Bode ;
+  bibliographica:binNumber 10 ;
+  bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1404769.ttl"^^xsd:anyURI ;
   rdfs:label "Selected Journals of Henry David Thoreau" ;
 .
@@ -6164,6 +6263,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/30474946.ttl"^^xsd:anyURI ;
   rdfs:label "Sophie's World" ;
 .
+:Sound_Reinforcement_Handbook
+  rdf:type schema:Book ;
+  dcterms:creator authors:Gary_Davis ;
+  dcterms:title "The sound reinforcement handbook" ;
+  schema:author authors:Gary_Davis ;
+  schema:isbn "0881889008" ;
+  bibliographica:binNumber 13 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/993110744.ttl"^^xsd:anyURI ;
+  rdfs:label "Sound Reinforcement Handbook" ;
+.
 :Sound_of_One_Hand_Clapping
   rdf:type schema:Book ;
   dcterms:creator authors:Richard_Flanagan ;
@@ -6175,16 +6285,16 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/492941920.ttl"^^xsd:anyURI ;
   rdfs:label "The Sound of One Hand Clapping" ;
 .
-:Sound_Reinforcement_Handbook
+:Soups
   rdf:type schema:Book ;
-  dcterms:creator authors:Gary_Davis ;
-  dcterms:title "The sound reinforcement handbook" ;
-  schema:author authors:Gary_Davis ;
-  schema:isbn "0881889008" ;
-  bibliographica:binNumber 13 ;
+  dcterms:creator authors:Time_Life_Books ;
+  dcterms:title "Soups" ;
+  schema:author authors:Time_Life_Books ;
+  schema:isbn "0809428660" ;
+  bibliographica:binNumber 14 ;
   bibliographica:numberOfitems 1 ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/993110744.ttl"^^xsd:anyURI ;
-  rdfs:label "Sound Reinforcement Handbook" ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/9849950.ttl"^^xsd:anyURI ;
+  rdfs:label "Soups" ;
 .
 :Spartan_Gold
   rdf:type schema:Book ;
@@ -6203,6 +6313,17 @@
   bibliographica:binNumber 1 ;
   bibliographica:numberOfitems 1 ;
   rdfs:label "Spin Magazine" ;
+.
+:Spice_Box_Cookbook
+  rdf:type schema:Book ;
+  dcterms:creator authors:Manju_Singh ;
+  dcterms:title "The Spice Box : Vegetarian Indian Cookbook" ;
+  schema:author authors:Manju_Singh ;
+  schema:isbn "0895940531" ;
+  bibliographica:binNumber 14 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/867938272.ttl"^^xsd:anyURI ;
+  rdfs:label "The Spice Box : Vegetarian Indian Cookbook" ;
 .
 :Split_Image
   rdf:type schema:Book ;
@@ -6601,6 +6722,15 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/769855992.ttl"^^xsd:anyURI ;
   rdfs:label "Tess of the d'Urbervilles" ;
+.
+:Test_Recipes
+  rdf:type schema:Book ;
+  dcterms:creator authors:Blue_Ribbon ;
+  dcterms:title "Test Recipes with Blue Ribbon Malt Extract" ;
+  schema:author authors:Blue_Ribbon ;
+  bibliographica:binNumber 14 ;
+  bibliographica:numberOfitems 1 ;
+  rdfs:label "Test Recipes with Blue Ribbon Malt Extract" ;
 .
 :That_was_then_this_is_now
   rdf:type schema:Book ;
@@ -8401,6 +8531,15 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/636113793.ttl"^^xsd:anyURI ;
   rdfs:label "Wild Meat and the Bully Burgers" ;
+.
+:Wild_World_of_Bulk
+  rdf:type schema:Book ;
+  dcterms:creator authors:Alfalfas ;
+  dcterms:title "Wild World of Bulk ; Buying and Preparing Bulk Foods" ;
+  schema:author authors:Alfalfas ;
+  bibliographica:binNumber 14 ;
+  bibliographica:numberOfitems 1 ;
+  rdfs:label "Wild World of Bulk" ;
 .
 :Winnie_the_Pooh
   rdf:type schema:Book ;

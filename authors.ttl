@@ -162,6 +162,11 @@
   rdfs:label "Aldous Huxley" ;
   foaf:name "Aldous Huxley" ;
 .
+:Alfalfas
+  rdf:type schema:Organization ;
+  rdfs:label "Alfalfa's" ;
+  foaf:name "Alfalfa's" ;
+.
 :Alfredo_Vea
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Alfredo_V%C3%A9a_Jr..ttl"^^xsd:anyURI ;
@@ -506,6 +511,11 @@
   rdfs:label "Black Elk" ;
   foaf:name "Black Elk" ;
 .
+:Blue_Ribbon
+  rdf:type schema:Organization ;
+  rdfs:label "Blue Ribbon Malt" ;
+  foaf:name "Blue Ribbon Malt" ;
+.
 :Bob_Dylan
   rdf:type mo:SoloMusicArtist ;
   rdf:type schema:Person ;
@@ -772,6 +782,12 @@
   rdfs:label "Clive Cussler" ;
   foaf:name "Clive Cussler" ;
 .
+:Americas_Test_Kitchen
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/127070991/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "America's Test Kitchen" ;
+  foaf:name "America's Test Kitchen" ;
+.
 :Connie_May_Fowler
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Connie_May_Fowler.ttl"^^xsd:anyURI ;
@@ -805,6 +821,12 @@
   bibliographica:viafURI "http://viaf.org/viaf/88112170/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Craig Johnson" ;
   foaf:name "Craig Johnson" ;
+.
+:Creative_Publishing
+  rdf:type schema:Organization ;
+  bibliographica:viafURI "https://viaf.org/viaf/141786788/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Creative Publishing International" ;
+  foaf:name "Creative Publishing International" ;
 .
 :DM_Dooling
   rdf:type schema:Person ;
@@ -1925,6 +1947,12 @@
   rdfs:label "Jim Webb" ;
   foaf:name "Jim Webb" ;
 .
+:Jimella_Lucas
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/30898730/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Jimella Lucas" ;
+  foaf:name "Jimella Lucas" ;
+.
 :Jimmy_McDonough
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Jimmy_McDonough.ttl"^^xsd:anyURI ;
@@ -2607,6 +2635,12 @@
   rdfs:label "Malcolm Gladwell" ;
   foaf:name "Malcolm Gladwell" ;
 .
+:Manju_Singh
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/13628160/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Manju Shivraj Singh" ;
+  foaf:name "Manju Shivraj Singh" ;
+.
 :Marianne_Fredriksson
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Marianne_Fredriksson.ttl"^^xsd:anyURI ;
@@ -2626,6 +2660,12 @@
   bibliographica:viafURI "http://viaf.org/viaf/22201303/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Marita Conlon-McKenna" ;
   foaf:name "Marita Conlon-McKenna" ;
+.
+:Marjorie_Winn_Ford
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/31624085/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Marjorie Winn Ford" ;
+  foaf:name "Marjorie Winn Ford" ;
 .
 :Mark_Bego
   rdf:type schema:Person ;
@@ -2673,6 +2713,11 @@
   bibliographica:viafURI "http://viaf.org/viaf/69016526/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Martin A. Lee" ;
   foaf:name "Martin A. Lee" ;
+.
+:Mary_Estella
+  rdf:type schema:Person ;
+  rdfs:label "Mary Estella" ;
+  foaf:name "Mary Estella" ;
 .
 :Mary_Monroe
   rdf:type schema:Person ;
@@ -2881,6 +2926,13 @@
   bibliographica:viafURI "http://viaf.org/viaf/97762193/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Miles Davis" ;
   foaf:name "Miles Davis" ;
+.
+:Mollie_Katzen
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Mollie_Katzen.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/112616369/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Mollie Katzen" ;
+  foaf:name "Mollie Katzen" ;
 .
 :Molly_Gloss
   rdf:type schema:Person ;
@@ -3993,6 +4045,13 @@
   bibliographica:viafURI "http://viaf.org/viaf/63029772/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Tim Sandlin" ;
   foaf:name "Tim Sandlin" ;
+.
+:Time_Life_Books
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Time_Life.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/210641501/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Time-Life Books" ;
+  foaf:name "Time-Life Books" ;
 .
 :Tina_McElroy_Ansa
   rdf:type schema:Person ;
