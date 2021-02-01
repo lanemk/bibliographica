@@ -404,6 +404,13 @@
   rdfs:label "Aveline Kushi" ;
   foaf:name "Aveline Kushi" ;
 .
+:Avery_Publishing
+  rdf:type schema:Organization ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Avery_Publishing.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/134443168/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Avery_Publishing Group" ;
+  foaf:name "Avery_Publishing Group" ;
+.
 :Ayn_Rand
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "https://dbpedia.org/data/Ayn_Rand.ttl"^^xsd:anyURI ;
@@ -417,6 +424,12 @@
   bibliographica:viafURI "https://viaf.org/viaf/12447324/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Ayya Khema" ;
   foaf:name "Ayya Khema" ;
+.
+:Barbara_Ciletti
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/11894853/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Barbara J. Ciletti" ;
+  foaf:name "Barbara J. Ciletti" ;
 .
 :Barbara_Gordon_Gibson
   rdf:type schema:Person ;
@@ -435,6 +448,13 @@
   rdf:type schema:Person ;
   rdfs:label "Barbara Seels" ;
   foaf:name "Barbara Seels" ;
+.
+:Barney_Hoskyns
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Barney_Hoskyns.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/30179821/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Barney Hoskyns" ;
+  foaf:name "Barney Hoskyns" ;
 .
 :Barry_Galbraith
   rdf:type schema:Person ;
@@ -488,6 +508,12 @@
   bibliographica:viafURI "https://viaf.org/viaf/102211145/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Betty Edwards" ;
   foaf:name "Betty Edwards" ;
+.
+:Betty_Sampson
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/292149106279468492295/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Betty Sampson" ;
+  foaf:name "Betty Sampson" ;
 .
 :Betty_Wason
   rdf:type schema:Person ;
@@ -785,6 +811,12 @@
   bibliographica:viafURI "https://viaf.org/viaf/9175885/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Chris Duff" ;
   foaf:name "Chris Duff" ;
+.
+:Christian_Teubner
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/100954063/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Christian Teubner" ;
+  foaf:name "Christian Teubner" ;
 .
 :Christopher_Moore
   rdf:type schema:Person ;
@@ -2653,6 +2685,12 @@
   rdfs:label "Lucy Lidell" ;
   foaf:name "Lucy Lidell" ;
 .
+:MIT_Outing_Club
+  rdf:type schema:Organization ;
+  bibliographica:viafURI "https://viaf.org/viaf/155114530/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "MIT Outing Club" ;
+  foaf:name "MIT Outing Club" ;
+.
 :M_Wylie_Blanchet
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "https://dbpedia.org/data/M._Wylie_Blanchet.ttl"^^xsd:anyURI ;
@@ -2700,6 +2738,12 @@
   bibliographica:viafURI "https://viaf.org/viaf/13628160/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Manju Shivraj Singh" ;
   foaf:name "Manju Shivraj Singh" ;
+.
+:Margaret_Wittenberg
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/26144321/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Margaret M. Wittenberg" ;
+  foaf:name "Margaret M. Wittenberg" ;
 .
 :Marianne_Fredriksson
   rdf:type schema:Person ;
@@ -2773,6 +2817,12 @@
   bibliographica:viafURI "https://viaf.org/viaf/69016526/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Martin A. Lee" ;
   foaf:name "Martin A. Lee" ;
+.
+:Mary_Donovan
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/262492554/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Mary Deirdre Donovan" ;
+  foaf:name "Mary Deirdre Donovan" ;
 .
 :Mary_Estella
   rdf:type schema:Person ;
@@ -3075,6 +3125,12 @@
   rdfs:label "Nick Hornby" ;
   foaf:name "Nick Hornby" ;
 .
+:Nikki_Goldbeck
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/25849161/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Nikki Goldbeck" ;
+  foaf:name "Nikki Goldbeck" ;
+.
 :Nikolai_Gogol
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "https://dbpedia.org/data/Nikolai_Gogol.ttl"^^xsd:anyURI ;
@@ -3114,6 +3170,11 @@
   bibliographica:viafURI "https://viaf.org/viaf/99830297/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Okakura Kakuzō" ;
   foaf:name "Okakura Kakuzō" ;
+.
+:Old_New_England
+  rdf:type schema:Organization ;
+  rdfs:label "Old New England" ;
+  foaf:name "Old New England" ;
 .
 :Olive_Ann_Burns
   rdf:type schema:Person ;
@@ -3351,6 +3412,12 @@
   rdfs:label "Peter Mayle" ;
   foaf:name "Peter Mayle" ;
 .
+:Peter_Powers
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/43459539/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Peter Powers" ;
+  foaf:name "Peter Powers" ;
+.
 :Peter_Roget
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "https://dbpedia.org/data/Peter_Mark_Roget.ttl"^^xsd:anyURI ;
@@ -3443,6 +3510,12 @@
   bibliographica:viafURI "https://viaf.org/viaf/102907844/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Randy Wayne White" ;
   foaf:name "Randy Wayne White" ;
+.
+:Rebecca_Wood
+  rdf:type schema:Organization ;
+  bibliographica:viafURI "https://viaf.org/viaf/18585113/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Rebecca Theurer Wood" ;
+  foaf:name "Rebecca Theurer Wood" ;
 .
 :Relix_Magazine
   rdf:type schema:Organization ;
@@ -4289,6 +4362,12 @@
   bibliographica:viafURI "https://viaf.org/viaf/957296/rdf.xml"^^xsd:anyURI ;
   rdfs:label "W. P. Kinsella" ;
   foaf:name "William P. Kinsella" ;
+.
+:Walt_Wheelock
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/19531813/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Walt Wheelock" ;
+  foaf:name "Walt Wheelock" ;
 .
 :Walter_Mosley
   rdf:type schema:Person ;

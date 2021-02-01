@@ -60,6 +60,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/43114269.ttl"^^xsd:anyURI ;
   rdfs:label "A House in Earnest : a novel" ;
 .
+:A_House_in_Earnest_2
+  rdf:type schema:Book ;
+  dcterms:creator authors:Terry_Farish ;
+  dcterms:title "A House in Earnest : a novel" ;
+  schema:author authors:Terry_Farish ;
+  schema:isbn "1883642523" ;
+  bibliographica:binNumber 16 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/43114269.ttl"^^xsd:anyURI ;
+  rdfs:label "A House in Earnest : a novel" ;
+.
 :A_Keeper_of_Sheep
   rdf:type schema:Book ;
   dcterms:creator authors:William_Carpenter ;
@@ -307,6 +318,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/8930963.ttl"^^xsd:anyURI ;
   rdfs:label "American Primitive : poems" ;
 .
+:American_Wholefoods_Cuisine
+  rdf:type schema:Book ;
+  dcterms:creator authors:Nikki_Goldbeck ;
+  dcterms:title "American wholefoods cuisine : 1300 meatless wholesome recipes from short order to gourmet" ;
+  schema:author authors:Nikki_Goldbeck ;
+  schema:isbn "1886101116" ;
+  bibliographica:binNumber 16 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/824202446.ttl"^^xsd:anyURI ;
+  rdfs:label "American Wholefoods Cuisine" ;
+.
 :An_Almanac_for_Moderns
   rdf:type schema:Book ;
   dcterms:creator authors:Donald_Peattie ;
@@ -484,6 +506,17 @@
   schema:author authors:Frederic_Sonnenschmidt ;
   schema:isbn "0843622237" ;
   bibliographica:binNumber 14 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/7814240.ttl"^^xsd:anyURI ;
+  rdfs:label "The Professional Chef's Art of Garde Manger" ;
+.
+:Art_of_Making_Wine
+  rdf:type schema:Book ;
+  dcterms:creator authors:Frederic_Sonnenschmidt ;
+  dcterms:title "The Professional Chef's Art of Garde Manger" ;
+  schema:author authors:Frederic_Sonnenschmidt ;
+  schema:isbn "0843622237" ;
+  bibliographica:binNumber 16 ;
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/7814240.ttl"^^xsd:anyURI ;
   rdfs:label "The Professional Chef's Art of Garde Manger" ;
@@ -1378,6 +1411,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1030768561.ttl"^^xsd:anyURI ;
   rdfs:label "Charlie Wilson's War" ;
 .
+:Cheese_Bible
+  rdf:type schema:Book ;
+  dcterms:creator authors:Christian_Teubner ;
+  dcterms:title "The Cheese Bible" ;
+  schema:author authors:Christian_Teubner ;
+  schema:isbn "0670881295" ;
+  bibliographica:binNumber 16 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/40168789.ttl"^^xsd:anyURI ;
+  rdfs:label "The Cheese Bible" ;
+.
 :Cheese_Book
   rdf:type schema:Book ;
   dcterms:creator authors:Patricia_Haskell ;
@@ -1990,7 +2034,10 @@
   dcterms:creator authors:Stuart_Woods ;
   dcterms:title "Dead in the Water" ;
   schema:author authors:Stuart_Woods ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/42415284.ttl"^^xsd:anyURI ;
+  schema:isbn "9780061711916" ;
+  bibliographica:binNumber 16 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/236329445.ttl"^^xsd:anyURI ;
   rdfs:label "Dead in the Water" ;
 .
 :Deaf_Smith_Cookbook
@@ -2883,6 +2930,16 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/973542925.ttl"^^xsd:anyURI ;
   rdfs:label "Full Woman, Fleshy Apple, Hot Moon" ;
 .
+:Fundamentals_Rockclimbing
+  rdf:type schema:Book ;
+  dcterms:creator authors:MIT_Outing_Club ;
+  dcterms:title "Fundamentals of Rock Climbing" ;
+  schema:author authors:MIT_Outing_Club ;
+  bibliographica:binNumber 16 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/4862070.ttl"^^xsd:anyURI ;
+  rdfs:label "Fundamentals of Rock Climbing" ;
+.
 :Galapagos
   rdf:type schema:Book ;
   dcterms:creator authors:Kurt_Vonnegut ;
@@ -3033,6 +3090,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/891606222.ttl"^^xsd:anyURI ;
   rdfs:label "Gone Tomorrow" ;
+.
+:Good_Food
+  rdf:type schema:Book ;
+  dcterms:creator authors:Margaret_Wittenberg ;
+  dcterms:title "Good Food : the Complete Guide to Eating Well" ;
+  schema:author authors:Margaret_Wittenberg ;
+  schema:isbn "0895947463" ;
+  bibliographica:binNumber 16 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/31901397.ttl"^^xsd:anyURI ;
+  rdfs:label "Good Food" ;
 .
 :Grandma_Lived_in_Gooligulch
   rdf:type schema:Book ;
@@ -4423,6 +4491,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/415351511.ttl"^^xsd:anyURI ;
   rdfs:label "Macrobiotic Cooking for Everyone" ;
 .
+:Making_Great_Cheese
+  rdf:type schema:Book ;
+  dcterms:creator authors:Barbara_Ciletti ;
+  dcterms:title "Making Great Cheese at Home : 30 simple recipes from cheddar the cheve" ;
+  schema:author authors:Barbara_Ciletti ;
+  schema:isbn "1579902677" ;
+  bibliographica:binNumber 16 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/428896149.ttl"^^xsd:anyURI ;
+  rdfs:label "Making Great Cheese at Home" ;
+.
 :Making_Wild_Wine
   rdf:type schema:Book ;
   dcterms:creator authors:Pattie_Vargas ;
@@ -4979,6 +5058,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/9661619.ttl"^^xsd:anyURI ;
   rdfs:label "New York Times New Natural Foods Cookbook" ;
 .
+:New_Professional_Chef
+  rdf:type schema:Book ;
+  dcterms:creator authors:Mary_Donovan ;
+  dcterms:title "The New Professional Chef" ;
+  schema:author authors:Mary_Donovan ;
+  schema:isbn "0442019610" ;
+  bibliographica:binNumber 16 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1051668798.ttl"^^xsd:anyURI ;
+  rdfs:label "The New Professional Chef" ;
+.
 :New_Recipes_from_Moosewood_Restaurant
   rdf:type schema:Book ;
   dcterms:creator authors:Moosewood_Collective ;
@@ -5095,6 +5185,15 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/925014967.ttl"^^xsd:anyURI ;
   rdfs:label "Grateful Dead : the Official Book of the Dead Heads" ;
+.
+:Old_New_England_Cookbook
+  rdf:type schema:Book ;
+  dcterms:creator authors:Old_New_England ;
+  dcterms:title "Old New England Cookbook" ;
+  schema:author authors:Old_New_England ;
+  bibliographica:binNumber 16 ;
+  bibliographica:numberOfitems 1 ;
+  rdfs:label "Old New England Cookbook" ;
 .
 :Old_Possums_Book_of_Practical_Cats
   rdf:type schema:Book ;
@@ -5573,6 +5672,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1364047.ttl"^^xsd:anyURI ;
   rdfs:label "Pottery on the Wheel" ;
 .
+:Practical_Demonkeeping
+  rdf:type schema:Book ;
+  dcterms:creator authors:Christopher_Moore ;
+  dcterms:title "Practical Demonkeeping" ;
+  schema:author authors:Christopher_Moore ;
+  schema:isbn "0380730375" ;
+  bibliographica:binNumber 16 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/40865053.ttl"^^xsd:anyURI ;
+  rdfs:label "Practical Demonkeeping" ;
+.
 :Practical_Magic
   rdf:type schema:Book ;
   dcterms:creator authors:Alice_Hoffman ;
@@ -6042,6 +6152,16 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/35700571.ttl"^^xsd:anyURI ;
   rdfs:label "Rookery Blues" ;
+.
+:Ropes_Knots_Slings
+  rdf:type schema:Book ;
+  dcterms:creator authors:Walt_Wheelock ;
+  dcterms:title "Ropes, Knots & Slings for Climbers" ;
+  schema:author authors:Walt_Wheelock ;
+  bibliographica:binNumber 16 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/49402453.ttl"^^xsd:anyURI ;
+  rdfs:label "Ropes, Knots & Slings for Climbers" ;
 .
 :Rum_Punch
   rdf:type schema:Book ;
@@ -7297,6 +7417,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/22981484.ttl"^^xsd:anyURI ;
   rdfs:label "The Education of Little Tree" ;
 .
+:The_Enchanted_Broccoli_Forest
+  rdf:type schema:Book ;
+  dcterms:creator authors:Mollie_Katzen ;
+  dcterms:title "The Enchanted Broccoli Forest and Other Timeless Delicacies" ;
+  schema:author authors:Mollie_Katzen ;
+  schema:isbn "0898150787" ;
+  bibliographica:binNumber 16 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/9576204.ttl"^^xsd:anyURI ;
+  rdfs:label "The Enchanted Broccoli Forest" ;
+.
 :The_English_patient
   rdf:type schema:Book ;
   dcterms:creator authors:Michael_Ondaatje ;
@@ -7420,6 +7551,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/34617961.ttl"^^xsd:anyURI ;
   rdfs:label "The Grapes of Ralph" ;
+.
+:The_Grateful_Dead_Movie
+  rdf:type schema:Book ;
+  dcterms:creator authors:Jerry_Garcia ;
+  dcterms:title "The Grateful Dead Movie" ;
+  schema:author authors:Jerry_Garcia ;
+  schema:isbn "1569942390" ;
+  bibliographica:binNumber 16 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1001933131.ttl"^^xsd:anyURI ;
+  rdfs:label "The Grateful Dead Movie" ;
 .
 :The_Hand_I_Fan_With
   rdf:type schema:Book ;
@@ -7579,7 +7721,10 @@
   dcterms:creator authors:Nicholas_Rinaldi ;
   dcterms:title "The Jukebox Queen of Malta" ;
   schema:author authors:Nicholas_Rinaldi ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/40776730.ttl"^^xsd:anyURI ;
+  schema:isbn "0684867427" ;
+  bibliographica:binNumber 16 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/78064228.ttl"^^xsd:anyURI ;
   rdfs:label "The Jukebox Queen of Malta" ;
 .
 :The_KGB_Bar_Nonfiction_Reader
@@ -7853,6 +7998,17 @@
   schema:author authors:Michael_Scott ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/251204819.ttl"^^xsd:anyURI ;
   rdfs:label "The Sorceress" ;
+.
+:The_Sound_and_Fury
+  rdf:type schema:Book ;
+  dcterms:creator authors:Barney_Hoskyns ;
+  dcterms:title "The Sound and the Fury : a Rock's Backpages reader : 40 years of classic rock journalism" ;
+  schema:author authors:Barney_Hoskyns ;
+  schema:isbn "1582342822" ;
+  bibliographica:binNumber 16 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/52731941.ttl"^^xsd:anyURI ;
+  rdfs:label "The Sound and the Fury" ;
 .
 :The_Superhuman_Crew
   rdf:type schema:Book ;
@@ -8371,6 +8527,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/466335054.ttl"^^xsd:anyURI ;
   rdfs:label "The Tortilla Curtain" ;
+.
+:Touring_the_Islands
+  rdf:type schema:Book ;
+  dcterms:creator authors:Peter_Powers ;
+  dcterms:title "Touring the Islands : bicycling in the San Juan, Gulf, and Vancouver Islands" ;
+  schema:author authors:Peter_Powers ;
+  schema:isbn "0944376010" ;
+  bibliographica:binNumber 16 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/33635467.ttl"^^xsd:anyURI ;
+  rdfs:label "Touring the Islands" ;
 .
 :Toward_awakening
   rdf:type schema:Book ;
@@ -8915,6 +9082,26 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/817662337.ttl"^^xsd:anyURI ;
   rdfs:label "The Whiteness of Bones : a novel" ;
+.
+:Whole_Foods_Employee_Guide
+  rdf:type schema:Book ;
+  dcterms:creator authors:Rebecca_Wood ;
+  dcterms:title "Whole Foods Guide for Employees of Natural Food Stores" ;
+  schema:author authors:Rebecca_Wood ;
+  bibliographica:binNumber 16 ;
+  bibliographica:numberOfitems 1 ;
+  rdfs:label "Whole Foods Guide for Employees" ;
+.
+:Whole_World_Cookbook
+  rdf:type schema:Book ;
+  dcterms:creator authors:Avery_Publishing ;
+  dcterms:title "Whole world cookbook : international macrobiotic cuisine" ;
+  schema:author authors:Avery_Publishing ;
+  schema:isbn "0895292319" ;
+  bibliographica:binNumber 16 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/817662337.ttl"^^xsd:anyURI ;
+  rdfs:label "Whole World Cookbook" ;
 .
 :Wild_Life
   rdf:type schema:Book ;
