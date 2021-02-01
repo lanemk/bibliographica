@@ -120,6 +120,13 @@
   rdfs:label "Alafair Burke" ;
   foaf:name "Alafair Burke" ;
 .
+:Alan_Davidson
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Alan_Davidson_(food_writer).ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/32006996/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Alan Davidson" ;
+  foaf:name "Alan Davidson" ;
+.
 :Alan_Duff
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "https://dbpedia.org/data/Alan_Duff.ttl"^^xsd:anyURI ;
@@ -454,6 +461,13 @@
   rdf:type schema:Organization ;
   rdfs:label "Batdorf Bronson" ;
   foaf:name "Batdorf Bronson" ;
+.
+:Beatrice_Trum_Hunter
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Beatrice_Trum_Hunter.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/6223152/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Beatrice Trum Hunter" ;
+  foaf:name "Beatrice Trum Hunter" ;
 .
 :Becky_Ohlsen
   rdf:type schema:Person ;
@@ -805,6 +819,13 @@
   bibliographica:viafURI "https://viaf.org/viaf/127070991/rdf.xml"^^xsd:anyURI ;
   rdfs:label "America's Test Kitchen" ;
   foaf:name "America's Test Kitchen" ;
+.
+:Collins_Publishing
+  rdf:type schema:Organization ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/HarperCollins.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/129138489/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Collins Publishing" ;
+  foaf:name "Collins Publishing" ;
 .
 :Connie_May_Fowler
   rdf:type schema:Person ;
@@ -3211,6 +3232,11 @@
   bibliographica:viafURI "https://viaf.org/viaf/84037206/rdf.xml"^^xsd:anyURI ;
   foaf:name "Patti Smith" ;
 .
+:Pattie_Vargas
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/93899257/rdf.xml"^^xsd:anyURI ;
+  foaf:name "Pattie Vargas" ;
+.
 :Paul_Auster
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "https://dbpedia.org/data/Paul_Auster.ttl"^^xsd:anyURI ;
@@ -3698,6 +3724,12 @@
   rdfs:label "Ruth Rendell" ;
   foaf:name "Ruth Rendell" ;
 .
+:Ruth_Winter
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/36925906/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Ruth Winter" ;
+  foaf:name "Ruth Winter" ;
+.
 :SE_Hinton
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "https://dbpedia.org/data/S._E._Hinton.ttl"^^xsd:anyURI ;
@@ -3790,6 +3822,13 @@
   bibliographica:viafURI "https://viaf.org/viaf/100686926/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Sharon Pape" ;
   foaf:name "Sharon B. Pape" ;
+.
+:Sharon_Tyler_Herbst
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Sharon_Tyler_Herbst.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/296145857943723021200/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Sharon Tyler Herbst" ;
+  foaf:name "Sharon Tyler Herbst" ;
 .
 :Sheila_Lukins
   rdf:type schema:Person ;
@@ -3963,6 +4002,12 @@
   bibliographica:viafURI "https://viaf.org/viaf/109902730/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Sylvan Barnet" ;
   foaf:name "Sylvan Barnet" ;
+.
+:TA_Layton
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/110250509/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "T.A. Layton" ;
+  foaf:name "T.A. Layton" ;
 .
 :TS_Eliot
   rdf:type schema:Person ;

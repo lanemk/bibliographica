@@ -1415,6 +1415,16 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/316870645.ttl"^^xsd:anyURI ;
   rdfs:label "Encyclopedia of Cheese Cookery: a Salute to Cheese" ;
 .
+:Cheese_and_Cookery
+  rdf:type schema:Book ;
+  dcterms:creator authors:TA_Layton ;
+  dcterms:title "Cheese and Cheese Cookery" ;
+  schema:author authors:TA_Layton ;
+  bibliographica:binNumber 16 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/658079487.ttl"^^xsd:anyURI ;
+  rdfs:label "Cheese and Cheese Cookery" ;
+.
 :Cheese_Primer
   rdf:type schema:Book ;
   dcterms:creator authors:Steven_Jenkins ;
@@ -1651,6 +1661,17 @@
   bibliographica:binNumber 13 ;
   bibliographica:numberOfitems 1 ;
   rdfs:label "Connections Technology Training" ;
+.
+:Consumers_Dictionary_Food
+  rdf:type schema:Book ;
+  dcterms:creator authors:Ruth_Winter ;
+  dcterms:title "A consumer's dictionary of food additives" ;
+  schema:author authors:Ruth_Winter ;
+  schema:isbn "0517572621" ;
+  bibliographica:binNumber 16 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/954472453.ttl"^^xsd:anyURI ;
+  rdfs:label "A consumer's dictionary of food additives" ;
 .
 :Contemporary_Distance_Educ
   rdf:type schema:Book ;
@@ -2753,6 +2774,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/19514853.ttl"^^xsd:anyURI ;
   rdfs:label "Flowers, Ferns, and Fungi" ;
 .
+:Food_Lovers_Companion
+  rdf:type schema:Book ;
+  dcterms:creator authors:Sharon_Tyler_Herbst ;
+  dcterms:title "The New Food Lover's Companion" ;
+  schema:author authors:Sharon_Tyler_Herbst ;
+  schema:isbn "0812015207" ;
+  bibliographica:binNumber 16 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/968179390.ttl"^^xsd:anyURI ;
+  rdfs:label "The New Food Lover's Companion" ;
+.
 :Fools_Gold
   rdf:type schema:Book ;
   dcterms:creator authors:Jane_S_Smith ;
@@ -3340,7 +3372,10 @@
   dcterms:creator authors:Michael_Palin ;
   dcterms:title "Hemingway's Chair" ;
   schema:author authors:Michael_Palin ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/38970321.ttl"^^xsd:anyURI ;
+  schema:isbn "0312205503" ;
+  bibliographica:binNumber 16 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/41713736.ttl"^^xsd:anyURI ;
   rdfs:label "Hemingway's Chair" ;
 .
 :Henderson_Rain_King
@@ -4135,7 +4170,10 @@
   dcterms:creator authors:John_Barth ;
   dcterms:title "The Last Voyage of Somebody the Sailor" ;
   schema:author authors:John_Barth ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/22971591.ttl"^^xsd:anyURI ;
+  schema:isbn "0385422202" ;
+  bibliographica:binNumber 16 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/440573799.ttl"^^xsd:anyURI ;
   rdfs:label "The Last Voyage of Somebody the Sailor" ;
 .
 :Laurels_Kitchen
@@ -4385,6 +4423,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/415351511.ttl"^^xsd:anyURI ;
   rdfs:label "Macrobiotic Cooking for Everyone" ;
 .
+:Making_Wild_Wine
+  rdf:type schema:Book ;
+  dcterms:creator authors:Pattie_Vargas ;
+  dcterms:title "Making Wild Wines and Meads" ;
+  schema:author authors:Pattie_Vargas ;
+  schema:isbn "1580171826" ;
+  bibliographica:binNumber 16 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/42835118.ttl"^^xsd:anyURI ;
+  rdfs:label "Making Wild Wines and Meads" ;
+.
 :Mama_Day
   rdf:type schema:Book ;
   dcterms:creator authors:Gloria_Naylor ;
@@ -4475,7 +4524,10 @@
   dcterms:creator authors:Sunetra_Gupta ;
   dcterms:title "Memories of Rain" ;
   schema:author authors:Sunetra_Gupta ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/24376888.ttl"^^xsd:anyURI ;
+  schema:isbn "080213341X" ;
+  bibliographica:binNumber 16 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1075275025.ttl"^^xsd:anyURI ;
   rdfs:label "Memories of Rain" ;
 .
 :Mere_Christianity
@@ -4592,7 +4644,10 @@
   dcterms:creator authors:Peter_Hoeg ;
   dcterms:title "Miss Smilla's feeling for snow" ;
   schema:author authors:Peter_Hoeg ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/29543911.ttl"^^xsd:anyURI ;
+  schema:isbn "0002713349" ;
+  bibliographica:binNumber 16 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/156470741.ttl"^^xsd:anyURI ;
   rdfs:label "Miss Smilla's feeling for snow" ;
 .
 :Modern_Recording_Techniques
@@ -4660,6 +4715,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/18559112.ttl"^^xsd:anyURI ;
   rdfs:label "Monoosook Valley" ;
+.
+:Moon_Moon
+  rdf:type schema:Book ;
+  dcterms:creator authors:Anne_Kent_Rush ;
+  dcterms:title "Moon, Moon" ;
+  schema:author authors:Anne_Kent_Rush ;
+  schema:isbn "0394407679" ;
+  bibliographica:binNumber 16 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/898868485.ttl"^^xsd:anyURI ;
+  rdfs:label "Moon, Moon" ;
 .
 :Moosewood_Cookbook
   rdf:type schema:Book ;
@@ -5232,6 +5298,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1010977974.ttl"^^xsd:anyURI ;
   rdfs:label "Outdoor Projects 1-2-3" ;
+.
+:Oxford_Companion_Food
+  rdf:type schema:Book ;
+  dcterms:creator authors:Alan_Davidson ;
+  dcterms:title "The Oxford Companion to Food" ;
+  schema:author authors:Alan_Davidson ;
+  schema:isbn "0696206730" ;
+  bibliographica:binNumber 16 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/901890365.ttl"^^xsd:anyURI ;
+  rdfs:label "The Oxford Companion to Food" ;
 .
 :PSI_What_Is_It
   rdf:type schema:Book ;
@@ -6138,7 +6215,10 @@
   dcterms:creator authors:Seamus_Heaney ;
   dcterms:title "Selected poems, 1966-1987" ;
   schema:author authors:Seamus_Heaney ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/22284187.ttl"^^xsd:anyURI ;
+  schema:isbn "0374522804" ;
+  bibliographica:binNumber 16 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/634989838.ttl"^^xsd:anyURI ;
   rdfs:label "Selected poems, 1966-1987" ;
 .
 :Serious_Pig
@@ -7140,6 +7220,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/19264143.ttl"^^xsd:anyURI ;
   rdfs:label "The Control of Nature" ;
 .
+:The_Cooks_Own_Book
+  rdf:type schema:Book ;
+  dcterms:creator authors:Collins_Publishing ;
+  dcterms:title "The Cook's Own Book" ;
+  schema:author authors:Collins_Publishing ;
+  schema:isbn "0679729798" ;
+  bibliographica:binNumber 16 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/613602678.ttl"^^xsd:anyURI ;
+  rdfs:label "The Cook's Own Book" ;
+.
 :The_Country_Life
   rdf:type schema:Book ;
   dcterms:creator authors:Rachel_Cusk ;
@@ -7610,6 +7701,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/71222991.ttl"^^xsd:anyURI ;
   rdfs:label "The N Word" ;
+.
+:The_Natural_Foods_Cookbook
+  rdf:type schema:Book ;
+  dcterms:creator authors:Beatrice_Trum_Hunter ;
+  dcterms:title "The Natural Foods Cookbook" ;
+  schema:author authors:Beatrice_Trum_Hunter ;
+  schema:isbn "0515053422" ;
+  bibliographica:binNumber 16 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/6301593.ttl"^^xsd:anyURI ;
+  rdfs:label "The Natural Foods Cookbook" ;
 .
 :The_Neon_Bible
   rdf:type schema:Book ;
@@ -9002,6 +9104,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/48834019.ttl"^^xsd:anyURI ;
   rdfs:label "The Worst-case Scenario Survival Handbook" ;
+.
+:Writings_Drawings_Dylan
+  rdf:type schema:Book ;
+  dcterms:creator authors:Bob_Dylan ;
+  dcterms:title "Writings and Drawings" ;
+  schema:author authors:Bob_Dylan ;
+  schema:isbn "0394482433" ;
+  bibliographica:binNumber 16 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/429390723.ttl"^^xsd:anyURI ;
+  rdfs:label "Writings and Drawings" ;
 .
 :Yamaha_Song_Book
   rdf:type schema:Book ;
