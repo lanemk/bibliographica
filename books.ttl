@@ -2200,6 +2200,16 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/963458729.ttl"^^xsd:anyURI ;
   rdfs:label "Dharma Gaia" ;
 .
+:Diatonic_Major_Minor_Scales
+  rdf:type schema:Book ;
+  dcterms:creator authors:Andres_Segovia ;
+  dcterms:title "Diatonic Major and Minor Scales" ;
+  schema:author authors:Andres_Segovia ;
+  bibliographica:binNumber 17 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1004934270.ttl"^^xsd:anyURI ;
+  rdfs:label "Diatonic Major and Minor Scales" ;
+.
 :Dictionary_of_Multimedia
   rdf:type schema:Book ;
   dcterms:creator authors:Brad_Hansen ;
@@ -3275,6 +3285,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/10720780.ttl"^^xsd:anyURI ;
   rdfs:label "Guitar Chord Chart" ;
 .
+:Guitar_Fitness
+  rdf:type schema:Book ;
+  dcterms:creator authors:Josquin_Des_Pres ;
+  dcterms:title "Guitar Fitness : an exercising handbook" ;
+  schema:author authors:Josquin_Des_Pres ;
+  schema:isbn "0793516978" ;
+  bibliographica:binNumber 17 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/31294819.ttl"^^xsd:anyURI ;
+  rdfs:label "Guitar Fitness" ;
+.
 :Haiku_Harvest
   rdf:type schema:Book ;
   dcterms:creator authors:Peter_Beilenson ;
@@ -3838,6 +3859,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/27980135.ttl"^^xsd:anyURI ;
   rdfs:label "In the Country of the Great King" ;
 .
+:Incredible_Chord_Finder
+  rdf:type schema:Book ;
+  dcterms:creator authors:Hal_Leonard_Corp ;
+  dcterms:title "Incredible Chord Finder : a complete guide to over 1116 guitar chords" ;
+  schema:author authors:Hal_Leonard_Corp ;
+  schema:isbn "0881881406" ;
+  bibliographica:binNumber 17 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/979255046.ttl"^^xsd:anyURI ;
+  rdfs:label "Incredible Chord Finder" ;
+.
 :Information_Literacy_Instruction
   rdf:type schema:Book ;
   dcterms:creator authors:Esther_Grassian ;
@@ -4023,6 +4055,16 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/779380485.ttl"^^xsd:anyURI ;
   rdfs:label "Jazz" ;
+.
+:Jazz_Guitarist_v2
+  rdf:type schema:Book ;
+  dcterms:creator authors:Ronny_Lee ;
+  dcterms:title "Jazz Guitarist, Volume 2" ;
+  schema:author authors:Ronny_Lee ;
+  bibliographica:binNumber 17 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/939559211.ttl"^^xsd:anyURI ;
+  rdfs:label "Jazz Guitarist, Volume 2" ;
 .
 :Jazz_Styles_of_John_Klemmer
   rdf:type schema:Book ;
@@ -4729,6 +4771,28 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/156470741.ttl"^^xsd:anyURI ;
   rdfs:label "Miss Smilla's feeling for snow" ;
 .
+:Modern_Method_Guitar_v1
+  rdf:type schema:Book ;
+  dcterms:creator authors:William_Leavitt ;
+  dcterms:title "A Modern Method for Guitar. vol. 1" ;
+  schema:author authors:William_Leavitt ;
+  schema:isbn "0876390130" ;
+  bibliographica:binNumber 17 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/837680299.ttl"^^xsd:anyURI ;
+  rdfs:label "A Modern Method for Guitar. vol. 1" ;
+.
+:Modern_Method_Guitar_v2
+  rdf:type schema:Book ;
+  dcterms:creator authors:William_Leavitt ;
+  dcterms:title "A Modern Method for Guitar. vol. 2" ;
+  schema:author authors:William_Leavitt ;
+  schema:isbn "0876390165" ;
+  bibliographica:binNumber 17 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/66566421.ttl"^^xsd:anyURI ;
+  rdfs:label "A Modern Method for Guitar. vol. 2" ;
+.
 :Modern_Recording_Techniques
   rdf:type schema:Book ;
   dcterms:creator authors:David_Huber ;
@@ -5321,6 +5385,19 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/47959610.ttl"^^xsd:anyURI ;
   rdfs:label "One Virgin Too Many" ;
 .
+:Oneills_Music_Ireland
+  rdf:type schema:Book ;
+  dcterms:creator authors:Miles_Krassen ;
+  dcterms:creator authors:Francis_ONeill ;
+  dcterms:title "O'Neill's Music of Ireland" ;
+  schema:author authors:Miles_Krassen ;
+  schema:author authors:Francis_ONeill ;
+  schema:isbn "0825601738" ;
+  bibliographica:binNumber 17 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/833169028.ttl"^^xsd:anyURI ;
+  rdfs:label "O'Neill's Music of Ireland" ;
+.
 :Orchard_Beach
   rdf:type schema:Book ;
   dcterms:creator authors:Stuart_Woods ;
@@ -5842,6 +5919,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/46952110.ttl"^^xsd:anyURI ;
   rdfs:label "The Raw and the Cooked" ;
+.
+:Reading_Studies_Guitar
+  rdf:type schema:Book ;
+  dcterms:creator authors:William_Leavitt ;
+  dcterms:title "Reading studies for guitar : positions one through seven and multi-position studies in all keys" ;
+  schema:author authors:William_Leavitt ;
+  schema:isbn "0634013351" ;
+  bibliographica:binNumber 17 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1027900862.ttl"^^xsd:anyURI ;
+  rdfs:label "Reading Studies for Guitar" ;
 .
 :Reality_Is_Broken
   rdf:type schema:Book ;
@@ -6879,8 +6967,11 @@
   dcterms:creator authors:Bruno_Nettl ;
   dcterms:title "The study of ethnomusicology : thirty-one issues and concepts" ;
   schema:author authors:Bruno_Nettl ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/749643557.ttl"^^xsd:anyURI ;
-  rdfs:label "Study of ethnomusicology" ;
+  schema:isbn "9780252072789" ;
+  bibliographica:binNumber 17 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/694967185.ttl"^^xsd:anyURI ;
+  rdfs:label "The Study of Ethnomusicology" ;
 .
 :Sub_Rosa
   rdf:type schema:Book ;
@@ -9322,6 +9413,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/256099430.ttl"^^xsd:anyURI ;
   rdfs:label "A Yellow Raft in Blue Water" ;
+.
+:Yoga_for_Athletes
+  rdf:type schema:Book ;
+  dcterms:creator authors:Argie_Ligeros ;
+  dcterms:title "The Yoga for Athletes Fitness System" ;
+  schema:author authors:Argie_Ligeros ;
+  schema:isbn "0967685605" ;
+  bibliographica:binNumber 17 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/48165737.ttl"^^xsd:anyURI ;
+  rdfs:label "Yoga for Athletes" ;
 .
 :You_Shall_Know_Velocity
   rdf:type schema:Book ;

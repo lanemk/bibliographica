@@ -235,6 +235,13 @@
   rdfs:label "Andrea Dodi" ;
   foaf:name "Andrea Dodi" ;
 .
+:Andres_Segovia
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Andr%C3%A9s_Segovia.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/54346467/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Andres Segovia" ;
+  foaf:name "Andres Segovia" ;
+.
 :Andrew_Boyd
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "https://dbpedia.org/data/Andrew_Boyd_(author).ttl"^^xsd:anyURI ;
@@ -342,6 +349,11 @@
   bibliographica:viafURI "https://viaf.org/viaf/60735435/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Ardythe Ashley" ;
   foaf:name "Ardythe Ashley" ;
+.
+:Argie_Ligeros
+  rdf:type schema:Person ;
+  rdfs:label "Argie Ligeros" ;
+  foaf:name "Argie Ligeros" ;
 .
 :Ariel_Dorfman
   rdf:type schema:Person ;
@@ -1398,6 +1410,13 @@
   rdfs:label "Frances Moore Lappé" ;
   foaf:name "Frances Moore Lappé" ;
 .
+:Francis_ONeill
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Francis_O'Neill.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/19988319/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Francis O'Neill" ;
+  foaf:name "Francis O'Neill" ;
+.
 :Franco_Ferrero
   rdf:type schema:Person ;
   bibliographica:viafURI "https://viaf.org/viaf/33948444/rdf.xml"^^xsd:anyURI ;
@@ -1600,6 +1619,13 @@
   rdf:type schema:Person ;
   rdfs:label "Haare Williams" ;
   foaf:name "Haare Williams" ;
+.
+:Hal_Leonard_Corp
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Hal_Leonard_LLC.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/168111519/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Hal Leonard Corporation" ;
+  foaf:name "Hal Leonard Corporation" ;
 .
 :Hank_Harrison
   rdf:type schema:Person ;
@@ -2320,6 +2346,12 @@
   rdfs:label "Joshua Piven" ;
   foaf:name "Joshua Piven" ;
 .
+:Josquin_Des_Pres
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/23829271/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Josquin Des Pres" ;
+  foaf:name "Josquin Des Pres" ;
+.
 :Jostein_Gaarder
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "https://dbpedia.org/data/Jostein_Gaarder.ttl"^^xsd:anyURI ;
@@ -3037,6 +3069,12 @@
   rdfs:label "Miles Davis" ;
   foaf:name "Miles Davis" ;
 .
+:Miles_Krassen
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/22309506/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Miles Krassen" ;
+  foaf:name "Miles Krassen" ;
+.
 :Mollie_Katzen
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "https://dbpedia.org/data/Mollie_Katzen.ttl"^^xsd:anyURI ;
@@ -3742,6 +3780,13 @@
   rdfs:label "Ron Hansen" ;
   foaf:name "Ron Hansen" ;
 .
+:Ronny_Lee
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Ronny_Lee.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/55669788/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Ronny Lee" ;
+  foaf:name "Ronny Lee" ;
+.
 :Rosario_Ferre
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "https://dbpedia.org/data/Rosario_Ferr%C3%A9.ttl"^^xsd:anyURI ;
@@ -4420,6 +4465,13 @@
   bibliographica:viafURI "https://viaf.org/viaf/2558195/rdf.xml"^^xsd:anyURI ;
   rdfs:label "William Glasser" ;
   foaf:name "William Glasser" ;
+.
+:William_Leavitt
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/William_Leavitt_(musician).ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/87434122/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "William G. Leavitt" ;
+  foaf:name "William G. Leavitt" ;
 .
 :William_S_Burroughs
   rdf:type schema:Person ;
