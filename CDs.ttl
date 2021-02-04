@@ -257,6 +257,15 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/96a076c0-dec7-4920-9f99-c9ef0af9a395"^^xsd:anyURI ;
   rdfs:label "Attainable Love" ;
 .
+:Austin_96
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Dave_Alvin_Guilty_Men ;
+  bibliographica:byArtist SoloMusicArtist:Dave_Alvin_Guilty_Men ;
+  rdfs:label "Austin '96" ;
+.
 :Aye
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -448,6 +457,16 @@
   bibliographica:byArtist SoloMusicArtist:Christine_Collister ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d5ec305f-193a-41eb-b93b-98b30f02d48d"^^xsd:anyURI ;
   rdfs:label "Blue Aconite" ;
+.
+:Blue_Blvd
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Dave_Alvin ;
+  bibliographica:byArtist SoloMusicArtist:Dave_Alvin ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/55ad48dd-7b2f-4d98-83ad-f90b1140e79f"^^xsd:anyURI ;
+  rdfs:label "Blue Boulevard" ;
 .
 :Bluegrass_Reunion
   rdf:type mo:CD ;
@@ -926,6 +945,30 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/ba5f83b8-90cb-306c-b445-ca4bf0d6eb03"^^xsd:anyURI ;
   rdfs:label "Dancing in the Dragon's Jaws" ;
 .
+:Danko_Fjeld_Andersen
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist: ;
+  dcterms:creator SoloMusicArtist:Jonas_Fjeld ;
+  dcterms:creator SoloMusicArtist:Eric_Andersen ;
+  bibliographica:byArtist SoloMusicArtist:Rick_Danko ;
+  bibliographica:byArtist SoloMusicArtist:Jonas_Fjeld ;
+  bibliographica:byArtist SoloMusicArtist:Eric_Andersen ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e142f726-0629-4b8a-86f9-dfc1caec134c"^^xsd:anyURI ;
+  rdfs:label "Danko, Fjeld & Andersen" ;
+.
+:Danu_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Danu ;
+  bibliographica:byArtist MusicGroup:Danu ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f3b43c7a-11c3-488a-a2b4-327e985d132d"^^xsd:anyURI ;
+  rdfs:label "Danú" ;
+.
 :Dark_Gift_of_Time
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -955,6 +998,16 @@
   bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/678bef56-4dc4-39b2-9d2f-e0ede6c0a7b9"^^xsd:anyURI ;
   rdfs:label "Dart to the Heart" ;
+.
+:David_Live
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:David_Bowie ;
+  bibliographica:byArtist SoloMusicArtist:David_Bowie ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/1352a8a5-2494-3f02-bfa5-496d10e04c52"^^xsd:anyURI ;
+  rdfs:label "David Live" ;
 .
 :Deeper_Still
   rdf:type mo:CD ;
@@ -995,6 +1048,16 @@
   bibliographica:byArtist SoloMusicArtist:BB_King ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/55229cad-2f4f-4b02-8530-7e9d199018fc"^^xsd:anyURI ;
   rdfs:label "Deuces Wild" ;
+.
+:Diamond_Dogs
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:David_Bowie ;
+  bibliographica:byArtist SoloMusicArtist:David_Bowie ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/4f00baf4-c11c-41dc-bdca-4267180077f7"^^xsd:anyURI ;
+  rdfs:label "Diamond Dogs" ;
 .
 :Die_Grossen_Tangos
   rdf:type mo:CD ;
@@ -1301,6 +1364,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/30258950-da8c-4b26-b3eb-42ab828e682d"^^xsd:anyURI ;
   rdfs:label "Heart of the Forest" ;
 .
+:Heroes
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:David_Bowie ;
+  bibliographica:byArtist SoloMusicArtist:David_Bowie ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/8caa9a0e-9063-3497-b73e-3165ea2f75a6"^^xsd:anyURI ;
+  rdfs:label "Heroes" ;
+.
 :High_Winds_White_Sky
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1498,6 +1571,16 @@
   bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/523af397-7eea-3b7b-8af9-72507fc6a811"^^xsd:anyURI ;
   rdfs:label "Inner City Front" ;
+.
+:Interstate_City
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Dave_Alvin_Guilty_Men ;
+  bibliographica:byArtist MusicGroup:Dave_Alvin_Guilty_Men ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/aaf69fd9-e60c-495e-ad54-f50b50bec59f"^^xsd:anyURI ;
+  rdfs:label "Interstate City" ;
 .
 :Into_the_Light
   rdf:type mo:CD ;
@@ -1849,6 +1932,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/9980ffe5-c5b5-3a83-8c1e-1ec6618f97ca"^^xsd:anyURI ;
   rdfs:label "Love and Theft" ;
 .
+:Low
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:David_Bowie ;
+  bibliographica:byArtist SoloMusicArtist:David_Bowie ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/02e2a2f6-0da2-34cb-8e65-a05447ed1994"^^xsd:anyURI ;
+  rdfs:label "Low" ;
+.
 :MTV_Unplugged
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1858,6 +1951,16 @@
   bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/3ee15c41-77b1-32bd-9513-d6035444a34e"^^xsd:anyURI ;
   rdfs:label "MTV Unplugged" ;
+.
+:Man_Who_Sold_World
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:David_Bowie ;
+  bibliographica:byArtist SoloMusicArtist:David_Bowie ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/246a9545-4a25-3204-a817-e52f9e5ae730"^^xsd:anyURI ;
+  rdfs:label "The Man Who Sold the World" ;
 .
 :Masked_and_Anonymous
   rdf:type mo:CD ;
@@ -1979,6 +2082,16 @@
   bibliographica:byArtist SoloMusicArtist:Chet_Baker ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/7c343bdc-f9bf-4960-8830-27bb0672ab4c"^^xsd:anyURI ;
   rdfs:label "My Funny Valentine" ;
+.
+:Mystic_Dreams
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Danu ;
+  bibliographica:byArtist MusicGroup:Danu ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5b60975b-2aca-4c16-bfbb-aba2aca446e4"^^xsd:anyURI ;
+  rdfs:label "Mystic Dreams" ;
 .
 :Nashville_Skyline
   rdf:type mo:CD ;
@@ -2260,6 +2373,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/faa47611-ff6f-3e08-b27c-7e56583c08e4"^^xsd:anyURI ;
   rdfs:label "Revolver" ;
 .
+:Rise_and_Fall_Ziggy_Stardust
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:David_Bowie ;
+  bibliographica:byArtist SoloMusicArtist:David_Bowie ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/34763364-8570-33ab-8618-65d05cb87f6e"^^xsd:anyURI ;
+  rdfs:label "The Rise and Fall of Ziggy Stardust and the Spiders From Mars" ;
+.
 :River_Under_The_Road
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2320,6 +2443,16 @@
   bibliographica:byArtist MusicGroup:Clash ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a42ad822-7bdc-4272-93fa-2e04e9f09ce9"^^xsd:anyURI ;
   rdfs:label "Sandinista!" ;
+.
+:Scary_Monsters
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:David_Bowie ;
+  bibliographica:byArtist SoloMusicArtist:David_Bowie ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/968b7e86-4645-3417-b6c0-59d8c2b9862f"^^xsd:anyURI ;
+  rdfs:label "Scary Monsters (and Super Creeps)" ;
 .
 :Self_Portrait
   rdf:type mo:CD ;
@@ -2497,6 +2630,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/d87c9431-cc3e-37e8-9181-5fc69a917c3a"^^xsd:anyURI ;
   rdfs:label "Southern Exposure" ;
 .
+:Space_Oddity
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:David_Bowie ;
+  bibliographica:byArtist SoloMusicArtist:David_Bowie ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/ede9ad56-aebd-4442-9961-2685d86a7441"^^xsd:anyURI ;
+  rdfs:label "Space Oddity" ;
+.
 :Sparks_Gonna_Fly
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2535,6 +2678,26 @@
   bibliographica:byArtist MusicGroup:Baka_Beyond ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/cd30cc39-3855-3e83-ab92-623831c66829"^^xsd:anyURI ;
   rdfs:label "Spirit of the Forest" ;
+.
+:Stage
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:David_Bowie ;
+  bibliographica:byArtist SoloMusicArtist:David_Bowie ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/1f1e37cd-88bb-4797-ba9d-5e0bf5887583"^^xsd:anyURI ;
+  rdfs:label "Stage" ;
+.
+:Station_to_Station
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:David_Bowie ;
+  bibliographica:byArtist SoloMusicArtist:David_Bowie ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a25dc82a-8af3-32f6-8e66-5fb8cf72a45f"^^xsd:anyURI ;
+  rdfs:label "Station to Station" ;
 .
 :Stealing_Fire
   rdf:type mo:CD ;
@@ -2688,6 +2851,18 @@
   bibliographica:byArtist SoloMusicArtist:Ashley_Hutchings ;
   rdfs:label "The Gov'nor" ;
 .
+:The_Long_Way_Home
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Dama ;
+  dcterms:creator SoloMusicArtist:DGary ;
+  bibliographica:byArtist SoloMusicArtist:Dama ;
+  bibliographica:byArtist SoloMusicArtist:DGary ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c8fafdaa-1843-4076-b1f3-f9a7ef680d64"^^xsd:anyURI ;
+  rdfs:label "The Long Way Home" ;
+.
 :The_Peel_Session_Album
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2787,6 +2962,16 @@
   bibliographica:byArtist MusicGroup:Arrested_Development ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/ede793b4-4976-3b7a-ba3b-fde6801de64c"^^xsd:anyURI ;
   rdfs:label "3 Years, 5 Months & 2 Days in the Life of…" ;
+.
+:Time_Out
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Dave_Brubeck ;
+  bibliographica:byArtist SoloMusicArtist:Dave_Brubeck ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/ce61b145-c954-4fd4-86a4-bb2617544e62"^^xsd:anyURI ;
+  rdfs:label "Time Out" ;
 .
 :Time_Out_of_Mind
   rdf:type mo:CD ;
@@ -2959,6 +3144,16 @@
   bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/8d231aa3-4a4e-306a-a3f9-4421e846bb1a"^^xsd:anyURI ;
   rdfs:label "Under the Red Sky" ;
+.
+:Unfinished_Business
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Dave_Davies ;
+  bibliographica:byArtist SoloMusicArtist:Dave_Davies ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/3284e038-a18a-46e0-a311-7dc0c9d714f1"^^xsd:anyURI ;
+  rdfs:label "Unfinished Business: Dave Davies Kronikles, 1963|1998" ;
 .
 :Unplugged
   rdf:type mo:CD ;
@@ -3143,6 +3338,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/9a900f5d-28dd-3efa-b3c1-298fc84fc11b"^^xsd:anyURI ;
   rdfs:label "You Pay Your Money and You Take Your Chance" ;
 .
+:Young_Americans
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:David_Bowie ;
+  bibliographica:byArtist SoloMusicArtist:David_Bowie ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/ea63a602-1d7f-3c4b-ba68-bc79557000d1"^^xsd:anyURI ;
+  rdfs:label "Young Americans" ;
+.
 :Young_Lions
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3162,6 +3367,26 @@
   bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/6c88bc8e-eaee-3670-ad6b-e37cef8b3e1c"^^xsd:anyURI ;
   rdfs:label "You've Never Seen Everything" ;
+.
+:Ziggy_Stardust
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:David_Bowie ;
+  bibliographica:byArtist SoloMusicArtist:David_Bowie ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/0b2ef43e-74fd-3e12-afdb-f486d971c408"^^xsd:anyURI ;
+  rdfs:label "The Rise and Fall of Ziggy Stardust and the Spiders From Mars" ;
+.
+:Ziggy_Stardust_Spiders_Mars
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:David_Bowie ;
+  bibliographica:byArtist SoloMusicArtist:David_Bowie ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/3eaa9c40-1b63-4678-ba49-06d9c56c75b2"^^xsd:anyURI ;
+  rdfs:label "Ziggy Stardust and The Spiders From Mars" ;
 .
 :Zoot_Suit_Riot
   rdf:type mo:CD ;
