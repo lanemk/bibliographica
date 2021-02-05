@@ -542,6 +542,12 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/fcb79f1a-d3a9-41fe-9cd7-d16537907337"^^xsd:anyURI ;
   rdfs:label "The Crusaders" ;
 .
+:DGary_Jihe
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/466cb25b-af31-4abd-a61a-a2a8db7cb252"^^xsd:anyURI ;
+  rdfs:label "D'Gary & Jihé" ;
+.
 :Danu
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassAD ;

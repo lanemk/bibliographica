@@ -378,6 +378,16 @@
   bibliographica:byArtist MusicGroup:Crosby_Nash ;
   rdfs:label "Best of" ;
 .
+:Best_of_David_Bromberg
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:David_Bromberg ;
+  bibliographica:byArtist SoloMusicArtist:David_Bromberg ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/40c7238d-dd71-4542-863d-59e072225a6f"^^xsd:anyURI ;
+  rdfs:label "Out of the Blues: The Best of David Bromberg" ;
+.
 :Big_Circumstance
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -626,6 +636,16 @@
   bibliographica:byArtist SoloMusicArtist:Alejandro_Escovedo ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/0e7e13a7-0aa9-4d45-9213-2c86581d0ae7"^^xsd:anyURI ;
   rdfs:label "By The Hand Of The Father" ;
+.
+:Bye_Bye_Route_66
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Devonsquare ;
+  bibliographica:byArtist MusicGroup:Devonsquare ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f5477049-bcb0-482a-b6a7-51983b80163c"^^xsd:anyURI ;
+  rdfs:label "Bye Bye Route 66" ;
 .
 :Caberet_Diosa_CD
   rdf:type mo:CD ;
@@ -1009,6 +1029,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/1352a8a5-2494-3f02-bfa5-496d10e04c52"^^xsd:anyURI ;
   rdfs:label "David Live" ;
 .
+:Deep_Forest_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Deep_Forest ;
+  bibliographica:byArtist MusicGroup:Deep_Forest ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d012fe43-aadf-487d-bdb5-a38d885f9dd2"^^xsd:anyURI ;
+  rdfs:label "Deep Forest" ;
+.
 :Deeper_Still
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1048,6 +1078,16 @@
   bibliographica:byArtist SoloMusicArtist:BB_King ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/55229cad-2f4f-4b02-8530-7e9d199018fc"^^xsd:anyURI ;
   rdfs:label "Deuces Wild" ;
+.
+:Devo_Live
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Devo ;
+  bibliographica:byArtist MusicGroup:Devo ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/519d76df-ef9f-42f6-97fe-f3f18d32ce85"^^xsd:anyURI ;
+  rdfs:label "DEV‐O Live" ;
 .
 :Diamond_Dogs
   rdf:type mo:CD ;
@@ -1242,6 +1282,26 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/0adb00ae-d2f6-4e33-8394-aff5d89c9adb"^^xsd:anyURI ;
   rdfs:label "4 Way Street" ;
 .
+:Freedom_of_Choice
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Devo ;
+  bibliographica:byArtist MusicGroup:Devo ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/977d7c01-a90c-4815-b01e-4b0fbb139a6c"^^xsd:anyURI ;
+  rdfs:label "Freedom of Choice" ;
+.
+:Fresh_Fruit_Rotting_Veg
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Dead_Kennedys ;
+  bibliographica:byArtist MusicGroup:Dead_Kennedys ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/038d3b87-705d-3a2c-8f4a-e8cee042b9ea"^^xsd:anyURI ;
+  rdfs:label "Fresh Fruit for Rotting Vegetables" ;
+.
 :Friend_of_Mine
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1344,6 +1404,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/30183d1e-5e82-4e4e-aa21-24acb295d0d3"^^xsd:anyURI ;
   rdfs:label "Gravity (bonus disc)" ;
 .
+:Grown_Backwards
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:David_Byrne ;
+  bibliographica:byArtist SoloMusicArtist:David_Byrne ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d268a3b8-c132-4b95-806d-f7ed72954107"^^xsd:anyURI ;
+  rdfs:label "Grown Backwards" ;
+.
 :Harbourfront
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1443,6 +1513,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/7a2ad97a-55e9-48a4-953b-45ddc10f7f0f"^^xsd:anyURI ;
   rdfs:label "Homogenic" ;
 .
+:Horombe
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:DGary_Jihe ;
+  bibliographica:byArtist MusicGroup:DGary_Jihe ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/47f399c0-9765-47c7-b0d8-f0658b92de39"^^xsd:anyURI ;
+  rdfs:label "Horombe" ;
+.
 :Horses_In_Mines
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1511,6 +1591,16 @@
   bibliographica:byArtist MusicGroup:Clifton_Chenier_Red_Hot ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/ae5a184c-5187-4a22-b673-8752311df6ce"^^xsd:anyURI ;
   rdfs:label "In New Orleans" ;
+.
+:In_Montreux
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Dee_Dee_Bridgewater ;
+  bibliographica:byArtist SoloMusicArtist:Dee_Dee_Bridgewater ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d45084bb-3901-4ad8-a833-cbf9657f5ccf"^^xsd:anyURI ;
+  rdfs:label "In Montreux" ;
 .
 :In_My_Tribe
   rdf:type mo:CD ;
@@ -1803,6 +1893,26 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/5960fe04-1b1c-4fe0-a557-bdd05dc952ae"^^xsd:anyURI ;
   rdfs:label "Live in Paris: Zenith '88" ;
 .
+:Live_Maxs_KC
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Devo ;
+  bibliographica:byArtist MusicGroup:Devo ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/fa8b3217-3e89-45c4-a119-2ed8d71a64fa"^^xsd:anyURI ;
+  rdfs:label "Live at Max’s Kansas City 11-15-77" ;
+.
+:Live_Mongoloid_Years
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Devo ;
+  bibliographica:byArtist MusicGroup:Devo ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b3f76215-9179-4206-921a-aea6ffba6643"^^xsd:anyURI ;
+  rdfs:label "Live: The Mongoloid Years" ;
+.
 :Live_on_World_Cafe
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1952,6 +2062,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/3ee15c41-77b1-32bd-9513-d6035444a34e"^^xsd:anyURI ;
   rdfs:label "MTV Unplugged" ;
 .
+:Malagasy_Guitar
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:DGary ;
+  bibliographica:byArtist SoloMusicArtist:DGary ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/6cd3293d-1fe5-4c0b-b3cc-216be034c87f"^^xsd:anyURI ;
+  rdfs:label "Malagasy Guitar" ;
+.
 :Man_Who_Sold_World
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2002,6 +2122,16 @@
   bibliographica:byArtist SoloMusicArtist:Ana_Egge ;
   rdfs:comment "Item not listed in MusicBrainz." ;
   rdfs:label "Mile Marker" ;
+.
+:Mind_Adventures
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Desree ;
+  bibliographica:byArtist SoloMusicArtist:Desree ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/789a27a8-c390-4b37-b466-666aed434b7b"^^xsd:anyURI ;
+  rdfs:label "Mind Adventures" ;
 .
 :Misc
   rdf:type mo:CD ;
@@ -2142,6 +2272,16 @@
   bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/49fb19c2-b8a3-3462-94ba-8847841024ce"^^xsd:anyURI ;
   rdfs:label "Nothing But a Burning Light" ;
+.
+:Now_It_Can_Be_Told
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Devo ;
+  bibliographica:byArtist MusicGroup:Devo ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/080e64d1-a18c-4904-acb5-9843f1b57090"^^xsd:anyURI ;
+  rdfs:label "Now It Can Be Told: DEVO at the Palace 12/9/88" ;
 .
 :Oh_Mercy
   rdf:type mo:CD ;
@@ -2322,6 +2462,16 @@
   bibliographica:byArtist SoloMusicArtist:Brent_Lewis ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/bff31636-944b-4d39-8bab-5f6e7e5dd3be"^^xsd:anyURI ;
   rdfs:label "Pulse - Where the Rhythm Begins" ;
+.
+:Q_Are_We_Not_Men
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Devo ;
+  bibliographica:byArtist MusicGroup:Devo ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d4bfdd53-f9ac-35d8-b30d-f750b4420af4"^^xsd:anyURI ;
+  rdfs:label "Q: Are We Not Men? A: We Are Devo!" ;
 .
 :Rat_Patrol_Ft_Bragg
   rdf:type mo:CD ;
@@ -2598,6 +2748,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/5b673500-3d8d-4899-a373-665849a1cb9e"^^xsd:anyURI ;
   rdfs:label "Someone to Love" ;
 .
+:Something_for_Everyone
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Devo ;
+  bibliographica:byArtist MusicGroup:Devo ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/1ca7b25c-dd1b-4dff-a3f3-cfacece12c52"^^xsd:anyURI ;
+  rdfs:label "Something for Everybody" ;
+.
 :Son_of_the_Wind
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2832,6 +2992,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/072a4350-7b24-47f9-af50-b66e1aa6b3c8"^^xsd:anyURI ;
   rdfs:label "Telling Stories To The Sea" ;
 .
+:The_Catherine_Wheel
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:David_Byrne ;
+  bibliographica:byArtist SoloMusicArtist:David_Byrne ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/98b1e961-bf84-4e4b-85c1-5de7161dfdef"^^xsd:anyURI ;
+  rdfs:label "The Catherine Wheel" ;
+.
 :The_First_Ten_Years
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2841,6 +3011,16 @@
   bibliographica:byArtist MusicGroup:Altan ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/02a9ce0a-fdb4-42fe-8c54-15471708cbed"^^xsd:anyURI ;
   rdfs:label "The First Ten Years: 1986 / 1995" ;
+.
+:The_Forest
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:David_Byrne ;
+  bibliographica:byArtist SoloMusicArtist:David_Byrne ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a737d458-40b3-4860-8cfb-661f6eaf6eb1"^^xsd:anyURI ;
+  rdfs:label "The Forest" ;
 .
 :The_Govnor
   rdf:type mo:CD ;
@@ -3155,6 +3335,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/3284e038-a18a-46e0-a311-7dc0c9d714f1"^^xsd:anyURI ;
   rdfs:label "Unfinished Business: Dave Davies Kronikles, 1963|1998" ;
 .
+:Unknown_Territory
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Dick_Dale ;
+  bibliographica:byArtist SoloMusicArtist:Dick_Dale ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f2674024-e465-459e-97dd-952f5f3bda81"^^xsd:anyURI ;
+  rdfs:label "Unknown Territory" ;
+.
 :Unplugged
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3307,6 +3497,16 @@
   bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/3cba7f03-13b4-4c2c-9307-f8dc3db4a678"^^xsd:anyURI ;
   rdfs:label "World Gone Wrong" ;
+.
+:World_Mix
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Deep_Forest ;
+  bibliographica:byArtist MusicGroup:Deep_Forest ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a402410c-204e-41ea-b1ac-b22b2516ca33"^^xsd:anyURI ;
+  rdfs:label "World Mix" ;
 .
 :World_of_Wonders
   rdf:type mo:CD ;
