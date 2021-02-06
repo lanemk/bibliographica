@@ -1225,6 +1225,11 @@
   rdfs:label "E.R. LaChapelle" ;
   foaf:name "E.R. LaChapelle" ;
 .
+:East_Coast_Books
+  rdf:type schema:Organization ;
+  rdfs:label "East Coast Books" ;
+  foaf:name "East Coast Books" ;
+.
 :Earl_Shorris
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "https://dbpedia.org/data/Earl_Shorris.ttl"^^xsd:anyURI ;
@@ -1509,6 +1514,12 @@
   bibliographica:viafURI "https://viaf.org/viaf/223506770/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Gary Davis" ;
   foaf:name "Gary Davis" ;
+.
+:Gary_Meisner
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/55638838/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Gary Meisner" ;
+  foaf:name "Gary Meisner" ;
 .
 :Gary_Snyder
   rdf:type schema:Person ;
@@ -3568,6 +3579,11 @@
   rdfs:label "Rex Pickett" ;
   foaf:name "Rex Pickett" ;
 .
+:Rich_Carter
+  rdf:type schema:Person ;
+  rdfs:label "Rich Carter" ;
+  foaf:name "Rich Carter" ;
+.
 :Richard_Adams
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "https://dbpedia.org/data/Richard_Adams.ttl"^^xsd:anyURI ;
@@ -3855,6 +3871,13 @@
   rdfs:label "S. E. Hinton" ;
   foaf:name "S. E. Hinton" ;
 .
+:Sal_Salvador
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Sal_Salvador.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/92584411/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Sal Salvador" ;
+  foaf:name "Sal Salvador" ;
+.
 :Salma_Samar_Damluji
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "https://dbpedia.org/data/Salma_Samar_Damluji.ttl"^^xsd:anyURI ;
@@ -4020,6 +4043,11 @@
   bibliographica:viafURI "https://viaf.org/viaf/5160302/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Stephen Myhre" ;
   foaf:name "Stephen Myhre" ;
+.
+:Steve_Hall
+  rdf:type schema:Person ;
+  rdfs:label "Steve Hall" ;
+  foaf:name "Steve Hall" ;
 .
 :Steven_Jenkins
   rdf:type schema:Person ;

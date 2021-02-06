@@ -1520,6 +1520,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/39223572.ttl"^^xsd:anyURI ;
   rdfs:label "Chocolat : a novel" ;
 .
+:Chord_Chemistry
+  rdf:type schema:Book ;
+  dcterms:creator authors:East_Coast_Books ;
+  dcterms:title "Chord Chemistry for Guitar" ;
+  schema:author authors:East_Coast_Books ;
+  schema:isbn "1585604909" ;
+  bibliographica:binNumber 17 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/948371949.ttl"^^xsd:anyURI ;
+  rdfs:label "Chord Chemistry for Guitar" ;
+.
 :ChroniclesOne
   rdf:type schema:Book ;
   dcterms:creator authors:Bob_Dylan ;
@@ -3285,6 +3296,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/10720780.ttl"^^xsd:anyURI ;
   rdfs:label "Guitar Chord Chart" ;
 .
+:Guitar_Chord_Encyclopedia
+  rdf:type schema:Book ;
+  dcterms:creator authors:Steve_Hall ;
+  dcterms:title "Guitar Chord Encyclopedia" ;
+  schema:author authors:Steve_Hall ;
+  schema:isbn "0882845292" ;
+  bibliographica:binNumber 17 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/66021017.ttl"^^xsd:anyURI ;
+  rdfs:label "Guitar Chord Encyclopedia" ;
+.
 :Guitar_Fitness
   rdf:type schema:Book ;
   dcterms:creator authors:Josquin_Des_Pres ;
@@ -3906,6 +3928,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/32860604.ttl"^^xsd:anyURI ;
   rdfs:label "The Inner Reaches of Outer Space" ;
 .
+:Instant_Guide_Keyboards
+  rdf:type schema:Book ;
+  dcterms:creator authors:Gary_Meisner ;
+  dcterms:title "Instant Scale and Chord Guide for Keyboards" ;
+  schema:author authors:Gary_Meisner ;
+  schema:isbn "0793500087" ;
+  bibliographica:binNumber 17 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/25007572.ttl"^^xsd:anyURI ;
+  rdfs:label "Instant Scale and Chord Guide for Keyboards" ;
+.
 :Instructional_Tech_Foundations
   rdf:type schema:Book ;
   dcterms:creator authors:Robert_Gagne ;
@@ -3959,6 +3992,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/607404449.ttl"^^xsd:anyURI ;
   rdfs:label "Ireland : selected stories" ;
+.
+:Irish_Favorites
+  rdf:type schema:Book ;
+  dcterms:creator authors:Hal_Leonard_Corp ;
+  dcterms:title "Irish Favorites" ;
+  schema:author authors:Hal_Leonard_Corp ;
+  schema:isbn "0793521769" ;
+  bibliographica:binNumber 17 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/503219730.ttl"^^xsd:anyURI ;
+  rdfs:label "Irish Favorites" ;
 .
 :Irish_Pub_Songs
   rdf:type schema:Book ;
@@ -4055,6 +4099,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/779380485.ttl"^^xsd:anyURI ;
   rdfs:label "Jazz" ;
+.
+:Jazz_Guitar_Masterpieces
+  rdf:type schema:Book ;
+  dcterms:creator authors:Rich_Carter ;
+  dcterms:title "Jazz Guitar Masterpieces" ;
+  schema:author authors:Rich_Carter ;
+  schema:isbn "0825697301" ;
+  bibliographica:binNumber 17 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/60365852.ttl"^^xsd:anyURI ;
+  rdfs:label "Jazz Guitar Masterpieces" ;
 .
 :Jazz_Guitarist_v2
   rdf:type schema:Book ;
@@ -8789,6 +8844,16 @@
   schema:author authors:Susan_Fox_Rogers ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/41076179.ttl"^^xsd:anyURI ;
   rdfs:label "Two in the Wild" ;
+.
+:Ultimate_Scales_Modes
+  rdf:type schema:Book ;
+  dcterms:creator authors:Sal_Salvador ;
+  dcterms:title "Ultimate Scales & Modes for Guitar" ;
+  schema:author authors:Sal_Salvador ;
+  bibliographica:binNumber 17 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/37644015.ttl"^^xsd:anyURI ;
+  rdfs:label "Ultimate Scales & Modes for Guitar" ;
 .
 :Under_African_Skies
   rdf:type schema:Book ;

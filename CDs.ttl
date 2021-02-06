@@ -147,6 +147,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/91374080-46c3-41f5-8b0e-9ac998f79a8e"^^xsd:anyURI ;
   rdfs:label "An Equal Love" ;
 .
+:Angels_Cigarettes
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Eliza_Carthy ;
+  bibliographica:byArtist SoloMusicArtist:Eliza_Carthy ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/1d70f325-3145-4927-8cff-d3094a5b74e0"^^xsd:anyURI ;
+  rdfs:label "Angels & Cigarettes" ;
+.
 :AniDiFranco_CD
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -216,6 +226,16 @@
   bibliographica:byArtist SoloMusicArtist:Aretha_Franklin ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/6f06ad48-e381-449f-9174-938872d24c92"^^xsd:anyURI ;
   rdfs:label "Aretha’s Gold" ;
+.
+:Armed_Forces
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Elvis_Costello_Attractions ;
+  bibliographica:byArtist MusicGroup:Elvis_Costello_Attractions ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/fea946a8-c05d-3a9b-a6fb-df5e592342a5"^^xsd:anyURI ;
+  rdfs:label "Armed Forces" ;
 .
 :At_Budokan
   rdf:type mo:CD ;
@@ -305,6 +325,16 @@
   bibliographica:byArtist MusicGroup:Bad_Company ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/78153b7e-9e3d-4cdf-a35c-2b9b953c83e7"^^xsd:anyURI ;
   rdfs:label "Bad Company" ;
+.
+:Baduizm
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Erykah_Badu ;
+  bibliographica:byArtist SoloMusicArtist:Erykah_Badu ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/93ef6b76-a6ab-4d01-ae7f-a141d4c4a852"^^xsd:anyURI ;
+  rdfs:label "Baduizm" ;
 .
 :Bare
   rdf:type mo:CD ;
@@ -478,6 +508,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/55ad48dd-7b2f-4d98-83ad-f90b1140e79f"^^xsd:anyURI ;
   rdfs:label "Blue Boulevard" ;
 .
+:Blue_River
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Eric_Andersen ;
+  bibliographica:byArtist SoloMusicArtist:Eric_Andersen ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/94a0ffb6-39b9-409c-a49d-ad4eb805bb20"^^xsd:anyURI ;
+  rdfs:label "Blue River" ;
+.
 :Bluegrass_Reunion
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -607,6 +647,16 @@
   bibliographica:byArtist MusicGroup:Allman_Brothers ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d4766e51-f342-33c6-924c-f33f6180775f"^^xsd:anyURI ;
   rdfs:label "Brothers And Sisters" ;
+.
+:Brothers_in_Arms
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Dire_Straits ;
+  bibliographica:byArtist MusicGroup:Dire_Straits ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/4c618c14-0ed3-3b50-b32a-562e0f4cfe28"^^xsd:anyURI ;
+  rdfs:label "Brothers in Arms" ;
 .
 :Buena_Vista_Social_Club_CD
   rdf:type mo:CD ;
@@ -755,6 +805,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/79f2f3a8-102a-3046-b2ff-bdfa2a1c63db"^^xsd:anyURI ;
   rdfs:label "The Charity of Night" ;
 .
+:Chatterbox_Session
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Eugene_Chadbourne ;
+  bibliographica:byArtist SoloMusicArtist:Eugene_Chadbourne ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/32722bff-196b-34e1-8112-f09828c719f8"^^xsd:anyURI ;
+  rdfs:label "The Eddie Chatterbox Double Trio Love Album" ;
+.
 :Check_It_Out
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -774,6 +834,16 @@
   bibliographica:byArtist MusicGroup:Black_Uhuru ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/2fac5b16-6da2-3dae-bdb5-9d3b7db2919b"^^xsd:anyURI ;
   rdfs:label "Chill Out" ;
+.
+:Chiwoniso
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Dumisani_Maraire ;
+  bibliographica:byArtist SoloMusicArtist:Dumisani_Maraire ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/83e2b3be-7334-428e-ae95-caba10f67121"^^xsd:anyURI ;
+  rdfs:label "Chiwoniso: Music of Zimbabwe" ;
 .
 :Christine_Kane_Live
   rdf:type mo:CD ;
@@ -896,6 +966,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/92915e3d-32ee-3e26-8503-cc05b8db296b"^^xsd:anyURI ;
   rdfs:label "Cosmic Thing" ;
 .
+:Country_Protest
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Eugene_Chadbourne ;
+  bibliographica:byArtist SoloMusicArtist:Eugene_Chadbourne ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/281cf50b-93aa-38b2-a239-15d4eb0f9d8a"^^xsd:anyURI ;
+  rdfs:label "Country Protest" ;
+.
 :Courage_My_Love
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -944,6 +1024,16 @@
   bibliographica:byArtist MusicGroup:Capercaillie ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c1c2ad27-c1c2-4b6a-9e0e-87a88525cce7"^^xsd:anyURI ;
   rdfs:label "Crosswinds" ;
+.
+:Cruel_Smile
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Elvis_Costello_Imposters ;
+  bibliographica:byArtist MusicGroup:Elvis_Costello_Imposters ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/02bc211c-8600-42ba-9879-712b6e923430"^^xsd:anyURI ;
+  rdfs:label "Cruel Smile" ;
 .
 :Cut_Me_Loose
   rdf:type mo:CD ;
@@ -1039,6 +1129,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d012fe43-aadf-487d-bdb5-a38d885f9dd2"^^xsd:anyURI ;
   rdfs:label "Deep Forest" ;
 .
+:Deep_Soul_Diver
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Disappear_Fear ;
+  bibliographica:byArtist MusicGroup:Disappear_Fear ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/0973170d-e3a3-4aba-b940-252b10f9beb2"^^xsd:anyURI ;
+  rdfs:label "Deep Soul Diver" ;
+.
 :Deeper_Still
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1109,6 +1209,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/3609ac3b-8fce-426c-a08a-b04ee69c3cbd"^^xsd:anyURI ;
   rdfs:label "Die Grossen Tangos" ;
 .
+:Diga
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Diga_Rhythm_Band ;
+  bibliographica:byArtist MusicGroup:Diga_Rhythm_Band ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/1406468e-eca4-4686-b44b-f918ebd50599"^^xsd:anyURI ;
+  rdfs:label "Diga" ;
+.
 :Dilate
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1118,6 +1228,26 @@
   bibliographica:byArtist SoloMusicArtist:Ani_DiFranco ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/b835bf06-e50b-397c-9f28-e7211a2f014d"^^xsd:anyURI ;
   rdfs:label "Dilate" ;
+.
+:Dire_Straits_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Dire_Straits ;
+  bibliographica:byArtist MusicGroup:Dire_Straits ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/2b3e222e-90c4-304e-a90a-1e07eac842df"^^xsd:anyURI ;
+  rdfs:label "Dire Straits" ;
+.
+:Disappear_Fear_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Disappear_Fear ;
+  bibliographica:byArtist MusicGroup:Disappear_Fear ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/2dde37d8-46a6-461b-ae60-9fffd62f60c4"^^xsd:anyURI ;
+  rdfs:label "Disappear Fear" ;
 .
 :Discovered_Covered
   rdf:type mo:CD ;
@@ -1193,6 +1323,15 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c69cdb18-5195-4a43-9e26-9d66622fd926"^^xsd:anyURI ;
   rdfs:label "Echoes of Brazil" ;
 .
+:Edie_Brickell_mix
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Edie_Brickell ;
+  bibliographica:byArtist SoloMusicArtist:Edie_Brickell ;
+  rdfs:label "Edie Brickell Mix" ;
+.
 :Emmett_Grogan_Acetates
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1212,6 +1351,16 @@
   bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/a90b32b2-c84d-35ad-bab3-07e6799cde5b"^^xsd:anyURI ;
   rdfs:label "Empire Burlesque" ;
+.
+:Eric_Clapton_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Eric_Clapton ;
+  bibliographica:byArtist SoloMusicArtist:Eric_Clapton ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/8c01b7e0-6cff-470e-9ad3-ff73b3c8f411"^^xsd:anyURI ;
+  rdfs:label "Eric Clapton" ;
 .
 :Essential_the_Very_Best_Of
   rdf:type mo:CD ;
@@ -1271,6 +1420,26 @@
   bibliographica:byArtist SoloMusicArtist:Carri_Coltrane ;
   rdfs:label "The First Time" ;
   rdfs:comment "No Musicbrainz CD reference." ;
+.
+:Five_Million
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Dread_Zeppelin ;
+  bibliographica:byArtist MusicGroup:Dread_Zeppelin ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f06c4dd0-d1f6-4db0-9a9f-257138ddf69f"^^xsd:anyURI ;
+  rdfs:label "5,000,000" ;
+.
+:Four_Sixty_One_Ocean_Blvd
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Eric_Clapton ;
+  bibliographica:byArtist SoloMusicArtist:Eric_Clapton ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a29ef6cf-df7b-393a-ad99-acff43d17181"^^xsd:anyURI ;
+  rdfs:label "461 Ocean Boulevard" ;
 .
 :Four_Way_Street
   rdf:type mo:CD ;
@@ -1373,6 +1542,16 @@
   bibliographica:byArtist MusicGroup:B_Fifty_Twos ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c1dfcb24-2c29-3f9f-8ee7-b1ea457d44a0"^^xsd:anyURI ;
   rdfs:label "Good Stuff" ;
+.
+:Goodbye_Cruel_World
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Elvis_Costello_Attractions ;
+  bibliographica:byArtist MusicGroup:Elvis_Costello_Attractions ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/6b056c9e-642e-4084-8716-02cd8b24cc71"^^xsd:anyURI ;
+  rdfs:label "Goodbye Cruel World" ;
 .
 :Grand_Piano_Canyon
   rdf:type mo:CD ;
@@ -1552,6 +1731,15 @@
   bibliographica:byArtist SoloMusicArtist:Aimee_Mann ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d4329f26-8577-4806-ab10-825f21846ba3"^^xsd:anyURI ;
   rdfs:label "Humpty Dumpty" ;
+.
+:Ive_Been_Everywhere
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Eugene_Chadbourne ;
+  bibliographica:byArtist SoloMusicArtist:Eugene_Chadbourne ;
+  rdfs:label "I've Been Everywhere" ;
 .
 :I_Need_A_Gun_And_A_Drunk
   rdf:type mo:CD ;
@@ -1741,6 +1929,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d826b19f-df20-4a9c-9a49-f10328c9b245"^^xsd:anyURI ;
   rdfs:label "Key Lime Pie" ;
 .
+:Kill_Eugene
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Eugene_Chadbourne ;
+  bibliographica:byArtist SoloMusicArtist:Eugene_Chadbourne ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/09452801-1dbd-4788-8fe6-9da91b62164f"^^xsd:anyURI ;
+  rdfs:label "Kill Eugene" ;
+.
 :Kiss_of_Fire
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1853,6 +2051,26 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/61282502-0f84-4c30-aea1-90b9e823107c"^^xsd:anyURI ;
   rdfs:label "Live Art" ;
 .
+:Live_at_BBC
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Dire_Straits ;
+  bibliographica:byArtist MusicGroup:Dire_Straits ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/11ce3b4c-2310-36b2-ab4a-146449463099"^^xsd:anyURI ;
+  rdfs:label "Live at the BBC" ;
+.
+:Live_at_El_Macambo
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Elvis_Costello ;
+  bibliographica:byArtist SoloMusicArtist:Elvis_Costello ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5ecbf31e-bef2-48d9-ac2b-08188a811970"^^xsd:anyURI ;
+  rdfs:label "Live at the El Mocambo" ;
+.
 :Live_at_Montreux
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1882,6 +2100,16 @@
   bibliographica:byArtist SoloMusicArtist:Boo_Zoo_Chavis ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/ca5d4a18-67d1-416c-80c2-68a916d8ba3e"^^xsd:anyURI ;
   rdfs:label "Live at the Habibi Temple" ;
+.
+:Live_Badu
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Erykah_Badu ;
+  bibliographica:byArtist SoloMusicArtist:Erykah_Badu ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a481f663-c7e1-36ee-bf8a-f235971587fe"^^xsd:anyURI ;
+  rdfs:label "Live" ;
 .
 :Live_in_Paris
   rdf:type mo:CD ;
@@ -2042,6 +2270,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/9980ffe5-c5b5-3a83-8c1e-1ec6618f97ca"^^xsd:anyURI ;
   rdfs:label "Love and Theft" ;
 .
+:Love_Over_Gold
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Dire_Straits ;
+  bibliographica:byArtist MusicGroup:Dire_Straits ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a3b62e6e-92f9-4e76-a518-1a9e43d910c6"^^xsd:anyURI ;
+  rdfs:label "Love Over Gold" ;
+.
 :Low
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2062,6 +2300,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/3ee15c41-77b1-32bd-9513-d6035444a34e"^^xsd:anyURI ;
   rdfs:label "MTV Unplugged" ;
 .
+:Making_Movies
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Dire_Straits ;
+  bibliographica:byArtist MusicGroup:Dire_Straits ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c5d981c9-b044-487c-9a0c-b3af72802c43"^^xsd:anyURI ;
+  rdfs:label "Making Movies" ;
+.
 :Malagasy_Guitar
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2071,6 +2319,16 @@
   bibliographica:byArtist SoloMusicArtist:DGary ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/6cd3293d-1fe5-4c0b-b3cc-216be034c87f"^^xsd:anyURI ;
   rdfs:label "Malagasy Guitar" ;
+.
+:Mamas_Gun
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Erykah_Badu ;
+  bibliographica:byArtist SoloMusicArtist:Erykah_Badu ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b3d7d898-c917-4431-b761-e79d71b6172e"^^xsd:anyURI ;
+  rdfs:label "Mama’s Gun" ;
 .
 :Man_Who_Sold_World
   rdf:type mo:CD ;
@@ -2153,6 +2411,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/d300b74b-02b4-33e3-998e-e4405e8e6580"^^xsd:anyURI ;
   rdfs:label "Modern Times" ;
 .
+:Momofuku
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Elvis_Costello_Imposters ;
+  bibliographica:byArtist MusicGroup:Elvis_Costello_Imposters ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e651a61d-d955-49a4-89d1-37b3a81dc82e"^^xsd:anyURI ;
+  rdfs:label "Momofuku" ;
+.
 :More_Creedence_Gold
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2192,6 +2460,16 @@
   bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/b802a83a-e993-35fb-b193-e471df209127"^^xsd:anyURI ;
   rdfs:label "Mummy Dust" ;
+.
+:My_Aim_Is_True
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Elvis_Costello ;
+  bibliographica:byArtist SoloMusicArtist:Elvis_Costello ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a8d724e0-feca-4ab0-808d-4fb22a7cee9d"^^xsd:anyURI ;
+  rdfs:label "My Aim Is True" ;
 .
 :My_Baby_Dont_Wear_Shoes
   rdf:type mo:CD ;
@@ -2293,6 +2571,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/36675813-6c3c-33fa-8eaf-b1cd66d4f006"^^xsd:anyURI ;
   rdfs:label "Oh Mercy" ;
 .
+:On_The_Night
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Dire_Straits ;
+  bibliographica:byArtist MusicGroup:Dire_Straits ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5a2c11bb-292f-4e4a-a82f-fd5932612cf3"^^xsd:anyURI ;
+  rdfs:label "On The Night" ;
+.
 :One_Kind
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2372,6 +2660,16 @@
   bibliographica:byArtist MusicGroup:Bela_Fleck_and_the_Flecktones ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/2b766264-7cd9-408b-a73f-bc2b8d270a76"^^xsd:anyURI ;
   rdfs:label "Outbound" ;
+.
+:Painted_From_Memory
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Elvis_Costello ;
+  bibliographica:byArtist SoloMusicArtist:Elvis_Costello ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9316104c-a460-4861-8039-ea8e2b5cb5b6"^^xsd:anyURI ;
+  rdfs:label "Painted From Memory" ;
 .
 :Pale_Sun_Crescent_Moon
   rdf:type mo:CD ;
@@ -2473,6 +2771,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d4bfdd53-f9ac-35d8-b30d-f750b4420af4"^^xsd:anyURI ;
   rdfs:label "Q: Are We Not Men? A: We Are Devo!" ;
 .
+:Rainbow_Concert
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Eric_Clapton ;
+  bibliographica:byArtist SoloMusicArtist:Eric_Clapton ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b802a64e-c8a3-4a72-9b1e-f37c3b134c2f"^^xsd:anyURI ;
+  rdfs:label "Eric Clapton's Rainbow Concert" ;
+.
 :Rat_Patrol_Ft_Bragg
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2522,6 +2830,16 @@
   bibliographica:byArtist SoloMusicArtist:Beatles ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/faa47611-ff6f-3e08-b27c-7e56583c08e4"^^xsd:anyURI ;
   rdfs:label "Revolver" ;
+.
+:Rice
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Eliza_Carthy ;
+  bibliographica:byArtist SoloMusicArtist:Eliza_Carthy ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f0528ace-13ff-4537-ba03-b6206fc6a986"^^xsd:anyURI ;
+  rdfs:label "Rice" ;
 .
 :Rise_and_Fall_Ziggy_Stardust
   rdf:type mo:CD ;
@@ -2613,6 +2931,16 @@
   bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/6163aa70-d97f-34e5-a5bf-54b7d85a7ea0"^^xsd:anyURI ;
   rdfs:label "Self Portrait" ;
+.
+:Sharing_the_Night_Together
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Dr_Hook ;
+  bibliographica:byArtist MusicGroup:Dr_Hook ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/df7c0611-2731-43ee-82ac-13280282d458"^^xsd:anyURI ;
+  rdfs:label "Sharing the Night Together" ;
 .
 :Shiny_Beast
   rdf:type mo:CD ;
@@ -2790,6 +3118,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/d87c9431-cc3e-37e8-9181-5fc69a917c3a"^^xsd:anyURI ;
   rdfs:label "Southern Exposure" ;
 .
+:Southern_Rock_Opera
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Drive_By_Truckers ;
+  bibliographica:byArtist MusicGroup:Drive_By_Truckers ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/bd3a9303-06c3-342e-9209-aeb2e194b02b"^^xsd:anyURI ;
+  rdfs:label "Southern Rock Opera" ;
+.
 :Space_Oddity
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2818,6 +3156,16 @@
   bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/6d83ea55-2b3a-3aaf-a9f8-e84d21fc04ef"^^xsd:anyURI ;
   rdfs:label "Speechless" ;
+.
+:Spike
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Elvis_Costello ;
+  bibliographica:byArtist SoloMusicArtist:Elvis_Costello ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/dcdd5fd1-788d-45da-8990-82c6ecd5dc76"^^xsd:anyURI ;
+  rdfs:label "Spike" ;
 .
 :Spirit_of_Century
   rdf:type mo:CD ;
@@ -2848,6 +3196,16 @@
   bibliographica:byArtist SoloMusicArtist:David_Bowie ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/1f1e37cd-88bb-4797-ba9d-5e0bf5887583"^^xsd:anyURI ;
   rdfs:label "Stage" ;
+.
+:Stages
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Eric_Andersen ;
+  bibliographica:byArtist SoloMusicArtist:Eric_Andersen ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/43a4b6c2-7573-4cfc-be0e-6e10d45e0037"^^xsd:anyURI ;
+  rdfs:label "Stages" ;
 .
 :Station_to_Station
   rdf:type mo:CD ;
@@ -3002,6 +3360,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/98b1e961-bf84-4e4b-85c1-5de7161dfdef"^^xsd:anyURI ;
   rdfs:label "The Catherine Wheel" ;
 .
+:The_Delivery_Man
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Elvis_Costello_Imposters ;
+  bibliographica:byArtist MusicGroup:Elvis_Costello_Imposters ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/29e8451e-9dd4-447f-836a-a7195014864a"^^xsd:anyURI ;
+  rdfs:label "The Delivery Man" ;
+.
 :The_First_Ten_Years
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3103,6 +3471,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/09f8ede5-4767-41ee-9831-24475a8cf2d2"^^xsd:anyURI ;
   rdfs:label "There Must Be a Better World" ;
 .
+:Theres_One_Every_Crowd
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Eric_Clapton ;
+  bibliographica:byArtist SoloMusicArtist:Eric_Clapton ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/ade49a97-f45b-429e-a37e-4207bf384c80"^^xsd:anyURI ;
+  rdfs:label "There’s One in Every Crowd" ;
+.
 :Thin_Wild_Mercury_Music
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3132,6 +3510,16 @@
   bibliographica:byArtist SoloMusicArtist:Aretha_Franklin ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a9ca845f-7221-4f19-a207-b81e9fc511ec"^^xsd:anyURI ;
   rdfs:label "30 Greatest Hits" ;
+.
+:This_Years_Model
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Elvis_Costello ;
+  bibliographica:byArtist SoloMusicArtist:Elvis_Costello ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e8101296-9ef3-457f-b2c4-56e014e4d3dc"^^xsd:anyURI ;
+  rdfs:label "This Year’s Model" ;
 .
 :Three_Years_5_Months
   rdf:type mo:CD ;
@@ -3345,6 +3733,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/f2674024-e465-459e-97dd-952f5f3bda81"^^xsd:anyURI ;
   rdfs:label "Unknown Territory" ;
 .
+:Unledded
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Dread_Zeppelin ;
+  bibliographica:byArtist MusicGroup:Dread_Zeppelin ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b0b79978-f1c1-444f-b071-885be775450b"^^xsd:anyURI ;
+  rdfs:label "Un-led-ed" ;
+.
 :Unplugged
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3406,6 +3804,16 @@
   bibliographica:byArtist MusicGroup:Cream ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/747a1c73-5742-3f0f-8c45-e90629a911c9"^^xsd:anyURI ;
   rdfs:label "Wheels of Fire" ;
+.
+:When_I_Was_Cruel
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Elvis_Costello ;
+  bibliographica:byArtist SoloMusicArtist:Elvis_Costello ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/bedd4ab5-d28b-4792-a9d6-84e91d6f0149"^^xsd:anyURI ;
+  rdfs:label "When I Was Cruel" ;
 .
 :When_There_is_Love
   rdf:type mo:CD ;

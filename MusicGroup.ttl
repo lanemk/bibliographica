@@ -665,6 +665,20 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/9ec14940-69f1-4537-afe3-c2b94e96b028"^^xsd:anyURI ;
   rdfs:label "The Ed Palermo Big Band" ;
 .
+:Elvis_Costello_Attractions
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Elvis_Costello.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/0ffb6573-a98e-412e-aa01-0a580e9d8b06"^^xsd:anyURI ;
+  rdfs:label "Elvis Costello & the Attractions" ;
+.
+:Elvis_Costello_Imposters
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Elvis_Costello.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/a3e6fa6e-32de-4152-ae38-81291597a10c"^^xsd:anyURI ;
+  rdfs:label "Elvis Costello & the Imposters" ;
+.
 :Endangered_Species
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassEH ;
