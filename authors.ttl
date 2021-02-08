@@ -92,6 +92,12 @@
   rdfs:label "Aaron Copeland" ;
   foaf:name "Aaron Copeland" ;
 .
+:Adam_Kadmon
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/79934587/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Adam Kadmon" ;
+  foaf:name "Adam Kadmon" ;
+.
 :Adelle_Davis
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "https://dbpedia.org/data/Adelle_Davis.ttl"^^xsd:anyURI ;
@@ -837,6 +843,13 @@
   rdfs:label "Christopher Moore" ;
   foaf:name "Christopher Moore" ;
 .
+:Christopher_Parkening
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Christopher_Parkening.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/69120212/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Christopher Parkening" ;
+  foaf:name "Christopher Parkening" ;
+.
 :Clarence_Major
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "https://dbpedia.org/data/Clarence_Major.ttl"^^xsd:anyURI ;
@@ -1357,6 +1370,13 @@
   rdfs:label "Eoin Colfer" ;
   foaf:name "Eoin Colfer" ;
 .
+:Eric_Clapton
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Eric_Clapton.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/46945873/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Eric Clapton" ;
+  foaf:name "Eric Clapton" ;
+.
 :Eric_Goodman
   rdf:type schema:Person ;
   bibliographica:viafURI "https://viaf.org/viaf/6202519/rdf.xml"^^xsd:anyURI ;
@@ -1870,6 +1890,12 @@
   bibliographica:viafURI "https://viaf.org/viaf/110621918/rdf.xml"^^xsd:anyURI ;
   rdfs:label "James Lee Burke" ;
   foaf:name "James Lee Burke" ;
+.
+:James_Major
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/4347379/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "James Major" ;
+  foaf:name "James Major" ;
 .
 :James_McBride
   rdf:type schema:Person ;
@@ -2821,6 +2847,12 @@
   rdfs:label "Mark Bego" ;
   foaf:name "Mark Bego" ;
 .
+:Mark_Bridges
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/284104659/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Mark Bridges" ;
+  foaf:name "Mark Bridges" ;
+.
 :Mark_Ely
   rdf:type schema:Person ;
   bibliographica:viafURI "https://viaf.org/viaf/6147149198302874940005/rdf.xml"^^xsd:anyURI ;
@@ -2892,6 +2924,13 @@
   bibliographica:viafURI "https://viaf.org/viaf/51687663/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Maryse Condé" ;
   foaf:name "Maryse Condé" ;
+.
+:Matteo_Carcassi
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Matteo_Carcassi.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/74116223/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Matteo Carcassi" ;
+  foaf:name "Matteo Carcassi" ;
 .
 :Max_Allan_Collins
   rdf:type schema:Person ;
@@ -4182,6 +4221,13 @@
   rdfs:label "Tananarive Due" ;
   foaf:name "Tananarive Due" ;
 .
+:Ted_Greene
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Ted_Greene.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/103862530/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Ted Greene" ;
+  foaf:name "Ted Greene" ;
+.
 :Ted_Ringer
   rdf:type schema:Person ;
   rdfs:label "Ted Ringer" ;
@@ -4342,6 +4388,13 @@
   rdfs:label "Tony Birks" ;
   foaf:name "Tony Birks" ;
 .
+:Tony_Glover
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Tony_Glover.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/91558017/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Tony Glover" ;
+  foaf:name "Tony Glover" ;
+.
 :Tony_Wheeler
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "https://dbpedia.org/data/Tony_Wheeler.ttl"^^xsd:anyURI ;
@@ -4479,6 +4532,12 @@
   bibliographica:viafURI "https://viaf.org/viaf/163020838/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Wendy Holden" ;
   foaf:name "Wendy Holden" ;
+.
+:William_Bay
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/276823416/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "William Bay" ;
+  foaf:name "William Bay" ;
 .
 :William_Carpenter
   rdf:type schema:Person ;

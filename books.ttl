@@ -1007,6 +1007,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/856144818.ttl"^^xsd:anyURI ;
   rdfs:label "Get Fuzzy : Blueprint for Disaster" ;
 .
+:Blues_Harp
+  rdf:type schema:Book ;
+  dcterms:creator authors:Tony_Glover ;
+  dcterms:title "Blues harp : an instruction method for playing the blues harmonica" ;
+  schema:author authors:Tony_Glover ;
+  schema:isbn "0825600189" ;
+  bibliographica:binNumber 17 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1078638.ttl"^^xsd:anyURI ;
+  rdfs:label "Blues Harp : an instruction method" ;
+.
 :Blues_Fakebook
   rdf:type schema:Book ;
   dcterms:creator authors:Woody_Mann ;
@@ -1269,6 +1280,16 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/20296326.ttl"^^xsd:anyURI ;
   rdfs:label "Captain Sir Richard Francis Burton. A biography" ;
 .
+:Carcassi_25_Studies
+  rdf:type schema:Book ;
+  dcterms:creator authors:Matteo_Carcassi ;
+  dcterms:title "Carcassi - 25 melodic and progressive studies for guitar" ;
+  schema:author authors:Matteo_Carcassi ;
+  bibliographica:binNumber 17 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/41382742.ttl"^^xsd:anyURI ;
+  rdfs:label "Carcassi - 25 melodic and progressive studies for guitar" ;
+.
 :Cascade_Olympic_Natural_History
   rdf:type schema:Book ;
   dcterms:creator authors:Daniel_Mathews ;
@@ -1530,6 +1551,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/948371949.ttl"^^xsd:anyURI ;
   rdfs:label "Chord Chemistry for Guitar" ;
+.
+:Christopher_Parkening_Guitar
+  rdf:type schema:Book ;
+  dcterms:creator authors:Christopher_Parkening ;
+  dcterms:title "The Christopher Parkening guitar method. Vol. 1 : the art and technique of the classical guitar" ;
+  schema:author authors:Christopher_Parkening ;
+  schema:isbn "142343417X" ;
+  bibliographica:binNumber 17 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/539537495.ttl"^^xsd:anyURI ;
+  rdfs:label "Christopher Parkening Guitar Method" ;
 .
 :ChroniclesOne
   rdf:type schema:Book ;
@@ -2528,6 +2560,15 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/35397811.ttl"^^xsd:anyURI ;
   rdfs:label "Equinox: life, love, and birds of prey" ;
 .
+:Eric_Clapton_Guitar
+  rdf:type schema:Book ;
+  dcterms:creator authors:Eric_Clapton ;
+  dcterms:title "Eric Clapton - Guitar" ;
+  schema:author authors:Eric_Clapton ;
+  bibliographica:binNumber 17 ;
+  bibliographica:numberOfitems 1 ;
+  rdfs:label "Eric Clapton - Guitar" ;
+.
 :Escape_to_Beulah
   rdf:type schema:Book ;
   dcterms:creator authors:Anne_Cameron ;
@@ -2951,6 +2992,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/973542925.ttl"^^xsd:anyURI ;
   rdfs:label "Full Woman, Fleshy Apple, Hot Moon" ;
 .
+:Fun_with_Harmonica
+  rdf:type schema:Book ;
+  dcterms:creator authors:William_Bay ;
+  dcterms:title "Mel Bay's fun with the harmonica : an instruction method for diatonic, chromatic, and blues styling" ;
+  schema:author authors:William_Bay ;
+  schema:isbn "0871664488" ;
+  bibliographica:binNumber 17 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/7539420.ttl"^^xsd:anyURI ;
+  rdfs:label "Mel Bay's Fun with the Harmonica" ;
+.
 :Fundamentals_Rockclimbing
   rdf:type schema:Book ;
   dcterms:creator authors:MIT_Outing_Club ;
@@ -3034,6 +3086,28 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/61423521.ttl"^^xsd:anyURI ;
   rdfs:label "Getting Over Jack Wagner" ;
+.
+:Gig_Bag_Arpeggios
+  rdf:type schema:Book ;
+  dcterms:creator authors:Mark_Bridges ;
+  dcterms:title "The Gig Bag Book of Arpeggios for All Guitarists" ;
+  schema:author authors:Mark_Bridges ;
+  schema:isbn "082561659X" ;
+  bibliographica:binNumber 17 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/908128393.ttl"^^xsd:anyURI ;
+  rdfs:label "Gig Bag Book of Arpeggios" ;
+.
+:Gig_Bag_Scales
+  rdf:type schema:Book ;
+  dcterms:creator authors:Mark_Bridges ;
+  dcterms:title "The Gig Bag Book of Scales for All Guitarists" ;
+  schema:author authors:Mark_Bridges ;
+  schema:isbn "0825615755" ;
+  bibliographica:binNumber 17 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/39785467.ttl"^^xsd:anyURI ;
+  rdfs:label "Gig Bag Book of Scales" ;
 .
 :Giving_Good_Weight
   rdf:type schema:Book ;
@@ -3317,6 +3391,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/31294819.ttl"^^xsd:anyURI ;
   rdfs:label "Guitar Fitness" ;
+.
+:Guitar_Grimoire
+  rdf:type schema:Book ;
+  dcterms:creator authors:Adam_Kadmon ;
+  dcterms:title "The guitar grimoire : progressions & improvisation" ;
+  schema:author authors:Adam_Kadmon ;
+  schema:isbn "0825831970" ;
+  bibliographica:binNumber 17 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/833425479.ttl"^^xsd:anyURI ;
+  rdfs:label "The Guitar Grimoire" ;
 .
 :Haiku_Harvest
   rdf:type schema:Book ;
@@ -4121,6 +4206,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/939559211.ttl"^^xsd:anyURI ;
   rdfs:label "Jazz Guitarist, Volume 2" ;
 .
+:Jazz_Guitar_Single_Note
+  rdf:type schema:Book ;
+  dcterms:creator authors:Ted_Greene ;
+  dcterms:title "Jazz guitar single note soloing. Vol. 1" ;
+  schema:author authors:Ted_Greene ;
+  schema:isbn "0769209726" ;
+  bibliographica:binNumber 17 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/813693717.ttl"^^xsd:anyURI ;
+  rdfs:label "Jazz Guitar Single Note Soloing. Vol. 1" ;
+.
 :Jazz_Styles_of_John_Klemmer
   rdf:type schema:Book ;
   dcterms:creator authors:John_Klemmer ;
@@ -4643,6 +4739,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/37843781.ttl"^^xsd:anyURI ;
   rdfs:label "Man on Spikes" ;
 .
+:Mandolin_Chord_Book
+  rdf:type schema:Book ;
+  dcterms:creator authors:James_Major ;
+  dcterms:title "Mandolin Chord Book" ;
+  schema:author authors:James_Major ;
+  schema:isbn "0825622964" ;
+  bibliographica:binNumber 17 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/12916103.ttl"^^xsd:anyURI ;
+  rdfs:label "Mandolin Chord Book" ;
+.
 :Mariette_in_Ecstasy
   rdf:type schema:Book ;
   dcterms:creator authors:Ron_Hansen ;
@@ -4825,6 +4932,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/156470741.ttl"^^xsd:anyURI ;
   rdfs:label "Miss Smilla's feeling for snow" ;
+.
+:Modern_Chord_Progressions
+  rdf:type schema:Book ;
+  dcterms:creator authors:Ted_Greene ;
+  dcterms:title "Modern Chord Progressions" ;
+  schema:author authors:Ted_Greene ;
+  schema:isbn "0898986982" ;
+  bibliographica:binNumber 17 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/642838585.ttl"^^xsd:anyURI ;
+  rdfs:label "Modern Chord Progressions" ;
 .
 :Modern_Method_Guitar_v1
   rdf:type schema:Book ;
