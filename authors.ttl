@@ -2667,6 +2667,13 @@
   rdfs:label "Leigh Riker" ;
   foaf:name "Leigh Riker" ;
 .
+:Lemony_Snicket
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Lemony_Snicket.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/44513180/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Lemony Snicket" ;
+  foaf:name "Lemony Snicket" ;
+.
 :Leo_Tolstoy
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "https://dbpedia.org/data/Leo_Tolstoy.ttl"^^xsd:anyURI ;
