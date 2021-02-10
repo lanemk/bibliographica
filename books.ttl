@@ -426,6 +426,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1148843196.ttl"^^xsd:anyURI ;
   rdfs:label "Another Roadside Attraction" ;
 .
+:Another_Song_King
+  rdf:type schema:Book ;
+  dcterms:creator authors:Kathryn_Stern ;
+  dcterms:title "Another Song About the King" ;
+  schema:author authors:Kathryn_Stern ;
+  schema:isbn "034543319X" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/47257560.ttl"^^xsd:anyURI ;
+  rdfs:label "Another Song About the King" ;
+.
 :Antarctic_navigation_a_novel
   rdf:type schema:Book ;
   dcterms:creator authors:Elizabeth_Arthur ;
@@ -3541,6 +3552,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/51532204.ttl"^^xsd:anyURI ;
   rdfs:label "Harry Potter and the Order of the Phoenix" ;
 .
+:Harry_Potter_Sorcerer_Stone
+  rdf:type schema:Book ;
+  dcterms:creator authors:JK_Rowling ;
+  dcterms:title "Harry Potter and the Sorcerer's Stone" ;
+  schema:author authors:JK_Rowling ;
+  schema:isbn "059035342X" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/994697419.ttl"^^xsd:anyURI ;
+  rdfs:label "Harry Potter and the Sorcerer's Stone" ;
+.
 :Havana_Bay
   rdf:type schema:Book ;
   dcterms:creator authors:Martin_Cruz_Smith ;
@@ -3977,6 +3999,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/238151132.ttl"^^xsd:anyURI ;
   rdfs:label "In Days of Awe" ;
+.
+:In_Out_Garden
+  rdf:type schema:Book ;
+  dcterms:creator authors:Sara_Midda ;
+  dcterms:title "In and Out of the Garden" ;
+  schema:author authors:Sara_Midda ;
+  schema:isbn "0894801937" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/779980574.ttl"^^xsd:anyURI ;
+  rdfs:label "In and Out of the Garden" ;
 .
 :In_the_Drink
   rdf:type schema:Book ;
@@ -4746,6 +4779,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/415351511.ttl"^^xsd:anyURI ;
   rdfs:label "Macrobiotic Cooking for Everyone" ;
 .
+:Mainlines_Blood_Feasts
+  rdf:type schema:Book ;
+  dcterms:creator authors:Lester_Bangs ;
+  dcterms:title "Mainlines, blood feasts and bad taste : a Lester Bangs reader" ;
+  schema:author authors:Lester_Bangs ;
+  schema:isbn "1852428236" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1153547073.ttl"^^xsd:anyURI ;
+  rdfs:label "Mainlines, Blood Feasts and Bad Taste" ;
+.
 :Making_Great_Cheese
   rdf:type schema:Book ;
   dcterms:creator authors:Barbara_Ciletti ;
@@ -4866,6 +4910,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/49204890.ttl"^^xsd:anyURI ;
   rdfs:label "Maya" ;
+.
+:McCarthys_Bar
+  rdf:type schema:Book ;
+  dcterms:creator authors:Pete_McCarthy ;
+  dcterms:title "McCarthy's Bar : a journey of discovery in Ireland" ;
+  schema:author authors:Pete_McCarthy ;
+  schema:isbn "0312272103" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1090861382.ttl"^^xsd:anyURI ;
+  rdfs:label "McCarthy's Bar" ;
 .
 :Memories_of_Rain
   rdf:type schema:Book ;
@@ -5219,6 +5274,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/779063823.ttl"^^xsd:anyURI ;
   rdfs:label "The Music Kit : Workbook" ;
+.
+:Music_Lust
+  rdf:type schema:Book ;
+  dcterms:creator authors:Nic_Harcourt ;
+  dcterms:title "Music lust : recommended listening for every mood, moment, and reason" ;
+  schema:author authors:Nic_Harcourt ;
+  schema:isbn "1570614377" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/57675951.ttl"^^xsd:anyURI ;
+  rdfs:label "Music Lust" ;
 .
 :Music_Physics_Enginnering
   rdf:type schema:Book ;
@@ -5718,6 +5784,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1054961278.ttl"^^xsd:anyURI ;
   rdfs:label "Our Lady of the Forest" ;
+.
+:Our_Like_Will_Not_Be
+  rdf:type schema:Book ;
+  dcterms:creator authors:Lawrence_Millman ;
+  dcterms:title "Our like will not be there again : notes from the west of Ireland" ;
+  schema:author authors:Lawrence_Millman ;
+  schema:isbn "1886913528" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/47716517.ttl"^^xsd:anyURI ;
+  rdfs:label "Our Like Will Not Be There Again" ;
 .
 :Outdoor_Projects
   rdf:type schema:Book ;
@@ -6341,6 +6418,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/47731235.ttl"^^xsd:anyURI ;
   rdfs:label "Repair to Her Grave" ;
 .
+:Returning_to_Earth
+  rdf:type schema:Book ;
+  dcterms:creator authors:Jim_Harrison ;
+  dcterms:title "Returning to Earth" ;
+  schema:author authors:Jim_Harrison ;
+  schema:isbn "0802143318" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/795371669.ttl"^^xsd:anyURI ;
+  rdfs:label "Returning to Earth" ;
+.
 :Richard_Thompson_bio
   rdf:type schema:Book ;
   dcterms:creator authors:Patrick_Humphries ;
@@ -6569,6 +6657,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/30842037.ttl"^^xsd:anyURI ;
   rdfs:label "Saratoga Haunting" ;
+.
+:Sassafrass_Cypress_Indigo
+  rdf:type schema:Book ;
+  dcterms:creator authors:Ntozake_Shange ;
+  dcterms:title "Sassafrass, Cypress & Indigo : a novel" ;
+  schema:author authors:Ntozake_Shange ;
+  schema:isbn "0312699719" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/632555176.ttl"^^xsd:anyURI ;
+  rdfs:label "Sassafrass, Cypress & Indigo" ;
 .
 :Satori_in_Paris
   rdf:type schema:Book ;
@@ -9513,6 +9612,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1170510544.ttl"^^xsd:anyURI ;
   rdfs:label "What's Bred in the Bone" ;
+.
+:When_Nietzsche_Wept
+  rdf:type schema:Book ;
+  dcterms:creator authors:Irvin_Yalom ;
+  dcterms:title "When Nietzsche Wept" ;
+  schema:author authors:Irvin_Yalom ;
+  schema:isbn "0060975504" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/871746522.ttl"^^xsd:anyURI ;
+  rdfs:label "When Nietzsche Wept" ;
 .
 :White_Death
   rdf:type schema:Book ;

@@ -1770,6 +1770,13 @@
   rdfs:label "Irma S. Rombauer" ;
   foaf:name "Irma S. Rombauer" ;
 .
+:Irvin_Yalom
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Irvin_D._Yalom.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/109548796/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Irvin D. Yalom" ;
+  foaf:name "Irvin D. Yalom" ;
+.
 :Isabel_Allende
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "https://dbpedia.org/data/Isabel_Allende.ttl"^^xsd:anyURI ;
@@ -2476,6 +2483,12 @@
   rdfs:label "Kathleen Tyau" ;
   foaf:name "Kathleen Tyau" ;
 .
+:Kathryn_Stern
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/73187902/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Kathryn Stern" ;
+  foaf:name "Kathryn Stern" ;
+.
 :Kathy_Eldon
   rdf:type schema:Person ;
   bibliographica:viafURI "https://viaf.org/viaf/236702507/rdf.xml"^^xsd:anyURI ;
@@ -2647,6 +2660,13 @@
   rdfs:label "Lawrence Lee" ;
   foaf:name "Lawrence Lee" ;
 .
+:Lawrence_Millman
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Lawrence_Millman.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/79357473/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Lawrence Millman" ;
+  foaf:name "Lawrence Millman" ;
+.
 :Lawrence_Norfolk
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "https://dbpedia.org/data/Lawrence_Norfolk.ttl"^^xsd:anyURI ;
@@ -2687,6 +2707,13 @@
   bibliographica:viafURI "https://viaf.org/viaf/84412375/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Leonardo Maugeri" ;
   foaf:name "Leonardo Maugeri" ;
+.
+:Lester_Bangs
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Lester_Bangs.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/56722876/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Lester Bangs" ;
+  foaf:name "Lester Bangs" ;
 .
 :Lewis_Carroll
   rdf:type schema:Person ;
@@ -3192,6 +3219,13 @@
   rdfs:label "Nel King" ;
   foaf:name "Nel King" ;
 .
+:Nic_Harcourt
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Nic_Harcourt.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/78181959/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Nic Harcourt" ;
+  foaf:name "Nic Harcourt" ;
+.
 :Nicholas_Mosley
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "https://dbpedia.org/data/Nicholas_Mosley.ttl"^^xsd:anyURI ;
@@ -3245,6 +3279,13 @@
   bibliographica:viafURI "https://viaf.org/viaf/32121840/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Norman Waddell" ;
   foaf:name "Norman Waddell" ;
+.
+:Ntozake_Shange
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Ntozake_Shange.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/9859533/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Ntozake Shange" ;
+  foaf:name "Ntozake Shange" ;
 .
 :Oasis_Project
   rdf:type schema:Organization ;
@@ -3460,6 +3501,13 @@
   bibliographica:viafURI "https://viaf.org/viaf/32574263/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Per Amann" ;
   foaf:name "Per Amann" ;
+.
+:Pete_McCarthy
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Pete_McCarthy.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/45215084/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Pete McCarthy" ;
+  foaf:name "Pete McCarthy" ;
 .
 :Peter_Adamson
   rdf:type schema:Person ;
@@ -3950,6 +3998,12 @@
   bibliographica:viafURI "https://viaf.org/viaf/117628163/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Sandra Benitez" ;
   foaf:name "Sandra Benitez" ;
+.
+:Sara_Midda
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/302449407/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Sara Midda" ;
+  foaf:name "Sara Midda" ;
 .
 :Sarah_Bird
   rdf:type schema:Person ;
