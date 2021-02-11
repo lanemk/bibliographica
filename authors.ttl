@@ -310,6 +310,12 @@
   rdfs:label "Anne Tyler" ;
   foaf:name "Anne Tyler" ;
 .
+:Annie_Hawes
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/55047625/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Annie Hawes" ;
+  foaf:name "Annie Hawes" ;
+.
 :Anthony_Bourdain
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "https://dbpedia.org/data/Anthony_Bourdain.ttl"^^xsd:anyURI ;
@@ -1203,6 +1209,13 @@
   bibliographica:viafURI "https://viaf.org/viaf/79210486/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Donald C. Peattie" ;
   foaf:name "Donald Culcross Peattie" ;
+.
+:Donna_Andrews
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Donna_Andrews_(author).ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/118190995/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Donna Andrews" ;
+  foaf:name "Donna Andrews" ;
 .
 :Dorothy_Dunnett
   rdf:type schema:Person ;
@@ -3226,6 +3239,13 @@
   rdfs:label "Nic Harcourt" ;
   foaf:name "Nic Harcourt" ;
 .
+:Niccolo_Tucci
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Niccol%C3%B2_Tucci.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/61578001/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Niccolò Tucci" ;
+  foaf:name "Niccolò Tucci" ;
+.
 :Nicholas_Mosley
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "https://dbpedia.org/data/Nicholas_Mosley.ttl"^^xsd:anyURI ;
@@ -3547,6 +3567,13 @@
   bibliographica:viafURI "https://viaf.org/viaf/114758804/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Peter Høeg" ;
   foaf:name "Peter Høeg" ;
+.
+:Peter_Matthiessen
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Peter_Matthiessen.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/14773612/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Peter Matthiessen" ;
+  foaf:name "Peter Matthiessen" ;
 .
 :Peter_Mayle
   rdf:type schema:Person ;

@@ -1145,6 +1145,9 @@
   dcterms:creator authors:Peter_Hoeg ;
   dcterms:title "Borderliners" ;
   schema:author authors:Peter_Hoeg ;
+  schema:isbn "0385315082" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/30437554.ttl"^^xsd:anyURI ;
   rdfs:label "Borderliners" ;
 .
@@ -1450,6 +1453,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/76820761.ttl"^^xsd:anyURI ;
   rdfs:label "The Celtic Way of Seeing" ;
+.
+:Ceremonial_Time
+  rdf:type schema:Book ;
+  dcterms:creator authors:John_Hanson_Mitchell ;
+  dcterms:title "Ceremonial time : fifteen thousand years on one square mile" ;
+  schema:author authors:John_Hanson_Mitchell ;
+  schema:isbn "0395591295" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1038158429.ttl"^^xsd:anyURI ;
+  rdfs:label "Ceremonial Time" ;
 .
 :Changing_Seasons_Macrobiotic
   rdf:type schema:Book ;
@@ -2949,6 +2963,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/968179390.ttl"^^xsd:anyURI ;
   rdfs:label "The New Food Lover's Companion" ;
 .
+:Food_Lovers_Companion_2
+  rdf:type schema:Book ;
+  dcterms:creator authors:Sharon_Tyler_Herbst ;
+  dcterms:title "The New Food Lover's Companion" ;
+  schema:author authors:Sharon_Tyler_Herbst ;
+  schema:isbn "0764112589" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/43894522.ttl"^^xsd:anyURI ;
+  rdfs:label "The New Food Lover's Companion" ;
+.
 :Fools_Gold
   rdf:type schema:Book ;
   dcterms:creator authors:Jane_S_Smith ;
@@ -4011,6 +4036,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/779980574.ttl"^^xsd:anyURI ;
   rdfs:label "In and Out of the Garden" ;
 .
+:In_the_Country_Great_King
+  rdf:type schema:Book ;
+  dcterms:creator authors:Ardythe_Ashley ;
+  dcterms:title "In the Country of the Great King" ;
+  schema:author authors:Ardythe_Ashley ;
+  schema:isbn "0345379934" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/27980135.ttl"^^xsd:anyURI ;
+  rdfs:label "In the Country of the Great King" ;
+.
 :In_the_Drink
   rdf:type schema:Book ;
   dcterms:creator authors:Kate_Atkinson ;
@@ -4495,6 +4531,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1201641193.ttl"^^xsd:anyURI ;
   rdfs:label "Knowledge Management" ;
+.
+:Krik_Krak
+  rdf:type schema:Book ;
+  dcterms:creator authors:Edwidge_Danticat ;
+  dcterms:title "Krik? Krak!" ;
+  schema:author authors:Edwidge_Danticat ;
+  schema:isbn "067976657X" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/33359943.ttl"^^xsd:anyURI ;
+  rdfs:label "Krik? Krak!" ;
 .
 :La_Place_de_la_Concorde
   rdf:type schema:Book ;
@@ -5242,6 +5289,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/974305617.ttl"^^xsd:anyURI ;
   rdfs:label "Mumbo Jumbo" ;
 .
+:Murder_Wrigley_Field
+  rdf:type schema:Book ;
+  dcterms:creator authors:Troy_Soos ;
+  dcterms:title "Murder at Wrigley Field" ;
+  schema:author authors:Troy_Soos ;
+  schema:isbn "1575661551" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/36643846.ttl"^^xsd:anyURI ;
+  rdfs:label "Murder at Wrigley Field" ;
+.
 :Murder_on_Naked_Beach
   rdf:type schema:Book ;
   dcterms:creator authors:JJ_Henderson ;
@@ -5252,6 +5310,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1020195461.ttl"^^xsd:anyURI ;
   rdfs:label "Murder on Naked Beach" ;
+.
+:Murder_with_Puffins
+  rdf:type schema:Book ;
+  dcterms:creator authors:Donna_Andrews ;
+  dcterms:title "Murder with Puffins" ;
+  schema:author authors:Donna_Andrews ;
+  schema:isbn "0312978863" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1004883618.ttl"^^xsd:anyURI ;
+  rdfs:label "Murder with Puffins" ;
 .
 :Music_Kit_Rhythm_Reader
   rdf:type schema:Book ;
@@ -5480,6 +5549,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/883321554.ttl"^^xsd:anyURI ;
   rdfs:label "Night Over Water" ;
+.
+:Nine_Headed_Dragon_River
+  rdf:type schema:Book ;
+  dcterms:creator authors:Peter_Matthiessen ;
+  dcterms:title "Nine Headed Dragon River" ;
+  schema:author authors:Peter_Matthiessen ;
+  schema:isbn "0877733252" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/24300237.ttl"^^xsd:anyURI ;
+  rdfs:label "Nine Headed Dragon River" ;
 .
 :Nine_Stories
   rdf:type schema:Book ;
@@ -6451,6 +6531,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/508677813.ttl"^^xsd:anyURI ;
   rdfs:label "Ringolevio" ;
 .
+:Ripe_for_Picking
+  rdf:type schema:Book ;
+  dcterms:creator authors:Annie_Hawes ;
+  dcterms:title "Ripe for the Picking" ;
+  schema:author authors:Annie_Hawes ;
+  schema:isbn "0141008903" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1028333006.ttl"^^xsd:anyURI ;
+  rdfs:label "Ripe for the Picking" ;
+.
 :River_Notes
   rdf:type schema:Book ;
   dcterms:creator authors:Barry_Lopez ;
@@ -6849,6 +6940,9 @@
   dcterms:creator authors:Tim_Sandlin ;
   dcterms:title "Sex and Sunsets" ;
   schema:author authors:Tim_Sandlin ;
+  schema:isbn "0449909247" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/14003275.ttl"^^xsd:anyURI ;
   rdfs:label "Sex and Sunsets" ;
 .
@@ -7404,6 +7498,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/913023300.ttl"^^xsd:anyURI ;
   rdfs:label "The Sultan Qaboos Grand Mosque" ;
+.
+:Sun_and_Moon
+  rdf:type schema:Book ;
+  dcterms:creator authors:Niccolo_Tucci ;
+  dcterms:title "The Sun and the Moon" ;
+  schema:author authors:Niccolo_Tucci ;
+  schema:isbn "1559211261" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/30357938.ttl"^^xsd:anyURI ;
+  rdfs:label "The Sun and the Moon" ;
 .
 :Sun_Dogs
   rdf:type schema:Book ;
@@ -8496,6 +8601,9 @@
   dcterms:creator authors:Ruth_Rendell ;
   dcterms:title "The Rottweiler" ;
   schema:author authors:Ruth_Rendell ;
+  schema:isbn "1400095883" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/53939544.ttl"^^xsd:anyURI ;
   rdfs:label "The Rottweiler" ;
 .
