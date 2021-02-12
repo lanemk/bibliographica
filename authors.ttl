@@ -175,6 +175,13 @@
   rdfs:label "Aldous Huxley" ;
   foaf:name "Aldous Huxley" ;
 .
+:Alexander_McCall_Smith
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Alexander_McCall_Smith.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/86227797/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Alexander McCall Smith" ;
+  foaf:name "Alexander McCall Smith" ;
+.
 :Alfalfas
   rdf:type schema:Organization ;
   rdfs:label "Alfalfa's" ;
@@ -621,6 +628,13 @@
   rdfs:label "Bradford Morrow" ;
   foaf:name "Bradford Morrow" ;
 .
+:Bradley_Denton
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Bradley_Denton.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/106955890/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Bradley Denton" ;
+  foaf:name "Bradley Denton" ;
+.
 :Brett_Helquist
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "https://dbpedia.org/data/Brett_Helquist.ttl"^^xsd:anyURI ;
@@ -877,6 +891,12 @@
   rdfs:label "Clive Cussler" ;
   foaf:name "Clive Cussler" ;
 .
+:Clysta_Kinstler
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/38439187/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Clysta Kinstler" ;
+  foaf:name "Clysta Kinstler" ;
+.
 :Americas_Test_Kitchen
   rdf:type schema:Person ;
   bibliographica:viafURI "https://viaf.org/viaf/127070991/rdf.xml"^^xsd:anyURI ;
@@ -1067,6 +1087,13 @@
   bibliographica:viafURI "https://viaf.org/viaf/84055110/rdf.xml"^^xsd:anyURI ;
   rdfs:label "David Guterson" ;
   foaf:name "David Guterson" ;
+.
+:David_Haynes
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/David_Haynes_(novelist).ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/79463327/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "David Haynes" ;
+  foaf:name "David Haynes" ;
 .
 :David_Hoffmann
   rdf:type schema:Person ;
@@ -1323,6 +1350,13 @@
   bibliographica:viafURI "https://viaf.org/viaf/85419722/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Elizabeth Berg" ;
   foaf:name "Elizabeth Berg" ;
+.
+:Elizabeth_Cunningham
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Elizabeth_Cunningham.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/94138577/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Elizabeth Cunningham" ;
+  foaf:name "Elizabeth Cunningham" ;
 .
 :Elizabeth_David
   rdf:type schema:Person ;
@@ -1612,6 +1646,12 @@
   rdfs:label "Gloria Naylor" ;
   foaf:name "Gloria Naylor" ;
 .
+:Goldberry_Long
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/8235161211543640070008/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Goldberry Long" ;
+  foaf:name "Goldberry Long" ;
+.
 :Gorham_Kindem
   rdf:type schema:Person ;
   bibliographica:viafURI "https://viaf.org/viaf/79164430/rdf.xml"^^xsd:anyURI ;
@@ -1855,6 +1895,13 @@
   bibliographica:viafURI "https://viaf.org/viaf/65566676/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Jabari Asim" ;
   foaf:name "Jabari Asim" ;
+.
+:Jack_Hodgins
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Jack_Hodgins.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/114666696/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Jack Hodgins" ;
+  foaf:name "Jack Hodgins" ;
 .
 :Jack_Kerouac
   rdf:type schema:Person ;
@@ -2210,6 +2257,13 @@
   rdfs:label "John Burdett" ;
   foaf:name "John Burdett" ;
 .
+:John_Casey
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/John_Casey_(novelist).ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/32033282/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "John Casey" ;
+  foaf:name "John Casey" ;
+.
 :John_Clellon_Holmes
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "https://dbpedia.org/data/John_Clellon_Holmes.ttl"^^xsd:anyURI ;
@@ -2384,6 +2438,13 @@
   rdfs:label "Joseph Campbell" ;
   foaf:name "Joseph Campbell" ;
 .
+:Joseph_Conrad
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Joseph_Conrad.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/73862853/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Joseph Conrad" ;
+  foaf:name "Joseph Conrad" ;
+.
 :Joseph_Heller
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "https://dbpedia.org/data/Joseph_Heller.ttl"^^xsd:anyURI ;
@@ -2501,6 +2562,12 @@
   bibliographica:viafURI "https://viaf.org/viaf/73187902/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Kathryn Stern" ;
   foaf:name "Kathryn Stern" ;
+.
+:Kathryn_Thompson
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/19157467902722321722/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Kathryn Thompson" ;
+  foaf:name "Kathryn Thompson" ;
 .
 :Kathy_Eldon
   rdf:type schema:Person ;
@@ -2794,6 +2861,13 @@
   bibliographica:viafURI "https://viaf.org/viaf/110425107/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Louise Erdrich" ;
   foaf:name "Louise Erdrich" ;
+.
+:Louise_Rennison
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Louise_Rennison.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/44468078/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Louise Rennison" ;
+  foaf:name "Louise Rennison" ;
 .
 :Lucy_Lidell
   rdf:type schema:Person ;
@@ -3561,6 +3635,13 @@
   rdfs:label "Peter Deadman" ;
   foaf:name "Peter Deadman" ;
 .
+:Peter_Gadol
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Peter_Gadol.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/93147476/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Peter Gadol" ;
+  foaf:name "Peter Gadol" ;
+.
 :Peter_Hoeg
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "https://dbpedia.org/data/Peter_H%C3%B8eg.ttl"^^xsd:anyURI ;
@@ -3622,6 +3703,13 @@
   rdfs:label "Philip Kapleau" ;
   foaf:name "Philip Kapleau" ;
 .
+:Philip_Kerr
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Philip_Kerr.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/24671640/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Philip Kerr" ;
+  foaf:name "Philip Kerr" ;
+.
 :Philip_Pratt
   rdf:type schema:Person ;
   bibliographica:viafURI "https://viaf.org/viaf/17404904/rdf.xml"^^xsd:anyURI ;
@@ -3632,6 +3720,13 @@
   rdf:type schema:Person ;
   rdfs:label "Phillip Wayne Allen" ;
   foaf:name "Phillip Wayne Allen" ;
+.
+:Poppy_Brite
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Poppy_Z._Brite.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/85778403/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Poppy Z. Brite" ;
+  foaf:name "Poppy Z. Brite" ;
 .
 :Quincy_Troupe
   rdf:type schema:Person ;
@@ -3779,6 +3874,13 @@
   bibliographica:viafURI "https://viaf.org/viaf/66537526/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Richard Spellenberg" ;
   foaf:name "Richard Spellenberg" ;
+.
+:Richard_Sterling
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Richard_Sterling.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/18920262/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Richard Sterling" ;
+  foaf:name "Richard Sterling" ;
 .
 :Rigoberta_Menchu
   rdf:type schema:Person ;
@@ -4012,6 +4114,12 @@
   bibliographica:viafURI "https://viaf.org/viaf/7386737/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Samuel Beckett" ;
   foaf:name "Samuel Beckett" ;
+.
+:Samuel_Chamberlain
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/109405045/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Samuel Chamberlain" ;
+  foaf:name "Samuel Chamberlain" ;
 .
 :Samuel_Fromartz
   rdf:type schema:Person ;
@@ -4249,6 +4357,13 @@
   rdfs:label "Susan Fox Rogers" ;
   foaf:name "Susan Fox Rogers" ;
 .
+:Susan_Orlean
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Susan_Orlean.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/26077018/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Susan Orlean" ;
+  foaf:name "Susan Orlean" ;
+.
 :Susan_Straight
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "https://dbpedia.org/data/Susan_Straight.ttl"^^xsd:anyURI ;
@@ -4353,6 +4468,13 @@
   bibliographica:viafURI "https://viaf.org/viaf/54148778/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Thomas Hardy" ;
   foaf:name "Thomas Hardy" ;
+.
+:Thomas_King
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Thomas_King_(novelist).ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/112721227/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Thomas King" ;
+  foaf:name "Thomas King" ;
 .
 :Thomas_McGuane
   rdf:type schema:Person ;

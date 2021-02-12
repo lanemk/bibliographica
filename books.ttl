@@ -104,6 +104,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/32693013.ttl"^^xsd:anyURI ;
   rdfs:label "A Little Too Much is Enough" ;
 .
+:A_Philosophical_Investigation
+  rdf:type schema:Book ;
+  dcterms:creator authors:Kathleen_Tyau ;
+  dcterms:title "A Philosophical Investigation" ;
+  schema:author authors:Kathleen_Tyau ;
+  schema:isbn "0452271401" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/28708816.ttl"^^xsd:anyURI ;
+  rdfs:label "A Philosophical Investigation" ;
+.
 :A_Recipe_for_Bees
   rdf:type schema:Book ;
   dcterms:creator authors:Gail_Anderson-Dargatz ;
@@ -803,6 +814,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/237180836.ttl"^^xsd:anyURI ;
   rdfs:label "Battlefield Without Borders" ;
 .
+:Be_Cool
+  rdf:type schema:Book ;
+  dcterms:creator authors:Elmore_Leonard ;
+  dcterms:title "Be Cool" ;
+  schema:author authors:Elmore_Leonard ;
+  schema:isbn "0060777060" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/57186411.ttl"^^xsd:anyURI ;
+  rdfs:label "Be Cool" ;
+.
 :Be_Expert_Map_Compass
   rdf:type schema:Book ;
   dcterms:creator authors:Bjorn_Kjellstrom ;
@@ -994,7 +1016,10 @@
   dcterms:creator authors:Kerstin_Ekman ;
   dcterms:title "Blackwater" ;
   schema:author authors:Kerstin_Ekman ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/32665465.ttl"^^xsd:anyURI ;
+  schema:isbn "0312152477" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1028331853.ttl"^^xsd:anyURI ;
   rdfs:label "Blackwater" ;
 .
 :Bloodsucking_Fiends
@@ -1631,10 +1656,21 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/741373728.ttl"^^xsd:anyURI ;
   rdfs:label "Chronicles, Volume One" ;
 .
+:Clementine_in_the_Kitchen
+  rdf:type schema:Book ;
+  dcterms:creator authors:Samuel_Chamberlain ;
+  dcterms:title "Clémentine in the Kitchen" ;
+  schema:author authors:Samuel_Chamberlain ;
+  schema:isbn "0375756647" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1201985761.ttl"^^xsd:anyURI ;
+  rdfs:label "Clémentine in the Kitchen" ;
+.
 :Clockwork_Orange
   rdf:type schema:Book ;
   dcterms:creator authors:Anthony_Burgess ;
-  dcterms:title "Close Case" ;
+  dcterms:title "A Clockwork Orange" ;
   schema:author authors:Anthony_Burgess ;
   schema:isbn "0345284119" ;
   bibliographica:binNumber 10 ;
@@ -1652,6 +1688,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/70170656.ttl"^^xsd:anyURI ;
   rdfs:label "Close Case" ;
+.
+:Close_Your_Eyes
+  rdf:type schema:Book ;
+  dcterms:creator authors:Kathryn_Thompson ;
+  dcterms:title "Close your eyes and think of Dublin : portrait of a girl" ;
+  schema:author authors:Kathryn_Thompson ;
+  schema:isbn "0932511422" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/637027372.ttl"^^xsd:anyURI ;
+  rdfs:label "Close your Eyes and Think of Dublin" ;
 .
 :Closers
   rdf:type schema:Book ;
@@ -2996,6 +3043,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/60183520.ttl"^^xsd:anyURI ;
   rdfs:label "The Forgetting Room" ;
 .
+:Forty_Four_Scotland_St
+  rdf:type schema:Book ;
+  dcterms:creator authors:Alexander_McCall_Smith ;
+  dcterms:title "44 Scotland Street" ;
+  schema:author authors:Alexander_McCall_Smith ;
+  schema:isbn "1400079446" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/58043219.ttl"^^xsd:anyURI ;
+  rdfs:label "44 Scotland Street" ;
+.
 :Four_Agreements
   rdf:type schema:Book ;
   dcterms:creator authors:Don_Miguel_Ruiz ;
@@ -3398,6 +3456,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/492412781.ttl"^^xsd:anyURI ;
   rdfs:label "The Great shark hunt : Strange tales from a strange time" ;
 .
+:Green_Grass_Running_Water
+  rdf:type schema:Book ;
+  dcterms:creator authors:Thomas_King ;
+  dcterms:title "Green Grass, Running Water" ;
+  schema:author authors:Thomas_King ;
+  schema:isbn "0553373684" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/889998883.ttl"^^xsd:anyURI ;
+  rdfs:label "Green Grass, Running Water" ;
+.
 :Greens_Cookbook
   rdf:type schema:Book ;
   dcterms:creator authors:Deborah_Madison ;
@@ -3531,7 +3600,10 @@
   dcterms:creator authors:Marianne_Fredriksson ;
   dcterms:title "Hanna's Daughters" ;
   schema:author authors:Marianne_Fredriksson ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/38732135.ttl"^^xsd:anyURI ;
+  schema:isbn "0345433491" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/794472086.ttl"^^xsd:anyURI ;
   rdfs:label "Hanna's Daughters" ;
 .
 :Hard_Evidence
@@ -3609,6 +3681,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/12929384.ttl"^^xsd:anyURI ;
   rdfs:label "Heading Toward Omega" ;
+.
+:Heart_of_Darkness_Secret_Sharer
+  rdf:type schema:Book ;
+  dcterms:creator authors:Joseph_Conrad ;
+  dcterms:title "Heart of Darkness and The Secret Sharer" ;
+  schema:author authors:Joseph_Conrad ;
+  schema:isbn "0553124269" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/65621303.ttl"^^xsd:anyURI ;
+  rdfs:label "Heart of Darkness and The Secret Sharer" ;
 .
 :Heart_of_the_Fire
   rdf:type schema:Book ;
@@ -3946,7 +4029,10 @@
   dcterms:creator authors:Thomas_Wharton ;
   dcterms:title "Icefields" ;
   schema:author authors:Thomas_Wharton ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/35569658.ttl"^^xsd:anyURI ;
+  schema:isbn "0671002201" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/248956280.ttl"^^xsd:anyURI ;
   rdfs:label "Icefields" ;
 .
 :Idiot
@@ -4467,6 +4553,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/213452422.ttl"^^xsd:anyURI ;
   rdfs:label "Julip" ;
 .
+:Juniper_Tree_Burning
+  rdf:type schema:Book ;
+  dcterms:creator authors:Goldberry_Long ;
+  dcterms:title "Juniper Tree Burning : a novel" ;
+  schema:author authors:Goldberry_Long ;
+  schema:isbn "0743222113" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/50270396.ttl"^^xsd:anyURI ;
+  rdfs:label "Juniper Tree Burning" ;
+.
 :Junky
   rdf:type schema:Book ;
   dcterms:creator authors:William_S_Burroughs ;
@@ -4686,6 +4783,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/476327782.ttl"^^xsd:anyURI ;
   rdfs:label "Linden Hills" ;
 .
+:Liquor
+  rdf:type schema:Book ;
+  dcterms:creator authors:Poppy_Brite ;
+  dcterms:title "Liquor : a novel" ;
+  schema:author authors:Poppy_Brite ;
+  schema:isbn "0140088296" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/758802354.ttl"^^xsd:anyURI ;
+  rdfs:label "Liquor : a novel" ;
+.
 :Little_Miss_Strange
   rdf:type schema:Book ;
   dcterms:creator authors:Joanna_Rose ;
@@ -4812,6 +4920,17 @@
   schema:author authors:Stuart_Woods ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/499178284.ttl"^^xsd:anyURI ;
   rdfs:label "Lucid Intervals" ;
+.
+:Lunatics
+  rdf:type schema:Book ;
+  dcterms:creator authors:Bradley_Denton ;
+  dcterms:title "Lunatics" ;
+  schema:author authors:Bradley_Denton ;
+  schema:isbn "0553378910" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/809384716.ttl"^^xsd:anyURI ;
+  rdfs:label "Lunatics" ;
 .
 :Macrobiotic_Cooking
   rdf:type schema:Book ;
@@ -4946,6 +5065,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/669750166.ttl"^^xsd:anyURI ;
   rdfs:label "Matterhorn : a novel of the Vietnam War" ;
+.
+:Maximum_Bob
+  rdf:type schema:Book ;
+  dcterms:creator authors:Elmore_Leonard ;
+  dcterms:title "Maximum Bob" ;
+  schema:author authors:Elmore_Leonard ;
+  schema:isbn "0385323964" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/38993721.ttl"^^xsd:anyURI ;
+  rdfs:label "Maximum Bob" ;
 .
 :Maya
   rdf:type schema:Book ;
@@ -5289,15 +5419,15 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/974305617.ttl"^^xsd:anyURI ;
   rdfs:label "Mumbo Jumbo" ;
 .
-:Murder_Wrigley_Field
+:Murder_of_Einstein
   rdf:type schema:Book ;
   dcterms:creator authors:Troy_Soos ;
   dcterms:title "Murder at Wrigley Field" ;
   schema:author authors:Troy_Soos ;
-  schema:isbn "1575661551" ;
+  schema:isbn "0553373668" ;
   bibliographica:binNumber 19 ;
   bibliographica:numberOfitems 1 ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/36643846.ttl"^^xsd:anyURI ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/28846721.ttl"^^xsd:anyURI ;
   rdfs:label "Murder at Wrigley Field" ;
 .
 :Murder_on_Naked_Beach
@@ -5321,6 +5451,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1004883618.ttl"^^xsd:anyURI ;
   rdfs:label "Murder with Puffins" ;
+.
+:Murder_Wrigley_Field
+  rdf:type schema:Book ;
+  dcterms:creator authors:Troy_Soos ;
+  dcterms:title "Murder at Wrigley Field" ;
+  schema:author authors:Troy_Soos ;
+  schema:isbn "1575661551" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/36643846.ttl"^^xsd:anyURI ;
+  rdfs:label "Murder at Wrigley Field" ;
 .
 :Music_Kit_Rhythm_Reader
   rdf:type schema:Book ;
@@ -5651,7 +5792,10 @@
   dcterms:creator authors:TS_Eliot ;
   dcterms:title "Old Possum's Book of Practical Cats" ;
   schema:author authors:TS_Eliot ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/7977212.ttl"^^xsd:anyURI ;
+  schema:isbn "015668568X" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/817814380.ttl"^^xsd:anyURI ;
   rdfs:label "Old Possum's Book of Practical Cats" ;
 .
 :Olives
@@ -5675,6 +5819,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1036779322.ttl"^^xsd:anyURI ;
   rdfs:label "An Omelette and a Glass of Wine" ;
+.
+:On_the_Bright_Side
+  rdf:type schema:Book ;
+  dcterms:creator authors:Louise_Rennison ;
+  dcterms:title "On the bright side, I'm now the girlfriend of a sex god" ;
+  schema:author authors:Louise_Rennison ;
+  schema:isbn "0064472264" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1089624050.ttl"^^xsd:anyURI ;
+  rdfs:label "On the bright side, I'm now the girlfriend of a sex god" ;
 .
 :On_Celtic_Tides
   rdf:type schema:Book ;
@@ -6307,6 +6462,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1072977671.ttl"^^xsd:anyURI ;
   rdfs:label "The Quality School" ;
+.
+:Queen_of_South
+  rdf:type schema:Book ;
+  dcterms:creator authors:Arturo_Perez_Reverte ;
+  dcterms:title "The Queen of the South" ;
+  schema:author authors:Arturo_Perez_Reverte ;
+  schema:isbn "0452286549" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1192555741.ttl"^^xsd:anyURI ;
+  rdfs:label "The Queen of the South" ;
 .
 :Queens_Play
   rdf:type schema:Book ;
@@ -7006,6 +7172,9 @@
   dcterms:creator authors:David_Sibley ;
   dcterms:title "The Sibley field guide to birds of western North America" ;
   schema:author authors:David_Sibley ;
+  schema:isbn "0679451218" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/52077800.ttl"^^xsd:anyURI ;
   rdfs:label "Sibley field Guide to Birds of Western North America" ;
 .
@@ -7203,6 +7372,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/42951441.ttl"^^xsd:anyURI ;
   rdfs:label "Some of the Dharma" ;
 .
+:Somebody_Elses_Mama
+  rdf:type schema:Book ;
+  dcterms:creator authors:David_Haynes ;
+  dcterms:title "Somebody else's mama : a novel" ;
+  schema:author authors:David_Haynes ;
+  schema:isbn "1571310037" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/613321362.ttl"^^xsd:anyURI ;
+  rdfs:label "Somebody Else's Mama : a novel" ;
+.
 :Sometimes_a_Great_Notion
   rdf:type schema:Book ;
   dcterms:creator authors:Ken_Kesey ;
@@ -7221,6 +7401,17 @@
   bibliographica:binNumber 13 ;
   bibliographica:numberOfitems 1 ;
   rdfs:label "Sonar 3" ;
+.
+:Songbook
+  rdf:type schema:Book ;
+  dcterms:creator authors:Nick_Hornby ;
+  dcterms:title "Songbook" ;
+  schema:author authors:Nick_Hornby ;
+  schema:isbn "0971904774" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/964873786.ttl"^^xsd:anyURI ;
+  rdfs:label "Songbook" ;
 .
 :Song_of_Solomon
   rdf:type schema:Book ;
@@ -7481,13 +7672,16 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1004997702.ttl"^^xsd:anyURI ;
   rdfs:label "The Subterraneans" ;
 .
-:Sugar_Cane
+:Sugar_Cage
   rdf:type schema:Book ;
   dcterms:creator authors:Connie_May_Fowler ;
-  dcterms:title "Sugar Cane" ;
+  dcterms:title "Sugar Cage" ;
   schema:author authors:Connie_May_Fowler ;
+  schema:isbn "0671748092" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/23765961.ttl"^^xsd:anyURI ;
-  rdfs:label "Sugar Cane" ;
+  rdfs:label "Sugar Cage" ;
 .
 :Sultans_Qaboos
   rdf:type schema:Book ;
@@ -7619,7 +7813,10 @@
   dcterms:creator authors:Peter_Hoeg ;
   dcterms:title "Tales of the Night" ;
   schema:author authors:Peter_Hoeg ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/37310723.ttl"^^xsd:anyURI ;
+  schema:isbn "0140279733" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1052962560.ttl"^^xsd:anyURI ;
   rdfs:label "Tales of the Night" ;
 .
 :Tao_Te_Ching
@@ -7888,6 +8085,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/12371273.ttl"^^xsd:anyURI ;
   rdfs:label "The Bourne Supremacy" ;
 .
+:The_Brothers_K
+  rdf:type schema:Book ;
+  dcterms:creator authors:David_James_Duncan ;
+  dcterms:title "The Brothers K" ;
+  schema:author authors:David_James_Duncan ;
+  schema:isbn "055337849X" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/894501958.ttl"^^xsd:anyURI ;
+  rdfs:label "The Brothers K" ;
+.
 :The_Chase
   rdf:type schema:Book ;
   dcterms:creator authors:Clive_Cussler ;
@@ -8086,6 +8294,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/38731998.ttl"^^xsd:anyURI ;
   rdfs:label "The Farming of Bones" ;
 .
+:The_Fire_Never_Dies
+  rdf:type schema:Book ;
+  dcterms:creator authors:Richard_Sterling ;
+  dcterms:title "The fire never dies : one man's raucous romp down the road of food, passion, and adventure" ;
+  schema:author authors:Richard_Sterling ;
+  schema:isbn "1885211708" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1035904344.ttl"^^xsd:anyURI ;
+  rdfs:label "The Fire Never Dies" ;
+.
 :The_Flanders_Panel
   rdf:type schema:Book ;
   dcterms:creator authors:Arturo_Perez_Reverte ;
@@ -8182,6 +8401,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1001933131.ttl"^^xsd:anyURI ;
   rdfs:label "The Grateful Dead Movie" ;
 .
+:The_Half_Life_Happiness
+  rdf:type schema:Book ;
+  dcterms:creator authors:John_Casey ;
+  dcterms:title "The Half-life of Happiness" ;
+  schema:author authors:John_Casey ;
+  schema:isbn "0375706089" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/491702096.ttl"^^xsd:anyURI ;
+  rdfs:label "The Half-life of Happiness" ;
+.
 :The_Hand_I_Fan_With
   rdf:type schema:Book ;
   dcterms:creator authors:Tina_McElroy_Ansa ;
@@ -8209,6 +8439,9 @@
   dcterms:creator authors:Nicholas_Mosley ;
   dcterms:title "The Hesperides Tree" ;
   schema:author authors:Nicholas_Mosley ;
+  schema:isbn "1564782670" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/45963231.ttl"^^xsd:anyURI ;
   rdfs:label "The Hesperides Tree" ;
 .
@@ -8429,6 +8662,28 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/36521088.ttl"^^xsd:anyURI ;
   rdfs:label "The Lost Coast" ;
 .
+:The_Lust_Lizard
+  rdf:type schema:Book ;
+  dcterms:creator authors:Christopher_Moore ;
+  dcterms:title "The Lust Lizard of Melancholy Cove" ;
+  schema:author authors:Christopher_Moore ;
+  schema:isbn "0380792745" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/62358849.ttl"^^xsd:anyURI ;
+  rdfs:label "The Lust Lizard of Melancholy Cove" ;
+.
+:The_Macken_Charm
+  rdf:type schema:Book ;
+  dcterms:creator authors:Jack_Hodgins ;
+  dcterms:title "The Macken Charm : a novel" ;
+  schema:author authors:Jack_Hodgins ;
+  schema:isbn "0771041853" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/878914595.ttl"^^xsd:anyURI ;
+  rdfs:label "The Macken Charm : a novel" ;
+.
 :The_Magdalen
   rdf:type schema:Book ;
   dcterms:creator authors:Marita_Conlon-McKenna ;
@@ -8469,6 +8724,28 @@
   schema:author authors:Brett_Helquist ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/42021532.ttl"^^xsd:anyURI ;
   rdfs:label "The Miserable Mill" ;
+.
+:The_Moon_Under_Her_Feet
+  rdf:type schema:Book ;
+  dcterms:creator authors:Clysta_Kinstler ;
+  dcterms:title "The Moon Under Her Feet" ;
+  schema:author authors:Clysta_Kinstler ;
+  schema:isbn "0062504975" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/22493459.ttl"^^xsd:anyURI ;
+  rdfs:label "The Moon Under Her Feet" ;
+.
+:The_Mystery_Roast
+  rdf:type schema:Book ;
+  dcterms:creator authors:Peter_Gadol ;
+  dcterms:title "The Mystery Roast" ;
+  schema:author authors:Peter_Gadol ;
+  schema:isbn "0312151764" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/35159324.ttl"^^xsd:anyURI ;
+  rdfs:label "The Mystery Roast" ;
 .
 :The_N_Word
   rdf:type schema:Book ;
@@ -8521,6 +8798,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/1119554769.ttl"^^xsd:anyURI ;
   rdfs:label "The Outsiders" ;
+.
+:The_Orchid_Thief
+  rdf:type schema:Book ;
+  dcterms:creator authors:Susan_Orlean ;
+  dcterms:title "The Orchid Thief" ;
+  schema:author authors:Susan_Orlean ;
+  schema:isbn "044900371X" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/911609299.ttl"^^xsd:anyURI ;
+  rdfs:label "The Orchid Thief" ;
 .
 :The_Pilots_Wife
   rdf:type schema:Book ;
@@ -8577,6 +8865,17 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/706017163.ttl"^^xsd:anyURI ;
   rdfs:label "The Race" ;
 .
+:The_Return_of_Goddess
+  rdf:type schema:Book ;
+  dcterms:creator authors:Elizabeth_Cunningham ;
+  dcterms:title "The Return of the Goddess : a divine comedy" ;
+  schema:author authors:Elizabeth_Cunningham ;
+  schema:isbn "0882681575" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/228391661.ttl"^^xsd:anyURI ;
+  rdfs:label "The Return of the Goddess" ;
+.
 :The_Road_Home
   rdf:type schema:Book ;
   dcterms:creator authors:Jim_Harrison ;
@@ -8617,6 +8916,17 @@
   bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/298209030.ttl"^^xsd:anyURI ;
   rdfs:label "The Scarecrow : a novel" ;
+.
+:The_Seville_Communion
+  rdf:type schema:Book ;
+  dcterms:creator authors:Arturo_Perez_Reverte ;
+  dcterms:title "The Seville Communion" ;
+  schema:author authors:Arturo_Perez_Reverte ;
+  schema:isbn "0156006391" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/1102420812.ttl"^^xsd:anyURI ;
+  rdfs:label "The Seville Communion" ;
 .
 :The_Sheltering_Sky
   rdf:type schema:Book ;
@@ -8748,6 +9058,9 @@
   dcterms:creator authors:Keri_Hulme ;
   dcterms:title "The Windeater" ;
   schema:author authors:Keri_Hulme ;
+  schema:isbn "0864730195" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/154827482.ttl"^^xsd:anyURI ;
   rdfs:label "The Windeater" ;
 .
@@ -8875,6 +9188,16 @@
   schema:author authors:Brad_Leithauser ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/34658771.ttl"^^xsd:anyURI ;
   rdfs:label "The friends of Freeland : a novel" ;
+.
+:The_girl_with_dragon_tattoo
+  dcterms:creator authors:Stieg_Larsson ;
+  dcterms:title "The Girl with the Dragon Tattoo" ;
+  schema:author authors:Stieg_Larsson ;
+  schema:isbn "9780307473479" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/921574026.ttl"^^xsd:anyURI ;
+  rdfs:label "The Girl with the Dragon Tattoo" ;
 .
 :The_girl_who_played_with_fire
   rdf:type schema:Book ;
@@ -9034,7 +9357,10 @@
   dcterms:creator authors:Swain_Wolfe ;
   dcterms:title "The Woman Who Lives in the Earth" ;
   schema:author authors:Swain_Wolfe ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/33043330.ttl"^^xsd:anyURI ;
+  schema:isbn "0963478907" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/28567823.ttl"^^xsd:anyURI ;
   rdfs:label "The Woman Who Lives in the Earth" ;
 .
 :The_woman_who_walked_into_doors
@@ -9504,7 +9830,10 @@
   dcterms:creator authors:Tom_Robbins ;
   dcterms:title "Villa Incognito" ;
   schema:author authors:Tom_Robbins ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/51478089.ttl"^^xsd:anyURI ;
+  schema:isbn "0553382195" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/838383095.ttl"^^xsd:anyURI ;
   rdfs:label "Villa Incognito" ;
 .
 :Vincent_van_Gogh
@@ -9685,8 +10014,22 @@
   dcterms:creator authors:Henry_David_Thoreau ;
   dcterms:title "A Week on the Concord and Merrimack Rivers" ;
   schema:author authors:Henry_David_Thoreau ;
+  schema:isbn "0940450275" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/11785549.ttl"^^xsd:anyURI ;
   rdfs:label "A Week on the Concord and Merrimack Rivers" ;
+.
+:Western_Swing
+  rdf:type schema:Book ;
+  dcterms:creator authors:Tim_Sandlin ;
+  dcterms:title "Western Swing" ;
+  schema:author authors:Tim_Sandlin ;
+  schema:isbn "1573226319" ;
+  bibliographica:binNumber 19 ;
+  bibliographica:numberOfitems 1 ;
+  bibliographica:worldcatURI "http://www.worldcat.org/oclc/36188313.ttl"^^xsd:anyURI ;
+  rdfs:label "Western Swing" ;
 .
 :What_Am_I_Doing_Here
   rdf:type schema:Book ;
