@@ -47,6 +47,26 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/81a1687c-bc01-4e27-b2b2-4f0f89e60c87"^^xsd:anyURI ;
   rdfs:label "Acoustic Band Alive" ;
 .
+:African_Force
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ginger_Baker ;
+  bibliographica:byArtist SoloMusicArtist:Ginger_Baker ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/7bbaa2a8-1fcc-4e7c-b31f-1c5a461e77c7"^^xsd:anyURI ;
+  rdfs:label "African Force" ;
+.
+:Air_Force
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ginger_Baker ;
+  bibliographica:byArtist SoloMusicArtist:Ginger_Baker ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c46332ee-1a92-421a-bef5-ddbc5da77002"^^xsd:anyURI ;
+  rdfs:label "Ginger Baker's Air Force" ;
+.
 :Alices_Restaurant
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -276,6 +296,16 @@
   bibliographica:byArtist SoloMusicArtist:Christine_Lavin ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/96a076c0-dec7-4920-9f99-c9ef0af9a395"^^xsd:anyURI ;
   rdfs:label "Attainable Love" ;
+.
+:Audio_Visualscapes
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jack_DeJohnette ;
+  bibliographica:byArtist SoloMusicArtist:Jack_DeJohnette ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/41c8c97f-3db5-479e-aba0-f4ebd1ec6f52"^^xsd:anyURI ;
+  rdfs:label "Audio Visualscapes" ;
 .
 :Austin_96
   rdf:type mo:CD ;
@@ -697,6 +727,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/f5477049-bcb0-482a-b6a7-51983b80163c"^^xsd:anyURI ;
   rdfs:label "Bye Bye Route 66" ;
 .
+:CD_of_JB
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:James_Brown ;
+  bibliographica:byArtist SoloMusicArtist:James_Brown ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b44bd792-65d6-4ffa-a74b-db8b701603a2"^^xsd:anyURI ;
+  rdfs:label "The CD of JB" ;
+.
 :Caberet_Diosa_CD
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -986,6 +1026,26 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a4603320-5599-4bc4-894e-b1d6cf523616"^^xsd:anyURI ;
   rdfs:label "Courage My Love" ;
 .
+:Covenant
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Greg_Brown ;
+  bibliographica:byArtist SoloMusicArtist:Greg_Brown ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5a3756fd-d849-44a9-ab3b-ec1f8eccb303"^^xsd:anyURI ;
+  rdfs:label "Covenant" ;
+.
+:Coward_of_County
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ginger_Baker ;
+  bibliographica:byArtist SoloMusicArtist:Ginger_Baker ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/80479a5b-61f2-4d27-a232-ba439df0c75b"^^xsd:anyURI ;
+  rdfs:label "Coward of the County" ;
+.
 :Crash_of_Rhinos_CD
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1259,6 +1319,26 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a785805a-ed71-4982-a842-17048f148a7d"^^xsd:anyURI ;
   rdfs:label "The Late Great Daniel Johnston: Discovered Covered" ;
 .
+:Divinities
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ian_Anderson ;
+  bibliographica:byArtist SoloMusicArtist:Ian_Anderson ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9c8acdde-5e60-4513-83a2-0bf674bcd819"^^xsd:anyURI ;
+  rdfs:label "Divinities: Twelve Dances With God" ;
+.
+:Do_What_You_Like
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ginger_Baker ;
+  bibliographica:byArtist SoloMusicArtist:Ginger_Baker ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/288ebe0d-ec8c-47fd-971b-448fbb32c8ec"^^xsd:anyURI ;
+  rdfs:label "Do What You Like" ;
+.
 :Double_Barrel_Blues
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1278,6 +1358,36 @@
   bibliographica:byArtist MusicGroup:Butthole_Surfers ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/34e761bc-583e-4715-ac95-734d9d5c5ab0"^^xsd:anyURI ;
   rdfs:label "Double Live" ;
+.
+:Down_in_There
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Greg_Brown ;
+  bibliographica:byArtist SoloMusicArtist:Greg_Brown ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/7747bc60-5d1e-4c07-847d-a55436ffcae4"^^xsd:anyURI ;
+  rdfs:label "Down in There" ;
+.
+:Dream_Cafe
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Greg_Brown ;
+  bibliographica:byArtist SoloMusicArtist:Greg_Brown ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/41f653f9-234a-4f89-8922-f7843186db51"^^xsd:anyURI ;
+  rdfs:label "Dream Café" ;
+.
+:Dream_City
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Greg_Brown ;
+  bibliographica:byArtist SoloMusicArtist:Greg_Brown ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/0b42a7e7-2a1a-41d3-b322-f52fec4f08a9"^^xsd:anyURI ;
+  rdfs:label "Dream City" ;
 .
 :Dylan_Cash_Sessions
   rdf:type mo:CD ;
@@ -1332,6 +1442,16 @@
   bibliographica:byArtist SoloMusicArtist:Edie_Brickell ;
   rdfs:label "Edie Brickell Mix" ;
 .
+:El_Ruisenor_Yucateco
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Guty_Cardenas ;
+  bibliographica:byArtist SoloMusicArtist:Guty_Cardenas ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b4ad9372-324a-4aa4-b141-1b5191daa837"^^xsd:anyURI ;
+  rdfs:label "El Ruiseñor Yucateco" ;
+.
 :Emmett_Grogan_Acetates
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1372,6 +1492,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/7903ef07-4f6a-4450-b573-38b2af7328da"^^xsd:anyURI ;
   rdfs:label "Essential, the Very Best Of" ;
 .
+:Eva_By_Heart
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Eva_Cassidy ;
+  bibliographica:byArtist SoloMusicArtist:Eva_Cassidy ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e8e9c42a-7f80-4f7f-b388-9e9bbe35d8ac"^^xsd:anyURI ;
+  rdfs:label "Eva By Heart" ;
+.
 :Family_Man
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1400,6 +1530,16 @@
   dcterms:creator MusicGroup:Band_Du_Jour ;
   bibliographica:byArtist MusicGroup:Band_Du_Jour ;
   rdfs:label "Feel The Sun" ;
+.
+:Fifth_of_Funk
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:George_Clinton ;
+  bibliographica:byArtist SoloMusicArtist:George_Clinton ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a676432d-4adb-4caf-bc18-80c1f51d6662"^^xsd:anyURI ;
+  rdfs:label "A Fifth of Funk, Vol. 5" ;
 .
 :Fingerlings_Three
   rdf:type mo:CD ;
@@ -1430,6 +1570,16 @@
   bibliographica:byArtist MusicGroup:Dread_Zeppelin ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/f06c4dd0-d1f6-4db0-9a9f-257138ddf69f"^^xsd:anyURI ;
   rdfs:label "5,000,000" ;
+.
+:Forty_Four_Sixty_Six
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Greg_Brown ;
+  bibliographica:byArtist SoloMusicArtist:Greg_Brown ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f5256c3f-f85f-368f-8e9c-5b464b1e1146"^^xsd:anyURI ;
+  rdfs:label "44 & 66" ;
 .
 :Four_Sixty_One_Ocean_Blvd
   rdf:type mo:CD ;
@@ -1503,6 +1653,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/6b80ccf2-7b73-3f5d-81e4-482f9ba038bd"^^xsd:anyURI ;
   rdfs:label "Further Adventures Of" ;
 .
+:Further_In
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Greg_Brown ;
+  bibliographica:byArtist SoloMusicArtist:Greg_Brown ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c675171a-4c25-43be-b99d-98cc620dfa44"^^xsd:anyURI ;
+  rdfs:label "Further In" ;
+.
 :Genuine_Negro_Jig
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1513,6 +1673,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c8480d46-bfbc-3213-9717-51d843483f51"^^xsd:anyURI ;
   rdfs:label "Genuine Negro Jig" ;
 .
+:Go_Fer_Your_Funk
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:George_Clinton ;
+  bibliographica:byArtist SoloMusicArtist:George_Clinton ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/228f54c1-56e8-4952-bf0a-3df1b6e0d95a"^^xsd:anyURI ;
+  rdfs:label "Go Fer Yer Funk, Vol. 1" ;
+.
 :Go_Tell_It_On_The_Mountain
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1522,6 +1692,16 @@
   bibliographica:byArtist MusicGroup:Blind_Boys_of_Alabama ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/da61b4b3-33c4-4995-92a2-ecc58c46c4d8"^^xsd:anyURI ;
   rdfs:label "Go Tell It On The Mountain" ;
+. 
+:Gold_Medal_Collection
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Harry_Chapin ;
+  bibliographica:byArtist SoloMusicArtist:Harry_Chapin ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/68193220-9e8e-493d-8589-bc945eba0796"^^xsd:anyURI ;
+  rdfs:label "Gold Medal Collection" ;
 .
 :Good_As_I_Been_to_You
   rdf:type mo:CD ;
@@ -1583,6 +1763,15 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/30183d1e-5e82-4e4e-aa21-24acb295d0d3"^^xsd:anyURI ;
   rdfs:label "Gravity (bonus disc)" ;
 .
+:Greatest_Hits_Live
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:George_Clinton ;
+  bibliographica:byArtist SoloMusicArtist:George_Clinton ;
+  rdfs:label "Greatest Hits Live 1972-1993" ;
+.
 :Grown_Backwards
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1622,6 +1811,16 @@
   bibliographica:byArtist SoloMusicArtist:David_Bowie ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/8caa9a0e-9063-3497-b73e-3165ea2f75a6"^^xsd:anyURI ;
   rdfs:label "Heroes" ;
+.
+:Hey_Man_Smell_My_Finger
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:George_Clinton ;
+  bibliographica:byArtist SoloMusicArtist:George_Clinton ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e9a5e3b0-69b2-4584-a29b-b383286d9f1a"^^xsd:anyURI ;
+  rdfs:label "Hey Man... Smell My Finger" ;
 .
 :High_Winds_White_Sky
   rdf:type mo:CD ;
@@ -1663,6 +1862,15 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d287713d-7548-4ffa-a917-be29d8dcc5fa"^^xsd:anyURI ;
   rdfs:label "Hogs on the Highway" ;
 .
+:Holladay_Cole_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Holladay_Cole ;
+  bibliographica:byArtist SoloMusicArtist:Holladay_Cole ;
+  rdfs:label "Holladay Cole" ;
+.
 :Home_Ground
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1692,6 +1900,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/7a2ad97a-55e9-48a4-953b-45ddc10f7f0f"^^xsd:anyURI ;
   rdfs:label "Homogenic" ;
 .
+:Honey_Lions_Head
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Greg_Brown ;
+  bibliographica:byArtist SoloMusicArtist:Greg_Brown ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/518b738b-a47c-48f9-ad66-b90df93c1c73"^^xsd:anyURI ;
+  rdfs:label "Honey in the Lion's Head" ;
+.
 :Horombe
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1711,6 +1929,16 @@
   bibliographica:byArtist MusicGroup:Bad_Livers ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/325514f8-6c84-454e-a082-1801e5334730"^^xsd:anyURI ;
   rdfs:label "Horses In The Mines" ;
+.
+:Hot_Pants
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:James_Brown ;
+  bibliographica:byArtist SoloMusicArtist:James_Brown ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/fbd2ef1b-c9d9-4fc9-a05c-b456ea5ddefb"^^xsd:anyURI ;
+  rdfs:label "Hot Pants" ;
 .
 :Humans
   rdf:type mo:CD ;
@@ -1770,6 +1998,26 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a49b0395-f239-48d3-aa65-4149365a9e71"^^xsd:anyURI ;
   rdfs:label "I'm Staying Out" ;
 .
+:Imagine
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Eva_Cassidy ;
+  bibliographica:byArtist SoloMusicArtist:Eva_Cassidy ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/255dc784-0832-4718-99d3-ef4533449c76"^^xsd:anyURI ;
+  rdfs:label "Imagine" ;
+.
+:In_Dark_With_You
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Greg_Brown ;
+  bibliographica:byArtist SoloMusicArtist:Greg_Brown ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f8925577-36ce-408e-b78d-a9209b028a53"^^xsd:anyURI ;
+  rdfs:label "In the Dark With You" ;
+.
 :In_New_Orleans
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1810,6 +2058,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/d24828c6-ac62-33eb-8ac5-284cb38e3b8a"^^xsd:anyURI ;
   rdfs:label "In the Falling Dark" ;
 .
+:In_the_Hills_California
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Greg_Brown ;
+  bibliographica:byArtist SoloMusicArtist:Greg_Brown ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/7a9deef5-30dc-4d5b-a331-fea7ae630f0d"^^xsd:anyURI ;
+  rdfs:label "In the Hills of California" ;
+.
 :In_the_Mouth_Crocodile
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1819,6 +2077,16 @@
   bibliographica:byArtist MusicGroup:Camper_Van_Beethoven ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/3bafdd01-b13d-4d27-8625-8a7fba81c096"^^xsd:anyURI ;
   rdfs:label "In the Mouth of the Crocodile: Live in Seattle" ;
+.
+:Infamous_Angel
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Iris_DeMent ;
+  bibliographica:byArtist SoloMusicArtist:Iris_DeMent ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/ee0f4047-e49d-4bfa-9afb-abb267972df4"^^xsd:anyURI ;
+  rdfs:label "Infamous Angel" ;
 .
 :Infidels
   rdf:type mo:CD ;
@@ -1868,6 +2136,16 @@
   dcterms:creator SoloMusicArtist:Christine_Collister ;
   bibliographica:byArtist SoloMusicArtist:Christine_Collister ;
   rdfs:label "Into the Light" ;
+.
+:Iowa_Waltz
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Greg_Brown ;
+  bibliographica:byArtist SoloMusicArtist:Greg_Brown ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/7ec55b56-b04f-36f9-92de-013acedf4ab8"^^xsd:anyURI ;
+  rdfs:label "The Iowa Waltz" ;
 .
 :Jazz_Profile
   rdf:type mo:CD ;
@@ -2051,6 +2329,26 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/61282502-0f84-4c30-aea1-90b9e823107c"^^xsd:anyURI ;
   rdfs:label "Live Art" ;
 .
+:Live_at_Apollo
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:James_Brown ;
+  bibliographica:byArtist SoloMusicArtist:James_Brown ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/6ecd66e8-08d7-4807-b1e6-7f7f3d57c6c2"^^xsd:anyURI ;
+  rdfs:label "Live at the Apollo, 1962" ;
+.
+:Live_at_Apollo_95
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:James_Brown ;
+  bibliographica:byArtist SoloMusicArtist:James_Brown ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f36e0590-15c8-4dc6-8c77-e10ed4f3b36a"^^xsd:anyURI ;
+  rdfs:label "Live at the Apollo, 1995" ;
+.
 :Live_at_BBC
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2060,6 +2358,26 @@
   bibliographica:byArtist MusicGroup:Dire_Straits ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/11ce3b4c-2310-36b2-ab4a-146449463099"^^xsd:anyURI ;
   rdfs:label "Live at the BBC" ;
+.
+:Live_Black_Sheep
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Greg_Brown ;
+  bibliographica:byArtist SoloMusicArtist:Greg_Brown ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/6914db2d-8add-4fa3-9fca-d8520e4a4b5d"^^xsd:anyURI ;
+  rdfs:label "Live at the Black Sheep" ;
+.
+:Live_at_Blues_Alley
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Eva_Cassidy ;
+  bibliographica:byArtist SoloMusicArtist:Eva_Cassidy ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f2c63797-efe3-46a0-b916-cebc93169eb1"^^xsd:anyURI ;
+  rdfs:label "Live at Blues Alley" ;
 .
 :Live_at_El_Macambo
   rdf:type mo:CD ;
@@ -2280,6 +2598,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a3b62e6e-92f9-4e76-a518-1a9e43d910c6"^^xsd:anyURI ;
   rdfs:label "Love Over Gold" ;
 .
+:Love_Power_Peace
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:James_Brown ;
+  bibliographica:byArtist SoloMusicArtist:James_Brown ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/031330b9-644c-4f83-8259-da076b120769"^^xsd:anyURI ;
+  rdfs:label "Love Power Peace: Live at The Olympia, Paris, 1971" ;
+.
 :Low
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2371,6 +2699,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b38cf694-5447-42a7-a6ad-c434bdc0cbc8"^^xsd:anyURI ;
   rdfs:label "Mexican Moon" ;
 .
+:Middle_Passage
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ginger_Baker ;
+  bibliographica:byArtist SoloMusicArtist:Ginger_Baker ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e241af7a-38e9-4ca5-ac4c-be83978dea58"^^xsd:anyURI ;
+  rdfs:label "Middle Passage" ;
+.
 :Mile_Marker
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2380,6 +2718,16 @@
   bibliographica:byArtist SoloMusicArtist:Ana_Egge ;
   rdfs:comment "Item not listed in MusicBrainz." ;
   rdfs:label "Mile Marker" ;
+.
+:Milk_of_The_moon
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Greg_Brown ;
+  bibliographica:byArtist SoloMusicArtist:Greg_Brown ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f33eccbd-f9a3-436a-acb2-8ccd2cb5e6dc"^^xsd:anyURI ;
+  rdfs:label "Milk of the Moon" ;
 .
 :Mind_Adventures
   rdf:type mo:CD ;
@@ -2541,6 +2889,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/c663c0fb-c739-3191-b099-13ed01fd6df8"^^xsd:anyURI ;
   rdfs:label "Night Vision" ;
 .
+:No_Material
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ginger_Baker ;
+  bibliographica:byArtist SoloMusicArtist:Ginger_Baker ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/414f52a8-9702-44b0-92ac-f00f9cdddc55"^^xsd:anyURI ;
+  rdfs:label "No Material" ;
+.
 :Nothing_But_Burning_Light
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2581,6 +2939,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/5a2c11bb-292f-4e4a-a82f-fd5932612cf3"^^xsd:anyURI ;
   rdfs:label "On The Night" ;
 .
+:One_Big_Town
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Greg_Brown ;
+  bibliographica:byArtist SoloMusicArtist:Greg_Brown ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/66cd5917-1fbc-4a72-a4f3-484f4583ab4c"^^xsd:anyURI ;
+  rdfs:label "One Big Town" ;
+.
 :One_Kind
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2590,6 +2958,16 @@
   bibliographica:byArtist SoloMusicArtist:Bill_Bruford ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/d2595b71-5353-3ae7-853d-3490e0622353"^^xsd:anyURI ;
   rdfs:label "One of a Kind" ;
+.
+:One_More_Goodnight_Kiss
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Greg_Brown ;
+  bibliographica:byArtist SoloMusicArtist:Greg_Brown ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/193a405b-afb0-4ed6-890a-8586c66490c7"^^xsd:anyURI ;
+  rdfs:label "One More Goodnight Kiss" ;
 .
 :One_More_Mile
   rdf:type mo:CD ;
@@ -2661,6 +3039,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/2b766264-7cd9-408b-a73f-bc2b8d270a76"^^xsd:anyURI ;
   rdfs:label "Outbound" ;
 .
+:Over_and_Under
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Greg_Brown ;
+  bibliographica:byArtist SoloMusicArtist:Greg_Brown ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9aee2be3-20a5-4df0-9498-7d80d84a6417"^^xsd:anyURI ;
+  rdfs:label "Over and Under" ;
+.
 :Painted_From_Memory
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2710,6 +3098,16 @@
   bibliographica:byArtist MusicGroup:Black_Sabbath ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/40b08941-d5e9-49d6-bb75-625db9381d32"^^xsd:anyURI ;
   rdfs:label "Paranoid" ;
+.
+:Passengers
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Gary_Burton_Quartet ;
+  bibliographica:byArtist MusicGroup:Gary_Burton_Quartet ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/dcf0173c-9751-4300-b77a-8faf3c0ad900"^^xsd:anyURI ;
+  rdfs:label "Passengers" ;
 .
 :People_in_Me
   rdf:type mo:CD ;
@@ -2826,8 +3224,8 @@
   rdf:type mo:Record ;
   rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
-  dcterms:creator SoloMusicArtist:Beatles ;
-  bibliographica:byArtist SoloMusicArtist:Beatles ;
+  dcterms:creator MusicGroup:Beatles ;
+  bibliographica:byArtist MusicGroup:Beatles ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/faa47611-ff6f-3e08-b27c-7e56583c08e4"^^xsd:anyURI ;
   rdfs:label "Revolver" ;
 .
@@ -2872,6 +3270,26 @@
   bibliographica:byArtist SoloMusicArtist:Walter_Becker ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/127fbd4a-f67a-4797-b360-75a9cf448bc5"^^xsd:anyURI ;
   rdfs:label "The Root of Steely Dan" ;
+.
+:Running_on_Empty
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jackson_Browne ;
+  bibliographica:byArtist SoloMusicArtist:Jackson_Browne ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/7870f7a8-1e70-3f41-8cdc-664440784786"^^xsd:anyURI ;
+  rdfs:label "Running on Empty" ;
+.
+:Running_Scared
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Exene_Cervenka ;
+  bibliographica:byArtist SoloMusicArtist:Exene_Cervenka ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/370a64f8-4762-4a05-8693-8cf5252906b4"^^xsd:anyURI ;
+  rdfs:label "Running Scared" ;
 .
 :Salt_Sun_Time
   rdf:type mo:CD ;
@@ -3006,6 +3424,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/fb46f60d-700f-4de4-b1da-f2a885327eea"^^xsd:anyURI ;
   rdfs:label "Siyabamukela" ;
 .
+:Slant_Six_Mind
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Greg_Brown ;
+  bibliographica:byArtist SoloMusicArtist:Greg_Brown ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c83abec9-22bf-4d39-ba44-c688e056ab05"^^xsd:anyURI ;
+  rdfs:label "Slant 6 Mind" ;
+.
 :Slice_o_Life
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3095,6 +3523,16 @@
   bibliographica:byArtist SoloMusicArtist:Arlo_Guthrie ;
   bibliographica:musicbraiSoloMusicArtistnzURI "https://musicbrainz.org/release/e981afd2-c54b-4023-8c37-1b78ac69bfeb"^^xsd:anyURI ;
   rdfs:label "Son of the Wind" ;
+.
+:Songs_of_Innocence_Experience
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Greg_Brown ;
+  bibliographica:byArtist SoloMusicArtist:Greg_Brown ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/30497783-ca69-314f-8bf4-9e225ed81bbc"^^xsd:anyURI ;
+  rdfs:label "Songs of Innocence and of Experience" ;
 .
 :Songs_of_our_Fathers
   rdf:type mo:CD ;
@@ -3320,6 +3758,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/570f5f29-bf35-38ed-8e6e-26ea1f8e24f4"^^xsd:anyURI ;
   rdfs:label "Tapestry" ;
 .
+:Tapoafom
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:George_Clinton ;
+  bibliographica:byArtist SoloMusicArtist:George_Clinton ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/414012b2-4a20-416f-a946-7b79fd772436"^^xsd:anyURI ;
+  rdfs:label "T.A.P.O.A.F.O.M." ;
+.
 :Telephone_Free_Landslide
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3349,6 +3797,16 @@
   bibliographica:byArtist MusicGroup:Adventures_in_Afropea ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/072a4350-7b24-47f9-af50-b66e1aa6b3c8"^^xsd:anyURI ;
   rdfs:label "Telling Stories To The Sea" ;
+.
+:Temptation
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Holly_Cole ;
+  bibliographica:byArtist SoloMusicArtist:Holly_Cole ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5b531c9a-5f29-38cc-b780-f053bf865cfa"^^xsd:anyURI ;
+  rdfs:label "Temptation" ;
 .
 :The_Catherine_Wheel
   rdf:type mo:CD ;
@@ -3399,6 +3857,16 @@
   bibliographica:byArtist SoloMusicArtist:Ashley_Hutchings ;
   rdfs:label "The Gov'nor" ;
 .
+:The_Live_One
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Greg_Brown ;
+  bibliographica:byArtist SoloMusicArtist:Greg_Brown ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/50929cd8-866d-4899-9184-90693362422d"^^xsd:anyURI ;
+  rdfs:label "The Live One" ;
+.
 :The_Long_Way_Home
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3420,6 +3888,26 @@
   bibliographica:byArtist SoloMusicArtist:Billy_Bragg ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/8fc495a8-129d-404f-a7e5-9fba28997c3f"^^xsd:anyURI ;
   rdfs:label "The Peel Session Album" ;
+.
+:The_Poet_Game
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Greg_Brown ;
+  bibliographica:byArtist SoloMusicArtist:Greg_Brown ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/01e3de8d-d11d-4aec-95e5-44df3f984aef"^^xsd:anyURI ;
+  rdfs:label "The Poet Game" ;
+.
+:The_Secret_Language_Birds
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ian_Anderson ;
+  bibliographica:byArtist SoloMusicArtist:Ian_Anderson ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b573b6e9-eb93-469e-ba51-bea5c68ce5a8"^^xsd:anyURI ;
+  rdfs:label "The Secret Language of Birds" ;
 .
 :The_Source
   rdf:type mo:CD ;
@@ -3671,6 +4159,16 @@
   bibliographica:byArtist SoloMusicArtist:Adrian_Belew ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/6ddcaf4c-d7e7-47f6-89c3-b28716bf79d0"^^xsd:anyURI ;
   rdfs:label "Twang Bar King" ;
+.
+:Twenty_Greatest_Hits
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:James_Brown ;
+  bibliographica:byArtist SoloMusicArtist:James_Brown ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/2c6b376f-0357-4683-a1d8-2a5df30f0ad0"^^xsd:anyURI ;
+  rdfs:label "20 All Time Greatest Hits!" ;
 .
 :Two_Hundred_Miles
   rdf:type mo:CD ;
@@ -3935,6 +4433,16 @@
   bibliographica:byArtist SoloMusicArtist:Al_Stewart ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/8f195fea-549e-4659-97a8-d9e619361ab0"^^xsd:anyURI ;
   rdfs:label "Year of the Cat" ;
+.
+:Yellow_Dog
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Greg_Brown ;
+  bibliographica:byArtist SoloMusicArtist:Greg_Brown ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5e349f2a-65f1-4f87-9327-ddfbbc1ef024"^^xsd:anyURI ;
+  rdfs:label "Yellow Dog" ;
 .
 :You_Pay_Your_Money
   rdf:type mo:CD ;
