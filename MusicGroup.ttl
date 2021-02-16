@@ -1008,6 +1008,12 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/df3226af-d263-4cf0-9ce8-fb3182eddba8"^^xsd:anyURI ;
   rdfs:label "Jazz Is Dead" ;
 .
+:Jeff_Beck_Group
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/a6339659-c879-4f88-9908-206d47963e29"^^xsd:anyURI ;
+  rdfs:label "Jeff Beck Group" ;
+.
 :Jerry_Garcia_Band
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassEH ;

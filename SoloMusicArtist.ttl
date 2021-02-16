@@ -1743,7 +1743,7 @@
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassAD ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Jennifer_Berezan.ttl"^^xsd:anyURI ;
-  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/2f140aa6-b99b-4f79-ae33-96018af87fa3"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/ee23fe81-e9e0-43cb-9794-6e91a97d7b3d"^^xsd:anyURI ;
   rdfs:label "Jennifer Berezan" ;
 .
 :Jennifer_Warnes

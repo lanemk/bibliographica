@@ -518,6 +518,26 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/9c1b8072-eb1d-33d2-af8c-984d46e40902"^^xsd:anyURI ;
   rdfs:label "Blood on the Tracks" ;
 .
+:Blood_Red_Cherry
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jann_Arden ;
+  bibliographica:byArtist SoloMusicArtist:Jann_Arden ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d1d86815-32e7-4d1c-ba24-469f0c65986a"^^xsd:anyURI ;
+  rdfs:label "Blood Red Cherry" ;
+.
+:Blow_By_Blow
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jeff_Beck ;
+  bibliographica:byArtist SoloMusicArtist:Jeff_Beck ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/95420b2e-d645-4582-b7ad-6c5f28bfec76"^^xsd:anyURI ;
+  rdfs:label "Blow By Blow" ;
+.
 :Blue_Aconite
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1733,6 +1753,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/6b056c9e-642e-4084-8716-02cd8b24cc71"^^xsd:anyURI ;
   rdfs:label "Goodbye Cruel World" ;
 .
+:Grace
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jeff_Buckley ;
+  bibliographica:byArtist SoloMusicArtist:Jeff_Buckley ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b2f862e5-a1f3-475d-85a1-6cb1160286aa"^^xsd:anyURI ;
+  rdfs:label "Grace" ;
+.
 :Grand_Piano_Canyon
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1969,6 +1999,16 @@
   bibliographica:byArtist SoloMusicArtist:Eugene_Chadbourne ;
   rdfs:label "I've Been Everywhere" ;
 .
+:I_Blow_Minds
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jello_Biafra ;
+  bibliographica:byArtist SoloMusicArtist:Jello_Biafra ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/58341600-22ee-4d94-9633-63e6d173e82f"^^xsd:anyURI ;
+  rdfs:label "I Blow Minds for a Living" ;
+.
 :I_Need_A_Gun_And_A_Drunk
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2177,6 +2217,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/09a540e2-8a84-4124-bacf-76693aead849"^^xsd:anyURI ;
   rdfs:label "Jazz 'Round Midnight" ;
 .
+:Joan_Armatrading_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Joan_Armatrading ;
+  bibliographica:byArtist SoloMusicArtist:Joan_Armatrading ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/bd79f706-0743-398a-976f-761e35c128e6"^^xsd:anyURI ;
+  rdfs:label "Joan Armatrading" ;
+.
 :Jou_a_Rive
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2236,6 +2286,16 @@
   bibliographica:byArtist MusicGroup:BeauSoleil ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/5311e9f9-fe6d-4d1c-ba21-46d4b8e0bd71"^^xsd:anyURI ;
   rdfs:label "L'Amour ou la Folie" ;
+.
+:Last_Scream_Missing_Neighbors
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jello_Biafra ;
+  bibliographica:byArtist SoloMusicArtist:Jello_Biafra ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f0674151-7b24-3167-a510-d61b4c5d1b59"^^xsd:anyURI ;
+  rdfs:label "Last Scream of the Missing Neighbors" ;
 .
 :Last_Time_Around
   rdf:type mo:CD ;
@@ -2469,6 +2529,16 @@
   rdfs:label "Live" ;
   rdfs:comment "Can't locate on Musicbrainz." ;
 .
+:Live_with_Jan_Hammer
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jeff_Beck ;
+  bibliographica:byArtist SoloMusicArtist:Jeff_Beck ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/95420b2e-d645-4582-b7ad-6c5f28bfec76"^^xsd:anyURI ;
+  rdfs:label "Jeff Beck with the Jan Hammer Group Live" ;
+.
 :Living_In_Clip
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2679,6 +2749,16 @@
   rdfs:label "Masked and Anonymous" ;
   skos:related SoloMusicArtist:Bob_Dylan ;
 .
+:Me_Myself_I
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Joan_Armatrading ;
+  bibliographica:byArtist SoloMusicArtist:Joan_Armatrading ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/6e79ccba-7f40-3d24-ab7d-ea8ddd89be75"^^xsd:anyURI ;
+  rdfs:label "Me Myself I" ;
+.
 :Medusa
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2838,6 +2918,16 @@
   bibliographica:byArtist SoloMusicArtist:Chet_Baker ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/7c343bdc-f9bf-4960-8830-27bb0672ab4c"^^xsd:anyURI ;
   rdfs:label "My Funny Valentine" ;
+.
+:Mystery_White_Boy_live
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jeff_Buckley ;
+  bibliographica:byArtist SoloMusicArtist:Jeff_Buckley ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b68b23eb-6623-4a6c-a5dc-06e76e0947bd"^^xsd:anyURI ;
+  rdfs:label "Mystery White Boy: Live ’95-’96" ;
 .
 :Mystic_Dreams
   rdf:type mo:CD ;
@@ -3149,6 +3239,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/aedd518d-d7e0-3595-80c7-54d2aad292f8"^^xsd:anyURI ;
   rdfs:label "Planet Waves" ;
 .
+:Prairie_Home_Invasion
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jello_Biafra ;
+  bibliographica:byArtist SoloMusicArtist:Jello_Biafra ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/32b15f41-5346-4b4c-afe1-2e5dc554388f"^^xsd:anyURI ;
+  rdfs:label "Prairie Home Invasion" ;
+.
 :Pulse_Where_Rhythm_Begins
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3199,6 +3299,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/c071ff9b-51f6-3999-aaba-594002dc6022"^^xsd:anyURI ;
   rdfs:label "Real Live" ;
 .
+:Really
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:JJ_Cale ;
+  bibliographica:byArtist SoloMusicArtist:JJ_Cale ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/8b903798-53f7-409d-bcad-9ce4db46c921"^^xsd:anyURI ;
+  rdfs:label "Really" ;
+.
 :Reckoning_Revelling
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3218,6 +3328,16 @@
   bibliographica:byArtist MusicGroup:Cowboy_Junkies ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/fbb9c189-64cb-4325-9532-7ac53e658b46"^^xsd:anyURI ;
   rdfs:label "The Nomad Series, Volume 1: Renmin Park" ;
+.
+:ReTurning
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jennifer_Berezan ;
+  bibliographica:byArtist SoloMusicArtist:Jennifer_Berezan ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c7181cf6-0e8e-4d2d-8217-768212897024"^^xsd:anyURI ;
+  rdfs:label "ReTurning" ;
 .
 :Revolver
   rdf:type mo:CD ;
@@ -3270,6 +3390,16 @@
   bibliographica:byArtist SoloMusicArtist:Walter_Becker ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/127fbd4a-f67a-4797-b360-75a9cf448bc5"^^xsd:anyURI ;
   rdfs:label "The Root of Steely Dan" ;
+.
+:Rough_Ready
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Jeff_Beck_Group ;
+  bibliographica:byArtist MusicGroup:Jeff_Beck_Group ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/3fa5d226-7ecf-4751-99a5-4261d70136ea"^^xsd:anyURI ;
+  rdfs:label "Rough and Ready" ;
 .
 :Running_on_Empty
   rdf:type mo:CD ;
@@ -3350,6 +3480,15 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/6163aa70-d97f-34e5-a5bf-54b7d85a7ea0"^^xsd:anyURI ;
   rdfs:label "Self Portrait" ;
 .
+:Seven_Year_Surrender
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jill_Cohn ;
+  bibliographica:byArtist SoloMusicArtist:Jill_Cohn ;
+  rdfs:label "Seven Year Surrender" ;
+.
 :Sharing_the_Night_Together
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3369,6 +3508,16 @@
   bibliographica:byArtist MusicGroup:Captain_Beefheart_Magic_Band ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/5887c600-15a7-3c40-9b8b-49aac410be6d"^^xsd:anyURI ;
   rdfs:label "Shiny Beast (Bat Chain Puller)" ;
+.
+:Show_Some_Emotion
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Joan_Armatrading ;
+  bibliographica:byArtist SoloMusicArtist:Joan_Armatrading ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f664553e-17df-498b-b67a-788fa391aa31"^^xsd:anyURI ;
+  rdfs:label "Show Some Emotion" ;
 .
 :Showdown
   rdf:type mo:CD ;
@@ -3424,6 +3573,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/fb46f60d-700f-4de4-b1da-f2a885327eea"^^xsd:anyURI ;
   rdfs:label "Siyabamukela" ;
 .
+:Sketches_for_My_Sweetheart
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jeff_Buckley ;
+  bibliographica:byArtist SoloMusicArtist:Jeff_Buckley ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/0e87c249-2b8a-442e-b044-9d2b4bfb7eb1"^^xsd:anyURI ;
+  rdfs:label "Sketches for My Sweetheart the Drunk" ;
+.
 :Slant_Six_Mind
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3443,6 +3602,16 @@
   bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/c0a1e7f5-c3c1-3bfc-8b06-31c5996928b2"^^xsd:anyURI ;
   rdfs:label "Slice o Life: Bruce Cockburn Live Solo" ;
+.
+:Slide_Rule
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jerry_Douglas ;
+  bibliographica:byArtist SoloMusicArtist:Jerry_Douglas ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f5f83924-0449-459e-84e3-a71cb22e3a35"^^xsd:anyURI ;
+  rdfs:label "Slide Rule" ;
 .
 :Slow_Circle
   rdf:type mo:CD ;
@@ -3675,6 +3844,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/bdce4869-cd60-4a21-adab-74f3d85136eb"^^xsd:anyURI ;
   rdfs:label "Still in Hollywood" ;
 .
+:Stories_From_Bluebus
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jill_Cohn ;
+  bibliographica:byArtist SoloMusicArtist:Jill_Cohn ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/02fcdf79-3c07-4282-b73e-47d013a87812"^^xsd:anyURI ;
+  rdfs:label "Stories From the Bluebus" ;
+.
 :Stranger_to_This_Land
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3857,6 +4036,16 @@
   bibliographica:byArtist SoloMusicArtist:Ashley_Hutchings ;
   rdfs:label "The Gov'nor" ;
 .
+:The_Harder_They_Come
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jimmy_Cliff ;
+  bibliographica:byArtist SoloMusicArtist:Jimmy_Cliff ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5781be9d-e60e-44e7-b82f-d58f629d865d"^^xsd:anyURI ;
+  rdfs:label "The Harder They Come" ;
+.
 :The_Live_One
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3908,6 +4097,16 @@
   bibliographica:byArtist SoloMusicArtist:Ian_Anderson ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b573b6e9-eb93-469e-ba51-bea5c68ce5a8"^^xsd:anyURI ;
   rdfs:label "The Secret Language of Birds" ;
+.
+:The_Sky_is_Falling
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jello_Biafra ;
+  bibliographica:byArtist SoloMusicArtist:Jello_Biafra ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/693748be-7c18-39c3-af2e-2e62092090cf"^^xsd:anyURI ;
+  rdfs:label "The Sky Is Falling and I Want My Mommy" ;
 .
 :The_Source
   rdf:type mo:CD ;
@@ -3988,6 +4187,15 @@
   bibliographica:byArtist MusicGroup:Camper_Van_Beethoven ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/9535e03a-51e0-4919-b508-4391c046c538"^^xsd:anyURI ;
   rdfs:label "The Third Album plus Vampire Can Mating Oven" ;
+.
+:Thirteen_Sept_Sixth
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jill_Cohn ;
+  bibliographica:byArtist SoloMusicArtist:Jill_Cohn ;
+  rdfs:label "13September6" ;
 .
 :Thirty_Greatest_Hits
   rdf:type mo:CD ;
@@ -4283,6 +4491,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/f36d8ca5-df31-4f0a-8b30-644dd61c9874"^^xsd:anyURI ;
   rdfs:label "¡Viva Zapata!" ;
 .
+:Walk_Under_Ladders
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Joan_Armatrading ;
+  bibliographica:byArtist SoloMusicArtist:Joan_Armatrading ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/dee917dc-6a8a-4164-b3ca-44f7761f9f8b"^^xsd:anyURI ;
+  rdfs:label "Walk Under Ladders" ;
+.
 :Waltzie
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4292,6 +4510,26 @@
   bibliographica:byArtist SoloMusicArtist:Caitlin_Cary ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/4942576d-9f1a-467e-9b13-b710dc77e187"^^xsd:anyURI ;
   rdfs:label "Waltzie" ;
+.
+:Whatevers_For_Us
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Joan_Armatrading ;
+  bibliographica:byArtist SoloMusicArtist:Joan_Armatrading ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d6cc906e-107c-3636-9890-8df3b80cbf22"^^xsd:anyURI ;
+  rdfs:label "Whatever's for Us" ;
+.
+:Whats_Inside
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Joan_Armatrading ;
+  bibliographica:byArtist SoloMusicArtist:Joan_Armatrading ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/25b54e54-def3-3d8b-a193-f3cafc566a03"^^xsd:anyURI ;
+  rdfs:label "What’s Inside" ;
 .
 :Wheels_of_Fire
   rdf:type mo:CD ;
@@ -4394,6 +4632,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/01f8a2a0-8996-4277-9f00-10b27b51db78"^^xsd:anyURI ;
   rdfs:label "William Bloke" ;
 .
+:Wired
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jeff_Beck ;
+  bibliographica:byArtist SoloMusicArtist:Jeff_Beck ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/1755f2a8-1581-43c8-a3f1-646302c0bb59"^^xsd:anyURI ;
+  rdfs:label "Wired" ;
+.
 :World_Gone_Wrong
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4443,6 +4691,16 @@
   bibliographica:byArtist SoloMusicArtist:Greg_Brown ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/5e349f2a-65f1-4f87-9327-ddfbbc1ef024"^^xsd:anyURI ;
   rdfs:label "Yellow Dog" ;
+.
+:You_Can_Get_It
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jimmy_Cliff ;
+  bibliographica:byArtist SoloMusicArtist:Jimmy_Cliff ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f7498b7e-c890-4948-9dcc-2a5289f528a5"^^xsd:anyURI ;
+  rdfs:label "You Can Get It If You Really Want" ;
 .
 :You_Pay_Your_Money
   rdf:type mo:CD ;
