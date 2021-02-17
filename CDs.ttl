@@ -27,6 +27,15 @@
   owl:imports <http://www.connaissance.io/onto/biblio/bibliographica> ;
   owl:versionInfo "Developed by M Lane, Portland, Oregon" ;
 .
+:A_Love_Supreme_Live
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
+  rdfs:label "A Love Supreme (Live in Antibes France) 1965)" ;
+.
 :Abbey_is_Blue
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -56,6 +65,16 @@
   bibliographica:byArtist SoloMusicArtist:Ginger_Baker ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/7bbaa2a8-1fcc-4e7c-b31f-1c5a461e77c7"^^xsd:anyURI ;
   rdfs:label "African Force" ;
+.
+:Afro_Blue_Impressions
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/7c00822f-f645-43f6-ae90-0b0d763f9487"^^xsd:anyURI ;
+  rdfs:label "Afro Blue Impressions" ;
 .
 :Air_Force
   rdf:type mo:CD ;
@@ -488,6 +507,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/b5cbeb61-6e9c-38a8-9cb7-caf456782361"^^xsd:anyURI ;
   rdfs:label "Biograph" ;
 .
+:Black_Pearls
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/896beb5e-700b-3b68-9141-29bc9437ac69"^^xsd:anyURI ;
+  rdfs:label "Black Pearls" ;
+.
 :Blind_Faith_CD
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -567,6 +596,16 @@
   bibliographica:byArtist SoloMusicArtist:Eric_Andersen ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/94a0ffb6-39b9-409c-a49d-ad4eb805bb20"^^xsd:anyURI ;
   rdfs:label "Blue River" ;
+.
+:Blue_Trane
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/0b39536e-0aee-4e9d-92df-fb3c266b7ea4"^^xsd:anyURI ;
+  rdfs:label "Blue Trane: John Coltrane Plays the Blues" ;
 .
 :Bluegrass_Reunion
   rdf:type mo:CD ;
@@ -797,6 +836,18 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/76c70a24-7fb9-4714-a34c-8b1a7d0d98d2"^^xsd:anyURI ;
   rdfs:label "Camper Vantiquities" ;
 .
+:Cannonball_and_Coltrane
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:Cannonball_Adderley ;
+  bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:Cannonball_Adderley ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/28858094-3ec6-3156-abbb-da11691ee6f0"^^xsd:anyURI ;
+  rdfs:label "Cannonball & Coltrane" ;
+.
 :Carried_to_Dust
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -825,6 +876,16 @@
   bibliographica:byArtist SoloMusicArtist:Catie_Curtis ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/06a1ea99-732d-477e-ac07-1abb3a09e255"^^xsd:anyURI ;
   rdfs:label "Catie Curtis" ;
+.
+:Cattin_with_Coltrane
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/cf4ff06c-3306-4603-a402-c9874b419656"^^xsd:anyURI ;
+  rdfs:label "Cattin’ with Coltrane and Quinichette" ;
 .
 :Celine_Dion_CD
   rdf:type mo:CD ;
@@ -974,6 +1035,36 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b47b88b4-9c40-4ea0-b5cb-d96e8a6324d2"^^xsd:anyURI ;
   rdfs:label "Colour Moving and Still" ;
 .
+:Coltrane_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/0ec8227a-6314-4324-ab26-b1d8ee009adc"^^xsd:anyURI ;
+  rdfs:label "Coltrane" ;
+.
+:Coltrane_for_Lovers
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/00e20769-22e6-4bca-b953-8c8aaa3291bd"^^xsd:anyURI ;
+  rdfs:label "Coltrane for Lovers" ;
+.
+:Coltranes_Sound
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e7f8bf39-7b90-427d-bc39-fe8dba26e39d"^^xsd:anyURI ;
+  rdfs:label "Coltrane's Sound" ;
+.
 :Combat_Rock
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -983,6 +1074,27 @@
   bibliographica:byArtist MusicGroup:Clash ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/912e77ed-015a-33cc-b6c0-fed80d9de0b7"^^xsd:anyURI ;
   rdfs:label "Combat Rock" ;
+.
+:Compilation_Four_Discs
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
+  rdfs:label "Compilation of 4 Discs" ;
+.
+:Complete_Savoy_Sessions
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  dcterms:creator SoloMusicArtist:Wilbur_Harden ;
+  bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:Wilbur_Harden ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d65a76a3-a44e-4c17-9d3d-904dcfab9a5a"^^xsd:anyURI ;
+  rdfs:label "The Complete Savoy Sessions" ;
 .
 :Concrete_Blonde_CD
   rdf:type mo:CD ;
@@ -1085,6 +1197,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a428807e-af55-42c6-a185-e6b35a2d571e"^^xsd:anyURI ;
   rdfs:label "Crazy Moon" ;
 .
+:Crescent
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/bb4eb994-5863-47d2-b040-e2834110b667"^^xsd:anyURI ;
+  rdfs:label "Crescent" ;
+.
 :Crossing_Jordan_CD
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1134,6 +1256,16 @@
   bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/ba5f83b8-90cb-306c-b445-ca4bf0d6eb03"^^xsd:anyURI ;
   rdfs:label "Dancing in the Dragon's Jaws" ;
+.
+:Dakar
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/02d67c19-6959-43f1-98b1-47255cb9685e"^^xsd:anyURI ;
+  rdfs:label "Dakar" ;
 .
 :Danko_Fjeld_Andersen
   rdf:type mo:CD ;
@@ -1278,6 +1410,16 @@
   bibliographica:byArtist SoloMusicArtist:David_Bowie ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/4f00baf4-c11c-41dc-bdca-4267180077f7"^^xsd:anyURI ;
   rdfs:label "Diamond Dogs" ;
+.
+:Diamonds_and_Rust
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Joan_Baez ;
+  bibliographica:byArtist SoloMusicArtist:Joan_Baez ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/3a9a3cd7-0274-4025-b467-44cbd174f1ba"^^xsd:anyURI ;
+  rdfs:label "Diamonds & Rust" ;
 .
 :Die_Grossen_Tangos
   rdf:type mo:CD ;
@@ -1822,6 +1964,16 @@
   rdfs:label "Harbourfront" ;
   rdfs:comment "Can't locate on Musicbrainz." ;
 .
+:Heart_and_Soul
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Joe_Cocker ;
+  bibliographica:byArtist SoloMusicArtist:Joe_Cocker ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/39914131-4cbf-4102-bc2e-27b47fb087b4"^^xsd:anyURI ;
+  rdfs:label "Heart & Soul" ;
+.
 :Heart_of_the_Forest
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2347,6 +2499,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/8e1b0c51-eafb-38dd-b6cc-c4903f554d1a"^^xsd:anyURI ;
   rdfs:label "Life Short Call Now" ;
 .
+:Like_Sonny
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/32ad9d9e-7a30-4d59-b54e-da97dad7bb06"^^xsd:anyURI ;
+  rdfs:label "Like Sonny" ;
+.
 :Little_Plastic_Castle
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2408,6 +2570,36 @@
   bibliographica:byArtist SoloMusicArtist:James_Brown ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/f36e0590-15c8-4dc6-8c77-e10ed4f3b36a"^^xsd:anyURI ;
   rdfs:label "Live at the Apollo, 1995" ;
+.
+:Live_at_Birdland
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/ba40c4fd-d39f-4d6c-8c24-6bb28c24dfd4"^^xsd:anyURI ;
+  rdfs:label "Live at Birdland" ;
+.
+:Live_at_Village_Vanguard_Again
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/15e885fc-a37c-4eef-b4b2-e44500711442"^^xsd:anyURI ;
+  rdfs:label "Live at the Village Vanguard Again!" ;
+.
+:Live_in_Japan
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/8f74470d-0504-483f-973d-24db67de6453"^^xsd:anyURI ;
+  rdfs:label "Live in Japan" ;
 .
 :Live_at_BBC
   rdf:type mo:CD ;
@@ -3612,6 +3804,16 @@
   bibliographica:byArtist SoloMusicArtist:Jerry_Douglas ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/f5f83924-0449-459e-84e3-a71cb22e3a35"^^xsd:anyURI ;
   rdfs:label "Slide Rule" ;
+.
+:Slidetime
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Joanna_Conner ;
+  bibliographica:byArtist SoloMusicArtist:Joanna_Conner ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9d1c3a91-2e35-4516-84a4-19a4233ffd48"^^xsd:anyURI ;
+  rdfs:label "Slidetime" ;
 .
 :Slow_Circle
   rdf:type mo:CD ;

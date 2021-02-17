@@ -4354,6 +4354,13 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/663f8232-8c46-4851-803f-a91d31593b14"^^xsd:anyURI ;
   rdfs:label "Wes Montgomery" ;
 .
+:Wilbur_Harden
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/Wilbur_Harden.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/4f3d8c65-7a72-414e-a83c-7aae9d129fbf"^^xsd:anyURI ;
+  rdfs:label "Wilbur Harden" ;
+.
 :William_Ackerman
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassAD ;
