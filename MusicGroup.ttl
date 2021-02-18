@@ -1039,7 +1039,7 @@
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassQT ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Savuka.ttl"^^xsd:anyURI ;
-  bibliographica:musicbrainzURI "http://dbpedia.org/data/Savuka.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/08e3c40b-dbec-49aa-96ff-e1ab37ae6aca"^^xsd:anyURI ;
   rdfs:label "Johnny Clegg and Savuka" ;
 .
 :Juluka

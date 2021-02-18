@@ -176,6 +176,26 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/21b59084-8dd2-4f42-9bef-a11827c0dc0a"^^xsd:anyURI ;
   rdfs:label "American Dream" ;
 .
+:American_Four
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Johnny_Cash ;
+  bibliographica:byArtist SoloMusicArtist:Johnny_Cash ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/261de123-7315-4a2f-8c40-3dad9092313e"^^xsd:anyURI ;
+  rdfs:label "American IV: The Man Comes Around" ;
+.
+:American_Recordings
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Johnny_Cash ;
+  bibliographica:byArtist SoloMusicArtist:Johnny_Cash ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5223c055-c717-35c8-9571-4353d147e9d7"^^xsd:anyURI ;
+  rdfs:label "American Recordings" ;
+.
 :An_Equal_Love
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -295,6 +315,16 @@
   bibliographica:byArtist MusicGroup:Allman_Brothers ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/29e18ce2-3777-432b-bff6-c446e71b21e7"^^xsd:anyURI ;
   rdfs:label "At Fillmore East (Deluxe Edition)" ;
+.
+:At_Folsom_San_Quetin
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Johnny_Cash ;
+  bibliographica:byArtist SoloMusicArtist:Johnny_Cash ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/1a4fffe0-8a1a-41e9-9021-8eaf609e0221"^^xsd:anyURI ;
+  rdfs:label "At Folsom Prison and San Quentin" ;
 .
 :At_Last
   rdf:type mo:CD ;
@@ -1035,6 +1065,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b47b88b4-9c40-4ea0-b5cb-d96e8a6324d2"^^xsd:anyURI ;
   rdfs:label "Colour Moving and Still" ;
 .
+:Columbia_Records
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Johnny_Cash ;
+  bibliographica:byArtist SoloMusicArtist:Johnny_Cash ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e8dd3ab1-4cd9-4652-af16-a3fa5f92f742"^^xsd:anyURI ;
+  rdfs:label "Columbia Records 1958-1986" ;
+.
 :Coltrane_CD
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1226,6 +1266,16 @@
   bibliographica:byArtist MusicGroup:Capercaillie ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c1c2ad27-c1c2-4b6a-9e0e-87a88525cce7"^^xsd:anyURI ;
   rdfs:label "Crosswinds" ;
+.
+:Cruel_Crazy_Beautiful_World
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Johnny_Clegg_Savuka ;
+  bibliographica:byArtist MusicGroup:Johnny_Clegg_Savuka ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/ff26461b-cfd9-40bf-9a55-9185c75f41f7"^^xsd:anyURI ;
+  rdfs:label "Cruel, Crazy, Beautiful World" ;
 .
 :Cruel_Smile
   rdf:type mo:CD ;
@@ -1835,6 +1885,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c8480d46-bfbc-3213-9717-51d843483f51"^^xsd:anyURI ;
   rdfs:label "Genuine Negro Jig" ;
 .
+:Get_Inside
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Johnny_A ;
+  bibliographica:byArtist SoloMusicArtist:Johnny_A ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/384d9a6f-a980-3106-a43c-da280bb177cf"^^xsd:anyURI ;
+  rdfs:label "Get Inside" ;
+.
 :Go_Fer_Your_Funk
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1934,6 +1994,16 @@
   bibliographica:byArtist SoloMusicArtist:Alejandro_Escovedo ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/30183d1e-5e82-4e4e-aa21-24acb295d0d3"^^xsd:anyURI ;
   rdfs:label "Gravity (bonus disc)" ;
+.
+:Greatest_Hits_Vol_1
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Johnny_Cash ;
+  bibliographica:byArtist SoloMusicArtist:Johnny_Cash ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/75978af5-eb92-469e-81b8-a9b60be45d3e"^^xsd:anyURI ;
+  rdfs:label "Greatest Hits, Vol. 1" ;
 .
 :Greatest_Hits_Live
   rdf:type mo:CD ;
@@ -2379,6 +2449,26 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/bd79f706-0743-398a-976f-761e35c128e6"^^xsd:anyURI ;
   rdfs:label "Joan Armatrading" ;
 .
+:Johnny_Cash_at_MSG
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Johnny_Cash ;
+  bibliographica:byArtist SoloMusicArtist:Johnny_Cash ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/bc009fea-0933-4d00-9ec9-8ae385de3641"^^xsd:anyURI ;
+  rdfs:label "Johnny Cash at Madison Square Garden" ;
+.
+:Johnny_Cash_Sings_Best
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Johnny_Cash ;
+  bibliographica:byArtist SoloMusicArtist:Johnny_Cash ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/0376d8fa-f35d-46ca-9444-2b77746b1dee"^^xsd:anyURI ;
+  rdfs:label "Johnny Cash Sings His Best" ;
+.
 :Jou_a_Rive
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2741,6 +2831,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/26e2e2c5-be8f-3588-b845-9379c96b4630"^^xsd:anyURI ;
   rdfs:label "Living In Clip" ;
 .
+:Living_Space
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/3ec0ff23-08e3-48ab-92b7-e68ff60d9c72"^^xsd:anyURI ;
+  rdfs:label "Living Space" ;
+.
 :Lizard_Music
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2919,6 +3019,16 @@
   bibliographica:byArtist SoloMusicArtist:Erykah_Badu ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b3d7d898-c917-4431-b761-e79d71b6172e"^^xsd:anyURI ;
   rdfs:label "Mama’s Gun" ;
+.
+:Man_Made_Miles
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/3913e7f1-6986-45c6-8a60-2e2bd15eacc1"^^xsd:anyURI ;
+  rdfs:label "Man Made Miles" ;
 .
 :Man_Who_Sold_World
   rdf:type mo:CD ;
@@ -3211,6 +3321,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/36675813-6c3c-33fa-8eaf-b1cd66d4f006"^^xsd:anyURI ;
   rdfs:label "Oh Mercy" ;
 .
+:Ole_Coltrane
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/aad5ea8e-93d0-3010-8b01-80a14a0ef393"^^xsd:anyURI ;
+  rdfs:label "Olé Coltrane" ;
+.
 :On_The_Night
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3230,6 +3350,16 @@
   bibliographica:byArtist SoloMusicArtist:Greg_Brown ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/66cd5917-1fbc-4a72-a4f3-484f4583ab4c"^^xsd:anyURI ;
   rdfs:label "One Big Town" ;
+.
+:One_Down_One_Up
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/4e73212d-bfdd-4cb7-9fd7-066fd38e984d"^^xsd:anyURI ;
+  rdfs:label "One Down, One Up: Live at the Half Note" ;
 .
 :One_Kind
   rdf:type mo:CD ;
@@ -3681,6 +3811,16 @@
   bibliographica:byArtist SoloMusicArtist:Jill_Cohn ;
   rdfs:label "Seven Year Surrender" ;
 .
+:Shadow_Man
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Johnny_Clegg_Savuka ;
+  bibliographica:byArtist MusicGroup:Johnny_Clegg_Savuka ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/95eaa4fa-d525-3f74-a518-4d4c0a92629a"^^xsd:anyURI ;
+  rdfs:label "Shadow Man" ;
+.
 :Sharing_the_Night_Together
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3885,6 +4025,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/1ca7b25c-dd1b-4dff-a3f3-cfacece12c52"^^xsd:anyURI ;
   rdfs:label "Something for Everybody" ;
 .
+:Sometime_Tuesday_Morning
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Johnny_A ;
+  bibliographica:byArtist SoloMusicArtist:Johnny_A ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9e9f4277-5f98-4d9f-9429-caf0a9ea1fc6"^^xsd:anyURI ;
+  rdfs:label "Sometime Tuesday Morning" ;
+.
 :Son_of_the_Wind
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3916,6 +4066,16 @@
   bibliographica:byArtist SoloMusicArtist:David_Grisman ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/839e4f2e-a089-4dc4-9375-36c2b8ffd249"^^xsd:anyURI ;
   rdfs:label "Songs of our Fathers" ;
+.
+:Soultrane
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e0c3968d-041d-4375-ba63-28c0505a5524"^^xsd:anyURI ;
+  rdfs:label "Soultrane" ;
 .
 :Southern_Exposure
   rdf:type mo:CD ;
@@ -4016,6 +4176,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/43a4b6c2-7573-4cfc-be0e-6e10d45e0037"^^xsd:anyURI ;
   rdfs:label "Stages" ;
 .
+:Standard_Coltrane
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/3b9bfc68-b38c-47c2-8337-51977b224708"^^xsd:anyURI ;
+  rdfs:label "Standard Coltrane" ;
+.
 :Station_to_Station
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4064,6 +4234,16 @@
   dcterms:creator SoloMusicArtist:Barbara_Kessler ;
   bibliographica:byArtist SoloMusicArtist:Barbara_Kessler ;
   rdfs:label "Stranger to This Land" ;
+.
+:Sun_Ship
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/1b05393d-e6cf-4c91-a95d-9047d7470a93"^^xsd:anyURI ;
+  rdfs:label "Sun Ship" ;
 .
 :Sunwheel_Dance
   rdf:type mo:CD ;
@@ -4189,6 +4369,46 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/5b531c9a-5f29-38cc-b780-f053bf865cfa"^^xsd:anyURI ;
   rdfs:label "Temptation" ;
 .
+:The_Art_of_Coltrane
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/764d90b5-bcbe-4f74-9485-6aad20b0cdac"^^xsd:anyURI ;
+  rdfs:label "The Art of John Coltrane" ;
+.
+:The_Believer
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/3aaa100a-8ced-4454-8a3e-6aab7e185ff4"^^xsd:anyURI ;
+  rdfs:label "The Believer" ;
+.
+:The_Best_of_Coltrane
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9646ee50-d2d8-4bac-bf56-1a93d6b4f91b"^^xsd:anyURI ;
+  rdfs:label "The Best of John Coltrane" ;
+.
+:The_Bethlehem_Years
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c806639b-f8db-4e52-b96f-acfcc07da536"^^xsd:anyURI ;
+  rdfs:label "The Bethlehem Years" ;
+.
 :The_Catherine_Wheel
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4198,6 +4418,16 @@
   bibliographica:byArtist SoloMusicArtist:David_Byrne ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/98b1e961-bf84-4e4b-85c1-5de7161dfdef"^^xsd:anyURI ;
   rdfs:label "The Catherine Wheel" ;
+.
+:The_Complete_1961_VV
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/4ed4218e-4b96-47e0-986d-391b3aa9f5f5"^^xsd:anyURI ;
+  rdfs:label "The Complete 1961 Village Vanguard Recordings" ;
 .
 :The_Delivery_Man
   rdf:type mo:CD ;
@@ -4248,6 +4478,26 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/5781be9d-e60e-44e7-b82f-d58f629d865d"^^xsd:anyURI ;
   rdfs:label "The Harder They Come" ;
 .
+:The_Impulse_Years
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/4c86092a-3dfa-4c91-84d9-513b4f659b76"^^xsd:anyURI ;
+  rdfs:label "A John Coltrane Retrospective: The Impulse! Years" ;
+.
+:The_Last_Trane
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/14017672-f68b-4377-a99b-7ed9a1f6e19e"^^xsd:anyURI ;
+  rdfs:label "The Last Trane" ;
+.
 :The_Live_One
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4269,6 +4519,16 @@
   bibliographica:byArtist SoloMusicArtist:DGary ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c8fafdaa-1843-4076-b1f3-f9a7ef680d64"^^xsd:anyURI ;
   rdfs:label "The Long Way Home" ;
+.
+:The_Major_Works_of_Coltrane
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d0a4892d-29a9-406f-8c8d-03cbec42dd87"^^xsd:anyURI ;
+  rdfs:label "The Major Works of John Coltrane" ;
 .
 :The_Peel_Session_Album
   rdf:type mo:CD ;
@@ -4390,6 +4650,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/9535e03a-51e0-4919-b508-4391c046c538"^^xsd:anyURI ;
   rdfs:label "The Third Album plus Vampire Can Mating Oven" ;
 .
+:Third_World_Child
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Johnny_Clegg_Savuka ;
+  bibliographica:byArtist MusicGroup:Johnny_Clegg_Savuka ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b515895b-dcbf-43b0-8821-7ac4aa77c923"^^xsd:anyURI ;
+  rdfs:label "Third World Child" ;
+.
 :Thirteen_Sept_Sixth
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4500,6 +4770,16 @@
   bibliographica:byArtist SoloMusicArtist:Billy_Cobham ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/6c895bc5-7781-3cef-829e-0e1449b9c2f1"^^xsd:anyURI ;
   rdfs:label "Total Eclipse" ;
+.
+:Traneing_In
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a366bd57-44e6-30b6-8cbf-20cc5e419565"^^xsd:anyURI ;
+  rdfs:label "Traneing In" ;
 .
 :Trinity_Session
   rdf:type mo:CD ;
@@ -4621,6 +4901,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/8d231aa3-4a4e-306a-a3f9-4421e846bb1a"^^xsd:anyURI ;
   rdfs:label "Under the Red Sky" ;
 .
+:Unearthed
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Johnny_Cash ;
+  bibliographica:byArtist SoloMusicArtist:Johnny_Cash ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/4321855e-8e8e-4786-8506-28e6d69633b9"^^xsd:anyURI ;
+  rdfs:label "Unearthed" ;
+.
 :Unfinished_Business
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4682,6 +4972,16 @@
   bibliographica:byArtist SoloMusicArtist:Tony_Levin ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a485361f-b525-4543-ac0b-61c97421b13d"^^xsd:anyURI ;
   rdfs:label "Upper Extremities" ;
+.
+:Visit_to_Scandanavia
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/7ff57f42-bb62-4979-aaf1-9e1a065384b5"^^xsd:anyURI ;
+  rdfs:label "Visit to Scandinavia" ;
 .
 :Viva_Zapata
   rdf:type mo:CD ;
