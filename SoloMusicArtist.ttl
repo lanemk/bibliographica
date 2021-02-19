@@ -2309,6 +2309,13 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/adf3d1c6-6a7d-446c-b191-28bac7a2ee4a"^^xsd:anyURI ;
   rdfs:label "Kenny Neal" ;
 .
+:Kerri_Anderson
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Kerri_Anderson.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/1d607ccc-076a-457f-84f0-47e827a241ea"^^xsd:anyURI ;
+  rdfs:label "Kerri Anderson" ;
+.
 :Kerry_Getz
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassEH ;

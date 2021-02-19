@@ -575,6 +575,13 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/37c78aeb-d196-42b5-b991-6afb4fc9bc2e"^^xsd:anyURI ;
   rdfs:label "Dead Kennedys" ;
 .
+:Dead_Ringer_Band
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Dead_Ringer_Band.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/b3c45251-adb7-40bb-946f-b238703147bb"^^xsd:anyURI ;
+  rdfs:label "Dead Ringer Band" ;
+.
 :Deep_Forest
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassAD ;

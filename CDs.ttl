@@ -425,6 +425,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/148045ee-7fb7-4978-aefe-bcb162ac2941"^^xsd:anyURI ;
   rdfs:label "Bare" ;
 .
+:Barricades_Brickwalls
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Kasey_Chambers ;
+  bibliographica:byArtist SoloMusicArtist:Kasey_Chambers ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/4d4df1ad-482e-40d8-abee-85bbe425dceb"^^xsd:anyURI ;
+  rdfs:label "Barricades & Brickwalls" ;
+.
 :Basement_Tapes
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -897,6 +907,16 @@
   bibliographica:byArtist MusicGroup:Carlpole ;
   rdfs:label "Carlpole & Buddy Mudbomb" ;
 .
+:Carnival
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Kasey_Chambers ;
+  bibliographica:byArtist SoloMusicArtist:Kasey_Chambers ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/422c79b0-9b1a-435b-b490-e5235e54093f"^^xsd:anyURI ;
+  rdfs:label "Carnival" ;
+.
 :Catie_Curtis_CD
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1025,6 +1045,16 @@
   bibliographica:byArtist MusicGroup:Creedence_Clearwater_Revival ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/bdfa0b7c-10eb-46f2-b5e1-d82bf00c9606"^^xsd:anyURI ;
   rdfs:label "Chooglin'" ;
+.
+:Chunky_Pecan_Pie
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Karl_Denson ;
+  bibliographica:byArtist SoloMusicArtist:Karl_Denson ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e0e5f6b3-59e4-4d9f-b3a6-3ee95bf8dd22"^^xsd:anyURI ;
+  rdfs:label "Chunky Pecan Pie" ;
 .
 :Circles_Stream
   rdf:type mo:CD ;
@@ -1783,6 +1813,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/f06c4dd0-d1f6-4db0-9a9f-257138ddf69f"^^xsd:anyURI ;
   rdfs:label "5,000,000" ;
 .
+:Five_Stories
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Kris_Delmhorst ;
+  bibliographica:byArtist SoloMusicArtist:Kris_Delmhorst ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/2fe3cba1-271a-4686-a9c4-9c53e3a9b782"^^xsd:anyURI ;
+  rdfs:label "Five Stories" ;
+.
 :Forty_Four_Sixty_Six
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1845,6 +1885,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/8070e370-5fe6-48c7-bad5-77c9a013da13"^^xsd:anyURI ;
   rdfs:label "Friend of Mine" ;
 .
+:Friends
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Larry_Carlton ;
+  bibliographica:byArtist SoloMusicArtist:Larry_Carlton ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/34d413e6-678b-3c6d-8205-2f82cc4e1e6f"^^xsd:anyURI ;
+  rdfs:label "Friends" ;
+.
 :From_Here_to_Eternity
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1894,6 +1944,15 @@
   bibliographica:byArtist SoloMusicArtist:Johnny_A ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/384d9a6f-a980-3106-a43c-da280bb177cf"^^xsd:anyURI ;
   rdfs:label "Get Inside" ;
+.
+:Girl_Like_Me
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:KJ_Denhert ;
+  bibliographica:byArtist SoloMusicArtist:KJ_Denhert ;
+  rdfs:label "Girl Like Me" ;
 .
 :Go_Fer_Your_Funk
   rdf:type mo:CD ;
@@ -2123,6 +2182,16 @@
   bibliographica:byArtist SoloMusicArtist:Holladay_Cole ;
   rdfs:label "Holladay Cole" ;
 .
+:Home_Fires
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Dead_Ringer_Band ;
+  bibliographica:byArtist MusicGroup:Dead_Ringer_Band ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c6f6637d-41af-4b5d-b16e-41eb44c3b80e"^^xsd:anyURI ;
+  rdfs:label "Home Fires" ;
+.
 :Home_Ground
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2161,6 +2230,16 @@
   bibliographica:byArtist SoloMusicArtist:Greg_Brown ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/518b738b-a47c-48f9-ad66-b90df93c1c73"^^xsd:anyURI ;
   rdfs:label "Honey in the Lion's Head" ;
+.
+:Hopeville
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Dead_Ringer_Band ;
+  bibliographica:byArtist MusicGroup:Dead_Ringer_Band ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/ca84647c-508c-46d2-b653-043044c7bdfc"^^xsd:anyURI ;
+  rdfs:label "Hopeville" ;
 .
 :Horombe
   rdf:type mo:CD ;
@@ -2489,6 +2568,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/993cbfb4-ae76-3ca0-a7ba-fba4eeb4e1fa"^^xsd:anyURI ;
   rdfs:label "Joy Will Find a Way" ;
 .
+:Juju_Music
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:King_Sunny_Ade ;
+  bibliographica:byArtist SoloMusicArtist:King_Sunny_Ade ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b42705ad-218f-46b0-8483-fdc8917081ad"^^xsd:anyURI ;
+  rdfs:label "Juju Music" ;
+.
 :Key_Lime_Pie
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2528,6 +2617,26 @@
   bibliographica:byArtist MusicGroup:BeauSoleil ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/5311e9f9-fe6d-4d1c-ba21-46d4b8e0bd71"^^xsd:anyURI ;
   rdfs:label "L'Amour ou la Folie" ;
+.
+:Labyrinth
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Kerri_Anderson ;
+  bibliographica:byArtist SoloMusicArtist:Kerri_Anderson ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/53a6438f-7cc4-47dd-8f8a-3990e6cbdbe0"^^xsd:anyURI ;
+  rdfs:label "Labyrinth" ;
+.
+:Larry_Carlton_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Larry_Carlton ;
+  bibliographica:byArtist SoloMusicArtist:Larry_Carlton ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d7ef922e-a465-4951-9488-ef2624c02bee"^^xsd:anyURI ;
+  rdfs:label "Larry Carlton" ;
 .
 :Last_Scream_Missing_Neighbors
   rdf:type mo:CD ;
@@ -2830,6 +2939,16 @@
   bibliographica:byArtist SoloMusicArtist:Ani_DiFranco ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/26e2e2c5-be8f-3588-b845-9379c96b4630"^^xsd:anyURI ;
   rdfs:label "Living In Clip" ;
+.
+:Living_In_Circle
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Dead_Ringer_Band ;
+  bibliographica:byArtist MusicGroup:Dead_Ringer_Band ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/83e0c31d-82a6-4951-8de6-81da797d6fa9"^^xsd:anyURI ;
+  rdfs:label "Living in the Circle" ;
 .
 :Living_Space
   rdf:type mo:CD ;
@@ -3151,6 +3270,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e651a61d-d955-49a4-89d1-37b3a81dc82e"^^xsd:anyURI ;
   rdfs:label "Momofuku" ;
 .
+:Moonpie_Dreams
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Kate_Campbell ;
+  bibliographica:byArtist SoloMusicArtist:Kate_Campbell ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/2873857a-18e3-4aa0-933d-8e9a84fdd83e"^^xsd:anyURI ;
+  rdfs:label "Moonpie Dreams" ;
+.
 :More_Creedence_Gold
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3310,6 +3439,16 @@
   bibliographica:byArtist MusicGroup:Devo ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/080e64d1-a18c-4904-acb5-9843f1b57090"^^xsd:anyURI ;
   rdfs:label "Now It Can Be Told: DEVO at the Palace 12/9/88" ;
+.
+:Odu
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:King_Sunny_Ade ;
+  bibliographica:byArtist SoloMusicArtist:King_Sunny_Ade ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b73ab90d-0ce8-4801-8da3-0a331b9d9392"^^xsd:anyURI ;
+  rdfs:label "Odù" ;
 .
 :Oh_Mercy
   rdf:type mo:CD ;
@@ -3641,6 +3780,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/1ebf8024-e2d9-3186-aa40-1f292a4ffa6c"^^xsd:anyURI ;
   rdfs:label "Reckoning/Revelling" ;
 .
+:Red_Desert_Sky
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Dead_Ringer_Band ;
+  bibliographica:byArtist MusicGroup:Dead_Ringer_Band ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9e251e3a-b04d-4c30-9494-de52b84bed98"^^xsd:anyURI ;
+  rdfs:label "Red Desert Sky" ;
+.
 :Renmin_Park
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3884,6 +4033,16 @@
   bibliographica:byArtist SoloMusicArtist:Adrian_Belew ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c28052f6-e133-3e90-aa7e-ac5727d649d6"^^xsd:anyURI ;
   rdfs:label "Side One" ;
+.
+:Sings_Leonard_Cohen
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Judy_Collins ;
+  bibliographica:byArtist SoloMusicArtist:Judy_Collins ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/1b7148fd-59de-491a-ba74-cfe1d0df8ea8"^^xsd:anyURI ;
+  rdfs:label "Sings Leonard Cohen: Democracy" ;
 .
 :Sinsemilla
   rdf:type mo:CD ;
@@ -4235,6 +4394,16 @@
   bibliographica:byArtist SoloMusicArtist:Barbara_Kessler ;
   rdfs:label "Stranger to This Land" ;
 .
+:Strikes_Twice
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Larry_Carlton ;
+  bibliographica:byArtist SoloMusicArtist:Larry_Carlton ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/763f1a88-fb23-3d94-be12-4439a9eefc0b"^^xsd:anyURI ;
+  rdfs:label "Friends" ;
+.
 :Sun_Ship
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4369,6 +4538,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/5b531c9a-5f29-38cc-b780-f053bf865cfa"^^xsd:anyURI ;
   rdfs:label "Temptation" ;
 .
+:Tender_City
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Joy_Askew ;
+  bibliographica:byArtist SoloMusicArtist:Joy_Askew ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/aa51f2f2-1bb5-4306-8e82-53ab10e522f8"^^xsd:anyURI ;
+  rdfs:label "Tender City" ;
+.
 :The_Art_of_Coltrane
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4408,6 +4587,16 @@
   bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c806639b-f8db-4e52-b96f-acfcc07da536"^^xsd:anyURI ;
   rdfs:label "The Bethlehem Years" ;
+.
+:The_Captain
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Kasey_Chambers ;
+  bibliographica:byArtist SoloMusicArtist:Kasey_Chambers ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/1522382e-f2d4-3298-92f8-e4a04e2f4e3c"^^xsd:anyURI ;
+  rdfs:label "The Captain" ;
 .
 :The_Catherine_Wheel
   rdf:type mo:CD ;
@@ -4560,6 +4749,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b573b6e9-eb93-469e-ba51-bea5c68ce5a8"^^xsd:anyURI ;
   rdfs:label "The Secret Language of Birds" ;
 .
+:The_Sensual_World
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Kate_Bush ;
+  bibliographica:byArtist SoloMusicArtist:Kate_Bush ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d7fe4164-109f-48d2-a35a-53f6502f3f3d"^^xsd:anyURI ;
+  rdfs:label "The Sensual World" ;
+.
 :The_Sky_is_Falling
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4579,6 +4778,16 @@
   bibliographica:byArtist SoloMusicArtist:Ali_Farka_Toure ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a21f909e-d675-4302-a143-2914bf3285a3"^^xsd:anyURI ;
   rdfs:label "The Source" ;
+.
+:The_Winds_Begin_Sing
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Karan_Casey ;
+  bibliographica:byArtist SoloMusicArtist:Karan_Casey ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f7606328-dc46-4cbd-bb85-fa226a8ef235"^^xsd:anyURI ;
+  rdfs:label "The Winds Begin to Sing" ;
 .
 :The_Wishing_Chair
   rdf:type mo:CD ;
@@ -4973,6 +5182,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a485361f-b525-4543-ac0b-61c97421b13d"^^xsd:anyURI ;
   rdfs:label "Upper Extremities" ;
 .
+:Visions_of_Plenty
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Kate_Campbell ;
+  bibliographica:byArtist SoloMusicArtist:Kate_Campbell ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/3405d086-4c6b-44dc-b6ec-6f963ad22683"^^xsd:anyURI ;
+  rdfs:label "Visions of Plenty" ;
+.
 :Visit_to_Scandanavia
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5012,6 +5231,16 @@
   bibliographica:byArtist SoloMusicArtist:Caitlin_Cary ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/4942576d-9f1a-467e-9b13-b710dc77e187"^^xsd:anyURI ;
   rdfs:label "Waltzie" ;
+.
+:Wayward_Angel
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Kasey_Chambers ;
+  bibliographica:byArtist SoloMusicArtist:Kasey_Chambers ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/91731a50-03ca-4cf3-a434-a779734e0c47"^^xsd:anyURI ;
+  rdfs:label "Wayward Angel" ;
 .
 :Whatevers_For_Us
   rdf:type mo:CD ;
