@@ -56,6 +56,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/81a1687c-bc01-4e27-b2b2-4f0f89e60c87"^^xsd:anyURI ;
   rdfs:label "Acoustic Band Alive" ;
 .
+:Acoustic_Motor_Bike
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Luka_Bloom ;
+  bibliographica:byArtist SoloMusicArtist:Luka_Bloom ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/406ec17c-b23e-4cfd-817a-4923a0cf9e43"^^xsd:anyURI ;
+  rdfs:label "The Acoustic Motorbike" ;
+.
 :African_Force
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -265,6 +275,16 @@
   bibliographica:byArtist MusicGroup:Bad_Company ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/df329032-9dc4-39bf-b70e-127c8ae1c2b1"^^xsd:anyURI ;
   rdfs:label "Bad Company ‘Original’ Anthology" ;
+.
+:Anthology_Laurie_Anderson
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Laurie_Anderson ;
+  bibliographica:byArtist SoloMusicArtist:Laurie_Anderson ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/8179bb9b-1a37-4fdc-908c-a7b646cd1eb9"^^xsd:anyURI ;
+  rdfs:label "Anthology" ;
 .
 :Anything_Anytime_Anywhere
   rdf:type mo:CD ;
@@ -497,6 +517,16 @@
   bibliographica:byArtist MusicGroup:Crosby_Nash ;
   rdfs:label "Best of" ;
 .
+:Best_of_Big_Bands_LB
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Les_Brown ;
+  bibliographica:byArtist SoloMusicArtist:Les_Brown ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/000845b1-57e7-4c91-a185-9b7888917984"^^xsd:anyURI ;
+  rdfs:label "The Best of the Big Bands: Sentimental Journey with Les Brown" ;
+.
 :Best_of_David_Bromberg
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -506,6 +536,26 @@
   bibliographica:byArtist SoloMusicArtist:David_Bromberg ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/40c7238d-dd71-4542-863d-59e072225a6f"^^xsd:anyURI ;
   rdfs:label "Out of the Blues: The Best of David Bromberg" ;
+.
+:Best_of_Leonard_Cohen
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Leonard_Cohen ;
+  bibliographica:byArtist SoloMusicArtist:Leonard_Cohen ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/4aaca24f-a467-480d-ba01-51caf489d677"^^xsd:anyURI ;
+  rdfs:label "The Best of Leonard Cohen" ;
+.
+:Between_Mountain_Moon
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Luka_Bloom ;
+  bibliographica:byArtist SoloMusicArtist:Luka_Bloom ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/336a519c-3770-36ef-9de6-267a6be50d65"^^xsd:anyURI ;
+  rdfs:label "Between the Mountain and the Moon" ;
 .
 :Big_Circumstance
   rdf:type mo:CD ;
@@ -526,6 +576,16 @@
   bibliographica:byArtist SoloMusicArtist:Clifton_Chenier ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d2b16d45-69ea-463b-847b-2e18dd48bfab"^^xsd:anyURI ;
   rdfs:label "The Big Squeeze" ;
+.
+:Big_Science
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Laurie_Anderson ;
+  bibliographica:byArtist SoloMusicArtist:Laurie_Anderson ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5b9e6ad2-8f80-4713-bb8b-2e1f977c4808"^^xsd:anyURI ;
+  rdfs:label "Big Science" ;
 .
 :Bigger_Better_Faster_More
   rdf:type mo:CD ;
@@ -1076,6 +1136,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b11870ca-7b14-4505-8164-2ceee7d11dde"^^xsd:anyURI ;
   rdfs:label "Clash on Broadway" ;
 .
+:Cohen_Live
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Leonard_Cohen ;
+  bibliographica:byArtist SoloMusicArtist:Leonard_Cohen ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9f624632-bf08-34f9-b87b-cdd3ceefb496"^^xsd:anyURI ;
+  rdfs:label "Cohen Live: Leonard Cohen in Concert" ;
+.
 :Colores_del_Alma_CD
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1411,6 +1481,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/1352a8a5-2494-3f02-bfa5-496d10e04c52"^^xsd:anyURI ;
   rdfs:label "David Live" ;
 .
+:Dear_Heather
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Leonard_Cohen ;
+  bibliographica:byArtist SoloMusicArtist:Leonard_Cohen ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c15c2b7f-0164-439b-af47-be1c474e4446"^^xsd:anyURI ;
+  rdfs:label "Dear Heather" ;
+.
 :Deep_Forest_CD
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1723,6 +1803,26 @@
   bibliographica:byArtist SoloMusicArtist:Eric_Clapton ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/8c01b7e0-6cff-470e-9ad3-ff73b3c8f411"^^xsd:anyURI ;
   rdfs:label "Eric Clapton" ;
+.
+:Essence_of_Louis_Armstrong
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Louis_Armstrong ;
+  bibliographica:byArtist SoloMusicArtist:Louis_Armstrong ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/ca64f31e-a574-4241-a7fc-abadd12ca93d"^^xsd:anyURI ;
+  rdfs:label "The Essence of Louis Armstrong" ;
+.
+:Essential_Larry_Coryell
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Larry_Coryell ;
+  bibliographica:byArtist SoloMusicArtist:Larry_Coryell ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/0bd4099c-4bae-4e47-b3d0-421d7acb0568"^^xsd:anyURI ;
+  rdfs:label "The Essential Larry Coryell" ;
 .
 :Essential_the_Very_Best_Of
   rdf:type mo:CD ;
@@ -2054,6 +2154,18 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/30183d1e-5e82-4e4e-aa21-24acb295d0d3"^^xsd:anyURI ;
   rdfs:label "Gravity (bonus disc)" ;
 .
+:Great_Summit
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Louis_Armstrong ;
+  dcterms:creator SoloMusicArtist:Duke_Ellington ;
+  bibliographica:byArtist SoloMusicArtist:Louis_Armstrong ;
+  bibliographica:byArtist SoloMusicArtist:Duke_Ellington ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c8b5d81f-f4f7-35ee-b183-c76db24dd7e2"^^xsd:anyURI ;
+  rdfs:label "The Great Summit: The Master Takes" ;
+.
 :Greatest_Hits_Vol_1
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2201,6 +2313,16 @@
   bibliographica:byArtist MusicGroup:Battlefield_Band ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/92b39563-db48-43f9-aea6-4202f23c392a"^^xsd:anyURI ;
   rdfs:label "Home Ground" ;
+.
+:Home_of_the_Brave
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Laurie_Anderson ;
+  bibliographica:byArtist SoloMusicArtist:Laurie_Anderson ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/4458273b-9450-45fe-9ada-fa9e49e43b2b"^^xsd:anyURI ;
+  rdfs:label "Home of the Brave" ;
 .
 :Homenaje
   rdf:type mo:CD ;
@@ -2578,6 +2700,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b42705ad-218f-46b0-8483-fdc8917081ad"^^xsd:anyURI ;
   rdfs:label "Juju Music" ;
 .
+:Keeper_of_Flame
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Luka_Bloom ;
+  bibliographica:byArtist SoloMusicArtist:Luka_Bloom ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/bb8d84f1-f9e5-41cf-a24a-2208927eef47"^^xsd:anyURI ;
+  rdfs:label "Keeper of the Flame" ;
+.
 :Key_Lime_Pie
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2880,6 +3012,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a481f663-c7e1-36ee-bf8a-f235971587fe"^^xsd:anyURI ;
   rdfs:label "Live" ;
 .
+:Live_in_New_York
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Laurie_Anderson ;
+  bibliographica:byArtist SoloMusicArtist:Laurie_Anderson ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/fd77117d-b18d-44ae-b677-e2d4bd1b1844"^^xsd:anyURI ;
+  rdfs:label "Live at Town Hall New York City September 19-20, 2001" ;
+.
 :Live_in_Paris
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3109,6 +3251,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/3ee15c41-77b1-32bd-9513-d6035444a34e"^^xsd:anyURI ;
   rdfs:label "MTV Unplugged" ;
 .
+:Maire
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Maire_Brennan ;
+  bibliographica:byArtist SoloMusicArtist:Maire_Brennan ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/4b0978a6-d511-339d-8ffe-e62deda4eb48"^^xsd:anyURI ;
+  rdfs:label "Máire" ;
+.
 :Making_Movies
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3250,6 +3402,26 @@
   rdfs:comment "Not sure what release this is; could be Anger Management." ;
   rdfs:label "Misc" ;
 .
+:Mister_Heartbreak
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Laurie_Anderson ;
+  bibliographica:byArtist SoloMusicArtist:Laurie_Anderson ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/42307ee3-4f7c-430a-bb10-e025d8cfa255"^^xsd:anyURI ;
+  rdfs:label "Mister Heartbreak" ;
+.
+:Misty_Eyed_Adventures
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Maire_Brennan ;
+  bibliographica:byArtist SoloMusicArtist:Maire_Brennan ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e85bf538-9976-4d2e-9238-c32352a1a4d6"^^xsd:anyURI ;
+  rdfs:label "Misty Eyed Adventures" ;
+.
 :Modern_Times
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3390,6 +3562,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e182adf6-e2a8-444f-9b1f-43bec130ba82"^^xsd:anyURI ;
   rdfs:label "Neath Your Covers, Part 1" ;
 .
+:New_Skin
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Leonard_Cohen ;
+  bibliographica:byArtist SoloMusicArtist:Leonard_Cohen ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e26274ca-69a0-491d-b742-2c999d06dbc2"^^xsd:anyURI ;
+  rdfs:label "New Skin for the Old Ceremony" ;
+.
 :New_Roman_Times
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3459,6 +3641,16 @@
   bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/36675813-6c3c-33fa-8eaf-b1cd66d4f006"^^xsd:anyURI ;
   rdfs:label "Oh Mercy" ;
+.
+:Oh_Moscow
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Lindsay_Cooper ;
+  bibliographica:byArtist SoloMusicArtist:Lindsay_Cooper ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e4f20302-1951-42ab-bacd-fd3b6f4cc6f1"^^xsd:anyURI ;
+  rdfs:label "Oh Moscow" ;
 .
 :Ole_Coltrane
   rdf:type mo:CD ;
@@ -3850,6 +4042,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/b42e2f6e-587b-37f7-b750-362ec21a1e52"^^xsd:anyURI ;
   rdfs:label "River Under The Road" ;
 .
+:Riverside
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Luka_Bloom ;
+  bibliographica:byArtist SoloMusicArtist:Luka_Bloom ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/7da06982-bbeb-4033-a6b6-a7161f19c518"^^xsd:anyURI ;
+  rdfs:label "Riverside" ;
+.
 :Root_of_Steely_Dan
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4204,6 +4406,16 @@
   bibliographica:musicbraiSoloMusicArtistnzURI "https://musicbrainz.org/release/e981afd2-c54b-4023-8c37-1b78ac69bfeb"^^xsd:anyURI ;
   rdfs:label "Son of the Wind" ;
 .
+:Songs_From_a_Room
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Leonard_Cohen ;
+  bibliographica:byArtist SoloMusicArtist:Leonard_Cohen ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/ffce248e-e94e-40c5-b2d8-ad15069bbc52"^^xsd:anyURI ;
+  rdfs:label "Songs From a Room" ;
+.
 :Songs_of_Innocence_Experience
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4384,6 +4596,16 @@
   bibliographica:byArtist SoloMusicArtist:Jill_Cohn ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/02fcdf79-3c07-4282-b73e-47d013a87812"^^xsd:anyURI ;
   rdfs:label "Stories From the Bluebus" ;
+.
+:Strange_Angels
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Laurie_Anderson ;
+  bibliographica:byArtist SoloMusicArtist:Laurie_Anderson ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/367a065c-44d2-405c-8a00-2f0d97c707fe"^^xsd:anyURI ;
+  rdfs:label "Strange Angels" ;
 .
 :Stranger_to_This_Land
   rdf:type mo:CD ;
@@ -5029,6 +5251,16 @@
   bibliographica:byArtist SoloMusicArtist:Bleecker_Street ;
   rdfs:label "Tumblin' Down" ;
 .
+:Turf
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Luka_Bloom ;
+  bibliographica:byArtist SoloMusicArtist:Luka_Bloom ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/ab11f948-32bd-373b-a397-8d966ca16928"^^xsd:anyURI ;
+  rdfs:label "Turf" ;
+.
 :Turtles_Dream
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5182,6 +5414,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a485361f-b525-4543-ac0b-61c97421b13d"^^xsd:anyURI ;
   rdfs:label "Upper Extremities" ;
 .
+:Victims
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Lucky_Dube ;
+  bibliographica:byArtist SoloMusicArtist:Lucky_Dube ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/eb26c05b-519d-478b-9281-021969b1bdff"^^xsd:anyURI ;
+  rdfs:label "Victims" ;
+.
 :Visions_of_Plenty
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5292,6 +5534,16 @@
   bibliographica:byArtist SoloMusicArtist:Hank_Jones ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d20eecae-2fd1-45e9-895b-8a8089a02461"^^xsd:anyURI ;
   rdfs:label "When There is Love" ;
+.
+:Where_It_Goes
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Lori_Carson ;
+  bibliographica:byArtist SoloMusicArtist:Lori_Carson ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f2ed8400-4a81-4585-a275-e2a50f38fa85"^^xsd:anyURI ;
+  rdfs:label "Where It Goes" ;
 .
 :Which_Way_to_Here
   rdf:type mo:CD ;
@@ -5462,6 +5714,16 @@
   bibliographica:byArtist SoloMusicArtist:Adrian_Belew ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/38a32ba3-77e1-35c1-83aa-828b7913fd1a"^^xsd:anyURI ;
   rdfs:label "Young Lions" ;
+.
+:Youre_The_Guy
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Laurie_Anderson ;
+  bibliographica:byArtist SoloMusicArtist:Laurie_Anderson ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a44d574d-3422-4863-ba53-3a52aad5f550"^^xsd:anyURI ;
+  rdfs:label "You’re the Guy I Want to Share My Money With" ;
 .
 :Youve_Never_Seen_Anything
   rdf:type mo:CD ;

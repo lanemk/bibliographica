@@ -2502,6 +2502,13 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/30792486-de7c-458a-873c-ca6931540a70"^^xsd:anyURI ;
   rdfs:label "Linda Thompson" ;
 .
+:Lindsay_Cooper
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Lindsay_Cooper.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/4675dce4-32cd-4e5b-8270-676e2b9860c9"^^xsd:anyURI ;
+  rdfs:label "Lindsay Cooper" ;
+.
 :Lisa_Germano
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassEH ;
