@@ -356,6 +356,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c863ec7a-8930-4e1e-8209-3293333dc83e"^^xsd:anyURI ;
   rdfs:label "At Last" ;
 .
+:At_Newport
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miles_Davis ;
+  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9c5f68d4-0521-4edc-b62d-676d078477ee"^^xsd:anyURI ;
+  rdfs:label "At Newport 1958" ;
+.
 :Attainable_Love
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -394,6 +404,16 @@
   bibliographica:byArtist SoloMusicArtist:Angelique_Kidjo ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/85dd67a5-2c3d-41bf-8f50-734ec1601eb7"^^xsd:anyURI ;
   rdfs:label "Ayé" ;
+.
+:Babes_in_the_Wood
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Mary_Black ;
+  bibliographica:byArtist SoloMusicArtist:Mary_Black ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/02875b9d-ac3d-324c-b185-f9e9c429a76a"^^xsd:anyURI ;
+  rdfs:label "Babes in the Wood" ;
 .
 :Bachelor_No_2
   rdf:type mo:CD ;
@@ -547,6 +567,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/4aaca24f-a467-480d-ba01-51caf489d677"^^xsd:anyURI ;
   rdfs:label "The Best of Leonard Cohen" ;
 .
+:Best_of_Mary_Black
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Mary_Black ;
+  bibliographica:byArtist SoloMusicArtist:Mary_Black ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/cbe190bc-8048-45cd-9b6d-8a0656c71a79"^^xsd:anyURI ;
+  rdfs:label "The Best of Mary Black 1991-2001" ;
+.
 :Between_Mountain_Moon
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -566,6 +596,16 @@
   bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/a6949ea3-e29c-3fa3-a21a-2c87b38c4e72"^^xsd:anyURI ;
   rdfs:label "Big Circumstance" ;
+.
+:Big_Fun
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miles_Davis ;
+  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a6549c4e-6b9a-4bfa-8786-15705082a136"^^xsd:anyURI ;
+  rdfs:label "Big Fun" ;
 .
 :Big_Squeeze
   rdf:type mo:CD ;
@@ -606,6 +646,36 @@
   bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/b5cbeb61-6e9c-38a8-9cb7-caf456782361"^^xsd:anyURI ;
   rdfs:label "Biograph" ;
+.
+:Birth_of_the_Cool
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miles_Davis ;
+  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5dd71bc5-612c-46d4-ac9c-d757268750a9"^^xsd:anyURI ;
+  rdfs:label "Birth of the Cool" ;
+.
+:Bitches_Brew
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miles_Davis ;
+  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d1759292-f663-4366-8317-9dcd821babfc"^^xsd:anyURI ;
+  rdfs:label "Bitches Brew" ;
+.
+:Black_Beauty
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miles_Davis ;
+  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a46128d0-d0a5-4e27-9eef-2379e136904c"^^xsd:anyURI ;
+  rdfs:label "Black Beauty" ;
 .
 :Black_Pearls
   rdf:type mo:CD ;
@@ -687,6 +757,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/55ad48dd-7b2f-4d98-83ad-f90b1140e79f"^^xsd:anyURI ;
   rdfs:label "Blue Boulevard" ;
 .
+:Blue_Haze
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miles_Davis ;
+  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a46128d0-d0a5-4e27-9eef-2379e136904c"^^xsd:anyURI ;
+  rdfs:label "Blue Haze" ;
+.
 :Blue_River
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -728,6 +808,16 @@
   bibliographica:byArtist MusicGroup:Blues_Traveler ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/6b28ecf0-94e6-48bb-aa2a-5ede325b675b"^^xsd:anyURI ;
   rdfs:label "Blues Traveler" ;
+.
+:Blurring_Edges
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Meredith_Brooks ;
+  bibliographica:byArtist SoloMusicArtist:Meredith_Brooks ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/7ab34777-3a00-39c6-a43e-4b997916bb3c"^^xsd:anyURI ;
+  rdfs:label "Blurring the Edges" ;
 .
 :Bootleg_Series_Vol_1_3
   rdf:type mo:CD ;
@@ -948,6 +1038,15 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/28858094-3ec6-3156-abbb-da11691ee6f0"^^xsd:anyURI ;
   rdfs:label "Cannonball & Coltrane" ;
 .
+:Capital_Years
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miles_Davis ;
+  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
+  rdfs:label "Capital Years" ;
+.
 :Carried_to_Dust
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1116,6 +1215,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e0e5f6b3-59e4-4d9f-b3a6-3ee95bf8dd22"^^xsd:anyURI ;
   rdfs:label "Chunky Pecan Pie" ;
 .
+:Circles_Round
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miles_Davis ;
+  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/61ddef65-836b-3136-9ae6-53d9c9e48ad8"^^xsd:anyURI ;
+  rdfs:label "Circle in the Round" ;
+.
 :Circles_Stream
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1135,6 +1244,16 @@
   bibliographica:byArtist MusicGroup:Clash ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b11870ca-7b14-4505-8164-2ceee7d11dde"^^xsd:anyURI ;
   rdfs:label "Clash on Broadway" ;
+.
+:Classical_Soul
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Marc_Antoine ;
+  bibliographica:byArtist SoloMusicArtist:Marc_Antoine ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/63b9a1a4-f72d-49b7-8696-8d3549763bdf"^^xsd:anyURI ;
+  rdfs:label "Classical Soul" ;
 .
 :Cohen_Live
   rdf:type mo:CD ;
@@ -1883,6 +2002,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a676432d-4adb-4caf-bc18-80c1f51d6662"^^xsd:anyURI ;
   rdfs:label "A Fifth of Funk, Vol. 5" ;
 .
+:Fifty_eight_Sessions
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miles_Davis ;
+  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a745856f-23b2-3934-a8a9-d706ed69938f"^^xsd:anyURI ;
+  rdfs:label "'58 Sessions" ;
+.
 :Fingerlings_Three
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2244,6 +2373,16 @@
   bibliographica:byArtist SoloMusicArtist:George_Clinton ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e9a5e3b0-69b2-4584-a29b-b383286d9f1a"^^xsd:anyURI ;
   rdfs:label "Hey Man... Smell My Finger" ;
+.
+:Hidden_Harvest
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Mary_Black ;
+  bibliographica:byArtist SoloMusicArtist:Mary_Black ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/2d5bddef-479e-42f3-87a3-dca74ed987b7"^^xsd:anyURI ;
+  rdfs:label "Hidden Harvest" ;
 .
 :High_Winds_White_Sky
   rdf:type mo:CD ;
@@ -2800,6 +2939,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e04e5f1c-e502-47b9-9f5c-04dc26ce922d"^^xsd:anyURI ;
   rdfs:label "Lay It Down" ;
 .
+:Le_Hoogie_Boogie
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Michael_Doucet ;
+  bibliographica:byArtist SoloMusicArtist:Michael_Doucet ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/47b63911-581a-4948-a181-2a8b7799e129"^^xsd:anyURI ;
+  rdfs:label "Le Hoogie Boogie: Louisiana French Music for Children" ;
+.
 :Let_It_Be
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3352,6 +3501,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b38cf694-5447-42a7-a6ad-c434bdc0cbc8"^^xsd:anyURI ;
   rdfs:label "Mexican Moon" ;
 .
+:Michael_Doucet_Cajun_Brew
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Michael_Doucet ;
+  bibliographica:byArtist SoloMusicArtist:Michael_Doucet ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/594585f1-546a-4425-8461-6637d1f2efc2"^^xsd:anyURI ;
+  rdfs:label "Michael Doucet & Cajun Brew" ;
+.
 :Middle_Passage
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3621,6 +3780,16 @@
   bibliographica:byArtist MusicGroup:Devo ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/080e64d1-a18c-4904-acb5-9843f1b57090"^^xsd:anyURI ;
   rdfs:label "Now It Can Be Told: DEVO at the Palace 12/9/88" ;
+.
+:Now_You_See_Now_You_Dont
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Michael_Brecker ;
+  bibliographica:byArtist SoloMusicArtist:Michael_Brecker ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/8084b1bb-0ac7-4396-b3f7-21e7db13b022"^^xsd:anyURI ;
+  rdfs:label "Now You See It... Now You Don't" ;
 .
 :Odu
   rdf:type mo:CD ;
@@ -4487,6 +4656,16 @@
   bibliographica:byArtist MusicGroup:Catherine_Wheel ;
   rdfs:label "Sparks Are Gonna Fly (promo)" ;
 .
+:Speaking_With_Angel
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Mary_Black ;
+  bibliographica:byArtist SoloMusicArtist:Mary_Black ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/62147f38-3df7-3624-9cb3-6592761b1e22"^^xsd:anyURI ;
+  rdfs:label "Speaking With the Angel" ;
+.
 :Speechless
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4679,6 +4858,16 @@
   bibliographica:byArtist SoloMusicArtist:Annie_Gallup ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/445149b9-d4ba-4522-825e-035cd0bc2e4f"^^xsd:anyURI ;
   rdfs:label "Swerve" ;
+.
+:Tales_From_the_Hudson
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Michael_Brecker ;
+  bibliographica:byArtist SoloMusicArtist:Michael_Brecker ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/7a3d2ee5-e885-458e-88ca-f434c127ca9c"^^xsd:anyURI ;
+  rdfs:label "Tales From the Hudson" ;
 .
 :Talking_Timbuktu
   rdf:type mo:CD ;
@@ -4991,6 +5180,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/693748be-7c18-39c3-af2e-2e62092090cf"^^xsd:anyURI ;
   rdfs:label "The Sky Is Falling and I Want My Mommy" ;
 .
+:The_Spirit_Room
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Michelle_Branch ;
+  bibliographica:byArtist SoloMusicArtist:Michelle_Branch ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9f54e9d9-529a-3652-8805-3b5e84debd8d"^^xsd:anyURI ;
+  rdfs:label "The Spirit Room" ;
+.
 :The_Source
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5211,6 +5410,16 @@
   bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a366bd57-44e6-30b6-8cbf-20cc5e419565"^^xsd:anyURI ;
   rdfs:label "Traneing In" ;
+.
+:Tribute_to_Jack_Johnson
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miles_Davis ;
+  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9f14ff98-128e-3dff-a603-0555d66f9fca"^^xsd:anyURI ;
+  rdfs:label "A Tribute to Jack Johnson" ;
 .
 :Trinity_Session
   rdf:type mo:CD ;
