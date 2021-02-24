@@ -3357,6 +3357,13 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/7a305f29-539a-456e-93b7-61b0e2ba3ef2"^^xsd:anyURI ;
   rdfs:label "Queen Latifah" ;
 .
+:Quincy_Jones
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Quincy_Jones.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/5803c81e-739a-4057-9a5c-cf84e55db630"^^xsd:anyURI ;
+  rdfs:label "Quincy Jones" ;
+.
 :Rachel_Portman
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassMP ;

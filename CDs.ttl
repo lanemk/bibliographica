@@ -356,16 +356,6 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c863ec7a-8930-4e1e-8209-3293333dc83e"^^xsd:anyURI ;
   rdfs:label "At Last" ;
 .
-:At_Newport
-  rdf:type mo:CD ;
-  rdf:type mo:Record ;
-  rdf:type mo:Release ;
-  rdf:type schema:MusicAlbum ;
-  dcterms:creator SoloMusicArtist:Miles_Davis ;
-  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
-  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9c5f68d4-0521-4edc-b62d-676d078477ee"^^xsd:anyURI ;
-  rdfs:label "At Newport 1958" ;
-.
 :Attainable_Love
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1265,6 +1255,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/9f624632-bf08-34f9-b87b-cdd3ceefb496"^^xsd:anyURI ;
   rdfs:label "Cohen Live: Leonard Cohen in Concert" ;
 .
+:Collectors_Items
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miles_Davis ;
+  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a6bd540a-db53-4919-b0e0-a812eb72d00f"^^xsd:anyURI ;
+  rdfs:label "Collectors’ Items" ;
+.
 :Colores_del_Alma_CD
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1324,6 +1324,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e7f8bf39-7b90-427d-bc39-fe8dba26e39d"^^xsd:anyURI ;
   rdfs:label "Coltrane's Sound" ;
 .
+:Columbia_Years
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miles_Davis ;
+  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/31c639d3-ff84-4fdc-baf7-93d1c71e9320"^^xsd:anyURI ;
+  rdfs:label "The Columbia Years 1955–1985" ;
+.
 :Combat_Rock
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1342,6 +1352,46 @@
   dcterms:creator SoloMusicArtist:John_Coltrane ;
   bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
   rdfs:label "Compilation of 4 Discs" ;
+.
+:Complete_Birth_Of_Cool
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miles_Davis ;
+  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a089bc8b-1890-4270-b75b-0acaf6493e93"^^xsd:anyURI ;
+  rdfs:label "The Complete Birth of the Cool" ;
+.
+:Complete_Columbia_Recordings
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miles_Davis ;
+  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/20106bf8-d701-49e6-8c80-84ade7eadd2d"^^xsd:anyURI ;
+  rdfs:label "The Complete Columbia Studio Recordings 1965-1968" ;
+.
+:Complete_Concert_1964
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miles_Davis ;
+  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9f53ce59-1396-4c1f-b31b-52ed735bcece"^^xsd:anyURI ;
+  rdfs:label "The Complete Concert 1964: My Funny Valentine + Four & More" ;
+.
+:Complete_Live_Plugged_Nickel
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miles_Davis ;
+  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/12df4b65-a928-4424-ae95-1df40303a774"^^xsd:anyURI ;
+  rdfs:label "The Complete Live at The Plugged Nickel 1965" ;
 .
 :Complete_Savoy_Sessions
   rdf:type mo:CD ;
@@ -1374,6 +1424,26 @@
   bibliographica:byArtist MusicGroup:Concrete_Blonde ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/06be49dd-3b5c-480e-ba15-8040ec01acd2"^^xsd:anyURI ;
   rdfs:label "Concrete Blonde y Los Illegals" ;
+.
+:Cookin_at_Plugged_Nickel
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miles_Davis ;
+  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/01152ef7-52cd-44f2-819a-839722f09636"^^xsd:anyURI ;
+  rdfs:label "Cookin' At The Plugged Nickel" ;
+.
+:Cookin_with_Miles_Davis
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miles_Davis ;
+  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/82633f2f-cba1-40e8-b5e9-a3bfde53922e"^^xsd:anyURI ;
+  rdfs:label "Cookin' with the Miles Davis Quintet" ;
 .
 :Cool
   rdf:type mo:CD ;
@@ -1710,6 +1780,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/3609ac3b-8fce-426c-a08a-b04ee69c3cbd"^^xsd:anyURI ;
   rdfs:label "Die Grossen Tangos" ;
 .
+:Dig
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miles_Davis ;
+  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/89386d3e-6494-4947-bf99-6039d6bb5850"^^xsd:anyURI ;
+  rdfs:label "Dig (Featuring Sonny Rollins)" ;
+.
 :Diga
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1739,6 +1819,16 @@
   bibliographica:byArtist MusicGroup:Dire_Straits ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/2b3e222e-90c4-304e-a90a-1e07eac842df"^^xsd:anyURI ;
   rdfs:label "Dire Straits" ;
+.
+:Directions
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miles_Davis ;
+  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/ec6cb906-ffc1-410d-8fdf-78e0f6f54b57"^^xsd:anyURI ;
+  rdfs:label "Directions" ;
 .
 :Disappear_Fear_CD
   rdf:type mo:CD ;
@@ -1779,6 +1869,16 @@
   bibliographica:byArtist SoloMusicArtist:Ginger_Baker ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/288ebe0d-ec8c-47fd-971b-448fbb32c8ec"^^xsd:anyURI ;
   rdfs:label "Do What You Like" ;
+.
+:Doo_Bop
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miles_Davis ;
+  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/dc311d36-6df0-4efc-8568-a50b727a281c"^^xsd:anyURI ;
+  rdfs:label "Doo-Bop" ;
 .
 :Double_Barrel_Blues
   rdf:type mo:CD ;
@@ -2012,6 +2112,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a745856f-23b2-3934-a8a9-d706ed69938f"^^xsd:anyURI ;
   rdfs:label "'58 Sessions" ;
 .
+:Filles_de_Kilamanjaro
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miles_Davis ;
+  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/fa5cc77b-f8fa-32da-8b0f-4d4eab9cbb10"^^xsd:anyURI ;
+  rdfs:label "Filles De Kilimanjaro" ;
+.
 :Fingerlings_Three
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2102,6 +2212,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/038d3b87-705d-3a2c-8f4a-e8cee042b9ea"^^xsd:anyURI ;
   rdfs:label "Fresh Fruit for Rotting Vegetables" ;
 .
+:Friday_Night_Blackhawk
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miles_Davis ;
+  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/59709a91-559a-44fb-9cd4-89dfd441b281"^^xsd:anyURI ;
+  rdfs:label "In Person: Friday Night at the Blackhawk, San Francisco, Vol 1" ;
+.
 :Friend_of_Mine
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2173,6 +2293,16 @@
   bibliographica:byArtist SoloMusicArtist:Johnny_A ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/384d9a6f-a980-3106-a43c-da280bb177cf"^^xsd:anyURI ;
   rdfs:label "Get Inside" ;
+.
+:Get_Up_With_It
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miles_Davis ;
+  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b8a32bb4-9858-3dfb-b0a2-0a67e05ee80a"^^xsd:anyURI ;
+  rdfs:label "Get Up With It" ;
 .
 :Girl_Like_Me
   rdf:type mo:CD ;
@@ -2869,6 +2999,25 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/09452801-1dbd-4788-8fe6-9da91b62164f"^^xsd:anyURI ;
   rdfs:label "Kill Eugene" ;
 .
+:Kind_of_Blue
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miles_Davis ;
+  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f8f79f3a-3a63-3286-a43d-0135c1a59fea"^^xsd:anyURI ;
+  rdfs:label "Kind of Blue" ;
+.
+:King_of_Trumpets
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miles_Davis ;
+  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
+  rdfs:label "King of Trumpets" ;
+.
 :Kiss_of_Fire
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3021,6 +3170,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/af443909-b1fb-3be9-bd9f-452821fbb26d"^^xsd:anyURI ;
   rdfs:label "Live Adventures" ;
 .
+:Live_Around_World
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miles_Davis ;
+  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c22b1200-e792-4126-b6a9-5b48ac326ee6"^^xsd:anyURI ;
+  rdfs:label "Live Around the World" ;
+.
 :Live_Art
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3060,6 +3219,36 @@
   bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/ba40c4fd-d39f-4d6c-8c24-6bb28c24dfd4"^^xsd:anyURI ;
   rdfs:label "Live at Birdland" ;
+.
+:Live_at_Carnegie_Hall
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miles_Davis ;
+  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/53851af0-de37-4bd8-9e2a-e8e664de4003"^^xsd:anyURI ;
+  rdfs:label "Live Miles: More Music From the Legendary Carnegie Hall Concert" ;
+.
+:Live_at_Fillmore_East
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miles_Davis ;
+  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/6b6ec452-f4c0-4f3d-8191-9d1494af6fa4"^^xsd:anyURI ;
+  rdfs:label "Live at the Fillmore East (March 7, 1970): It's About That Time" ;
+.
+:Live_at_Newport
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miles_Davis ;
+  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9c5f68d4-0521-4edc-b62d-676d078477ee"^^xsd:anyURI ;
+  rdfs:label "Live at Newport 1958" ;
 .
 :Live_at_Village_Vanguard_Again
   rdf:type mo:CD ;
@@ -3460,6 +3649,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/246a9545-4a25-3204-a817-e52f9e5ae730"^^xsd:anyURI ;
   rdfs:label "The Man Who Sold the World" ;
 .
+:Man_with_Horn
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miles_Davis ;
+  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/3303d8d5-1083-3437-8896-c71f5a7dd4c0"^^xsd:anyURI ;
+  rdfs:label "The Man with the Horn" ;
+.
 :Masked_and_Anonymous
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3528,8 +3727,110 @@
   rdf:type schema:MusicAlbum ;
   dcterms:creator SoloMusicArtist:Ana_Egge ;
   bibliographica:byArtist SoloMusicArtist:Ana_Egge ;
-  rdfs:comment "Item not listed in MusicBrainz." ;
   rdfs:label "Mile Marker" ;
+.
+:Miles_Davis_Quintet
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miles_Davis ;
+  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
+  rdfs:label "The New Miles Davis Quintet" ;
+.
+:Miles_and_Coltrane
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miles_Davis ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
+  bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c9b31691-3d31-313e-b114-9a0a8ca19e6c"^^xsd:anyURI ;
+  rdfs:label "Miles & Coltrane" ;
+.
+:Miles_in_Berlin
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miles_Davis ;
+  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5a3c7f11-9877-4d33-9c07-d0ecfc942ed4"^^xsd:anyURI ;
+  rdfs:label "Miles in Berlin" ;
+.
+:Miles_in_Europe
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miles_Davis ;
+  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5c9ae7c2-58b4-48a4-80fc-cbb6731f35df"^^xsd:anyURI ;
+  rdfs:label "Miles Davis in Europe" ;
+.
+:Miles_in_Stockholm
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miles_Davis ;
+  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/2ada97ef-b91f-44d6-805b-9fddecda0813"^^xsd:anyURI ;
+  rdfs:label "Miles Davis in Stockholm 1960" ;
+.
+:Miles_in_the_Sky
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miles_Davis ;
+  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/2b24087e-3695-49de-9815-2a94d105da50"^^xsd:anyURI ;
+  rdfs:label "Miles in the Sky" ;
+.
+:Miles_in_Tokyo
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miles_Davis ;
+  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/4fd557ad-9e26-456b-a5c1-aec0104440e6"^^xsd:anyURI ;
+  rdfs:label "Miles in Tokyo" ;
+.
+:Miles_Miles_Miles
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miles_Davis ;
+  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/3b790eec-a7b4-43a1-86eb-56fc1f894aff"^^xsd:anyURI ;
+  rdfs:label "Miles! Miles! Miles! : Live in Japan" ;
+.
+:Miles_Quincy_at_Montreux
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miles_Davis ;
+  dcterms:creator SoloMusicArtist:Quincy_Jones ;
+  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
+  bibliographica:byArtist SoloMusicArtist:Quincy_Jones ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d5811f0e-4f7e-4498-90fe-cd82fcde7baf"^^xsd:anyURI ;
+  rdfs:label "Miles & Quincy Live at Montreux" ;
+.
+:Milestones
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miles_Davis ;
+  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/4bc372d6-e214-4180-8428-b43e9fa479dd"^^xsd:anyURI ;
+  rdfs:label "Milestones" ;
 .
 :Milk_of_The_moon
   rdf:type mo:CD ;
@@ -3831,6 +4132,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/aad5ea8e-93d0-3010-8b01-80a14a0ef393"^^xsd:anyURI ;
   rdfs:label "Olé Coltrane" ;
 .
+:On_the_Corner
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miles_Davis ;
+  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/33d97eb3-0cdc-3342-950b-c200b736c048"^^xsd:anyURI ;
+  rdfs:label "On the Corner" ;
+.
 :On_The_Night
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3981,6 +4292,26 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/bcdd7fc9-7c6c-42f2-9d3e-bb99e382c291"^^xsd:anyURI ;
   rdfs:label "Pale Sun, Crescent Moon" ;
 .
+:Pangaea
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miles_Davis ;
+  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/8e3d9f08-8b6d-4640-8a9f-5cd62c6b5915"^^xsd:anyURI ;
+  rdfs:label "Pangaea" ;
+.
+:Panthalassa
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miles_Davis ;
+  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/1a14daf0-a529-440a-ab0e-c85faf790fe6"^^xsd:anyURI ;
+  rdfs:label "Panthalassa: The Music of Miles Davis 1969–1974" ;
+.
 :Para_Bailar_Casino
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4090,6 +4421,16 @@
   bibliographica:byArtist MusicGroup:Devo ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d4bfdd53-f9ac-35d8-b30d-f750b4420af4"^^xsd:anyURI ;
   rdfs:label "Q: Are We Not Men? A: We Are Devo!" ;
+.
+:Quiet_Nights
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miles_Davis ;
+  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c49d27d3-f464-4b27-9e74-a9a408b5926b"^^xsd:anyURI ;
+  rdfs:label "Quiet Nights" ;
 .
 :Rainbow_Concert
   rdf:type mo:CD ;
@@ -4302,6 +4643,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a42ad822-7bdc-4272-93fa-2e04e9f09ce9"^^xsd:anyURI ;
   rdfs:label "Sandinista!" ;
 .
+:Saturday_Night_Blackhawk
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miles_Davis ;
+  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b0083b56-90aa-4da0-bb07-519b7c85332b"^^xsd:anyURI ;
+  rdfs:label "In Person: Saturday Night at the Blackhawk, San Francisco, Vol 2" ;
+.
 :Scary_Monsters
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4321,6 +4672,15 @@
   bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/6163aa70-d97f-34e5-a5bf-54b7d85a7ea0"^^xsd:anyURI ;
   rdfs:label "Self Portrait" ;
+.
+:Seven_Steps
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miles_Davis ;
+  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
+  rdfs:label "Seven Steps Boxset CD 6" ;
 .
 :Seven_Year_Surrender
   rdf:type mo:CD ;
@@ -4444,6 +4804,16 @@
   bibliographica:byArtist SoloMusicArtist:Jeff_Buckley ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/0e87c249-2b8a-442e-b044-9d2b4bfb7eb1"^^xsd:anyURI ;
   rdfs:label "Sketches for My Sweetheart the Drunk" ;
+.
+:Sketches_of_Spain
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miles_Davis ;
+  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/8709a882-a7c4-4c77-9edf-744521ec4ee2"^^xsd:anyURI ;
+  rdfs:label "Sketches of Spain" ;
 .
 :Slant_Six_Mind
   rdf:type mo:CD ;
@@ -4606,6 +4976,16 @@
   bibliographica:byArtist SoloMusicArtist:David_Grisman ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/839e4f2e-a089-4dc4-9375-36c2b8ffd249"^^xsd:anyURI ;
   rdfs:label "Songs of our Fathers" ;
+.
+:Sorcerer
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miles_Davis ;
+  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/30562d07-82e7-4cec-a16f-b407550210ff"^^xsd:anyURI ;
+  rdfs:label "Sorcerer" ;
 .
 :Soultrane
   rdf:type mo:CD ;
@@ -5692,6 +6072,16 @@
   bibliographica:byArtist SoloMusicArtist:Kasey_Chambers ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/91731a50-03ca-4cf3-a434-a779734e0c47"^^xsd:anyURI ;
   rdfs:label "Wayward Angel" ;
+.
+:We_Want_Miles
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miles_Davis ;
+  bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e87ad418-0e38-460d-b971-9f31b221d327"^^xsd:anyURI ;
+  rdfs:label "We Want Miles" ;
 .
 :Whatevers_For_Us
   rdf:type mo:CD ;
