@@ -36,6 +36,16 @@
   bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
   rdfs:label "A Love Supreme (Live in Antibes France) 1965)" ;
 .
+:Abbatoir_Blues
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Nick_Cave_Bad_Seeds ;
+  bibliographica:byArtist MusicGroup:Nick_Cave_Bad_Seeds ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/206c6806-2254-3565-a0c4-6731700d4a12"^^xsd:anyURI ;
+  rdfs:label "Abattoir Blues / The Lyre of Orpheus" ;
+.
 :Abbey_is_Blue
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -196,6 +206,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/261de123-7315-4a2f-8c40-3dad9092313e"^^xsd:anyURI ;
   rdfs:label "American IV: The Man Comes Around" ;
 .
+:American_Legends
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Patsy_Cline ;
+  bibliographica:byArtist SoloMusicArtist:Patsy_Cline ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/287f3bf5-ae46-4481-8f07-09f86b57274e"^^xsd:anyURI ;
+  rdfs:label "American Legends : Patsy Cline" ;
+.
 :American_Recordings
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -345,6 +365,16 @@
   bibliographica:byArtist SoloMusicArtist:Johnny_Cash ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/1a4fffe0-8a1a-41e9-9021-8eaf609e0221"^^xsd:anyURI ;
   rdfs:label "At Folsom Prison and San Quentin" ;
+.
+:At_Golden_Circle
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ornette_Coleman ;
+  bibliographica:byArtist SoloMusicArtist:Ornette_Coleman ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/601cbbc7-a873-4e2e-9b8a-dacc49b84d27"^^xsd:anyURI ;
+  rdfs:label "At the Golden Circle, Volume One" ;
 .
 :At_Last
   rdf:type mo:CD ;
@@ -577,6 +607,15 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/336a519c-3770-36ef-9de6-267a6be50d65"^^xsd:anyURI ;
   rdfs:label "Between the Mountain and the Moon" ;
 .
+:Beyond_Innocence
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Monica_Augustine ;
+  bibliographica:byArtist SoloMusicArtist:Monica_Augustine ;
+  rdfs:label "Beyond Innocence" ;
+.
 :Big_Circumstance
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -716,6 +755,16 @@
   bibliographica:byArtist SoloMusicArtist:Jann_Arden ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d1d86815-32e7-4d1c-ba24-469f0c65986a"^^xsd:anyURI ;
   rdfs:label "Blood Red Cherry" ;
+.
+:Bloomed
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Richard_Buckner ;
+  bibliographica:byArtist SoloMusicArtist:Richard_Buckner ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/38e0a606-21c2-4d44-ba51-741816418a20"^^xsd:anyURI ;
+  rdfs:label "Bloomed" ;
 .
 :Blow_By_Blow
   rdf:type mo:CD ;
@@ -926,6 +975,16 @@
   bibliographica:byArtist MusicGroup:Dire_Straits ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/4c618c14-0ed3-3b50-b32a-562e0f4cfe28"^^xsd:anyURI ;
   rdfs:label "Brothers in Arms" ;
+.
+:Bryter_Layter
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Nick_Drake ;
+  bibliographica:byArtist SoloMusicArtist:Nick_Drake ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/93d4c2fa-6749-3820-88df-b1f6df8cf48b"^^xsd:anyURI ;
+  rdfs:label "Bryter Layter" ;
 .
 :Buena_Vista_Social_Club_CD
   rdf:type mo:CD ;
@@ -1870,6 +1929,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/288ebe0d-ec8c-47fd-971b-448fbb32c8ec"^^xsd:anyURI ;
   rdfs:label "Do What You Like" ;
 .
+:Dont_Be_Afraid_Dark
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Robert_Cray ;
+  bibliographica:byArtist SoloMusicArtist:Robert_Cray ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/cffad015-5d86-47cd-a383-c5ad5024c0ab"^^xsd:anyURI ;
+  rdfs:label "Don’t Be Afraid of the Dark" ;
+.
 :Doo_Bop
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1929,6 +1998,15 @@
   bibliographica:byArtist SoloMusicArtist:Greg_Brown ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/0b42a7e7-2a1a-41d3-b322-f52fec4f08a9"^^xsd:anyURI ;
   rdfs:label "Dream City" ;
+.
+:Drum_Call
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Nurudafina_Pili_Adena ;
+  bibliographica:byArtist SoloMusicArtist:Nurudafina_Pili_Adena ;
+  rdfs:label "Drum Call" ;
 .
 :Dylan_Cash_Sessions
   rdf:type mo:CD ;
@@ -2073,6 +2151,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/29888d56-d9f0-41d3-b77c-b42f46200d14"^^xsd:anyURI ;
   rdfs:label "Family Man" ;
 .
+:Family_Tree
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Nick_Drake ;
+  bibliographica:byArtist SoloMusicArtist:Nick_Drake ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/beba85a6-8a05-3bf8-99d6-2a5e9f38f12e"^^xsd:anyURI ;
+  rdfs:label "Family Tree" ;
+.
 :Feed_Us
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2140,7 +2228,26 @@
   dcterms:creator SoloMusicArtist:Carri_Coltrane ;
   bibliographica:byArtist SoloMusicArtist:Carri_Coltrane ;
   rdfs:label "The First Time" ;
-  rdfs:comment "No Musicbrainz CD reference." ;
+.
+:Firstborn_Is_Dead
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Nick_Cave_Bad_Seeds ;
+  bibliographica:byArtist MusicGroup:Nick_Cave_Bad_Seeds ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/3adbcc25-34f0-4790-832e-61dc0dc75705"^^xsd:anyURI ;
+  rdfs:label "The Firstborn Is Dead" ;
+.
+:Five_Leaves_Left
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Nick_Drake ;
+  bibliographica:byArtist SoloMusicArtist:Nick_Drake ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/3c0db05c-3b02-3be0-bab6-c4b233de21da"^^xsd:anyURI ;
+  rdfs:label "Five Leaves Left" ;
 .
 :Five_Million
   rdf:type mo:CD ;
@@ -2191,6 +2298,16 @@
   bibliographica:byArtist MusicGroup:Crosby_Stills_Nash_Young ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/0adb00ae-d2f6-4e33-8394-aff5d89c9adb"^^xsd:anyURI ;
   rdfs:label "4 Way Street" ;
+.
+:Free_Jazz
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ornette_Coleman ;
+  bibliographica:byArtist SoloMusicArtist:Ornette_Coleman ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/204968d5-4394-445f-a5ad-9ea36de63a69"^^xsd:anyURI ;
+  rdfs:label "Free Jazz" ;
 .
 :Freedom_of_Choice
   rdf:type mo:CD ;
@@ -2454,6 +2571,20 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d268a3b8-c132-4b95-806d-f7ed72954107"^^xsd:anyURI ;
   rdfs:label "Grown Backwards" ;
 .
+:Guitar_Trio
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Paco_de_Lucia ;
+  dcterms:creator SoloMusicArtist:John_McLaughlin ;
+  dcterms:creator SoloMusicArtist:Al_DiMeola ;
+  bibliographica:byArtist SoloMusicArtist:Paco_de_Lucia ;
+  bibliographica:byArtist SoloMusicArtist:John_McLaughlin ;
+  bibliographica:byArtist SoloMusicArtist:Al_DiMeola ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e7f00093-ed11-4d77-970e-ae4351fdb41e"^^xsd:anyURI ;
+  rdfs:label "The Guitar Trio" ;
+.
 :Harbourfront
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2681,6 +2812,16 @@
   bibliographica:byArtist SoloMusicArtist:Aimee_Mann ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d4329f26-8577-4806-ab10-825f21846ba3"^^xsd:anyURI ;
   rdfs:label "Humpty Dumpty" ;
+.
+:Id_Like_a_Virgin
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Richard_Cheese ;
+  bibliographica:byArtist SoloMusicArtist:Richard_Cheese ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/ed2498fe-7fe2-4c24-99f4-05dd2bbea157"^^xsd:anyURI ;
+  rdfs:label "I'd Like a Virgin" ;
 .
 :Ive_Been_Everywhere
   rdf:type mo:CD ;
@@ -2988,6 +3129,16 @@
   bibliographica:byArtist MusicGroup:Camper_Van_Beethoven ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d826b19f-df20-4a9c-9a49-f10328c9b245"^^xsd:anyURI ;
   rdfs:label "Key Lime Pie" ;
+.
+:Kicking_Against_Pricks
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Nick_Cave_Bad_Seeds ;
+  bibliographica:byArtist MusicGroup:Nick_Cave_Bad_Seeds ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/37be9e09-e5d5-3337-bde0-13382a0461cf"^^xsd:anyURI ;
+  rdfs:label "Kicking Against the Pricks" ;
 .
 :Kill_Eugene
   rdf:type mo:CD ;
@@ -3459,6 +3610,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/7185f82b-32dc-48d7-8308-a67e6ff73290"^^xsd:anyURI ;
   rdfs:label "Lizard Vision" ;
 .
+:Logozo
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Angelique_Kidjo ;
+  bibliographica:byArtist SoloMusicArtist:Angelique_Kidjo ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/942cb3d2-98ad-406d-9e88-1e924427573d"^^xsd:anyURI ;
+  rdfs:label "Logozo" ;
+.
 :Looking_Forward
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3499,16 +3660,6 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/8bb890e0-dbc1-4c65-a725-b6e686c40729"^^xsd:anyURI ;
   rdfs:label "Long Way Home" ;
 .
-:Logozo
-  rdf:type mo:CD ;
-  rdf:type mo:Record ;
-  rdf:type mo:Release ;
-  rdf:type schema:MusicAlbum ;
-  dcterms:creator SoloMusicArtist:Angelique_Kidjo ;
-  bibliographica:byArtist SoloMusicArtist:Angelique_Kidjo ;
-  bibliographica:musicbrainzURI "https://musicbrainz.org/release/942cb3d2-98ad-406d-9e88-1e924427573d"^^xsd:anyURI ;
-  rdfs:label "Logozo" ;
-.
 :Lone_Rhino
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3528,6 +3679,26 @@
   bibliographica:byArtist SoloMusicArtist:Aimee_Mann ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/1b5879b4-b093-45e0-9ac6-a63f24b965d3"^^xsd:anyURI ;
   rdfs:label "Lost In Space" ;
+.
+:Lounge_Against_Machine
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Richard_Cheese ;
+  bibliographica:byArtist SoloMusicArtist:Richard_Cheese ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/4fecbf14-179d-41fb-9a39-7eb44a4c4634"^^xsd:anyURI ;
+  rdfs:label "Lounge Against the Machine" ;
+.
+:Love_Call
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ornette_Coleman ;
+  bibliographica:byArtist SoloMusicArtist:Ornette_Coleman ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d39df5bc-1321-4a27-b86b-5055ba0478ac"^^xsd:anyURI ;
+  rdfs:label "Love Call" ;
 .
 :Love_Is_A_Truck
   rdf:type mo:CD ;
@@ -3588,6 +3759,16 @@
   bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/3ee15c41-77b1-32bd-9513-d6035444a34e"^^xsd:anyURI ;
   rdfs:label "MTV Unplugged" ;
+.
+:Made_To_Love_Magic
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Nick_Drake ;
+  bibliographica:byArtist SoloMusicArtist:Nick_Drake ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c1e3a0c5-fb34-47a8-83ca-4278aa47905d"^^xsd:anyURI ;
+  rdfs:label "Made to Love Magic" ;
 .
 :Maire
   rdf:type mo:CD ;
@@ -3932,6 +4113,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a21ea995-76a6-47c0-9ca8-5569642236c7"^^xsd:anyURI ;
   rdfs:label "More Study in Brown" ;
 .
+:Motor_City_Moments
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Regina_Carter ;
+  bibliographica:byArtist SoloMusicArtist:Regina_Carter ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/65ef3f04-39df-44b9-af20-d0046b4db403"^^xsd:anyURI ;
+  rdfs:label "Motor City Moments" ;
+.
 :Mr_Music_Head
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3951,6 +4142,16 @@
   bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/b802a83a-e993-35fb-b193-e471df209127"^^xsd:anyURI ;
   rdfs:label "Mummy Dust" ;
+.
+:Murder_Ballads
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Nick_Cave_Bad_Seeds ;
+  bibliographica:byArtist MusicGroup:Nick_Cave_Bad_Seeds ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/871130d5-477a-3919-a7e8-ae909f718ee0"^^xsd:anyURI ;
+  rdfs:label "Murder Ballads" ;
 .
 :My_Aim_Is_True
   rdf:type mo:CD ;
@@ -4001,6 +4202,16 @@
   bibliographica:byArtist MusicGroup:Danu ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/5b60975b-2aca-4c16-bfbb-aba2aca446e4"^^xsd:anyURI ;
   rdfs:label "Mystic Dreams" ;
+.
+:Naked_and_True
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Randy_Crawford ;
+  bibliographica:byArtist SoloMusicArtist:Randy_Crawford ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b08c15ec-f1bd-4d4c-ad6b-48e554f492ae"^^xsd:anyURI ;
+  rdfs:label "Naked and True" ;
 .
 :Nashville_Skyline
   rdf:type mo:CD ;
@@ -4061,6 +4272,16 @@
   bibliographica:byArtist SoloMusicArtist:Ginger_Baker ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/414f52a8-9702-44b0-92ac-f00f9cdddc55"^^xsd:anyURI ;
   rdfs:label "No Material" ;
+.
+:Nocturama
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Nick_Cave_Bad_Seeds ;
+  bibliographica:byArtist MusicGroup:Nick_Cave_Bad_Seeds ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d4c4e73b-295a-3461-9ff8-5607969ae535"^^xsd:anyURI ;
+  rdfs:label "Nocturama" ;
 .
 :Nothing_But_Burning_Light
   rdf:type mo:CD ;
@@ -4372,6 +4593,26 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/f3ae3377-8a18-41c9-b745-ff6053bb65e5"^^xsd:anyURI ;
   rdfs:label "Pick Up On This!" ;
 .
+:Pieta_Brown_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Pieta_Brown ;
+  bibliographica:byArtist SoloMusicArtist:Pieta_Brown ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f4ec25ff-4fd2-4ee6-b9ce-426639f0f63a"^^xsd:anyURI ;
+  rdfs:label "Pieta Brown" ;
+.
+:Pink_Moon
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Nick_Drake ;
+  bibliographica:byArtist SoloMusicArtist:Nick_Drake ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/608de3ea-c08f-36f5-9ac6-53d401940de7"^^xsd:anyURI ;
+  rdfs:label "Pink Moon" ;
+.
 :Places
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4492,6 +4733,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/9e251e3a-b04d-4c30-9494-de52b84bed98"^^xsd:anyURI ;
   rdfs:label "Red Desert Sky" ;
 .
+:Regina_Carter_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Regina_Carter ;
+  bibliographica:byArtist SoloMusicArtist:Regina_Carter ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/ddbaf869-bbf3-4efb-bc91-d1cf4eaba1c9"^^xsd:anyURI ;
+  rdfs:label "Regina Carter" ;
+.
 :Renmin_Park
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4512,6 +4763,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c7181cf6-0e8e-4d2d-8217-768212897024"^^xsd:anyURI ;
   rdfs:label "ReTurning" ;
 .
+:Reveries
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Paolo_Conte ;
+  bibliographica:byArtist SoloMusicArtist:Paolo_Conte ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e9fb2f9f-ae8c-490c-949f-ec7bf1373266"^^xsd:anyURI ;
+  rdfs:label "Reveries" ;
+.
 :Revolver
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4531,6 +4792,16 @@
   bibliographica:byArtist SoloMusicArtist:Eliza_Carthy ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/f0528ace-13ff-4537-ba03-b6206fc6a986"^^xsd:anyURI ;
   rdfs:label "Rice" ;
+.
+:Rich_and_Poor
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Randy_Crawford ;
+  bibliographica:byArtist SoloMusicArtist:Randy_Crawford ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b6c4e193-bddd-417f-a17a-a4e0c071fbe5"^^xsd:anyURI ;
+  rdfs:label "Rich and Poor" ;
 .
 :Rise_and_Fall_Ziggy_Stardust
   rdf:type mo:CD ;
@@ -5185,6 +5456,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/763f1a88-fb23-3d94-be12-4439a9eefc0b"^^xsd:anyURI ;
   rdfs:label "Friends" ;
 .
+:Strong_Persuader
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Robert_Cray ;
+  bibliographica:byArtist SoloMusicArtist:Robert_Cray ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/201f1501-368e-4529-8146-ad9232bcb297"^^xsd:anyURI ;
+  rdfs:label "Strong Persuader" ;
+.
 :Sun_Ship
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5689,6 +5970,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a9ca845f-7221-4f19-a207-b81e9fc511ec"^^xsd:anyURI ;
   rdfs:label "30 Greatest Hits" ;
 .
+:This_Fire
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Paula_Cole ;
+  bibliographica:byArtist SoloMusicArtist:Paula_Cole ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/3b487094-e321-4c3d-9633-872719d84d9b"^^xsd:anyURI ;
+  rdfs:label "This Fire" ;
+.
 :This_Years_Model
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5708,6 +5999,16 @@
   bibliographica:byArtist MusicGroup:Arrested_Development ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/ede793b4-4976-3b7a-ba3b-fde6801de64c"^^xsd:anyURI ;
   rdfs:label "3 Years, 5 Months & 2 Days in the Life of…" ;
+.
+:Time_No_Reply
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Nick_Drake ;
+  bibliographica:byArtist SoloMusicArtist:Nick_Drake ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/72ae1df2-7af0-3758-b4a1-c0ac2f1769d6"^^xsd:anyURI ;
+  rdfs:label "Time of No Reply" ;
 .
 :Time_Out
   rdf:type mo:CD ;
@@ -6013,6 +6314,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/eb26c05b-519d-478b-9281-021969b1bdff"^^xsd:anyURI ;
   rdfs:label "Victims" ;
 .
+:Virgin_Beauty
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ornette_Coleman ;
+  bibliographica:byArtist SoloMusicArtist:Ornette_Coleman ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/aa36f047-1133-4412-a794-1b05c7e6e4d9"^^xsd:anyURI ;
+  rdfs:label "Virgin Beauty" ;
+.
 :Visions_of_Plenty
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -6062,6 +6373,16 @@
   bibliographica:byArtist SoloMusicArtist:Caitlin_Cary ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/4942576d-9f1a-467e-9b13-b710dc77e187"^^xsd:anyURI ;
   rdfs:label "Waltzie" ;
+.
+:Way_to_Blue
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Nick_Drake ;
+  bibliographica:byArtist SoloMusicArtist:Nick_Drake ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/ebda8aec-0d87-338e-996a-b42da02f5edf"^^xsd:anyURI ;
+  rdfs:label "Way to Blue: An Introduction to Nick Drake" ;
 .
 :Wayward_Angel
   rdf:type mo:CD ;
