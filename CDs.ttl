@@ -96,6 +96,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/7c00822f-f645-43f6-ae90-0b0d763f9487"^^xsd:anyURI ;
   rdfs:label "Afro Blue Impressions" ;
 .
+:Agua_de_Luna
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ruben_Blades ;
+  bibliographica:byArtist SoloMusicArtist:Ruben_Blades ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9bd891c9-37e0-4bee-ba8f-4998cc392174"^^xsd:anyURI ;
+  rdfs:label "Agua de Luna" ;
+.
 :Air_Force
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -858,6 +868,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/7ab34777-3a00-39c6-a43e-4b997916bb3c"^^xsd:anyURI ;
   rdfs:label "Blurring the Edges" ;
 .
+:Boomers_Story
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ry_Cooder ;
+  bibliographica:byArtist SoloMusicArtist:Ry_Cooder ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/05c82074-8425-4c24-a832-69bda422055b"^^xsd:anyURI ;
+  rdfs:label "Boomer's Story" ;
+.
 :Bootleg_Series_Vol_1_3
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -915,6 +935,26 @@
   bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/a7a11770-e2e5-38a3-8c5b-9280d65dd9a5"^^xsd:anyURI ;
   rdfs:label "The Bootleg Series, Vol. 6: Live 1964: Concert at Philharmonic Hall" ;
+.
+:Bop_Til_Drop
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ry_Cooder ;
+  bibliographica:byArtist SoloMusicArtist:Ry_Cooder ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9ae37a5b-08c0-48bc-a320-f8566cf4306f"^^xsd:anyURI ;
+  rdfs:label "Bop Till You Drop" ;
+.
+:Borderline
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ry_Cooder ;
+  bibliographica:byArtist SoloMusicArtist:Ry_Cooder ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/3feebe88-8d01-4eec-803d-2635ffb917b4"^^xsd:anyURI ;
+  rdfs:label "Borderline" ;
 .
 :Born_Under_Bad_Sign
   rdf:type mo:CD ;
@@ -1194,6 +1234,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/32722bff-196b-34e1-8112-f09828c719f8"^^xsd:anyURI ;
   rdfs:label "The Eddie Chatterbox Double Trio Love Album" ;
 .
+:Chavez_Ravine
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ry_Cooder ;
+  bibliographica:byArtist SoloMusicArtist:Ry_Cooder ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/3dbe92e3-772e-41fd-9d6a-a321f6202835"^^xsd:anyURI ;
+  rdfs:label "Chávez Ravine" ;
+.
 :Check_It_Out
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1203,6 +1253,16 @@
   bibliographica:byArtist MusicGroup:BeauJocque_ZydecoHiRollers ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/007195e3-cc99-4408-a81b-82f4577f85ce"^^xsd:anyURI ;
   rdfs:label "Check It Out, Lock It In, Crank It Up!" ;
+.
+:Chicken_Skin_Music
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ry_Cooder ;
+  bibliographica:byArtist SoloMusicArtist:Ry_Cooder ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/86f7cb74-90e8-3922-a496-720b0fa97f0f"^^xsd:anyURI ;
+  rdfs:label "Chicken Skin Music" ;
 .
 :Chill_Out
   rdf:type mo:CD ;
@@ -1919,6 +1979,15 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/9c8acdde-5e60-4513-83a2-0bf674bcd819"^^xsd:anyURI ;
   rdfs:label "Divinities: Twelve Dances With God" ;
 .
+:Do_Re_Mi
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ry_Cooder ;
+  bibliographica:byArtist SoloMusicArtist:Ry_Cooder ;
+  rdfs:label "Do Re Mi" ;
+.
 :Do_What_You_Like
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2421,6 +2490,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b8a32bb4-9858-3dfb-b0a2-0a67e05ee80a"^^xsd:anyURI ;
   rdfs:label "Get Up With It" ;
 .
+:Get_Rhythm
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ry_Cooder ;
+  bibliographica:byArtist SoloMusicArtist:Ry_Cooder ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/030eba30-be0d-4fa3-accc-6ac3cd85409c"^^xsd:anyURI ;
+  rdfs:label "Get Rhythm" ;
+.
 :Girl_Like_Me
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2570,6 +2649,16 @@
   bibliographica:byArtist SoloMusicArtist:David_Byrne ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d268a3b8-c132-4b95-806d-f7ed72954107"^^xsd:anyURI ;
   rdfs:label "Grown Backwards" ;
+.
+:Guitar_on_Fire
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Roy_Buchanan ;
+  bibliographica:byArtist SoloMusicArtist:Roy_Buchanan ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/da27dab2-990a-421f-bea4-da368d3e7cc0"^^xsd:anyURI ;
+  rdfs:label "Guitar on Fire: The Atlantic Sessions" ;
 .
 :Guitar_Trio
   rdf:type mo:CD ;
@@ -2832,6 +2921,16 @@
   bibliographica:byArtist SoloMusicArtist:Eugene_Chadbourne ;
   rdfs:label "I've Been Everywhere" ;
 .
+:Ive_Got_Rock_Sock
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Rory_Block ;
+  bibliographica:byArtist SoloMusicArtist:Rory_Block ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/7011b880-c734-4b43-92f7-acf746045b30"^^xsd:anyURI ;
+  rdfs:label "I've Got a Rock in My Sock!" ;
+.
 :I_Blow_Minds
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3010,6 +3109,16 @@
   bibliographica:byArtist SoloMusicArtist:Christine_Collister ;
   rdfs:label "Into the Light" ;
 .
+:Into_Purple_Valley
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ry_Cooder ;
+  bibliographica:byArtist SoloMusicArtist:Ry_Cooder ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/33fe641f-2459-3049-8edd-ad0167e6f59b"^^xsd:anyURI ;
+  rdfs:label "Into The Purple Valley" ;
+.
 :Iowa_Waltz
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3019,6 +3128,16 @@
   bibliographica:byArtist SoloMusicArtist:Greg_Brown ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/7ec55b56-b04f-36f9-92de-013acedf4ab8"^^xsd:anyURI ;
   rdfs:label "The Iowa Waltz" ;
+.
+:Jazz
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ry_Cooder ;
+  bibliographica:byArtist SoloMusicArtist:Ry_Cooder ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/8dc73edb-dcaf-45f0-9a95-35b81755f205"^^xsd:anyURI ;
+  rdfs:label "Jazz" ;
 .
 :Jazz_Profile
   rdf:type mo:CD ;
@@ -3079,6 +3198,16 @@
   bibliographica:byArtist SoloMusicArtist:Johnny_Cash ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/0376d8fa-f35d-46ca-9444-2b77746b1dee"^^xsd:anyURI ;
   rdfs:label "Johnny Cash Sings His Best" ;
+.
+:Johnny_Handsome
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ry_Cooder ;
+  bibliographica:byArtist SoloMusicArtist:Ry_Cooder ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e6619929-cf9d-4721-8da5-008a47934a96"^^xsd:anyURI ;
+  rdfs:label "Johnny Handsome" ;
 .
 :Jou_a_Rive
   rdf:type mo:CD ;
@@ -3421,6 +3550,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/8f74470d-0504-483f-973d-24db67de6453"^^xsd:anyURI ;
   rdfs:label "Live in Japan" ;
 .
+:Live_Japan
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Roy_Buchanan ;
+  bibliographica:byArtist SoloMusicArtist:Roy_Buchanan ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/4cade5d8-6560-4487-b0b6-24770d2aadfe"^^xsd:anyURI ;
+  rdfs:label "Live in Japan" ;
+.
 :Live_at_BBC
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3609,6 +3748,16 @@
   bibliographica:byArtist SoloMusicArtist:Austin_Lounge_Lizards ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/7185f82b-32dc-48d7-8308-a67e6ff73290"^^xsd:anyURI ;
   rdfs:label "Lizard Vision" ;
+.
+:Loading_Zone
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Roy_Buchanan ;
+  bibliographica:byArtist SoloMusicArtist:Roy_Buchanan ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/6d2fc2f7-ddbb-450b-9d8e-5c6df74ad27e"^^xsd:anyURI ;
+  rdfs:label "Loading Zone" ;
 .
 :Logozo
   rdf:type mo:CD ;
@@ -3810,6 +3959,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b3d7d898-c917-4431-b761-e79d71b6172e"^^xsd:anyURI ;
   rdfs:label "Mama’s Gun" ;
 .
+:Mambo_Sinuendo
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ry_Cooder ;
+  bibliographica:byArtist SoloMusicArtist:Ry_Cooder ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/4d90c45e-691e-4723-aaa2-26f576c7e64a"^^xsd:anyURI ;
+  rdfs:label "Mambo Sinuendo" ;
+.
 :Man_Made_Miles
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3870,6 +4029,16 @@
   bibliographica:byArtist SoloMusicArtist:Annie_Lennox ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/55229cad-2f4f-4b02-8530-7e9d199018fc"^^xsd:anyURI ;
   rdfs:label "Medusa" ;
+.
+:Meeting_By_River
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ry_Cooder ;
+  bibliographica:byArtist SoloMusicArtist:Ry_Cooder ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c66a6bfa-bfc5-4bc2-902b-2251234e751c"^^xsd:anyURI ;
+  rdfs:label "A Meeting by the River" ;
 .
 :Mexican_Moon
   rdf:type mo:CD ;
@@ -4553,6 +4722,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/307e8ded-3da4-424c-bd66-38ac79738ed1"^^xsd:anyURI ;
   rdfs:label "Paradise Lost & Found" ;
 .
+:Paradise_Lunch
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ry_Cooder ;
+  bibliographica:byArtist SoloMusicArtist:Ry_Cooder ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9964568f-8da7-33cd-815a-eae1eef4d30b"^^xsd:anyURI ;
+  rdfs:label "Paradise & Lunch" ;
+.
 :Paranoid
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4562,6 +4741,16 @@
   bibliographica:byArtist MusicGroup:Black_Sabbath ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/40b08941-d5e9-49d6-bb75-625db9381d32"^^xsd:anyURI ;
   rdfs:label "Paranoid" ;
+.
+:Paris_Texas
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ry_Cooder ;
+  bibliographica:byArtist SoloMusicArtist:Ry_Cooder ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/4ef2780f-9fc1-33ff-80f6-4b4d65c4130a"^^xsd:anyURI ;
+  rdfs:label "Paris, Texas" ;
 .
 :Passengers
   rdf:type mo:CD ;
@@ -4855,6 +5044,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/3fa5d226-7ecf-4751-99a5-4261d70136ea"^^xsd:anyURI ;
   rdfs:label "Rough and Ready" ;
 .
+:Rules_of_Travel
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Rosanne_Cash ;
+  bibliographica:byArtist SoloMusicArtist:Rosanne_Cash ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/0b2646a5-fe87-49e8-aaf5-b875e9cce57d"^^xsd:anyURI ;
+  rdfs:label "Rules of Travel" ;
+.
 :Running_on_Empty
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4933,6 +5132,16 @@
   bibliographica:byArtist SoloMusicArtist:David_Bowie ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/968b7e86-4645-3417-b6c0-59d8c2b9862f"^^xsd:anyURI ;
   rdfs:label "Scary Monsters (and Super Creeps)" ;
+.
+:Second_Album_RoyB
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Roy_Buchanan ;
+  bibliographica:byArtist SoloMusicArtist:Roy_Buchanan ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/ea085dcf-d422-4804-a1aa-bc77f701186a"^^xsd:anyURI ;
+  rdfs:label "Second Album" ;
 .
 :Self_Portrait
   rdf:type mo:CD ;
@@ -5015,6 +5224,16 @@
   bibliographica:byArtist SoloMusicArtist:Johnny_Copeland ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a4e3c15f-4052-49e8-9787-9b7d5d53aefc"^^xsd:anyURI ;
   rdfs:label "Showdown!" ;
+.
+:Showtime
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ry_Cooder ;
+  bibliographica:byArtist SoloMusicArtist:Ry_Cooder ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/83b96844-9085-4b51-af74-2710c76001e8"^^xsd:anyURI ;
+  rdfs:label "Showtime" ;
 .
 :Side_Four
   rdf:type mo:CD ;
@@ -5105,6 +5324,26 @@
   bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/c0a1e7f5-c3c1-3bfc-8b06-31c5996928b2"^^xsd:anyURI ;
   rdfs:label "Slice o Life: Bruce Cockburn Live Solo" ;
+.
+:Slide_Area
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ry_Cooder ;
+  bibliographica:byArtist SoloMusicArtist:Ry_Cooder ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/38b8bb57-0e69-3531-9fad-1ab2dd983b0f"^^xsd:anyURI ;
+  rdfs:label "The Slide Area" ;
+.
+:Slide_Dropdown_D
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ry_Cooder ;
+  bibliographica:byArtist SoloMusicArtist:Ry_Cooder ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/24940aba-ee1b-4c99-90f8-3e9b8bfca90c"^^xsd:anyURI ;
+  rdfs:label "Slide on Dropdown D" ;
 .
 :Slide_Rule
   rdf:type mo:CD ;
@@ -5510,6 +5749,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/26fa86bf-be86-4d45-843d-4f48fc2ecfc9"^^xsd:anyURI ;
   rdfs:label "Super Session" ;
 .
+:Sweet_Dreams
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Roy_Buchanan ;
+  bibliographica:byArtist SoloMusicArtist:Roy_Buchanan ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/4999fb78-a139-4b34-963f-e2deebbc6a58"^^xsd:anyURI ;
+  rdfs:label "Sweet Dreams: The Anthology" ;
+.
 :Swerve
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5609,6 +5858,16 @@
   bibliographica:byArtist SoloMusicArtist:Holly_Cole ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/5b531c9a-5f29-38cc-b780-f053bf865cfa"^^xsd:anyURI ;
   rdfs:label "Temptation" ;
+.
+:Ten_Song_Demo
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Rosanne_Cash ;
+  bibliographica:byArtist SoloMusicArtist:Rosanne_Cash ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f3293d60-db10-4ea7-9cc3-7c551bd5ac8a"^^xsd:anyURI ;
+  rdfs:label "10 Song Demo" ;
 .
 :Tender_City
   rdf:type mo:CD ;
@@ -5860,6 +6119,16 @@
   bibliographica:byArtist SoloMusicArtist:Ali_Farka_Toure ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a21f909e-d675-4302-a143-2914bf3285a3"^^xsd:anyURI ;
   rdfs:label "The Source" ;
+.
+:The_Wheel
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Rosanne_Cash ;
+  bibliographica:byArtist SoloMusicArtist:Rosanne_Cash ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a17243ba-a0d7-4d86-8fb2-fdc2bae07bc7"^^xsd:anyURI ;
+  rdfs:label "The Wheel" ;
 .
 :The_Winds_Begin_Sing
   rdf:type mo:CD ;
@@ -6443,6 +6712,16 @@
   bibliographica:byArtist SoloMusicArtist:Elvis_Costello ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/bedd4ab5-d28b-4792-a9d6-84e91d6f0149"^^xsd:anyURI ;
   rdfs:label "When I Was Cruel" ;
+.
+:When_Woman_Gets_Blues
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Rory_Block ;
+  bibliographica:byArtist SoloMusicArtist:Rory_Block ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/da3b4358-40bd-4259-854b-c0ce4d2cb6bb"^^xsd:anyURI ;
+  rdfs:label "When A Woman Gets The Blues" ;
 .
 :When_There_is_Love
   rdf:type mo:CD ;
