@@ -56,6 +56,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/2fa972a2-9165-3423-9ab1-38ed7b07e807"^^xsd:anyURI ;
   rdfs:label "Abbey is Blue" ;
 .
+:A_Bone_Crone_Drone
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sheila_Chandra ;
+  bibliographica:byArtist SoloMusicArtist:Sheila_Chandra ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d0511f81-348f-3778-aa3e-8d30221980d2"^^xsd:anyURI ;
+  rdfs:label "ABoneCroneDrone" ;
+.
 :Acoustic_Band_Alive
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1364,6 +1374,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/63b9a1a4-f72d-49b7-8696-8d3549763bdf"^^xsd:anyURI ;
   rdfs:label "Classical Soul" ;
 .
+:Cmon_Cmon
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sheryl_Crow ;
+  bibliographica:byArtist SoloMusicArtist:Sheryl_Crow ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/ac4e672f-0d31-47d4-ad3b-32bbbb1c2ffb"^^xsd:anyURI ;
+  rdfs:label "C’mon, C’mon" ;
+.
 :Cohen_Live
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1615,6 +1635,16 @@
   bibliographica:byArtist SoloMusicArtist:Greg_Brown ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/5a3756fd-d849-44a9-ab3b-ec1f8eccb303"^^xsd:anyURI ;
   rdfs:label "Covenant" ;
+.
+:Cover_Girl
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Shawn_Colvin ;
+  bibliographica:byArtist SoloMusicArtist:Shawn_Colvin ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9bd2dd72-369f-4277-a199-0fc20df5b4f5"^^xsd:anyURI ;
+  rdfs:label "Cover Girl" ;
 .
 :Coward_of_County
   rdf:type mo:CD ;
@@ -2230,6 +2260,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/beba85a6-8a05-3bf8-99d6-2a5e9f38f12e"^^xsd:anyURI ;
   rdfs:label "Family Tree" ;
 .
+:Fat_City
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Shawn_Colvin ;
+  bibliographica:byArtist SoloMusicArtist:Shawn_Colvin ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/ca4634f5-6694-4bae-aac7-35df2c1c82db"^^xsd:anyURI ;
+  rdfs:label "Fat City" ;
+.
 :Feed_Us
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2508,6 +2548,16 @@
   dcterms:creator SoloMusicArtist:KJ_Denhert ;
   bibliographica:byArtist SoloMusicArtist:KJ_Denhert ;
   rdfs:label "Girl Like Me" ;
+.
+:Glamor_Grits
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sam_Bush ;
+  bibliographica:byArtist SoloMusicArtist:Sam_Bush ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/7a751055-026d-4a02-93df-cb50260ed30a"^^xsd:anyURI ;
+  rdfs:label "Glamor & Grits" ;
 .
 :Go_Fer_Your_Funk
   rdf:type mo:CD ;
@@ -2882,6 +2932,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/fbd2ef1b-c9d9-4fc9-a05c-b456ea5ddefb"^^xsd:anyURI ;
   rdfs:label "Hot Pants" ;
 .
+:Howling_at_Moon
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sam_Bush ;
+  bibliographica:byArtist SoloMusicArtist:Sam_Bush ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/cc53db7a-f01f-4cf4-ae07-8c2ab4f4f63f"^^xsd:anyURI ;
+  rdfs:label "Howlin’ at the Moon" ;
+.
 :Humans
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2901,6 +2961,16 @@
   bibliographica:byArtist SoloMusicArtist:Aimee_Mann ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d4329f26-8577-4806-ab10-825f21846ba3"^^xsd:anyURI ;
   rdfs:label "Humpty Dumpty" ;
+.
+:Ice_Caps_Peaks_Telluride
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sam_Bush ;
+  bibliographica:byArtist SoloMusicArtist:Sam_Bush ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e7f0b00f-2fd0-4f2a-83d3-a8f795df4e95"^^xsd:anyURI ;
+  rdfs:label "Ice Caps, Peaks of Telluride" ;
 .
 :Id_Like_a_Virgin
   rdf:type mo:CD ;
@@ -3428,6 +3498,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/585b0223-d5a5-3839-880f-590a64a62bc7"^^xsd:anyURI ;
   rdfs:label "Little Plastic Castle" ;
 .
+:Live_88
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Shawn_Colvin ;
+  bibliographica:byArtist SoloMusicArtist:Shawn_Colvin ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/6869f25a-d581-4090-936e-8abe828bd302"^^xsd:anyURI ;
+  rdfs:label "Live '88" ;
+.
 :Live_BC
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3529,6 +3609,16 @@
   bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/9c5f68d4-0521-4edc-b62d-676d078477ee"^^xsd:anyURI ;
   rdfs:label "Live at Newport 1958" ;
+.
+:Live_At_Royalty
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sandy_Denny ;
+  bibliographica:byArtist SoloMusicArtist:Sandy_Denny ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e771cfaf-35a3-4dd0-8626-513ac2511c84"^^xsd:anyURI ;
+  rdfs:label "Live at the Royalty Theatre" ;
 .
 :Live_at_Village_Vanguard_Again
   rdf:type mo:CD ;
@@ -3978,6 +4068,16 @@
   bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/3913e7f1-6986-45c6-8a60-2e2bd15eacc1"^^xsd:anyURI ;
   rdfs:label "Man Made Miles" ;
+.
+:Man_Music
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sam_Bush ;
+  bibliographica:byArtist SoloMusicArtist:Sam_Bush ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/597577a8-05d3-4b45-9754-0162661cffdd"^^xsd:anyURI ;
+  rdfs:label "The Man and His Music" ;
 .
 :Man_Who_Sold_World
   rdf:type mo:CD ;
@@ -4451,6 +4551,16 @@
   bibliographica:byArtist MusicGroup:Nick_Cave_Bad_Seeds ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d4c4e73b-295a-3461-9ff8-5607969ae535"^^xsd:anyURI ;
   rdfs:label "Nocturama" ;
+.
+:North_Star_Grassman
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sandy_Denny ;
+  bibliographica:byArtist SoloMusicArtist:Sandy_Denny ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/05c5458e-3b78-3f33-8c93-0911e8fdd315"^^xsd:anyURI ;
+  rdfs:label "The North Star Grassman and the Ravens" ;
 .
 :Nothing_But_Burning_Light
   rdf:type mo:CD ;
@@ -4932,6 +5042,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/ddbaf869-bbf3-4efb-bc91-d1cf4eaba1c9"^^xsd:anyURI ;
   rdfs:label "Regina Carter" ;
 .
+:Rendezvous
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sandy_Denny ;
+  bibliographica:byArtist SoloMusicArtist:Sandy_Denny ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/80731efc-77e7-401a-9fef-6ed2033bc6b5"^^xsd:anyURI ;
+  rdfs:label "Rendezvous" ;
+.
 :Renmin_Park
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4951,6 +5071,16 @@
   bibliographica:byArtist SoloMusicArtist:Jennifer_Berezan ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c7181cf6-0e8e-4d2d-8217-768212897024"^^xsd:anyURI ;
   rdfs:label "ReTurning" ;
+.
+:Retrospective
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Shawn_Colvin ;
+  bibliographica:byArtist SoloMusicArtist:Shawn_Colvin ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/86e55f2d-617c-4daa-a91b-46ee5db96c72"^^xsd:anyURI ;
+  rdfs:label "Retrospective" ;
 .
 :Reveries
   rdf:type mo:CD ;
@@ -5123,6 +5253,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b0083b56-90aa-4da0-bb07-519b7c85332b"^^xsd:anyURI ;
   rdfs:label "In Person: Saturday Night at the Blackhawk, San Francisco, Vol 2" ;
 .
+:Savoy_Brown_Collection
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Savoy_Brown ;
+  bibliographica:byArtist MusicGroup:Savoy_Brown ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/dd457c2d-9b31-4883-bbfe-277b99b8df81"^^xsd:anyURI ;
+  rdfs:label "The Savoy Brown Collection" ;
+.
 :Scary_Monsters
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5190,6 +5330,26 @@
   bibliographica:byArtist MusicGroup:Dr_Hook ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/df7c0611-2731-43ee-82ac-13280282d458"^^xsd:anyURI ;
   rdfs:label "Sharing the Night Together" ;
+.
+:Sheryl_Crow_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sheryl_Crow ;
+  bibliographica:byArtist SoloMusicArtist:Sheryl_Crow ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c6f9452b-1f6d-4ad5-a55e-700b90471332"^^xsd:anyURI ;
+  rdfs:label "Sheryl Crow" ;
+.
+:Sheryl_Crow_Friends_Live
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sheryl_Crow ;
+  bibliographica:byArtist SoloMusicArtist:Sheryl_Crow ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9c1007f2-b70a-4334-ac91-7b9cd4e8d182"^^xsd:anyURI ;
+  rdfs:label "Sheryl Crow & Friends Live From Central Park" ;
 .
 :Shiny_Beast
   rdf:type mo:CD ;
@@ -5394,6 +5554,16 @@
   bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/2cd80143-986c-480d-867e-3cd90ddea154"^^xsd:anyURI ;
   rdfs:label "Small Source of Comfort" ;
+.
+:Small_Repairs
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Shawn_Colvin ;
+  bibliographica:byArtist SoloMusicArtist:Shawn_Colvin ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/64e8c9e5-3f0a-4b85-9a8b-1c4521563c5d"^^xsd:anyURI ;
+  rdfs:label "A Few Small Repairs" ;
 .
 :So_Much_Shouting_So_Much_Laughter
   rdf:type mo:CD ;
@@ -5636,6 +5806,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a25dc82a-8af3-32f6-8e66-5fb8cf72a45f"^^xsd:anyURI ;
   rdfs:label "Station to Station" ;
 .
+:Steady_On
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Shawn_Colvin ;
+  bibliographica:byArtist SoloMusicArtist:Shawn_Colvin ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b5e3fbcf-c9f8-4c84-acf3-7db35ab586a0"^^xsd:anyURI ;
+  rdfs:label "Steady On" ;
+.
 :Stealing_Fire
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5694,6 +5874,16 @@
   bibliographica:byArtist SoloMusicArtist:Larry_Carlton ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/763f1a88-fb23-3d94-be12-4439a9eefc0b"^^xsd:anyURI ;
   rdfs:label "Friends" ;
+.
+:Strong_Enough
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sheryl_Crow ;
+  bibliographica:byArtist SoloMusicArtist:Sheryl_Crow ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/cafd8e50-93df-40e8-96ad-240180b81c63"^^xsd:anyURI ;
+  rdfs:label "Strong Enough" ;
 .
 :Strong_Persuader
   rdf:type mo:CD ;
@@ -6190,6 +6380,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/ade49a97-f45b-429e-a37e-4207bf384c80"^^xsd:anyURI ;
   rdfs:label "There’s One in Every Crowd" ;
 .
+:These_Four_Walls
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Shawn_Colvin ;
+  bibliographica:byArtist SoloMusicArtist:Shawn_Colvin ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f81db7e2-68b7-3725-b98d-5c5efde603a1"^^xsd:anyURI ;
+  rdfs:label "These Four Walls" ;
+.
 :Thin_Wild_Mercury_Music
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -6248,6 +6448,16 @@
   bibliographica:byArtist SoloMusicArtist:Paula_Cole ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/3b487094-e321-4c3d-9633-872719d84d9b"^^xsd:anyURI ;
   rdfs:label "This Fire" ;
+.
+:This_Sentence_Is_True
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sheila_Chandra ;
+  bibliographica:byArtist SoloMusicArtist:Sheila_Chandra ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/beda19c8-9cce-445e-b7de-deb96fe322a1"^^xsd:anyURI ;
+  rdfs:label "This Sentence Is True (The Previous Sentence Is False)" ;
 .
 :This_Years_Model
   rdf:type mo:CD ;
@@ -6673,6 +6883,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e87ad418-0e38-460d-b971-9f31b221d327"^^xsd:anyURI ;
   rdfs:label "We Want Miles" ;
 .
+:Weaving_Ancestors_Voices
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sheila_Chandra ;
+  bibliographica:byArtist SoloMusicArtist:Sheila_Chandra ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/57cf757d-c486-47b2-a314-ac113fee9417"^^xsd:anyURI ;
+  rdfs:label "Weaving My Ancestors’ Voices" ;
+.
 :Whatevers_For_Us
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -6783,6 +7003,16 @@
   bibliographica:byArtist MusicGroup:Black_Flag ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/dcaf0cab-da06-4ea7-86b5-66f0e9996bec"^^xsd:anyURI ;
   rdfs:label "Who's Got the 10½?" ;
+.
+:Whole_New_You
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Shawn_Colvin ;
+  bibliographica:byArtist SoloMusicArtist:Shawn_Colvin ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/32cb3543-fb44-32f4-88df-ee97ce486fa8"^^xsd:anyURI ;
+  rdfs:label "Whole New You" ;
 .
 :Wholly_Earth
   rdf:type mo:CD ;
