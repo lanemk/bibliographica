@@ -236,6 +236,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/287f3bf5-ae46-4481-8f07-09f86b57274e"^^xsd:anyURI ;
   rdfs:label "American Legends : Patsy Cline" ;
 .
+:American_Music
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:The_Blasters ;
+  bibliographica:byArtist MusicGroup:The_Blasters ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/de7b4a4d-316c-4e29-a401-91f76d23db56"^^xsd:anyURI ;
+  rdfs:label "American Music" ;
+.
 :American_Recordings
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -537,6 +547,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b1c591ab-1cc6-472f-b7b2-f36be51b182e"^^xsd:anyURI ;
   rdfs:label "Bawdy Sea Chanties" ;
 .
+:Beautysleep
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Tanya_Donelly ;
+  bibliographica:byArtist SoloMusicArtist:Tanya_Donelly ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/dad3305b-ca1b-4fcb-b7ea-c11d22f5d627"^^xsd:anyURI ;
+  rdfs:label "Beautysleep" ;
+.
 :Bebel_Gilberto_CD
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -616,6 +636,16 @@
   bibliographica:byArtist SoloMusicArtist:Mary_Black ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/cbe190bc-8048-45cd-9b6d-8a0656c71a79"^^xsd:anyURI ;
   rdfs:label "The Best of Mary Black 1991-2001" ;
+.
+:Best_of_Sidney_Bechet
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sidney_Bechet ;
+  bibliographica:byArtist SoloMusicArtist:Sidney_Bechet ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/83bdc6a4-6f08-4a30-9832-7cc05af59f65"^^xsd:anyURI ;
+  rdfs:label "The Best of Sidney Bechet" ;
 .
 :Between_Mountain_Moon
   rdf:type mo:CD ;
@@ -826,6 +856,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a46128d0-d0a5-4e27-9eef-2379e136904c"^^xsd:anyURI ;
   rdfs:label "Blue Haze" ;
 .
+:Blue_Horse
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:The_Be_Good_Tanyas ;
+  bibliographica:byArtist MusicGroup:The_Be_Good_Tanyas ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/1ff4ea24-a87a-4240-a76c-d6249f559db4"^^xsd:anyURI ;
+  rdfs:label "Blue Horse" ;
+.
 :Blue_River
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -858,7 +898,7 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/ebd26d0e-217d-450a-94cb-e55c2758107b"^^xsd:anyURI ;
   rdfs:label "Bluegrass Reunion" ;
 .
-:Blues_Traveler
+:Blues_Traveler_CD
   rdf:type mo:CD ;
   rdf:type mo:Record ;
   rdf:type mo:Release ;
@@ -1283,6 +1323,16 @@
   bibliographica:byArtist MusicGroup:Black_Uhuru ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/2fac5b16-6da2-3dae-bdb5-9d3b7db2919b"^^xsd:anyURI ;
   rdfs:label "Chill Out" ;
+.
+:Chinatown
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:The_Be_Good_Tanyas ;
+  bibliographica:byArtist MusicGroup:The_Be_Good_Tanyas ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d83a156e-46b0-4f23-9205-a8fe06ef6936"^^xsd:anyURI ;
+  rdfs:label "Chinatown" ;
 .
 :Chiwoniso
   rdf:type mo:CD ;
@@ -2038,6 +2088,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/cffad015-5d86-47cd-a383-c5ad5024c0ab"^^xsd:anyURI ;
   rdfs:label "Don’t Be Afraid of the Dark" ;
 .
+:Dont_Give_Up_On_Me
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Solomon_Burke ;
+  bibliographica:byArtist SoloMusicArtist:Solomon_Burke ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c506273f-d462-3fb8-833f-82e472edc43e"^^xsd:anyURI ;
+  rdfs:label "Don’t Give Up On Me" ;
+.
 :Doo_Bop
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2548,6 +2608,16 @@
   dcterms:creator SoloMusicArtist:KJ_Denhert ;
   bibliographica:byArtist SoloMusicArtist:KJ_Denhert ;
   rdfs:label "Girl Like Me" ;
+.
+:Glad_n_Greasy
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:The_Beat_Farmers ;
+  bibliographica:byArtist MusicGroup:The_Beat_Farmers ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/3f03b021-c02d-40d9-b9ec-54a535d307d2"^^xsd:anyURI ;
+  rdfs:label "Glad 'n' Greasy" ;
 .
 :Glamor_Grits
   rdf:type mo:CD ;
@@ -3289,6 +3359,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/6e4709d0-47ed-3545-b93f-305d7bce8033"^^xsd:anyURI ;
   rdfs:label "Jou A Rive" ;
 .
+:Journey_to_Love
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Stanley_Clarke ;
+  bibliographica:byArtist SoloMusicArtist:Stanley_Clarke ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b9622cc5-242d-39bc-a499-3f91ccce5eb5"^^xsd:anyURI ;
+  rdfs:label "Journey to Love" ;
+.
 :Joy_Will_Find_a_Way
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3447,6 +3527,16 @@
   bibliographica:byArtist SoloMusicArtist:Michael_Doucet ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/47b63911-581a-4948-a181-2a8b7799e129"^^xsd:anyURI ;
   rdfs:label "Le Hoogie Boogie: Louisiana French Music for Children" ;
+.
+:Lemon_of_Pink
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:The_Books ;
+  bibliographica:byArtist MusicGroup:The_Books ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/3f59ccb0-a63b-3ac6-beaa-bca629030969"^^xsd:anyURI ;
+  rdfs:label "The Lemon of Pink" ;
 .
 :Let_It_Be
   rdf:type mo:CD ;
@@ -3919,6 +4009,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/1b5879b4-b093-45e0-9ac6-a63f24b965d3"^^xsd:anyURI ;
   rdfs:label "Lost In Space" ;
 .
+:Loud_Plowed_Live
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:The_Beat_Farmers ;
+  bibliographica:byArtist MusicGroup:The_Beat_Farmers ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/8ea95945-252f-481d-a914-d5d54de5a9e1"^^xsd:anyURI ;
+  rdfs:label "Loud And Plowed And... Live!!" ;
+.
 :Lounge_Against_Machine
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4098,6 +4198,16 @@
   bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/3303d8d5-1083-3437-8896-c71f5a7dd4c0"^^xsd:anyURI ;
   rdfs:label "The Man with the Horn" ;
+.
+:Manifold
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:The_Beat_Farmers ;
+  bibliographica:byArtist MusicGroup:The_Beat_Farmers ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/57df3412-99e4-479b-a8df-5bada7c48926"^^xsd:anyURI ;
+  rdfs:label "Manifold" ;
 .
 :Masked_and_Anonymous
   rdf:type mo:CD ;
@@ -4882,6 +4992,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/339009a5-8ecc-4f78-af3c-0c7bccd5858a"^^xsd:anyURI ;
   rdfs:label "People in Me" ;
 .
+:Pet_Sounds
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:The_Beach_Boys ;
+  bibliographica:byArtist MusicGroup:The_Beach_Boys ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/865cad65-0ee4-4ba3-89e8-66e23e8e0b53"^^xsd:anyURI ;
+  rdfs:label "Pet Sounds" ;
+.
 :Pick_Up_On_This
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5132,6 +5252,26 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/34763364-8570-33ab-8618-65d05cb87f6e"^^xsd:anyURI ;
   rdfs:label "The Rise and Fall of Ziggy Stardust and the Spiders From Mars" ;
 .
+:Rise_and_Shine
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:The_Bears ;
+  bibliographica:byArtist MusicGroup:The_Bears ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/1a9c91c5-09a2-44f4-bc2f-22562c09ec2c"^^xsd:anyURI ;
+  rdfs:label "Rise & Shine" ;
+.
+:Rise_Up_Like_Sun
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Albion_Country_Band ;
+  bibliographica:byArtist MusicGroup:Albion_Country_Band ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b42cf846-b4a9-46a6-84fd-d5ae129beca7"^^xsd:anyURI ;
+  rdfs:label "Rise Up Like The Sun" ;
+.
 :River_Under_The_Road
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5151,6 +5291,16 @@
   bibliographica:byArtist SoloMusicArtist:Luka_Bloom ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/7da06982-bbeb-4033-a6b6-a7161f19c518"^^xsd:anyURI ;
   rdfs:label "Riverside" ;
+.
+:Rock_Of_Ages
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:The_Band ;
+  bibliographica:byArtist MusicGroup:The_Band ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/7f657970-99ce-40e8-ae6a-69989231577d"^^xsd:anyURI ;
+  rdfs:label "Rock of Ages" ;
 .
 :Root_of_Steely_Dan
   rdf:type mo:CD ;
@@ -5273,6 +5423,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/968b7e86-4645-3417-b6c0-59d8c2b9862f"^^xsd:anyURI ;
   rdfs:label "Scary Monsters (and Super Creeps)" ;
 .
+:School_Days
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Stanley_Clarke ;
+  bibliographica:byArtist SoloMusicArtist:Stanley_Clarke ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/33e9f93c-4996-4e4c-a20a-9fba4e0446e1"^^xsd:anyURI ;
+  rdfs:label "School Days" ;
+.
 :Second_Album_RoyB
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5310,6 +5470,16 @@
   dcterms:creator SoloMusicArtist:Jill_Cohn ;
   bibliographica:byArtist SoloMusicArtist:Jill_Cohn ;
   rdfs:label "Seven Year Surrender" ;
+.
+:Seven_Waves
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Suzanne_Ciani ;
+  bibliographica:byArtist SoloMusicArtist:Suzanne_Ciani ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/fb560d3f-495e-45c8-a97f-5b7e339aebd1"^^xsd:anyURI ;
+  rdfs:label "Seven Waves" ;
 .
 :Shadow_Man
   rdf:type mo:CD ;
@@ -6079,6 +6249,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/764d90b5-bcbe-4f74-9485-6aad20b0cdac"^^xsd:anyURI ;
   rdfs:label "The Art of John Coltrane" ;
 .
+:The_Bears_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:The_Bears ;
+  bibliographica:byArtist MusicGroup:The_Bears ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/89b93d72-16eb-4a33-b67f-2c9c02fe8b1b"^^xsd:anyURI ;
+  rdfs:label "The Bears" ;
+.
 :The_Believer
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -6208,6 +6388,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/14017672-f68b-4377-a99b-7ed9a1f6e19e"^^xsd:anyURI ;
   rdfs:label "The Last Trane" ;
 .
+:The_Last_Waltz
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:The_Band ;
+  bibliographica:byArtist MusicGroup:The_Band ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/fa9d2c01-1ecb-4c94-ac3f-3b57d9a2081e"^^xsd:anyURI ;
+  rdfs:label "The Last Waltz" ;
+.
 :The_Live_One
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -6319,6 +6509,16 @@
   bibliographica:byArtist SoloMusicArtist:Rosanne_Cash ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a17243ba-a0d7-4d86-8fb2-fdc2bae07bc7"^^xsd:anyURI ;
   rdfs:label "The Wheel" ;
+.
+:The_White_Album
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:The_Beatles ;
+  bibliographica:byArtist MusicGroup:The_Beatles ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/0d8e06e2-95d6-3dd4-bfb2-7781af900bdb"^^xsd:anyURI ;
+  rdfs:label "The White Album" ;
 .
 :The_Winds_Begin_Sing
   rdf:type mo:CD ;
@@ -6509,6 +6709,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/dad1dada-1fda-3186-beb7-3bc80e90f9e0"^^xsd:anyURI ;
   rdfs:label "Time Out of Mind" ;
 .
+:To_Kingdom_Come
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:The_Band ;
+  bibliographica:byArtist MusicGroup:The_Band ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e2e80584-2c2f-488d-983b-6292f04f3598"^^xsd:anyURI ;
+  rdfs:label "To Kingdom Come" ;
+.
 :Together_Again
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -6520,6 +6730,20 @@
   bibliographica:byArtist SoloMusicArtist:Bobby_Bland ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a5318f8d-415a-43b5-bcf5-57ef11428c9a"^^xsd:anyURI ;
   rdfs:label "Together Again - Live" ;
+.
+:Together_at_Bluebird
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Steve_Earle ;
+  dcterms:creator SoloMusicArtist:Townes_Van_Zandt ;
+  dcterms:creator SoloMusicArtist:Guy_Clark ;
+  bibliographica:byArtist SoloMusicArtist:Steve_Earle ;
+  bibliographica:byArtist SoloMusicArtist:Townes_Van_Zandt ;
+  bibliographica:byArtist SoloMusicArtist:Guy_Clark ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/41ffcd14-8368-450e-a53b-54c5503b1df2"^^xsd:anyURI ;
+  rdfs:label "Together at the Bluebird Cafe" ;
 .
 :Together_Through_Life
   rdf:type mo:CD ;
@@ -6591,6 +6815,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/faada5d1-971b-499c-b902-5bab9e03bc1b"^^xsd:anyURI ;
   rdfs:label "The Trinity Session" ;
 .
+:Trouble_Bound
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:The_Blasters ;
+  bibliographica:byArtist MusicGroup:The_Blasters ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/ce0a5b20-7485-4074-85c8-bdb6a3668d12"^^xsd:anyURI ;
+  rdfs:label "Trouble Bound" ;
+.
 :Trouble_With_Normal
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -6610,6 +6844,16 @@
   bibliographica:byArtist MusicGroup:Captain_Beefheart_Magic_Band ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/e6a580bd-5d29-3acd-a959-0bfab002ee6f"^^xsd:anyURI ;
   rdfs:label "Trout Mask Replica" ;
+.
+:True_False_Identity
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:T_Bone_Burnett ;
+  bibliographica:byArtist SoloMusicArtist:T_Bone_Burnett ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/198e2965-4436-4a65-a823-36f2944a624b"^^xsd:anyURI ;
+  rdfs:label "The True False Identity" ;
 .
 :Tumblin_Down
   rdf:type mo:CD ;
