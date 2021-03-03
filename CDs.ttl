@@ -607,6 +607,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/000845b1-57e7-4c91-a185-9b7888917984"^^xsd:anyURI ;
   rdfs:label "The Best of the Big Bands: Sentimental Journey with Les Brown" ;
 .
+:Best_of_Bothy_Band
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:The_Bothy_Band ;
+  bibliographica:byArtist MusicGroup:The_Bothy_Band ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5f2882ca-1fdf-4e0e-a93f-abeba3a3349a"^^xsd:anyURI ;
+  rdfs:label "The Best of the Bothy Band" ;
+.
 :Best_of_David_Bromberg
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1035,6 +1045,16 @@
   bibliographica:byArtist MusicGroup:B_Fifty_Twos ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/8a01d8cb-52dd-464f-9f3f-82feed851ee2"^^xsd:anyURI ;
   rdfs:label "Bouncing Off The Satellites" ;
+.
+:Boys_for_Pele
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Tori_Amos ;
+  bibliographica:byArtist SoloMusicArtist:Tori_Amos ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/127fbc4c-b309-38bf-af91-624f03b134c4"^^xsd:anyURI ;
+  rdfs:label "Boys for Pele" ;
 .
 :Breakfast_New_Orleans_Dinner_Timbuktu
   rdf:type mo:CD ;
@@ -1646,6 +1666,26 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/6f96d073-87ad-4e66-befa-ea3e577c644d"^^xsd:anyURI ;
   rdfs:label "Cool" ;
 .
+:Cornflake_Girl
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Tori_Amos ;
+  bibliographica:byArtist SoloMusicArtist:Tori_Amos ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/3e0102f2-cf6f-4646-8b0d-cd16e7dbdde7"^^xsd:anyURI ;
+  rdfs:label "Cornflake Girl" ;
+.
+:Corrs_Live_in_Dublin
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:The_Corrs ;
+  bibliographica:byArtist MusicGroup:The_Corrs ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f9964148-b49a-4567-83e2-8e27d3a069f7"^^xsd:anyURI ;
+  rdfs:label "VH1 Presents The Corrs Live in Dublin" ;
+.
 :Cosmic_Thing
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1754,6 +1794,16 @@
   bibliographica:byArtist MusicGroup:Capercaillie ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c1c2ad27-c1c2-4b6a-9e0e-87a88525cce7"^^xsd:anyURI ;
   rdfs:label "Crosswinds" ;
+.
+:Crucify
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Tori_Amos ;
+  bibliographica:byArtist SoloMusicArtist:Tori_Amos ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/3b134d0f-848d-49f4-b831-030abf0cb487"^^xsd:anyURI ;
+  rdfs:label "Crucify" ;
 .
 :Cruel_Crazy_Beautiful_World
   rdf:type mo:CD ;
@@ -1878,6 +1928,16 @@
   bibliographica:byArtist SoloMusicArtist:Leonard_Cohen ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c15c2b7f-0164-439b-af47-be1c474e4446"^^xsd:anyURI ;
   rdfs:label "Dear Heather" ;
+.
+:Death_Rides_Pale_Cow
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:The_Dead_Milkmen ;
+  bibliographica:byArtist MusicGroup:The_Dead_Milkmen ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/cfbc9fd8-9ae7-4a27-a8c6-3aad17f1f3fe"^^xsd:anyURI ;
+  rdfs:label "Death Rides a Pale Cow: The Ultimate Collection" ;
 .
 :Deep_Forest_CD
   rdf:type mo:CD ;
@@ -2158,6 +2218,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/0b42a7e7-2a1a-41d3-b322-f52fec4f08a9"^^xsd:anyURI ;
   rdfs:label "Dream City" ;
 .
+:Dream_Letter_Live
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Tim_Buckley ;
+  bibliographica:byArtist SoloMusicArtist:Tim_Buckley ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/64faad1f-ecf1-41c8-8f74-d08bcf503966"^^xsd:anyURI ;
+  rdfs:label "Dream Letter Live In London 1968" ;
+.
 :Drum_Call
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2190,6 +2260,16 @@
   bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/4eed761b-1e14-43ec-902c-852656fa91fd"^^xsd:anyURI ;
   rdfs:label "Dylan & the Dead" ;
+.
+:East_West
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Paul_Butterfield_Blues_Band ;
+  bibliographica:byArtist MusicGroup:Paul_Butterfield_Blues_Band ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d9d7e377-df4a-301e-8dcc-da7bf391e638"^^xsd:anyURI ;
+  rdfs:label "East-West" ;
 .
 :Eat_a_Peach
   rdf:type mo:CD ;
@@ -2530,6 +2610,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/34d413e6-678b-3c6d-8205-2f82cc4e1e6f"^^xsd:anyURI ;
   rdfs:label "Friends" ;
 .
+:From_Choirgirl_Hotel
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Tori_Amos ;
+  bibliographica:byArtist SoloMusicArtist:Tori_Amos ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/61884327-44ec-3073-a5af-46fda9a81ebb"^^xsd:anyURI ;
+  rdfs:label "From the Choirgirl Hotel" ;
+.
 :From_Here_to_Eternity
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2549,6 +2639,16 @@
   bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/6b80ccf2-7b73-3f5d-81e4-482f9ba038bd"^^xsd:anyURI ;
   rdfs:label "Further Adventures Of" ;
+.
+:Further_Down_Old_Plank
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:The_Chieftains ;
+  bibliographica:byArtist MusicGroup:The_Chieftains ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/84f75123-23d3-4080-9886-a22b78ab87be"^^xsd:anyURI ;
+  rdfs:label "Further Down the Old Plank Road" ;
 .
 :Further_In
   rdf:type mo:CD ;
@@ -2760,6 +2860,16 @@
   bibliographica:byArtist SoloMusicArtist:George_Clinton ;
   rdfs:label "Greatest Hits Live 1972-1993" ;
 .
+:Greetings_From_LA
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Tim_Buckley ;
+  bibliographica:byArtist SoloMusicArtist:Tim_Buckley ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e3a1953f-0e09-4b8d-adcf-708947bf5685"^^xsd:anyURI ;
+  rdfs:label "Greetings From LA" ;
+.
 :Grown_Backwards
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2833,6 +2943,16 @@
   bibliographica:byArtist SoloMusicArtist:David_Bowie ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/8caa9a0e-9063-3497-b73e-3165ea2f75a6"^^xsd:anyURI ;
   rdfs:label "Heroes" ;
+.
+:Hey_Jupiter
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Tori_Amos ;
+  bibliographica:byArtist SoloMusicArtist:Tori_Amos ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a5a63b51-69d4-48c3-9943-255834664748"^^xsd:anyURI ;
+  rdfs:label "Hey Jupiter" ;
 .
 :Hey_Man_Smell_My_Finger
   rdf:type mo:CD ;
@@ -3001,6 +3121,16 @@
   bibliographica:byArtist SoloMusicArtist:James_Brown ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/fbd2ef1b-c9d9-4fc9-a05c-b456ea5ddefb"^^xsd:anyURI ;
   rdfs:label "Hot Pants" ;
+.
+:House_of_Hope
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Toni_Childs ;
+  bibliographica:byArtist SoloMusicArtist:Toni_Childs ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e77a0f88-956b-45ba-bb70-553ef0e9bd17"^^xsd:anyURI ;
+  rdfs:label "House of Hope" ;
 .
 :Howling_at_Moon
   rdf:type mo:CD ;
@@ -3568,6 +3698,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/8e1b0c51-eafb-38dd-b6cc-c4903f554d1a"^^xsd:anyURI ;
   rdfs:label "Life Short Call Now" ;
 .
+:Light_My_Fire
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:The_Doors ;
+  bibliographica:byArtist MusicGroup:The_Doors ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a65c8000-6154-4168-a823-828b949f66a9"^^xsd:anyURI ;
+  rdfs:label "Light My Fire" ;
+.
 :Like_Sonny
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3577,6 +3717,16 @@
   bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/32ad9d9e-7a30-4d59-b54e-da97dad7bb06"^^xsd:anyURI ;
   rdfs:label "Like Sonny" ;
+.
+:Little_Earthquakes
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Tori_Amos ;
+  bibliographica:byArtist SoloMusicArtist:Tori_Amos ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/6de2fbe2-e705-3008-8174-5e19ff067ccb"^^xsd:anyURI ;
+  rdfs:label "Little Earthquakes" ;
 .
 :Little_Plastic_Castle
   rdf:type mo:CD ;
@@ -3799,6 +3949,16 @@
   bibliographica:byArtist MusicGroup:BeauSoleil ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e848f2d0-2506-4378-8f2f-dbd599cf853f"^^xsd:anyURI ;
   rdfs:label "Live! From the Left Coast" ;
+.
+:Live_at_Troubadour
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Tim_Buckley ;
+  bibliographica:byArtist SoloMusicArtist:Tim_Buckley ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d65324a9-5ec6-4cb4-bc40-3cb78f2babfa"^^xsd:anyURI ;
+  rdfs:label "Live at the Troubadour 1969" ;
 .
 :Live_at_Habibi
   rdf:type mo:CD ;
@@ -4702,6 +4862,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/8084b1bb-0ac7-4396-b3f7-21e7db13b022"^^xsd:anyURI ;
   rdfs:label "Now You See It... Now You Don't" ;
 .
+:Ocean_of_Tears
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:The_Paul_deLay_Band ;
+  bibliographica:byArtist MusicGroup:The_Paul_deLay_Band ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d081f9e8-ddd0-43f3-948f-b75596f8b33b"^^xsd:anyURI ;
+  rdfs:label "Ocean of Tears" ;
+.
 :Odu
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4982,6 +5152,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/dcf0173c-9751-4300-b77a-8faf3c0ad900"^^xsd:anyURI ;
   rdfs:label "Passengers" ;
 .
+:Past_the_Mission
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Tori_Amos ;
+  bibliographica:byArtist SoloMusicArtist:Tori_Amos ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/93c840ab-7174-4799-9c6c-6b9051d0ff97"^^xsd:anyURI ;
+  rdfs:label "Past The Mission" ;
+.
 :People_in_Me
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5061,6 +5241,16 @@
   bibliographica:byArtist SoloMusicArtist:Jello_Biafra ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/32b15f41-5346-4b4c-afe1-2e5dc554388f"^^xsd:anyURI ;
   rdfs:label "Prairie Home Invasion" ;
+.
+:Private_Eyes
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Tommy_Bolin ;
+  bibliographica:byArtist SoloMusicArtist:Tommy_Bolin ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/63d543b4-7e5f-4586-86cf-f1d797eb0419"^^xsd:anyURI ;
+  rdfs:label "Private Eyes" ;
 .
 :Pulse_Where_Rhythm_Begins
   rdf:type mo:CD ;
@@ -5412,6 +5602,16 @@
   bibliographica:byArtist MusicGroup:Savoy_Brown ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/dd457c2d-9b31-4883-bbfe-277b99b8df81"^^xsd:anyURI ;
   rdfs:label "The Savoy Brown Collection" ;
+.
+:Scarlets_Walk
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Tori_Amos ;
+  bibliographica:byArtist SoloMusicArtist:Tori_Amos ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/1846904b-f47a-3745-a2e0-4469e3a50702"^^xsd:anyURI ;
+  rdfs:label "Scarlet's Walk" ;
 .
 :Scary_Monsters
   rdf:type mo:CD ;
@@ -5916,6 +6116,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/dcdd5fd1-788d-45da-8990-82c6ecd5dc76"^^xsd:anyURI ;
   rdfs:label "Spike" ;
 .
+:Spirit_in_the_Sky
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Tori_Amos ;
+  bibliographica:byArtist SoloMusicArtist:Tori_Amos ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b4a7956c-71dd-4b5e-a710-91a7b18953d3"^^xsd:anyURI ;
+  rdfs:label "Spirit in the Sky" ;
+.
 :Spirit_of_Century
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -6025,6 +6235,16 @@
   bibliographica:byArtist SoloMusicArtist:Laurie_Anderson ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/367a065c-44d2-405c-8a00-2f0d97c707fe"^^xsd:anyURI ;
   rdfs:label "Strange Angels" ;
+.
+:Strange_Little_Girls
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Tori_Amos ;
+  bibliographica:byArtist SoloMusicArtist:Tori_Amos ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/cf58ebaa-1834-410a-bd9d-0f0f85706a4b"^^xsd:anyURI ;
+  rdfs:label "Strange Little Girls" ;
 .
 :Stranger_to_This_Land
   rdf:type mo:CD ;
@@ -6139,6 +6359,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/7a3d2ee5-e885-458e-88ca-f434c127ca9c"^^xsd:anyURI ;
   rdfs:label "Tales From the Hudson" ;
 .
+:Talk_on_Corners
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:The_Corrs ;
+  bibliographica:byArtist MusicGroup:The_Corrs ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5779728a-9d41-4304-81ba-3d68d8611893"^^xsd:anyURI ;
+  rdfs:label "Talk on Corners" ;
+.
 :Talking_Timbuktu
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -6148,6 +6378,16 @@
   bibliographica:byArtist SoloMusicArtist:Ali_Farka_Toure ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/1e54dda5-c64b-42e8-9eed-ed50639e134b"^^xsd:anyURI ;
   rdfs:label "Talking Timbuktu" ;
+.
+:Talula
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Tori_Amos ;
+  bibliographica:byArtist SoloMusicArtist:Tori_Amos ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/ee62f4c1-fe9a-433a-a580-639530c3498f"^^xsd:anyURI ;
+  rdfs:label "Talula" ;
 .
 :Tanto_Tempo
   rdf:type mo:CD ;
@@ -6178,6 +6418,26 @@
   bibliographica:byArtist SoloMusicArtist:George_Clinton ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/414012b2-4a20-416f-a946-7b79fd772436"^^xsd:anyURI ;
   rdfs:label "T.A.P.O.A.F.O.M." ;
+.
+:Tears_of_Stone
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:The_Chieftains ;
+  bibliographica:byArtist MusicGroup:The_Chieftains ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a0ae4d7f-49a3-48d9-83aa-92c39dab6b49"^^xsd:anyURI ;
+  rdfs:label "Tears of Stone" ;
+.
+:Teaser
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Tommy_Bolin ;
+  bibliographica:byArtist SoloMusicArtist:Tommy_Bolin ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/42919bed-aeda-398a-9501-0ae088ec7c66"^^xsd:anyURI ;
+  rdfs:label "Teaser" ;
 .
 :Telephone_Free_Landslide
   rdf:type mo:CD ;
@@ -6259,6 +6519,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/89b93d72-16eb-4a33-b67f-2c9c02fe8b1b"^^xsd:anyURI ;
   rdfs:label "The Bears" ;
 .
+:The_Beekeeper
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Tori_Amos ;
+  bibliographica:byArtist SoloMusicArtist:Tori_Amos ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/668d26d7-1ab8-40f8-9a23-57ef58ab86f0"^^xsd:anyURI ;
+  rdfs:label "The Beekeeper" ;
+.
 :The_Believer
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -6328,6 +6598,16 @@
   bibliographica:byArtist MusicGroup:Elvis_Costello_Imposters ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/29e8451e-9dd4-447f-836a-a7195014864a"^^xsd:anyURI ;
   rdfs:label "The Delivery Man" ;
+.
+:The_Doors_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:The_Doors ;
+  bibliographica:byArtist MusicGroup:The_Doors ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/25988409-04ef-4da5-ba97-a87d33624204"^^xsd:anyURI ;
+  rdfs:label "The Doors" ;
 .
 :The_First_Ten_Years
   rdf:type mo:CD ;
@@ -6407,6 +6687,16 @@
   bibliographica:byArtist SoloMusicArtist:Greg_Brown ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/50929cd8-866d-4899-9184-90693362422d"^^xsd:anyURI ;
   rdfs:label "The Live One" ;
+.
+:The_Long_Black_Veil
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:The_Chieftains ;
+  bibliographica:byArtist MusicGroup:The_Chieftains ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/7002335a-8473-3056-a52a-aa36a350e5a6"^^xsd:anyURI ;
+  rdfs:label "The Long Black Veil" ;
 .
 :The_Long_Way_Home
   rdf:type mo:CD ;
@@ -6549,6 +6839,16 @@
   bibliographica:byArtist MusicGroup:Cowboy_Junkies ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/27bcbca0-f3d3-44b6-9b88-4af26bd79bc3"^^xsd:anyURI ;
   rdfs:label "The Nomad Series, Volume 4: The Wilderness" ;
+.
+:The_Womans_Boat
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Toni_Childs ;
+  bibliographica:byArtist SoloMusicArtist:Toni_Childs ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/0e2a8f50-4ab1-3761-9c5c-6b53b2d63521"^^xsd:anyURI ;
+  rdfs:label "The Woman's Boat" ;
 .
 :Theme_Time_Radio_Hour
   rdf:type mo:CD ;
@@ -6719,6 +7019,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e2e80584-2c2f-488d-983b-6292f04f3598"^^xsd:anyURI ;
   rdfs:label "To Kingdom Come" ;
 .
+:To_Venus_and_Back
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Tori_Amos ;
+  bibliographica:byArtist SoloMusicArtist:Tori_Amos ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/39ea85e0-4db3-3a2b-bc66-fe1ca6caa201"^^xsd:anyURI ;
+  rdfs:label "To Venus and Back" ;
+.
 :Together_Again
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -6774,6 +7084,16 @@
   bibliographica:byArtist SoloMusicArtist:Clifton_Chenier ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/8662b84c-87f7-4414-8f5b-ab1b82f544e4"^^xsd:anyURI ;
   rdfs:label "Too Much Fun" ;
+.
+:Tori_and_Her_Mask
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Tori_Amos ;
+  bibliographica:byArtist SoloMusicArtist:Tori_Amos ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/cc59fc2d-a733-43f3-9c5d-911dba436f67"^^xsd:anyURI ;
+  rdfs:label "Tori And Her Mask (disc 1)" ;
 .
 :Total_Eclipse
   rdf:type mo:CD ;
@@ -6955,6 +7275,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/8d231aa3-4a4e-306a-a3f9-4421e846bb1a"^^xsd:anyURI ;
   rdfs:label "Under the Red Sky" ;
 .
+:Under_the_Pink
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Tori_Amos ;
+  bibliographica:byArtist SoloMusicArtist:Tori_Amos ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/716ab432-03be-3567-9d9f-1cbb4736e0dc"^^xsd:anyURI ;
+  rdfs:label "Under the Pink" ;
+.
 :Unearthed
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -6974,6 +7304,16 @@
   bibliographica:byArtist SoloMusicArtist:Dave_Davies ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/3284e038-a18a-46e0-a311-7dc0c9d714f1"^^xsd:anyURI ;
   rdfs:label "Unfinished Business: Dave Davies Kronikles, 1963|1998" ;
+.
+:Union
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Toni_Childs ;
+  bibliographica:byArtist SoloMusicArtist:Toni_Childs ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/90f0009d-a9bd-4aca-a08c-63bcc0854f95"^^xsd:anyURI ;
+  rdfs:label "Union" ;
 .
 :Unknown_Territory
   rdf:type mo:CD ;
@@ -6995,7 +7335,17 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b0b79978-f1c1-444f-b071-885be775450b"^^xsd:anyURI ;
   rdfs:label "Un-led-ed" ;
 .
-:Unplugged
+:Unplugged_TB
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Tony_Bennett ;
+  bibliographica:byArtist SoloMusicArtist:Tony_Bennett ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/56423b70-c722-3882-b261-8b426eda2df5"^^xsd:anyURI ;
+  rdfs:label "MTV Unplugged" ;
+.
+:Unplugged_TM
   rdf:type mo:CD ;
   rdf:type mo:Record ;
   rdf:type mo:Release ;
