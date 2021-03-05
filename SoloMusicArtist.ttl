@@ -4284,6 +4284,13 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/d67d1a21-6e45-4dd6-aef0-0191ba3796e0"^^xsd:anyURI ;
   rdfs:label "Townes Van Zandt" ;
 .
+:Tracy_Chapman
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Tracy_Chapman.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/1129817c-488a-4096-80c1-77fc1b107c93"^^xsd:anyURI ;
+  rdfs:label "Tracy Chapman" ;
+.
 :Tret_Fure
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassEH ;

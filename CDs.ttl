@@ -1324,6 +1324,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/007195e3-cc99-4408-a81b-82f4577f85ce"^^xsd:anyURI ;
   rdfs:label "Check It Out, Lock It In, Crank It Up!" ;
 .
+:Chess_Box
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Willie_Dixon ;
+  bibliographica:byArtist SoloMusicArtist:Willie_Dixon ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5763fe9e-95bf-4b66-9f06-db6e543219d4"^^xsd:anyURI ;
+  rdfs:label "The Chess Box" ;
+.
 :Chicken_Skin_Music
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1919,6 +1929,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/1352a8a5-2494-3f02-bfa5-496d10e04c52"^^xsd:anyURI ;
   rdfs:label "David Live" ;
 .
+:Dead_City_Radio
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:William_S_Burroughs ;
+  bibliographica:byArtist SoloMusicArtist:William_S_Burroughs ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a8821dcf-4e78-4291-a102-0606b79213a3"^^xsd:anyURI ;
+  rdfs:label "Dead City Radio" ;
+.
 :Dear_Heather
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2309,6 +2329,16 @@
   bibliographica:byArtist SoloMusicArtist:Guty_Cardenas ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b4ad9372-324a-4aa4-b141-1b5191daa837"^^xsd:anyURI ;
   rdfs:label "El Ruiseñor Yucateco" ;
+.
+:Eleven_Tracks_Whack
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Walter_Becker ;
+  bibliographica:byArtist SoloMusicArtist:Walter_Becker ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/fd9c2a7f-4f53-4600-85d3-d6ddcb1e865c"^^xsd:anyURI ;
+  rdfs:label "11 Tracks of Whack" ;
 .
 :Emmett_Grogan_Acetates
   rdf:type mo:CD ;
@@ -2903,6 +2933,15 @@
   bibliographica:byArtist SoloMusicArtist:Al_DiMeola ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e7f00093-ed11-4d77-970e-ae4351fdb41e"^^xsd:anyURI ;
   rdfs:label "The Guitar Trio" ;
+.
+:Half_Moon_Bay
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:William_Aura ;
+  bibliographica:byArtist SoloMusicArtist:William_Aura ;
+  rdfs:label "Half Moon Bay" ;
 .
 :Harbourfront
   rdf:type mo:CD ;
@@ -3677,6 +3716,16 @@
   bibliographica:byArtist MusicGroup:Beatles ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/79c313a5-0e50-4572-8aa6-fd0d297abd97"^^xsd:anyURI ;
   rdfs:label "Let It Be" ;
+.
+:Let_It_Rain
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Tracy_Chapman ;
+  bibliographica:byArtist SoloMusicArtist:Tracy_Chapman ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/fa0d9560-3cde-4733-b0e5-5a5bea253027"^^xsd:anyURI ;
+  rdfs:label "Let It Rain" ;
 .
 :Lick_My_Decals
   rdf:type mo:CD ;
@@ -5059,8 +5108,18 @@
   rdf:type schema:MusicAlbum ;
   dcterms:creator SoloMusicArtist:Elvis_Costello ;
   bibliographica:byArtist SoloMusicArtist:Elvis_Costello ;
-  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9316104c-a460-4861-8039-ea8e2b5cb5b6"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/47deeec9-1b3c-4711-941a-cf6425d82373"^^xsd:anyURI ;
   rdfs:label "Painted From Memory" ;
+.
+:Painting_Sidewalks
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Wendy_Bucklew ;
+  bibliographica:byArtist SoloMusicArtist:Wendy_Bucklew ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9316104c-a460-4861-8039-ea8e2b5cb5b6"^^xsd:anyURI ;
+  rdfs:label "Painting Sidewalks" ;
 .
 :Pale_Sun_Crescent_Moon
   rdf:type mo:CD ;
@@ -5152,6 +5211,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/dcf0173c-9751-4300-b77a-8faf3c0ad900"^^xsd:anyURI ;
   rdfs:label "Passengers" ;
 .
+:Past_Light
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:William_Ackerman ;
+  bibliographica:byArtist SoloMusicArtist:William_Ackerman ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/55c13f29-f80f-4e32-9bcc-564c448ec6cf"^^xsd:anyURI ;
+  rdfs:label "Past Light" ;
+.
 :Past_the_Mission
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5231,6 +5300,16 @@
   bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/aedd518d-d7e0-3595-80c7-54d2aad292f8"^^xsd:anyURI ;
   rdfs:label "Planet Waves" ;
+.
+:Plasma
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Trey_Anastasio ;
+  bibliographica:byArtist SoloMusicArtist:Trey_Anastasio ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c4144425-e510-4289-9653-22d6c85d0aa5"^^xsd:anyURI ;
+  rdfs:label "Plasma" ;
 .
 :Prairie_Home_Invasion
   rdf:type mo:CD ;
@@ -6076,6 +6155,16 @@
   bibliographica:byArtist SoloMusicArtist:David_Bowie ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/ede9ad56-aebd-4442-9961-2685d86a7441"^^xsd:anyURI ;
   rdfs:label "Space Oddity" ;
+.
+:Spare_Ass_Annie
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:William_S_Burroughs ;
+  bibliographica:byArtist SoloMusicArtist:William_S_Burroughs ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/572eec6a-ec80-4a8d-a772-1727dff36ab5"^^xsd:anyURI ;
+  rdfs:label "Spare Ass Annie and Other Tales" ;
 .
 :Sparks_Gonna_Fly
   rdf:type mo:CD ;
@@ -7115,6 +7204,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a366bd57-44e6-30b6-8cbf-20cc5e419565"^^xsd:anyURI ;
   rdfs:label "Traneing In" ;
 .
+:Trey_Anastasio_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Trey_Anastasio ;
+  bibliographica:byArtist SoloMusicArtist:Trey_Anastasio ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/87f0328c-7f3e-41d9-8032-9f2a6c9a25da"^^xsd:anyURI ;
+  rdfs:label "Trey Anastasio" ;
+.
 :Tribute_to_Jack_Johnson
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7203,6 +7302,16 @@
   bibliographica:byArtist SoloMusicArtist:Abbey_Lincoln ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c415ccb6-432f-478e-ab9b-469231b6febb"^^xsd:anyURI ;
   rdfs:label "A Turtle's Dream" ;
+.
+:Turtles_Navel
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:William_Ackerman ;
+  bibliographica:byArtist SoloMusicArtist:William_Ackerman ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/0ce56c40-6f9a-4a86-9fed-b156dcbcb4ca"^^xsd:anyURI ;
+  rdfs:label "In Search of the Turtle's Navel" ;
 .
 :Tusk_CVB
   rdf:type mo:CD ;
