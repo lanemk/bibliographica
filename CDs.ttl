@@ -1046,6 +1046,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/8a01d8cb-52dd-464f-9f3f-82feed851ee2"^^xsd:anyURI ;
   rdfs:label "Bouncing Off The Satellites" ;
 .
+:Both_Sides_Gun
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ben_Harper ;
+  bibliographica:byArtist SoloMusicArtist:Ben_Harper ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/4acd5fe4-d4e4-45a2-9a2b-d226df5f2933"^^xsd:anyURI ;
+  rdfs:label "Both Sides of the Gun" ;
+.
 :Boys_for_Pele
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1114,6 +1124,16 @@
   dcterms:creator MusicGroup:Bug_Toast ;
   bibliographica:byArtist MusicGroup:Bug_Toast ;
   rdfs:label "Bug Toast" ;
+.
+:Burn_to_Shine
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ben_Harper ;
+  bibliographica:byArtist SoloMusicArtist:Ben_Harper ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a2611b7b-593a-4d9f-8b04-81c746e2312f"^^xsd:anyURI ;
+  rdfs:label "Burn to Shine" ;
 .
 :By_The_Hand_Of_The_Father
   rdf:type mo:CD ;
@@ -2478,6 +2498,16 @@
   bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a745856f-23b2-3934-a8a9-d706ed69938f"^^xsd:anyURI ;
   rdfs:label "'58 Sessions" ;
+.
+:Fight_for_Your_Mind
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ben_Harper ;
+  bibliographica:byArtist SoloMusicArtist:Ben_Harper ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d9d8e0e1-ed72-3662-a0f8-5dc78125a973"^^xsd:anyURI ;
+  rdfs:label "Fight for Your Mind" ;
 .
 :Filles_de_Kilamanjaro
   rdf:type mo:CD ;
@@ -3949,6 +3979,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/11ce3b4c-2310-36b2-ab4a-146449463099"^^xsd:anyURI ;
   rdfs:label "Live at the BBC" ;
 .
+:Live_at_Hollywood_Bowl
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ben_Harper ;
+  bibliographica:byArtist SoloMusicArtist:Ben_Harper ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/fdbc1df8-5572-4fd7-9812-8bc5f325dec1"^^xsd:anyURI ;
+  rdfs:label "Live at the Hollywood Bowl (ep)" ;
+.
 :Live_Black_Sheep
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3998,6 +4038,16 @@
   bibliographica:byArtist MusicGroup:BeauSoleil ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e848f2d0-2506-4378-8f2f-dbd599cf853f"^^xsd:anyURI ;
   rdfs:label "Live! From the Left Coast" ;
+.
+:Live_From_Mars
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ben_Harper ;
+  bibliographica:byArtist SoloMusicArtist:Ben_Harper ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/94861915-41de-4b7d-9211-bf713bb3f93f"^^xsd:anyURI ;
+  rdfs:label "Live From Mars" ;
 .
 :Live_at_Troubadour
   rdf:type mo:CD ;
@@ -4387,6 +4437,16 @@
   bibliographica:byArtist SoloMusicArtist:Sam_Bush ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/597577a8-05d3-4b45-9754-0162661cffdd"^^xsd:anyURI ;
   rdfs:label "The Man and His Music" ;
+.
+:Man_Under_the_Influence
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Alejandro_Escovedo ;
+  bibliographica:byArtist SoloMusicArtist:Alejandro_Escovedo ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/0a805b94-52b6-4c74-8eff-744d213f9d2e"^^xsd:anyURI ;
+  rdfs:label "A Man Under the Influence" ;
 .
 :Man_Who_Sold_World
   rdf:type mo:CD ;
@@ -6969,6 +7029,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/ade49a97-f45b-429e-a37e-4207bf384c80"^^xsd:anyURI ;
   rdfs:label "There’s One in Every Crowd" ;
 .
+:There_Will_Be_Light
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ben_Harper ;
+  bibliographica:byArtist SoloMusicArtist:Ben_Harper ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b45b9be8-7f09-4b84-abe5-09e6bb4ac68f"^^xsd:anyURI ;
+  rdfs:label "There Will Be A Light" ;
+.
 :These_Four_Walls
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7596,6 +7666,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/57cf757d-c486-47b2-a314-ac113fee9417"^^xsd:anyURI ;
   rdfs:label "Weaving My Ancestors’ Voices" ;
 .
+:Welcome_Cruel_World
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ben_Harper ;
+  bibliographica:byArtist SoloMusicArtist:Ben_Harper ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5ec54bef-a930-3842-89f1-395c26b4d42a"^^xsd:anyURI ;
+  rdfs:label "Welcome to the Cruel World" ;
+.
 :Whatevers_For_Us
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7736,6 +7816,26 @@
   bibliographica:byArtist MusicGroup:B_Fifty_Twos ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/34c9f3a8-898a-3d33-92bc-64a46ad75928"^^xsd:anyURI ;
   rdfs:label "Wild Planet" ;
+.
+:Will_to_Live
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ben_Harper ;
+  bibliographica:byArtist SoloMusicArtist:Ben_Harper ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/49249137-b123-4414-a196-3e8c77548ad3"^^xsd:anyURI ;
+  rdfs:label "The Will to Live" ;
+.
+:Will_to_Live_EP
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ben_Harper ;
+  bibliographica:byArtist SoloMusicArtist:Ben_Harper ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/7ef39e4b-9e2e-405f-89bf-bbd1fee91164"^^xsd:anyURI ;
+  rdfs:label "The Will to Live : The Live EP" ;
 .
 :William_Bloke
   rdf:type mo:CD ;
