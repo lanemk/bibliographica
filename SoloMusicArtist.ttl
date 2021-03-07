@@ -2178,6 +2178,13 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/55bd9053-241d-4ba5-b0b3-f9b792ab1c7d"^^xsd:anyURI ;
   rdfs:label "June Tabor" ;
 .
+:Junior_Wells
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassWZ ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Junior_Wells.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/5f526374-0e88-4508-a8d6-7f25c16cb2d8"^^xsd:anyURI ;
+  rdfs:label "Junior Wells" ;
+.
 :Junis_Ponds
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassMP ;
@@ -4325,6 +4332,13 @@
   bibliographica:dbpediaURI "http://dbpedia.org/data/Vance_Gilbert.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/6f320c25-5650-47dc-8d3c-7b8972f68ce2"^^xsd:anyURI ;
   rdfs:label "Vance Gilbert" ;
+.
+:Vernon_Reid
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Vernon_Reid.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/6b429638-0cb7-44b1-8b2c-691ee0e52ef7"^^xsd:anyURI ;
+  rdfs:label "Vernon Reid" ;
 .
 :Victoria_Williams
   rdf:type mo:SoloMusicArtist ;

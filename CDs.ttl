@@ -196,6 +196,36 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/609cbe7e-fcb3-4965-a392-5cbb51f22b2c"^^xsd:anyURI ;
   rdfs:label "Amazulu" ;
 .
+:Ambient_1
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Brian_Eno ;
+  bibliographica:byArtist SoloMusicArtist:Brian_Eno ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/1496daaf-4b0b-3596-a252-0d3a7068f6e5"^^xsd:anyURI ;
+  rdfs:label "Ambient 1: Music for Airports" ;
+.
+:Ambient_2
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Brian_Eno ;
+  bibliographica:byArtist SoloMusicArtist:Brian_Eno ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e8e9a090-7250-35d0-9265-5182ea520573"^^xsd:anyURI ;
+  rdfs:label "Ambient 2: The Plateaux of Mirror" ;
+.
+:Ambient_4
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Brian_Eno ;
+  bibliographica:byArtist SoloMusicArtist:Brian_Eno ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/ceae0e07-e2dc-43fe-ab2d-9568c0da4490"^^xsd:anyURI ;
+  rdfs:label "Ambient 4: On Land" ;
+.
 :America_Live
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -286,6 +316,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/2f220c9c-9f5f-35dc-8c62-b9b48827032e"^^xsd:anyURI ;
   rdfs:label "Ani DiFranco" ;
 .
+:Another_Green_World
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Brian_Eno ;
+  bibliographica:byArtist SoloMusicArtist:Brian_Eno ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9e565733-dddf-3041-b5f3-60c4705d7a97"^^xsd:anyURI ;
+  rdfs:label "Another Green World" ;
+.
 :Another_Side_Dylan
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -345,6 +385,16 @@
   bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/a570c094-2522-3717-8236-1b6cf1863536"^^xsd:anyURI ;
   rdfs:label "Anything Anytime Anywhere (Singles 1979-2002)" ;
+.
+:Apollo_Atmospheres
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Brian_Eno ;
+  bibliographica:byArtist SoloMusicArtist:Brian_Eno ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/978ce480-cf4b-468d-985b-daee3976e7e7"^^xsd:anyURI ;
+  rdfs:label "Apollo: Atmospheres & Soundtracks" ;
 .
 :Arethas_Gold
   rdf:type mo:CD ;
@@ -725,6 +775,26 @@
   bibliographica:byArtist MusicGroup:Four_Non_Blondes ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/9154385d-5ea3-4dc6-b5bb-b7433ba32243"^^xsd:anyURI ;
   rdfs:label "Bigger, Better, Faster, More" ;
+.
+:Billies_Best
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Billie_Holiday ;
+  bibliographica:byArtist SoloMusicArtist:Billie_Holiday ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/2dd56925-4780-404d-b3d5-62987f4678c1"^^xsd:anyURI ;
+  rdfs:label "Billie’s Best" ;
+.
+:Billies_Blues
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Billie_Holiday ;
+  bibliographica:byArtist SoloMusicArtist:Billie_Holiday ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/fcc703ec-6fe1-4835-ae36-1d515272b030"^^xsd:anyURI ;
+  rdfs:label "Billie’s Blues" ;
 .
 :Biograph
   rdf:type mo:CD ;
@@ -2690,6 +2760,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/23b1c9f4-4e89-4c20-b497-517a51953e7b"^^xsd:anyURI ;
   rdfs:label "From Here to Eternity: Live" ;
 .
+:Funky_Sitar_Man
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Ravi_Harris_Prophets ;
+  bibliographica:byArtist MusicGroup:Ravi_Harris_Prophets ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d797a165-8495-46f0-8a89-07df37eb3ed7"^^xsd:anyURI ;
+  rdfs:label "Funky Sitar Man" ;
+.
 :Further_Adventures_Of
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2719,6 +2799,15 @@
   bibliographica:byArtist SoloMusicArtist:Greg_Brown ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c675171a-4c25-43be-b99d-98cc620dfa44"^^xsd:anyURI ;
   rdfs:label "Further In" ;
+.
+:Generative_Music
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Brian_Eno ;
+  bibliographica:byArtist SoloMusicArtist:Brian_Eno ;
+  rdfs:label "Generative Music" ;
 .
 :Genuine_Negro_Jig
   rdf:type mo:CD ;
@@ -2828,6 +2917,16 @@
   bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/43f420f8-44ca-3ff2-92c2-c6f285cb163b"^^xsd:anyURI ;
   rdfs:label "Good As I Been to You" ;
+.
+:Good_Dog_Happy_Man
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bill_Frisell ;
+  bibliographica:byArtist SoloMusicArtist:Bill_Frisell ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/77e5859c-f164-42b6-bb5a-6dd2724003bc"^^xsd:anyURI ;
+  rdfs:label "Good Dog, Happy Man" ;
 .
 :Good_Stuff
   rdf:type mo:CD ;
@@ -3002,6 +3101,26 @@
   bibliographica:byArtist MusicGroup:Baka_Beyond ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/30258950-da8c-4b26-b3eb-42ab828e682d"^^xsd:anyURI ;
   rdfs:label "Heart of the Forest" ;
+.
+:Here_Come_Warm_Jets
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Brian_Eno ;
+  bibliographica:byArtist SoloMusicArtist:Brian_Eno ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e890ced7-f2ab-4e07-aabd-f793e1b4c858"^^xsd:anyURI ;
+  rdfs:label "Here Come the Warm Jets" ;
+.
+:Here_Come_Noise_Makers
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bruce_Hornsby ;
+  bibliographica:byArtist SoloMusicArtist:Bruce_Hornsby ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f335ddf4-f31f-40c8-bd5b-672e0dceeabd"^^xsd:anyURI ;
+  rdfs:label "Here Come the Noise Makers" ;
 .
 :Heroes
   rdf:type mo:CD ;
@@ -3468,6 +3587,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/7ec55b56-b04f-36f9-92de-013acedf4ab8"^^xsd:anyURI ;
   rdfs:label "The Iowa Waltz" ;
 .
+:Is_That_You
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bill_Frisell ;
+  bibliographica:byArtist SoloMusicArtist:Bill_Frisell ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9dacd67b-3d67-4c82-9093-62ea9109f4a2"^^xsd:anyURI ;
+  rdfs:label "Is That You?" ;
+.
 :Jazz
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3677,6 +3806,26 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/53a6438f-7cc4-47dd-8f8a-3990e6cbdbe0"^^xsd:anyURI ;
   rdfs:label "Labyrinth" ;
 .
+:Lady_in_Autumn
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Billie_Holiday ;
+  bibliographica:byArtist SoloMusicArtist:Billie_Holiday ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9f6007b5-3f40-4d76-84c7-9daf5e2b86b8"^^xsd:anyURI ;
+  rdfs:label "Lady in Autumn: The Best of the Verve Years" ;
+.
+:Ladys_Decca_Days
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Billie_Holiday ;
+  bibliographica:byArtist SoloMusicArtist:Billie_Holiday ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/561e20b5-6bb1-4bc1-bd13-bad2881a0b01"^^xsd:anyURI ;
+  rdfs:label "Lady's Decca Days, Volume One" ;
+.
 :Larry_Carlton_CD
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3837,6 +3986,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/0f8aefe0-47e3-394b-83cd-c8e7cb85010d"^^xsd:anyURI ;
   rdfs:label "Live" ;
 .
+:Live_BF
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bill_Frisell ;
+  bibliographica:byArtist SoloMusicArtist:Bill_Frisell ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d6349333-58c2-4aa1-bc07-be5fb9877e60"^^xsd:anyURI ;
+  rdfs:label "Live" ;
+.
 :Live_Adventures
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3928,6 +4087,16 @@
   bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/9c5f68d4-0521-4edc-b62d-676d078477ee"^^xsd:anyURI ;
   rdfs:label "Live at Newport 1958" ;
+.
+:Live_at_Paradiso
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Beth_Hart ;
+  bibliographica:byArtist SoloMusicArtist:Beth_Hart ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/0dd495ee-57c6-4b2f-871b-b91891512a9b"^^xsd:anyURI ;
+  rdfs:label "Live at Paradiso" ;
 .
 :Live_At_Royalty
   rdf:type mo:CD ;
@@ -4217,6 +4386,16 @@
   bibliographica:byArtist MusicGroup:Crosby_Stills_Nash_Young ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a7780b66-8058-4d9e-af4c-1ca0e50bb7fc"^^xsd:anyURI ;
   rdfs:label "Looking Forward" ;
+.
+:Lookout_for_Hope
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bill_Frisell ;
+  bibliographica:byArtist SoloMusicArtist:Bill_Frisell ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/0cefe3fa-a5fd-41ba-9b89-ae4b2a3f26e8"^^xsd:anyURI ;
+  rdfs:label "Lookout for Hope" ;
 .
 :London_Calling
   rdf:type mo:CD ;
@@ -4831,6 +5010,18 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/7c343bdc-f9bf-4960-8830-27bb0672ab4c"^^xsd:anyURI ;
   rdfs:label "My Funny Valentine" ;
 .
+:My_Life_Bush_Ghosts
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Brian_Eno ;
+  dcterms:creator SoloMusicArtist:David_Byrne ;
+  bibliographica:byArtist SoloMusicArtist:Brian_Eno ;
+  bibliographica:byArtist SoloMusicArtist:David_Byrne ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/598d521e-0cbf-4088-927e-0bbe3ef40dd6"^^xsd:anyURI ;
+  rdfs:label "My Life in the Bush of Ghosts" ;
+.
 :Mystery_White_Boy_live
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5420,6 +5611,46 @@
   bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c49d27d3-f464-4b27-9e74-a9a408b5926b"^^xsd:anyURI ;
   rdfs:label "Quiet Nights" ;
+.
+:Quintessential_Billie_Holiday_v2
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Billie_Holiday ;
+  bibliographica:byArtist SoloMusicArtist:Billie_Holiday ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b66dec9a-e836-4cdc-9829-ec0dae9ae440"^^xsd:anyURI ;
+  rdfs:label "The Quintessential Billie Holiday, Vol. 2" ;
+.
+:Quintessential_Billie_Holiday_v5
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Billie_Holiday ;
+  bibliographica:byArtist SoloMusicArtist:Billie_Holiday ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/38932f89-2cf0-4af6-ac14-d0fd2e66189f"^^xsd:anyURI ;
+  rdfs:label "The Quintessential Billie Holiday, Vol. 5" ;
+.
+:Quintessential_Billie_Holiday_v6
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Billie_Holiday ;
+  bibliographica:byArtist SoloMusicArtist:Billie_Holiday ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e1f19810-150b-4073-a24a-64c9e58faf4a"^^xsd:anyURI ;
+  rdfs:label "The Quintessential Billie Holiday, Vol. 6" ;
+.
+:Quintessential_Billie_Holiday_v7
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Billie_Holiday ;
+  bibliographica:byArtist SoloMusicArtist:Billie_Holiday ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/18383b88-cd98-4f38-a9ea-197092f8ec72"^^xsd:anyURI ;
+  rdfs:label "The Quintessential Billie Holiday, Vol. 7" ;
 .
 :Rainbow_Concert
   rdf:type mo:CD ;
@@ -6074,6 +6305,18 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/64e8c9e5-3f0a-4b85-9a8b-1c4521563c5d"^^xsd:anyURI ;
   rdfs:label "A Few Small Repairs" ;
 .
+:Smash_Scatteration
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bill_Frisell ;
+  dcterms:creator SoloMusicArtist:Vernon_Reid ;
+  bibliographica:byArtist SoloMusicArtist:Bill_Frisell ;
+  bibliographica:byArtist SoloMusicArtist:Vernon_Reid ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5545706b-ba5b-48ab-9b68-022b450963d9"^^xsd:anyURI ;
+  rdfs:label "Smash & Scatteration" ;
+.
 :So_Much_Shouting_So_Much_Laughter
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -6264,6 +6507,18 @@
   bibliographica:byArtist SoloMusicArtist:Elvis_Costello ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/dcdd5fd1-788d-45da-8990-82c6ecd5dc76"^^xsd:anyURI ;
   rdfs:label "Spike" ;
+.
+:Spinner
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Brian_Eno ;
+  dcterms:creator SoloMusicArtist:Jah_Wobble ;
+  bibliographica:byArtist SoloMusicArtist:Brian_Eno ;
+  bibliographica:byArtist SoloMusicArtist:Jah_Wobble ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/3b6c7e5c-f6d7-4b12-8def-a786ffd1266e"^^xsd:anyURI ;
+  rdfs:label "Spinner" ;
 .
 :Spirit_in_the_Sky
   rdf:type mo:CD ;
@@ -6497,6 +6752,18 @@
   bibliographica:byArtist SoloMusicArtist:Annie_Gallup ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/445149b9-d4ba-4522-825e-035cd0bc2e4f"^^xsd:anyURI ;
   rdfs:label "Swerve" ;
+.
+:TNT_Dynamite
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Buddy_Guy ;
+  dcterms:creator SoloMusicArtist:Junior_Wells ;
+  bibliographica:byArtist SoloMusicArtist:Buddy_Guy ;
+  bibliographica:byArtist SoloMusicArtist:Junior_Wells ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e24908ef-cf56-4e0e-a8d6-14001e647ca7"^^xsd:anyURI ;
+  rdfs:label "Drinkin' TNT 'n' Smokin' Dynamite" ;
 .
 :Tales_From_the_Hudson
   rdf:type mo:CD ;
@@ -6827,6 +7094,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/fa9d2c01-1ecb-4c94-ac3f-3b57d9a2081e"^^xsd:anyURI ;
   rdfs:label "The Last Waltz" ;
 .
+:The_Legacy
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Billie_Holiday ;
+  bibliographica:byArtist SoloMusicArtist:Billie_Holiday ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/01ab06a7-49f5-4cb7-9ff6-29b998c2d9c7"^^xsd:anyURI ;
+  rdfs:label "The Legacy 1933-1958" ;
+.
 :The_Live_One
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7107,6 +7384,16 @@
   bibliographica:byArtist SoloMusicArtist:Paula_Cole ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/3b487094-e321-4c3d-9633-872719d84d9b"^^xsd:anyURI ;
   rdfs:label "This Fire" ;
+.
+:This_Land
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bill_Frisell ;
+  bibliographica:byArtist SoloMusicArtist:Bill_Frisell ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/1cc59083-6a89-4836-81a2-90956775c714"^^xsd:anyURI ;
+  rdfs:label "This Land" ;
 .
 :This_Sentence_Is_True
   rdf:type mo:CD ;
@@ -7556,6 +7843,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a485361f-b525-4543-ac0b-61c97421b13d"^^xsd:anyURI ;
   rdfs:label "Upper Extremities" ;
 .
+:Verve_Silver_Collection
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Billie_Holiday ;
+  bibliographica:byArtist SoloMusicArtist:Billie_Holiday ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/0aa514bf-5be2-475a-ac1b-0222f9d4c881"^^xsd:anyURI ;
+  rdfs:label "The Silver Collection" ;
+.
 :Victims
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7856,6 +8153,16 @@
   bibliographica:byArtist SoloMusicArtist:Jeff_Beck ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/1755f2a8-1581-43c8-a3f1-646302c0bb59"^^xsd:anyURI ;
   rdfs:label "Wired" ;
+.
+:Works
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bill_Frisell ;
+  bibliographica:byArtist SoloMusicArtist:Bill_Frisell ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/af1d4584-2aad-4344-b124-d8325efd8f2e"^^xsd:anyURI ;
+  rdfs:label "Works" ;
 .
 :World_Gone_Wrong
   rdf:type mo:CD ;
