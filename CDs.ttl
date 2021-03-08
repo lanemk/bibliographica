@@ -1374,6 +1374,18 @@
   bibliographica:byArtist SoloMusicArtist:Chante ;
   rdfs:label "Prairie Girl" ;
 .
+:Change_in_Weather
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Clive_Gregson ;
+  dcterms:creator SoloMusicArtist:Christine_Collister ;
+  bibliographica:byArtist SoloMusicArtist:Clive_Gregson ;
+  bibliographica:byArtist SoloMusicArtist:Christine_Collister ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/2f571c59-0e8c-4c3e-9ee4-63ae749457c8"^^xsd:anyURI ;
+  rdfs:label "A Change In The Weather" ;
+.
 :Charity_of_Night
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1533,6 +1545,18 @@
   bibliographica:byArtist MusicGroup:Clash ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b11870ca-7b14-4505-8164-2ceee7d11dde"^^xsd:anyURI ;
   rdfs:label "Clash on Broadway" ;
+.
+:Classic_Tenors
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Coleman_Hawkins ;
+  dcterms:creator SoloMusicArtist:Lester_Young ;
+  bibliographica:byArtist SoloMusicArtist:Coleman_Hawkins ;
+  bibliographica:byArtist SoloMusicArtist:Lester_Young ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/97e33a2f-e108-4f42-bb01-7f831912bde9"^^xsd:anyURI ;
+  rdfs:label "Classic Tenors" ;
 .
 :Classical_Soul
   rdf:type mo:CD ;
@@ -2018,6 +2042,16 @@
   bibliographica:byArtist SoloMusicArtist:David_Bowie ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/1352a8a5-2494-3f02-bfa5-496d10e04c52"^^xsd:anyURI ;
   rdfs:label "David Live" ;
+.
+:Dawgnation
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:David_Grisman_Quintet ;
+  bibliographica:byArtist MusicGroup:David_Grisman_Quintet ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/7593fea5-4f0e-4ee5-ad61-c249bbc4c560"^^xsd:anyURI ;
+  rdfs:label "Dawgnation" ;
 .
 :Dead_City_Radio
   rdf:type mo:CD ;
@@ -3082,6 +3116,16 @@
   rdfs:label "Harbourfront" ;
   rdfs:comment "Can't locate on Musicbrainz." ;
 .
+:Hawk_Eyes
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Coleman_Hawkins ;
+  bibliographica:byArtist SoloMusicArtist:Coleman_Hawkins ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/97e33a2f-e108-4f42-bb01-7f831912bde9"^^xsd:anyURI ;
+  rdfs:label "Hawk Eyes" ;
+.
 :Heart_and_Soul
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3211,6 +3255,18 @@
   bibliographica:byArtist SoloMusicArtist:Holladay_Cole ;
   rdfs:label "Holladay Cole" ;
 .
+:Home_and_Away
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Clive_Gregson ;
+  dcterms:creator SoloMusicArtist:Christine_Collister ;
+  bibliographica:byArtist SoloMusicArtist:Clive_Gregson ;
+  bibliographica:byArtist SoloMusicArtist:Christine_Collister ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a4ac31a8-2eb9-4ae2-924a-1837b41ae96d"^^xsd:anyURI ;
+  rdfs:label "Home and Away" ;
+.
 :Home_Fires
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3299,6 +3355,16 @@
   bibliographica:byArtist MusicGroup:Bad_Livers ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/325514f8-6c84-454e-a082-1801e5334730"^^xsd:anyURI ;
   rdfs:label "Horses In The Mines" ;
+.
+:Hot_Dawg
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:David_Grisman ;
+  bibliographica:byArtist SoloMusicArtist:David_Grisman ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/afb060ab-3528-4d85-9e42-94cff7acc66e"^^xsd:anyURI ;
+  rdfs:label "Hot Dawg" ;
 .
 :Hot_Pants
   rdf:type mo:CD ;
@@ -3855,6 +3921,18 @@
   bibliographica:byArtist MusicGroup:Buffalo_Springfield ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/fb39d4c7-d68c-36d1-a2c2-93fc7ccbdcc8"^^xsd:anyURI ;
   rdfs:label "Last Time Around" ;
+.
+:Last_Word
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Clive_Gregson ;
+  dcterms:creator SoloMusicArtist:Christine_Collister ;
+  bibliographica:byArtist SoloMusicArtist:Clive_Gregson ;
+  bibliographica:byArtist SoloMusicArtist:Christine_Collister ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/342c2233-f551-49bc-8148-cc0dcce065a7"^^xsd:anyURI ;
+  rdfs:label "The Last Word" ;
 .
 :Lay_It_Down
   rdf:type mo:CD ;
@@ -4447,6 +4525,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/1b5879b4-b093-45e0-9ac6-a63f24b965d3"^^xsd:anyURI ;
   rdfs:label "Lost In Space" ;
 .
+:Lost_Songs
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:David_Gray ;
+  bibliographica:byArtist SoloMusicArtist:David_Gray ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/4fd093d7-41a9-42f9-97df-10041c05d0a6"^^xsd:anyURI ;
+  rdfs:label "Lost Songs 95-98" ;
+.
 :Loud_Plowed_Live
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4486,6 +4574,18 @@
   bibliographica:byArtist SoloMusicArtist:Connie_Kaldor ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/0c307b37-f849-485b-ae2f-c2cbd1591269"^^xsd:anyURI ;
   rdfs:label "Love Is A Truck" ;
+.
+:Love_Is_Strange_Hotel
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Clive_Gregson ;
+  dcterms:creator SoloMusicArtist:Christine_Collister ;
+  bibliographica:byArtist SoloMusicArtist:Clive_Gregson ;
+  bibliographica:byArtist SoloMusicArtist:Christine_Collister ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d30028f3-dc15-4baf-b2ed-b621a2ffe8e3"^^xsd:anyURI ;
+  rdfs:label "Love Is a Strange Hotel" ;
 .
 :Love_and_Theft
   rdf:type mo:CD ;
@@ -4869,6 +4969,28 @@
   bibliographica:byArtist MusicGroup:Bombay_Black ;
   rdfs:comment "Not sure what release this is; could be Anger Management." ;
   rdfs:label "Misc" ;
+.
+:Mischief
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Clive_Gregson ;
+  dcterms:creator SoloMusicArtist:Christine_Collister ;
+  bibliographica:byArtist SoloMusicArtist:Clive_Gregson ;
+  bibliographica:byArtist SoloMusicArtist:Christine_Collister ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5d1ee880-f007-4248-b014-a000bda5148e"^^xsd:anyURI ;
+  rdfs:label "Mischief" ;
+.
+:Miss_Perfumado
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Cesaria_Evora ;
+  bibliographica:byArtist SoloMusicArtist:Cesaria_Evora ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/be6a1a44-c856-4569-b832-44c75d307f2b"^^xsd:anyURI ;
+  rdfs:label "Miss Perfumado" ;
 .
 :Mister_Heartbreak
   rdf:type mo:CD ;
@@ -5752,6 +5874,20 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c7181cf6-0e8e-4d2d-8217-768212897024"^^xsd:anyURI ;
   rdfs:label "ReTurning" ;
 .
+:Retrograss
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:David_Grisman ;
+  dcterms:creator SoloMusicArtist:John_Hartford ;
+  dcterms:creator SoloMusicArtist:Mike_Seeger ;
+  bibliographica:byArtist SoloMusicArtist:David_Grisman ;
+  bibliographica:byArtist SoloMusicArtist:John_Hartford ;
+  bibliographica:byArtist SoloMusicArtist:Mike_Seeger ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a10c3d7f-ad46-4c90-a7fc-e96b1f30fbf8"^^xsd:anyURI ;
+  rdfs:label "Retrograss" ;
+.
 :Retrospective
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5884,6 +6020,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/3fa5d226-7ecf-4751-99a5-4261d70136ea"^^xsd:anyURI ;
   rdfs:label "Rough and Ready" ;
 .
+:Rounder_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:David_Grisman ;
+  bibliographica:byArtist SoloMusicArtist:David_Grisman ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/ead94b0f-3d70-4fae-8f24-d0cb3e9883ad"^^xsd:anyURI ;
+  rdfs:label "The David Grisman Rounder CD" ;
+.
 :Rules_of_Travel
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5952,6 +6098,16 @@
   bibliographica:byArtist MusicGroup:Clash ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a42ad822-7bdc-4272-93fa-2e04e9f09ce9"^^xsd:anyURI ;
   rdfs:label "Sandinista!" ;
+.
+:Sao_Vicente
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Cesaria_Evora ;
+  bibliographica:byArtist SoloMusicArtist:Cesaria_Evora ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/616471c7-0442-47d8-bacb-054bc013d83e"^^xsd:anyURI ;
+  rdfs:label "São Vicente" ;
 .
 :Saturday_Night_Blackhawk
   rdf:type mo:CD ;
@@ -6317,6 +6473,15 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/5545706b-ba5b-48ab-9b68-022b450963d9"^^xsd:anyURI ;
   rdfs:label "Smash & Scatteration" ;
 .
+:Smokin_Java
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Darrell_Grant ;
+  bibliographica:byArtist SoloMusicArtist:Darrell_Grant ;
+  rdfs:label "Smokin' Java" ;
+.
 :So_Much_Shouting_So_Much_Laughter
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -6520,6 +6685,15 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/3b6c7e5c-f6d7-4b12-8def-a786ffd1266e"^^xsd:anyURI ;
   rdfs:label "Spinner" ;
 .
+:Spirit
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Darrell_Grant ;
+  bibliographica:byArtist SoloMusicArtist:Darrell_Grant ;
+  rdfs:label "Spirit" ;
+.
 :Spirit_in_the_Sky
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -6650,6 +6824,15 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/cf58ebaa-1834-410a-bd9d-0f0f85706a4b"^^xsd:anyURI ;
   rdfs:label "Strange Little Girls" ;
 .
+:Strange_Persuasions
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Clive_Gregson ;
+  bibliographica:byArtist SoloMusicArtist:Clive_Gregson ;
+  rdfs:label "Strange Persuasions" ;
+.
 :Stranger_to_This_Land
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -6732,6 +6915,16 @@
   bibliographica:byArtist SoloMusicArtist:Stephen_Stills ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/26fa86bf-be86-4d45-843d-4f48fc2ecfc9"^^xsd:anyURI ;
   rdfs:label "Super Session" ;
+.
+:Supreme
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Coleman_Hawkins ;
+  bibliographica:byArtist SoloMusicArtist:Coleman_Hawkins ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/415ae0d2-3608-43b3-8b70-d0764a177fe9"^^xsd:anyURI ;
+  rdfs:label "Supreme" ;
 .
 :Sweet_Dreams
   rdf:type mo:CD ;
@@ -7510,6 +7703,44 @@
   bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/2202f7cc-6ce1-3aea-85b0-163347528402"^^xsd:anyURI ;
   rdfs:label "Together Through Life" ;
+.
+:Tone_Poems
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:David_Grisman ;
+  dcterms:creator SoloMusicArtist:Tony_Rice ;
+  bibliographica:byArtist SoloMusicArtist:David_Grisman ;
+  bibliographica:byArtist SoloMusicArtist:Tony_Rice ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/8f393422-710f-4313-ac0f-aa1c2181899c"^^xsd:anyURI ;
+  rdfs:label "Tone Poems" ;
+.
+:Tone_Poems_II
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:David_Grisman ;
+  dcterms:creator SoloMusicArtist:Martin_Taylor ;
+  bibliographica:byArtist SoloMusicArtist:David_Grisman ;
+  bibliographica:byArtist SoloMusicArtist:Martin_Taylor ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/6c41d347-eb91-494e-afae-d334ea5f447b"^^xsd:anyURI ;
+  rdfs:label "Tone Poems II" ;
+.
+:Tone_Poems_III
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:David_Grisman ;
+  dcterms:creator SoloMusicArtist:Mike_Auldridge ;
+  dcterms:creator SoloMusicArtist:Bob_Brozman ;
+  bibliographica:byArtist SoloMusicArtist:David_Grisman ;
+  bibliographica:byArtist SoloMusicArtist:Mike_Auldridge ;
+  bibliographica:byArtist SoloMusicArtist:Bob_Brozman ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/8b6fea72-5e21-41dd-84b9-25c54a2c016a"^^xsd:anyURI ;
+  rdfs:label "Tone Poems III" ;
 .
 :Too_Good_to_Be_Forgotten
   rdf:type mo:CD ;

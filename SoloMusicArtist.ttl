@@ -495,6 +495,12 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/87c5dedd-371d-4a53-9f7f-80522fb7f3cb"^^xsd:anyURI ;
   rdfs:label "Björk" ;
 .
+:Bob_Brozman
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Bob_Brozman.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/e38ea6d7-825d-490f-8a5d-795e15dac7a9"^^xsd:anyURI ;
+  rdfs:label "Bob Brozman" ;
+.
 :Bob_Dylan
   rdf:type bibliographica:AlphaClassAD ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Bob_Dylan.ttl"^^xsd:anyURI ;
@@ -2746,6 +2752,13 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/e229170f-0340-44a9-a39f-f319c64bde75"^^xsd:anyURI ;
   rdfs:label "Martin Simpson" ;
 .
+:Martin_Taylor
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Martin_Taylor.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/92ebb02d-2906-4a6d-9e43-21e16b877fa1"^^xsd:anyURI ;
+  rdfs:label "Martin Taylor" ;
+.
 :Marvin_Gaye
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassEH ;
@@ -2896,6 +2909,13 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/915e673d-eff5-479a-a917-2fecfc26dc2e"^^xsd:anyURI ;
   rdfs:label "Mickey Hart" ;
 .
+:Mike_Auldridge
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Mike_Auldridge.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/a6604c40-3e7f-4090-ac6b-cbb8352df7f5"^^xsd:anyURI ;
+  rdfs:label "Mike Auldridge" ;
+.
 :Mike_Bloomfield
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassAD ;
@@ -2916,6 +2936,13 @@
   bibliographica:dbpediaURI "http://dbpedia.org/data/Mike_Scott_(musician).ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/36deef3e-384d-4cdd-9a8e-f63aa3e16878"^^xsd:anyURI ;
   rdfs:label "Mike Scott" ;
+.
+:Mike_Seeger
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Mike_Seeger.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/22baef3d-f490-43da-bea8-3a9a4d149143"^^xsd:anyURI ;
+  rdfs:label "Mike Seeger" ;
 .
 :Miles_Davis
   rdf:type mo:SoloMusicArtist ;

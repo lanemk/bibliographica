@@ -561,6 +561,13 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/01585ac5-601a-4c83-842a-877b92d62a0b"^^xsd:anyURI ;
   rdfs:label "Dave Alvin and The Guilty Men" ;
 .
+:David_Grisman_Quintet
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/David_Grisman_Quintet.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/408c9ce8-f9c4-4151-b1b7-39ddd2391982"^^xsd:anyURI ;
+  rdfs:label "The David Grisman Quintet" ;
+.
 :David_Johansen_Group
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassIL ;
