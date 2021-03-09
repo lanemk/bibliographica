@@ -677,6 +677,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/40c7238d-dd71-4542-863d-59e072225a6f"^^xsd:anyURI ;
   rdfs:label "Out of the Blues: The Best of David Bromberg" ;
 .
+:Best_of_Dexter_Gordon
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Dexter_Gordon ;
+  bibliographica:byArtist SoloMusicArtist:Dexter_Gordon ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e868a962-67a7-43e4-9e19-3cc6f17357df"^^xsd:anyURI ;
+  rdfs:label "The Best of Dexter Gordon" ;
+.
 :Best_of_Leonard_Cohen
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1125,6 +1135,16 @@
   bibliographica:byArtist SoloMusicArtist:Ben_Harper ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/4acd5fe4-d4e4-45a2-9a2b-d226df5f2933"^^xsd:anyURI ;
   rdfs:label "Both Sides of the Gun" ;
+.
+:Both_Sides_Midnight
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Dexter_Gordon ;
+  bibliographica:byArtist SoloMusicArtist:Dexter_Gordon ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/20a42bf8-9029-4a47-9246-4efc703cdc43"^^xsd:anyURI ;
+  rdfs:label "Both Sides of Midnight" ;
 .
 :Boys_for_Pele
   rdf:type mo:CD ;
@@ -1676,6 +1696,16 @@
   bibliographica:byArtist MusicGroup:Clash ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/912e77ed-015a-33cc-b6c0-fed80d9de0b7"^^xsd:anyURI ;
   rdfs:label "Combat Rock" ;
+.
+:Compact_Jazz_Duke
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Duke_Ellington ;
+  bibliographica:byArtist SoloMusicArtist:Duke_Ellington ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/67673582-c680-484a-8d6f-5dfecf1ff82a"^^xsd:anyURI ;
+  rdfs:label "Compact Jazz: Duke Ellington and Friends" ;
 .
 :Compilation_Four_Discs
   rdf:type mo:CD ;
@@ -2263,6 +2293,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/9c8acdde-5e60-4513-83a2-0bf674bcd819"^^xsd:anyURI ;
   rdfs:label "Divinities: Twelve Dances With God" ;
 .
+:Dizzy_Gillespie_Newport
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Dizzy_Gillespie ;
+  bibliographica:byArtist SoloMusicArtist:Dizzy_Gillespie ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/3c457d38-634e-4a0d-93d1-5cf2977d3f43"^^xsd:anyURI ;
+  rdfs:label "Dizzy Gillespie At Newport" ;
+.
 :Do_Re_Mi
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2463,6 +2503,30 @@
   bibliographica:byArtist SoloMusicArtist:Walter_Becker ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/fd9c2a7f-4f53-4600-85d3-d6ddcb1e865c"^^xsd:anyURI ;
   rdfs:label "11 Tracks of Whack" ;
+.
+:Ellington_Coltrane
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Duke_Ellington ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  dcterms:creator SoloMusicArtist:Duke_Ellington ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/904b56d3-8fb9-367e-ae5f-f198d2a6bb3b"^^xsd:anyURI ;
+  rdfs:label "Duke Ellington & John Coltrane Trio" ;
+.
+:Ellington_Meets_Hawkins
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Duke_Ellington ;
+  dcterms:creator SoloMusicArtist:Coleman_Hawkins ;
+  dcterms:creator SoloMusicArtist:Duke_Ellington ;
+  dcterms:creator SoloMusicArtist:Coleman_Hawkins ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5f7d4263-aff6-4405-abcf-fc9bbb332d3a"^^xsd:anyURI ;
+  rdfs:label "Duke Ellington Meets Coleman Hawkins" ;
 .
 :Emmett_Grogan_Acetates
   rdf:type mo:CD ;
@@ -2883,6 +2947,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/030eba30-be0d-4fa3-accc-6ac3cd85409c"^^xsd:anyURI ;
   rdfs:label "Get Rhythm" ;
 .
+:Gettin_Around
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Dexter_Gordon ;
+  bibliographica:byArtist SoloMusicArtist:Dexter_Gordon ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/99ff7940-a89d-4778-8892-abbc65b0bcd5"^^xsd:anyURI ;
+  rdfs:label "Gettin' Around" ;
+.
 :Girl_Like_Me
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2981,6 +3055,16 @@
   bibliographica:byArtist MusicGroup:Elvis_Costello_Attractions ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/6b056c9e-642e-4084-8716-02cd8b24cc71"^^xsd:anyURI ;
   rdfs:label "Goodbye Cruel World" ;
+.
+:Gotham_City
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Dexter_Gordon ;
+  bibliographica:byArtist SoloMusicArtist:Dexter_Gordon ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/bd23f9b2-e4ea-4b96-992d-08bafdb5b3af"^^xsd:anyURI ;
+  rdfs:label "Gotham City" ;
 .
 :Grace
   rdf:type mo:CD ;
@@ -3296,6 +3380,16 @@
   bibliographica:byArtist SoloMusicArtist:Laurie_Anderson ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/4458273b-9450-45fe-9ada-fa9e49e43b2b"^^xsd:anyURI ;
   rdfs:label "Home of the Brave" ;
+.
+:Homecoming_Village
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Dexter_Gordon ;
+  bibliographica:byArtist SoloMusicArtist:Dexter_Gordon ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f2813136-2495-4fd8-bff0-f473c0b11fd6"^^xsd:anyURI ;
+  rdfs:label "Homecoming, Live At The Village Vanguard" ;
 .
 :Homenaje
   rdf:type mo:CD ;
@@ -4256,6 +4350,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/f2c63797-efe3-46a0-b916-cebc93169eb1"^^xsd:anyURI ;
   rdfs:label "Live at Blues Alley" ;
 .
+:Live_at_Carnegie_Hall
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Dexter_Gordon ;
+  bibliographica:byArtist SoloMusicArtist:Dexter_Gordon ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a5123b52-0047-47ca-88f3-d537011a6c7e"^^xsd:anyURI ;
+  rdfs:label "Live at Carnegie Hall" ;
+.
 :Live_at_El_Macambo
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5214,6 +5318,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/0f2384c4-7ef1-426e-9fdc-efeaf2d443c5"^^xsd:anyURI ;
   rdfs:label "New Roman Times" ;
 .
+:Night_in_Tunisia
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Dizzy_Gillespie ;
+  bibliographica:byArtist SoloMusicArtist:Dizzy_Gillespie ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/4b79d9d1-4301-4c32-bc22-640ea7659d84"^^xsd:anyURI ;
+  rdfs:label "A Night In Tunisia" ;
+.
 :Night_Vision
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5223,6 +5337,36 @@
   bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/c663c0fb-c739-3191-b099-13ed01fd6df8"^^xsd:anyURI ;
   rdfs:label "Night Vision" ;
+.
+:Nights_at_Keystone_v1
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Dexter_Gordon ;
+  bibliographica:byArtist SoloMusicArtist:Dexter_Gordon ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d52baec0-62bd-48f7-a583-7c5e9b2f5d51"^^xsd:anyURI ;
+  rdfs:label "Nights at the Keystone, Volume 1" ;
+.
+:Nights_at_Keystone_v2
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Dexter_Gordon ;
+  bibliographica:byArtist SoloMusicArtist:Dexter_Gordon ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/900e43f7-e3fe-4560-a90a-fe0a4408c63b"^^xsd:anyURI ;
+  rdfs:label "Nights at the Keystone, Volume 2" ;
+.
+:Nights_at_Keystone_v3
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Dexter_Gordon ;
+  bibliographica:byArtist SoloMusicArtist:Dexter_Gordon ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/2af210d7-0597-4cfd-af7c-aac3c11a51f5"^^xsd:anyURI ;
+  rdfs:label "Nights at the Keystone, Volume 3" ;
 .
 :No_Material
   rdf:type mo:CD ;
@@ -5374,6 +5518,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/4e73212d-bfdd-4cb7-9fd7-066fd38e984d"^^xsd:anyURI ;
   rdfs:label "One Down, One Up: Live at the Half Note" ;
 .
+:One_Flight_Up
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Dexter_Gordon ;
+  bibliographica:byArtist SoloMusicArtist:Dexter_Gordon ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/1dd4d180-7dc4-4d78-b098-2561a06adc14"^^xsd:anyURI ;
+  rdfs:label "One Flight Up" ;
+.
 :One_Kind
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5443,6 +5597,16 @@
   bibliographica:byArtist MusicGroup:Bad_Company ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/191f7ef5-d208-4959-8422-1159844bebb3"^^xsd:anyURI ;
   rdfs:label "The ‘Original’ Bad Co. Anthology" ;
+.
+:Other_Side_Round_Midnight
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Dexter_Gordon ;
+  bibliographica:byArtist SoloMusicArtist:Dexter_Gordon ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/7437d8af-bd07-44e9-98b4-deace01b515b"^^xsd:anyURI ;
+  rdfs:label "The Other Side Of Round Midnight" ;
 .
 :Our_Beloved_Revolutionary
   rdf:type mo:CD ;
@@ -5683,6 +5847,16 @@
   bibliographica:byArtist SoloMusicArtist:Trey_Anastasio ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c4144425-e510-4289-9653-22d6c85d0aa5"^^xsd:anyURI ;
   rdfs:label "Plasma" ;
+.
+:Plays_in_Paris
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Dizzy_Gillespie ;
+  bibliographica:byArtist SoloMusicArtist:Dizzy_Gillespie ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a52de013-9bba-4858-b58f-0178cc026f83"^^xsd:anyURI ;
+  rdfs:label "Plays in Paris" ;
 .
 :Prairie_Home_Invasion
   rdf:type mo:CD ;
@@ -6574,6 +6748,15 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/839e4f2e-a089-4dc4-9375-36c2b8ffd249"^^xsd:anyURI ;
   rdfs:label "Songs of our Fathers" ;
 .
+:Sonny_Lester_Collection
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Dizzy_Gillespie ;
+  bibliographica:byArtist SoloMusicArtist:Dizzy_Gillespie ;
+  rdfs:label "Sonny Lester Collection" ;
+.
 :Sorcerer
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7408,6 +7591,16 @@
   bibliographica:byArtist SoloMusicArtist:Ali_Farka_Toure ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a21f909e-d675-4302-a143-2914bf3285a3"^^xsd:anyURI ;
   rdfs:label "The Source" ;
+.
+:The_Squirrel
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Dexter_Gordon ;
+  bibliographica:byArtist SoloMusicArtist:Dexter_Gordon ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/7301e872-b064-495e-ab97-f38febfb27e0"^^xsd:anyURI ;
+  rdfs:label "The Squirrel" ;
 .
 :The_Wheel
   rdf:type mo:CD ;
@@ -8424,6 +8617,16 @@
   bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/4abb4993-7960-3331-8535-471c71cf9d76"^^xsd:anyURI ;
   rdfs:label "World of Wonders" ;
+.
+:XXL_Left_Bank
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Dexter_Gordon ;
+  bibliographica:byArtist SoloMusicArtist:Dexter_Gordon ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e7bb2d6b-29d6-45ee-a29e-fffbe2142423"^^xsd:anyURI ;
+  rdfs:label "XXL: Live at the Left Bank" ;
 .
 :Year_of_the_Cat
   rdf:type mo:CD ;
