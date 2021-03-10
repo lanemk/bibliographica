@@ -665,7 +665,7 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/f46bd570-5768-462e-b84c-c7c993bbf47e"^^xsd:anyURI ;
   rdfs:label "The Eagles" ;
 .
-:Easy_Star_All-Stars
+:Easy_Star_All_Stars
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassEH ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Easy_Star_All-Stars.ttl"^^xsd:anyURI ;

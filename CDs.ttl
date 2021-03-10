@@ -66,6 +66,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d0511f81-348f-3778-aa3e-8d30221980d2"^^xsd:anyURI ;
   rdfs:label "ABoneCroneDrone" ;
 .
+:Acoustic
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Everything_but_the_Girl ;
+  bibliographica:byArtist MusicGroup:Everything_but_the_Girl ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/84cd3aa7-55d8-4114-92be-18800688c0ed"^^xsd:anyURI ;
+  rdfs:label "Acoustic" ;
+.
 :Acoustic_Band_Alive
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -366,6 +376,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/df329032-9dc4-39bf-b70e-127c8ae1c2b1"^^xsd:anyURI ;
   rdfs:label "Bad Company ‘Original’ Anthology" ;
 .
+:Anthology_Emmylou_Harris
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Emmylou_Harris ;
+  bibliographica:byArtist SoloMusicArtist:Emmylou_Harris ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e4ac9f81-bd10-488b-9b29-79f45aacfc20"^^xsd:anyURI ;
+  rdfs:label "Anthology: The Warner/Reprise Years" ;
+.
 :Anthology_Laurie_Anderson
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -597,6 +617,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b1c591ab-1cc6-472f-b7b2-f36be51b182e"^^xsd:anyURI ;
   rdfs:label "Bawdy Sea Chanties" ;
 .
+:Be_Yourself_Tonight
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Eurythmics ;
+  bibliographica:byArtist MusicGroup:Eurythmics ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/54daca91-4e82-320e-8aa8-1896e46bf69e"^^xsd:anyURI ;
+  rdfs:label "Be Yourself Tonight" ;
+.
 :Beautysleep
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -628,6 +658,16 @@
   bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/d11eff0d-e0e7-35f4-b114-c90910028333"^^xsd:anyURI ;
   rdfs:label "Before the Flood" ;
+.
+:Before_the_Moon
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Fairport_Convention ;
+  bibliographica:byArtist MusicGroup:Fairport_Convention ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/32250a4b-1cc6-4cfa-a148-5ac819bd340b"^^xsd:anyURI ;
+  rdfs:label "Before the Moon" ;
 .
 :Bend_Without_Breaking
   rdf:type mo:CD ;
@@ -1929,6 +1969,36 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/bb4eb994-5863-47d2-b040-e2834110b667"^^xsd:anyURI ;
   rdfs:label "Crescent" ;
 .
+:Cropredy_2002
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Fairport_Convention ;
+  bibliographica:byArtist MusicGroup:Fairport_Convention ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a62b6bc8-af5a-4479-862b-f207d24e4a66"^^xsd:anyURI ;
+  rdfs:label "Cropredy 2002 : Another Gig : Another Palindrome" ;
+.
+:Cropredy_Box
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Fairport_Convention ;
+  bibliographica:byArtist MusicGroup:Fairport_Convention ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/ce4a696a-0016-46a8-b9c3-368aa5057f86"^^xsd:anyURI ;
+  rdfs:label "The Cropredy Box" ;
+.
+:Cropredy_Capers
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Fairport_Convention ;
+  bibliographica:byArtist MusicGroup:Fairport_Convention ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9c5b2b35-ceee-4152-94e4-758749b35f63"^^xsd:anyURI ;
+  rdfs:label "Cropredy Capers: Twenty Five Years of Fairport Convention and Friends at Cropredy Festival" ;
+.
 :Crossing_Jordan_CD
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1998,6 +2068,15 @@
   bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/ba5f83b8-90cb-306c-b445-ca4bf0d6eb03"^^xsd:anyURI ;
   rdfs:label "Dancing in the Dragon's Jaws" ;
+.
+:Dancing_in_Trance
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Endangered_Species ;
+  bibliographica:byArtist MusicGroup:Endangered_Species ;
+  rdfs:label "Dancing In The Trance" ;
 .
 :Dakar
   rdf:type mo:CD ;
@@ -2421,6 +2500,26 @@
   bibliographica:byArtist SoloMusicArtist:Nurudafina_Pili_Adena ;
   rdfs:label "Drum Call" ;
 .
+:Dub_Side_Moon
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Easy_Star_All_Stars ;
+  bibliographica:byArtist MusicGroup:Easy_Star_All_Stars ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5c285b48-a2ee-4328-9398-d7b971272c05"^^xsd:anyURI ;
+  rdfs:label "Dub Side of the Moon" ;
+.
+:Duets
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Emmylou_Harris ;
+  bibliographica:byArtist SoloMusicArtist:Emmylou_Harris ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/3ee293e6-f8fa-402a-9e68-b5614ebaf006"^^xsd:anyURI ;
+  rdfs:label "Duets" ;
+.
 :Dylan_Cash_Sessions
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2504,6 +2603,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/fd9c2a7f-4f53-4600-85d3-d6ddcb1e865c"^^xsd:anyURI ;
   rdfs:label "11 Tracks of Whack" ;
 .
+:Elite_Hotel
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Emmylou_Harris ;
+  bibliographica:byArtist SoloMusicArtist:Emmylou_Harris ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/25d144a4-b8ed-46f5-bef4-21b266dc1332"^^xsd:anyURI ;
+  rdfs:label "Elite Hotel" ;
+.
 :Ellington_Coltrane
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2537,6 +2646,15 @@
   bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d05fa3ed-3cd3-48d5-95e0-48f90882d476"^^xsd:anyURI ;
   rdfs:label "Emmett Grogan Acetates" ;
+.
+:Emmylou
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Emmylou_Harris ;
+  bibliographica:byArtist SoloMusicArtist:Emmylou_Harris ;
+  rdfs:label "emmylou" ;
 .
 :Empire_Burlesque
   rdf:type mo:CD ;
@@ -2597,6 +2715,16 @@
   bibliographica:byArtist SoloMusicArtist:Eva_Cassidy ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e8e9c42a-7f80-4f7f-b388-9e9bbe35d8ac"^^xsd:anyURI ;
   rdfs:label "Eva By Heart" ;
+.
+:Fairport_Convention_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Fairport_Convention ;
+  bibliographica:byArtist MusicGroup:Fairport_Convention ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c1547cfe-52c2-3ff2-a487-d7a27f2f5c68"^^xsd:anyURI ;
+  rdfs:label "Fairport Convention" ;
 .
 :Family_Man
   rdf:type mo:CD ;
@@ -2857,6 +2985,16 @@
   bibliographica:byArtist MusicGroup:Clash ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/23b1c9f4-4e89-4c20-b497-517a51953e7b"^^xsd:anyURI ;
   rdfs:label "From Here to Eternity: Live" ;
+.
+:Full_House
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Fairport_Convention ;
+  bibliographica:byArtist MusicGroup:Fairport_Convention ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/168e1820-028a-3237-b6f7-5e4413e2336f"^^xsd:anyURI ;
+  rdfs:label "Full House" ;
 .
 :Funky_Sitar_Man
   rdf:type mo:CD ;
@@ -3280,6 +3418,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e9a5e3b0-69b2-4584-a29b-b383286d9f1a"^^xsd:anyURI ;
   rdfs:label "Hey Man... Smell My Finger" ;
 .
+:Heyday_BBC
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Fairport_Convention ;
+  bibliographica:byArtist MusicGroup:Fairport_Convention ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b1dfd603-67d2-44a3-b043-8af8cd23e76d"^^xsd:anyURI ;
+  rdfs:label "Heyday: BBC Radio Sessions 1968-1969" ;
+.
 :Hidden_Harvest
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3470,6 +3618,26 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/fbd2ef1b-c9d9-4fc9-a05c-b456ea5ddefb"^^xsd:anyURI ;
   rdfs:label "Hot Pants" ;
 .
+:Hotel_California
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Eagles ;
+  bibliographica:byArtist MusicGroup:Eagles ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/304a548c-85a2-3926-8379-cdbfdf891a12"^^xsd:anyURI ;
+  rdfs:label "Hotel California" ;
+.
+:House_Full
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Fairport_Convention ;
+  bibliographica:byArtist MusicGroup:Fairport_Convention ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9a54a18e-dd4c-3962-ad51-b0e19d5af0af"^^xsd:anyURI ;
+  rdfs:label "House Full" ;
+.
 :House_of_Hope
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3530,6 +3698,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/ed2498fe-7fe2-4c24-99f4-05dd2bbea157"^^xsd:anyURI ;
   rdfs:label "I'd Like a Virgin" ;
 .
+:Idewild
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Everything_but_the_Girl ;
+  bibliographica:byArtist MusicGroup:Everything_but_the_Girl ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/833e5d60-d082-4030-b072-5ec35bb8a3e3"^^xsd:anyURI ;
+  rdfs:label "Idewild" ;
+.
 :Ive_Been_Everywhere
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3558,6 +3736,16 @@
   bibliographica:byArtist SoloMusicArtist:Jello_Biafra ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/58341600-22ee-4d94-9633-63e6d173e82f"^^xsd:anyURI ;
   rdfs:label "I Blow Minds for a Living" ;
+.
+:I_Just_Cant_Stop_It
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:English_Beat ;
+  bibliographica:byArtist MusicGroup:English_Beat ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/0248c59e-1c5f-412c-beb9-36eb8ac5cfd6"^^xsd:anyURI ;
+  rdfs:label "I Just Can't Stop It" ;
 .
 :I_Need_A_Gun_And_A_Drunk
   rdf:type mo:CD ;
@@ -3637,6 +3825,16 @@
   bibliographica:byArtist MusicGroup:Ten_Thousand_Maniacs ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/53349b3c-d994-465e-a317-01853338178b"^^xsd:anyURI ;
   rdfs:label "In My Tribe" ;
+.
+:In_Real_Time
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Fairport_Convention ;
+  bibliographica:byArtist MusicGroup:Fairport_Convention ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d4f87fda-feed-4c6d-9bd6-8416d73f2a86"^^xsd:anyURI ;
+  rdfs:label "In Real Time: Live '87" ;
 .
 :In_the_Falling_Dark
   rdf:type mo:CD ;
@@ -3796,6 +3994,16 @@
   bibliographica:byArtist SoloMusicArtist:Clifford_Brown ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/09a540e2-8a84-4124-bacf-76693aead849"^^xsd:anyURI ;
   rdfs:label "Jazz 'Round Midnight" ;
+.
+:Jewel_in_Crown
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Fairport_Convention ;
+  bibliographica:byArtist MusicGroup:Fairport_Convention ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/34155b84-b772-4c9f-8f4b-e559e38e32e3"^^xsd:anyURI ;
+  rdfs:label "Jewel in the Crown" ;
 .
 :Joan_Armatrading_CD
   rdf:type mo:CD ;
@@ -4088,6 +4296,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b8f697e9-5f44-4ff9-82b4-87e7a509e978"^^xsd:anyURI ;
   rdfs:label "Lick My Decals Off, Baby" ;
 .
+:Liege_and_Lief
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Fairport_Convention ;
+  bibliographica:byArtist MusicGroup:Fairport_Convention ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b68bf54c-5e26-410e-984f-dc5b720b7526"^^xsd:anyURI ;
+  rdfs:label "Liege & Lief" ;
+.
 :Life_Short_Call_Now
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4239,6 +4457,17 @@
   bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/53851af0-de37-4bd8-9e2a-e8e664de4003"^^xsd:anyURI ;
   rdfs:label "Live Miles: More Music From the Legendary Carnegie Hall Concert" ;
+.
+:Live_at_Cropredy
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Fairport_Convention ;
+  bibliographica:byArtist MusicGroup:Fairport_Convention ;
+  dcterms:creator SoloMusicArtist:Richard_Thompson ;
+  bibliographica:byArtist SoloMusicArtist:Richard_Thompson ;
+  rdfs:label "Live at Cropredy" ;
 .
 :Live_at_Fillmore_East
   rdf:type mo:CD ;
@@ -4731,6 +4960,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/02e2a2f6-0da2-34cb-8e65-a05447ed1994"^^xsd:anyURI ;
   rdfs:label "Low" ;
 .
+:Luxury_Liner
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Emmylou_Harris ;
+  bibliographica:byArtist SoloMusicArtist:Emmylou_Harris ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/640b080f-4e7c-4447-8169-8809bcfe32dc"^^xsd:anyURI ;
+  rdfs:label "Luxury Liner" ;
+.
 :MTV_Unplugged
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4780,6 +5019,16 @@
   bibliographica:byArtist SoloMusicArtist:DGary ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/6cd3293d-1fe5-4c0b-b3cc-216be034c87f"^^xsd:anyURI ;
   rdfs:label "Malagasy Guitar" ;
+.
+:Mama_Mosambiki
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Eyuphuro ;
+  bibliographica:byArtist MusicGroup:Eyuphuro ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/37acce6a-1c60-4ee6-abb5-0c931217bb3c"^^xsd:anyURI ;
+  rdfs:label "Mama Mosambiki" ;
 .
 :Mamas_Gun
   rdf:type mo:CD ;
@@ -4891,6 +5140,16 @@
   bibliographica:byArtist SoloMusicArtist:Annie_Lennox ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/55229cad-2f4f-4b02-8530-7e9d199018fc"^^xsd:anyURI ;
   rdfs:label "Medusa" ;
+.
+:Moat_on_Ledge
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Fairport_Convention ;
+  bibliographica:byArtist MusicGroup:Fairport_Convention ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/532d55f6-2d7b-4d08-b01e-106e1510a9bd"^^xsd:anyURI ;
+  rdfs:label "Moat on the Ledge" ;
 .
 :Meeting_By_River
   rdf:type mo:CD ;
@@ -5798,6 +6057,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/f3ae3377-8a18-41c9-b745-ff6053bb65e5"^^xsd:anyURI ;
   rdfs:label "Pick Up On This!" ;
 .
+:Pieces_of_Sky
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Emmylou_Harris ;
+  bibliographica:byArtist SoloMusicArtist:Emmylou_Harris ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/6ec58426-57a5-4af3-8011-a4032d48211f"^^xsd:anyURI ;
+  rdfs:label "Pieces of the Sky" ;
+.
 :Pieta_Brown_CD
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5998,6 +6267,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/1ebf8024-e2d9-3186-aa40-1f292a4ffa6c"^^xsd:anyURI ;
   rdfs:label "Reckoning/Revelling" ;
 .
+:Red_and_Gold
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Fairport_Convention ;
+  bibliographica:byArtist MusicGroup:Fairport_Convention ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/00e36e59-d2cd-3339-8b16-cdeb609291a8"^^xsd:anyURI ;
+  rdfs:label "Red & Gold" ;
+.
 :Red_Desert_Sky
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -6007,6 +6286,16 @@
   bibliographica:byArtist MusicGroup:Dead_Ringer_Band ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/9e251e3a-b04d-4c30-9494-de52b84bed98"^^xsd:anyURI ;
   rdfs:label "Red Desert Sky" ;
+.
+:Red_Dirt_Girl
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Emmylou_Harris ;
+  bibliographica:byArtist SoloMusicArtist:Emmylou_Harris ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/41ced0c2-94e2-4987-a3f8-2867c904c553"^^xsd:anyURI ;
+  rdfs:label "Red Dirt Girl" ;
 .
 :Regina_Carter_CD
   rdf:type mo:CD ;
@@ -6161,6 +6450,16 @@
   bibliographica:byArtist SoloMusicArtist:Luka_Bloom ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/7da06982-bbeb-4033-a6b6-a7161f19c518"^^xsd:anyURI ;
   rdfs:label "Riverside" ;
+.
+:Rising_For_Moon
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Fairport_Convention ;
+  bibliographica:byArtist MusicGroup:Fairport_Convention ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/63418eb7-79a5-4437-bc10-f920503024f5"^^xsd:anyURI ;
+  rdfs:label "Rising for the Moon" ;
 .
 :Rock_Of_Ages
   rdf:type mo:CD ;
@@ -6484,6 +6783,16 @@
   bibliographica:byArtist SoloMusicArtist:Adrian_Belew ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c28052f6-e133-3e90-aa7e-ac5727d649d6"^^xsd:anyURI ;
   rdfs:label "Side One" ;
+.
+:Sings_Cole_Porter
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ella_Fitzgerald ;
+  bibliographica:byArtist SoloMusicArtist:Ella_Fitzgerald ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d235f8b1-84c0-4b82-8f1a-4363d0091968"^^xsd:anyURI ;
+  rdfs:label "Ella Fitzgerald Sings the Cole Porter Song Book" ;
 .
 :Sings_Leonard_Cohen
   rdf:type mo:CD ;
@@ -6907,6 +7216,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/cd30cc39-3855-3e83-ab92-623831c66829"^^xsd:anyURI ;
   rdfs:label "Spirit of the Forest" ;
 .
+:Spyboy
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Emmylou_Harris ;
+  bibliographica:byArtist SoloMusicArtist:Emmylou_Harris ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/104ec1b8-adb5-4f4a-af80-9041ddc55bf0"^^xsd:anyURI ;
+  rdfs:label "Spyboy" ;
+.
 :Stage
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7054,6 +7373,16 @@
   bibliographica:byArtist SoloMusicArtist:Robert_Cray ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/201f1501-368e-4529-8146-ad9232bcb297"^^xsd:anyURI ;
   rdfs:label "Strong Persuader" ;
+.
+:Stumble_Into_Grace
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Emmylou_Harris ;
+  bibliographica:byArtist SoloMusicArtist:Emmylou_Harris ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/cc3c00a5-d6fd-43d2-add9-f9eaffd1fda4"^^xsd:anyURI ;
+  rdfs:label "Stumble Into Grace" ;
 .
 :Sun_Ship
   rdf:type mo:CD ;
@@ -7662,6 +7991,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/0e2a8f50-4ab1-3761-9c5c-6b53b2d63521"^^xsd:anyURI ;
   rdfs:label "The Woman's Boat" ;
 .
+:Their_Greatest_Hits
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Eagles ;
+  bibliographica:byArtist MusicGroup:Eagles ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/bfea3a29-e5bd-36c4-9feb-f13dd6cbbb69"^^xsd:anyURI ;
+  rdfs:label "Their Greatest Hits 1971–1975" ;
+.
 :Theme_Time_Radio_Hour
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7811,6 +8150,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/ede793b4-4976-3b7a-ba3b-fde6801de64c"^^xsd:anyURI ;
   rdfs:label "3 Years, 5 Months & 2 Days in the Life of…" ;
 .
+:Through_Looking_Glass
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Eliza_Gilkyson ;
+  bibliographica:byArtist SoloMusicArtist:Eliza_Gilkyson ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/00eef7ce-64a2-455e-97c9-3adcfcb73669"^^xsd:anyURI ;
+  rdfs:label "Through the Looking Glass" ;
+.
 :Time_No_Reply
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7840,6 +8189,16 @@
   bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/dad1dada-1fda-3186-beb7-3bc80e90f9e0"^^xsd:anyURI ;
   rdfs:label "Time Out of Mind" ;
+.
+:Tipplers_Tales
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Fairport_Convention ;
+  bibliographica:byArtist MusicGroup:Fairport_Convention ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d95e019c-d94b-4776-9810-a0d915ce4559"^^xsd:anyURI ;
+  rdfs:label "Tipplers Tales" ;
 .
 :To_Kingdom_Come
   rdf:type mo:CD ;
@@ -8114,6 +8473,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/6ddcaf4c-d7e7-47f6-89c3-b28716bf79d0"^^xsd:anyURI ;
   rdfs:label "Twang Bar King" ;
 .
+:Twenty_Fifth_Anniv_Concert
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Fairport_Convention ;
+  bibliographica:byArtist MusicGroup:Fairport_Convention ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/05550067-18c3-45c0-b964-46357fdf36b2"^^xsd:anyURI ;
+  rdfs:label "25th Anniversary Concert" ;
+.
 :Twenty_Greatest_Hits
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -8194,6 +8563,16 @@
   bibliographica:byArtist SoloMusicArtist:Dave_Davies ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/3284e038-a18a-46e0-a311-7dc0c9d714f1"^^xsd:anyURI ;
   rdfs:label "Unfinished Business: Dave Davies Kronikles, 1963|1998" ;
+.
+:Unhalfbricking
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Fairport_Convention ;
+  bibliographica:byArtist MusicGroup:Fairport_Convention ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/def57daf-3f7c-4614-a302-3bd8083d41a7"^^xsd:anyURI ;
+  rdfs:label "Unhalfbricking" ;
 .
 :Union
   rdf:type mo:CD ;
@@ -8347,6 +8726,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/4942576d-9f1a-467e-9b13-b710dc77e187"^^xsd:anyURI ;
   rdfs:label "Waltzie" ;
 .
+:Watermark
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Enya ;
+  bibliographica:byArtist SoloMusicArtist:Enya ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c57034fa-c08b-4aaa-bcaa-b207ba760de9"^^xsd:anyURI ;
+  rdfs:label "Watermark" ;
+.
 :Way_to_Blue
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -8396,6 +8785,16 @@
   bibliographica:byArtist SoloMusicArtist:Ben_Harper ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/5ec54bef-a930-3842-89f1-395c26b4d42a"^^xsd:anyURI ;
   rdfs:label "Welcome to the Cruel World" ;
+.
+:What_We_Did_Holidays
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Fairport_Convention ;
+  bibliographica:byArtist MusicGroup:Fairport_Convention ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/21e5d2c3-5223-4744-8d4d-a43ff3c3aa8b"^^xsd:anyURI ;
+  rdfs:label "What We Did on Our Holidays" ;
 .
 :Whatevers_For_Us
   rdf:type mo:CD ;
@@ -8498,6 +8897,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/034e0c73-c2df-328b-861c-3db28217aeed"^^xsd:anyURI ;
   rdfs:label "The Beatles (“The White Album”)" ;
 .
+:Who_Knows_Where_Time_Goes
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Fairport_Convention ;
+  bibliographica:byArtist MusicGroup:Fairport_Convention ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b6e0adcf-79d3-49a8-b777-72ead8527fb5"^^xsd:anyURI ;
+  rdfs:label "Who Knows Where the Time Goes?" ;
+.
 :Who_Got_The_10_1_2
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -8578,6 +8987,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/1755f2a8-1581-43c8-a3f1-646302c0bb59"^^xsd:anyURI ;
   rdfs:label "Wired" ;
 .
+:Fairport_Unconventional
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Fairport_Convention ;
+  bibliographica:byArtist MusicGroup:Fairport_Convention ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/512c8445-223f-4124-9c4a-edb346aa05a2"^^xsd:anyURI ;
+  rdfs:label "Fairport Unconventional" ;
+.
 :Works
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -8617,6 +9036,16 @@
   bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/4abb4993-7960-3331-8535-471c71cf9d76"^^xsd:anyURI ;
   rdfs:label "World of Wonders" ;
+.
+:Wrecking_Ball
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Emmylou_Harris ;
+  bibliographica:byArtist SoloMusicArtist:Emmylou_Harris ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5356227c-f489-4dd8-aeee-621866b1882c"^^xsd:anyURI ;
+  rdfs:label "Wrecking Ball" ;
 .
 :XXL_Left_Bank
   rdf:type mo:CD ;
