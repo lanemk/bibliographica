@@ -146,6 +146,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/bc0307b3-229a-4952-ab70-d6b95010d6c6"^^xsd:anyURI ;
   rdfs:label "Alice's Restaurant" ;
 .
+:All_Things_Must_Pass
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:George_Harrison ;
+  bibliographica:byArtist SoloMusicArtist:George_Harrison ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9690e98d-d226-3e79-b206-7bfd2c1c15bf"^^xsd:anyURI ;
+  rdfs:label "All Things Must Pass" ;
+.
 :All_Understood
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -155,6 +165,16 @@
   bibliographica:byArtist MusicGroup:Buchanan ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/37668bae-12e8-312e-8a75-5746a27f4d3a"^^xsd:anyURI ;
   rdfs:label "All Understood" ;
+.
+:Allegria
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Gipsy_Kings ;
+  bibliographica:byArtist MusicGroup:Gipsy_Kings ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5ba8fcbc-2d64-4298-a122-a355707214f8"^^xsd:anyURI ;
+  rdfs:label "Allegria" ;
 .
 :Allies
   rdf:type mo:CD ;
@@ -726,6 +746,16 @@
   bibliographica:byArtist SoloMusicArtist:Dexter_Gordon ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e868a962-67a7-43e4-9e19-3cc6f17357df"^^xsd:anyURI ;
   rdfs:label "The Best of Dexter Gordon" ;
+.
+:Best_of_Freddie_Hubbard
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Freddie_Hubbard ;
+  bibliographica:byArtist SoloMusicArtist:Freddie_Hubbard ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f9b1745a-e2f4-4a22-b2c9-68b0b51d3e3d"^^xsd:anyURI ;
+  rdfs:label "The Best of Freddie Hubbard" ;
 .
 :Best_of_Leonard_Cohen
   rdf:type mo:CD ;
@@ -1807,6 +1837,16 @@
   bibliographica:byArtist SoloMusicArtist:Wilbur_Harden ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d65a76a3-a44e-4c17-9d3d-904dcfab9a5a"^^xsd:anyURI ;
   rdfs:label "The Complete Savoy Sessions" ;
+.
+:Concert_For_Bangladesh
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:George_Harrison ;
+  bibliographica:byArtist SoloMusicArtist:George_Harrison ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/078b1ccf-0db9-46ed-a645-4278e384f575"^^xsd:anyURI ;
+  rdfs:label "The Concert for Bangladesh" ;
 .
 :Concrete_Blonde_CD
   rdf:type mo:CD ;
@@ -2966,6 +3006,18 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/34d413e6-678b-3c6d-8205-2f82cc4e1e6f"^^xsd:anyURI ;
   rdfs:label "Friends" ;
 .
+:Friends_and_Enemies
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Fred_Frith ;
+  dcterms:creator SoloMusicArtist:Henry_Kaiser ;
+  bibliographica:byArtist SoloMusicArtist:Fred_Frith ;
+  bibliographica:byArtist SoloMusicArtist:Henry_Kaiser ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a54cfe28-1e1a-4991-bbce-8a8e8ee2a004"^^xsd:anyURI ;
+  rdfs:label "Friends & Enemies" ;
+.
 :From_Choirgirl_Hotel
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2995,6 +3047,16 @@
   bibliographica:byArtist MusicGroup:Fairport_Convention ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/168e1820-028a-3237-b6f7-5e4413e2336f"^^xsd:anyURI ;
   rdfs:label "Full House" ;
+.
+:Funk_Inc_1971
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Funk_Inc ;
+  bibliographica:byArtist MusicGroup:Funk_Inc ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5ef533fd-1257-4a00-8b89-87daf7fb7307"^^xsd:anyURI ;
+  rdfs:label "Funk, Inc." ;
 .
 :Funky_Sitar_Man
   rdf:type mo:CD ;
@@ -3243,6 +3305,16 @@
   bibliographica:byArtist SoloMusicArtist:Alejandro_Escovedo ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/30183d1e-5e82-4e4e-aa21-24acb295d0d3"^^xsd:anyURI ;
   rdfs:label "Gravity (bonus disc)" ;
+.
+:Gravity_FF
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Fred_Frith ;
+  bibliographica:byArtist SoloMusicArtist:Fred_Frith ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/be81c7e1-3488-45de-bd25-8aeaad8a3fad"^^xsd:anyURI ;
+  rdfs:label "Gravity" ;
 .
 :Great_Summit
   rdf:type mo:CD ;
@@ -3598,6 +3670,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/325514f8-6c84-454e-a082-1801e5334730"^^xsd:anyURI ;
   rdfs:label "Horses In The Mines" ;
 .
+:Hot_Burritos
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Flying_Burrito_Brothers ;
+  bibliographica:byArtist MusicGroup:Flying_Burrito_Brothers ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/234fcc00-8912-456a-8fa6-e74d9afd0449"^^xsd:anyURI ;
+  rdfs:label "Hot Burritos! Anthology: 1969-1972" ;
+.
 :Hot_Dawg
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3866,6 +3948,15 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/3bafdd01-b13d-4d27-8625-8a7fba81c096"^^xsd:anyURI ;
   rdfs:label "In the Mouth of the Crocodile: Live in Seattle" ;
 .
+:Indecent
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Faith_No_More ;
+  bibliographica:byArtist MusicGroup:Faith_No_More ;
+  rdfs:label "Indecent" ;
+.
 :Infamous_Angel
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3934,6 +4025,16 @@
   bibliographica:byArtist SoloMusicArtist:Ry_Cooder ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/33fe641f-2459-3049-8edd-ad0167e6f59b"^^xsd:anyURI ;
   rdfs:label "Into The Purple Valley" ;
+.
+:Invisible_Means
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:French_Frith_Kaiser_Thompson ;
+  bibliographica:byArtist MusicGroup:French_Frith_Kaiser_Thompson ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f9fb142f-82ef-4426-83b7-6b886c92698e"^^xsd:anyURI ;
+  rdfs:label "Invisible Means" ;
 .
 :Iowa_Waltz
   rdf:type mo:CD ;
@@ -4085,6 +4186,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b42705ad-218f-46b0-8483-fdc8917081ad"^^xsd:anyURI ;
   rdfs:label "Juju Music" ;
 .
+:Keep_the_Dog
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Fred_Frith ;
+  bibliographica:byArtist SoloMusicArtist:Fred_Frith ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/07264117-6a5d-4400-857d-56dade30ceb3"^^xsd:anyURI ;
+  rdfs:label "Keep the Dog: That House We Lived In" ;
+.
 :Keeper_of_Flame
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4194,6 +4305,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/561e20b5-6bb1-4bc1-bd13-bad2881a0b01"^^xsd:anyURI ;
   rdfs:label "Lady's Decca Days, Volume One" ;
 .
+:Lamb_Lies_Down_Broadway
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Genesis ;
+  bibliographica:byArtist MusicGroup:Genesis ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/05d1e408-2d0c-49ce-97ca-5b7bdc308b9c"^^xsd:anyURI ;
+  rdfs:label "The Lamb Lies Down on Broadway" ;
+.
 :Larry_Carlton_CD
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4285,6 +4406,15 @@
   bibliographica:byArtist SoloMusicArtist:Tracy_Chapman ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/fa0d9560-3cde-4733-b0e5-5a5bea253027"^^xsd:anyURI ;
   rdfs:label "Let It Rain" ;
+.
+:Let_Me_Tell_Story
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Felina ;
+  bibliographica:byArtist SoloMusicArtist:Felina ;
+  rdfs:label "Let Me Tell You a Story" ;
 .
 :Lick_My_Decals
   rdf:type mo:CD ;
@@ -4385,6 +4515,16 @@
   bibliographica:byArtist SoloMusicArtist:Bill_Frisell ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d6349333-58c2-4aa1-bc07-be5fb9877e60"^^xsd:anyURI ;
   rdfs:label "Live" ;
+.
+:Live_GK
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Gipsy_Kings ;
+  bibliographica:byArtist MusicGroup:Gipsy_Kings ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/bf9d860f-a99b-41f9-9357-e98516d5552e"^^xsd:anyURI ;
+  rdfs:label "Gipsy Kings Live" ;
 .
 :Live_Adventures
   rdf:type mo:CD ;
@@ -4718,6 +4858,16 @@
   bibliographica:byArtist SoloMusicArtist:Jeff_Beck ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/95420b2e-d645-4582-b7ad-6c5f28bfec76"^^xsd:anyURI ;
   rdfs:label "Jeff Beck with the Jan Hammer Group Live" ;
+.
+:Live_Love_Larf_Loaf
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:French_Frith_Kaiser_Thompson ;
+  bibliographica:byArtist MusicGroup:French_Frith_Kaiser_Thompson ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b03f8087-f951-4f0b-a0b1-8e1dd41d9427"^^xsd:anyURI ;
+  rdfs:label "Live, Love, Larf, & Loaf" ;
 .
 :Living_In_Clip
   rdf:type mo:CD ;
@@ -5827,6 +5977,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a9abedf5-06aa-433c-b79c-9f8c51be0f5b"^^xsd:anyURI ;
   rdfs:label "One Soul Now" ;
 .
+:Only_Talking_Sense
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Finn_Bros ;
+  bibliographica:byArtist MusicGroup:Finn_Bros ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/57c8a1d9-653c-41db-bd8a-97b4093acf38"^^xsd:anyURI ;
+  rdfs:label "Only Talking Sense" ;
+.
 :Open
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5896,6 +6056,15 @@
   bibliographica:byArtist SoloMusicArtist:Greg_Brown ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/9aee2be3-20a5-4df0-9498-7d80d84a6417"^^xsd:anyURI ;
   rdfs:label "Over and Under" ;
+.
+:Painless
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Freetown ;
+  bibliographica:byArtist MusicGroup:Freetown ;
+  rdfs:label "Painless" ;
 .
 :Painted_From_Memory
   rdf:type mo:CD ;
@@ -7384,6 +7553,15 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/cc3c00a5-d6fd-43d2-add9-f9eaffd1fda4"^^xsd:anyURI ;
   rdfs:label "Stumble Into Grace" ;
 .
+:Summer_Meltdown
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Flowmotion ;
+  bibliographica:byArtist MusicGroup:Flowmotion ;
+  rdfs:label "Summer Meltdown 7" ;
+.
 :Sun_Ship
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -8344,6 +8522,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a366bd57-44e6-30b6-8cbf-20cc5e419565"^^xsd:anyURI ;
   rdfs:label "Traneing In" ;
 .
+:Tree
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Gaelic_Storm ;
+  bibliographica:byArtist MusicGroup:Gaelic_Storm ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/99335960-be55-49ad-bd12-4b31b96195eb"^^xsd:anyURI ;
+  rdfs:label "Tree" ;
+.
 :Trey_Anastasio_CD
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -8413,6 +8601,16 @@
   bibliographica:byArtist SoloMusicArtist:T_Bone_Burnett ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/198e2965-4436-4a65-a823-36f2944a624b"^^xsd:anyURI ;
   rdfs:label "The True False Identity" ;
+.
+:Truth_and_Soul
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Fishbone ;
+  bibliographica:byArtist MusicGroup:Fishbone ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/3b95f31a-eec4-4478-866e-6d9714a57743"^^xsd:anyURI ;
+  rdfs:label "Truth and Soul" ;
 .
 :Tumblin_Down
   rdf:type mo:CD ;
@@ -8666,6 +8864,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/eb26c05b-519d-478b-9281-021969b1bdff"^^xsd:anyURI ;
   rdfs:label "Victims" ;
 .
+:Vintage_Years
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Fleetwood_Mac ;
+  bibliographica:byArtist MusicGroup:Fleetwood_Mac ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/0fc4bf32-8aff-39ac-9fe3-1ae4e7034483"^^xsd:anyURI ;
+  rdfs:label "Vintage Years" ;
+.
 :Virgin_Beauty
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -8755,6 +8963,16 @@
   bibliographica:byArtist SoloMusicArtist:Kasey_Chambers ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/91731a50-03ca-4cf3-a434-a779734e0c47"^^xsd:anyURI ;
   rdfs:label "Wayward Angel" ;
+.
+:We_Care_A_Lot
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Faith_No_More ;
+  bibliographica:byArtist MusicGroup:Faith_No_More ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a239de83-d2dd-3792-a9d5-3a73cb0da71b"^^xsd:anyURI ;
+  rdfs:label "We Care a Lot" ;
 .
 :We_Want_Miles
   rdf:type mo:CD ;
@@ -8986,6 +9204,18 @@
   bibliographica:byArtist SoloMusicArtist:Jeff_Beck ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/1755f2a8-1581-43c8-a3f1-646302c0bb59"^^xsd:anyURI ;
   rdfs:label "Wired" ;
+.
+:With_Enemies_Like_These
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Fred_Frith ;
+  dcterms:creator SoloMusicArtist:Henry_Kaiser ;
+  bibliographica:byArtist SoloMusicArtist:Fred_Frith ;
+  bibliographica:byArtist SoloMusicArtist:Henry_Kaiser ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/fe982b21-5039-4f0c-9224-6203fb1c3ee2"^^xsd:anyURI ;
+  rdfs:label "With Enemies Like These, Who Needs Friends?" ;
 .
 :Fairport_Unconventional
   rdf:type mo:CD ;

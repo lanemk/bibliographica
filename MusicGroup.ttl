@@ -746,6 +746,13 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/b15ebd71-a252-417d-9e1c-3e6863da68f8"^^xsd:anyURI ;
   rdfs:label "Faith No More" ;
 .
+:Finn_Bros
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Finn_Brothers.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/83af9c0f-aa96-4249-a485-4026d341fb30"^^xsd:anyURI ;
+  rdfs:label "The Finn Brothers" ;
+.
 :Fishbone
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassEH ;
