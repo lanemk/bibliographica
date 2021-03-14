@@ -66,6 +66,15 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d0511f81-348f-3778-aa3e-8d30221980d2"^^xsd:anyURI ;
   rdfs:label "ABoneCroneDrone" ;
 .
+:Access_All_Areas
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  rdfs:label "Access To All Areas" ;
+.
 :Acoustic
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -426,6 +435,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/a570c094-2522-3717-8236-1b6cf1863536"^^xsd:anyURI ;
   rdfs:label "Anything Anytime Anywhere (Singles 1979-2002)" ;
 .
+:Aoxomoxoa
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/15c10195-596b-4f4f-b62e-552d5df60ca2"^^xsd:anyURI ;
+  rdfs:label "Aoxomoxoa" ;
+.
 :Apollo_Atmospheres
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -698,6 +717,16 @@
   bibliographica:byArtist MusicGroup:Chris_Maggie ;
   rdfs:label "Bend Without Breaking" ;
 .
+:Bent_By_Nature
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Glass_Eye ;
+  bibliographica:byArtist MusicGroup:Glass_Eye ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/579dc43c-bad4-40ff-a277-37c874906865"^^xsd:anyURI ;
+  rdfs:label "Bent By Nature" ;
+.
 :Best_Of
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -926,6 +955,15 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/896beb5e-700b-3b68-9141-29bc9437ac69"^^xsd:anyURI ;
   rdfs:label "Black Pearls" ;
 .
+:Black_Sand_Shore
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Grace ;
+  bibliographica:byArtist SoloMusicArtist:Grace ;
+  rdfs:label "Black Sand Shore" ;
+.
 :Blind_Faith_CD
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1057,6 +1095,16 @@
   bibliographica:byArtist SoloMusicArtist:David_Grisman ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/ebd26d0e-217d-450a-94cb-e55c2758107b"^^xsd:anyURI ;
   rdfs:label "Bluegrass Reunion" ;
+.
+:Blues_For_Allah
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e6996642-ae79-395a-af24-ddbf40d06fcc"^^xsd:anyURI ;
+  rdfs:label "Blues for Allah" ;
 .
 :Blues_Traveler_CD
   rdf:type mo:CD ;
@@ -1284,6 +1332,16 @@
   dcterms:creator MusicGroup:Bug_Toast ;
   bibliographica:byArtist MusicGroup:Bug_Toast ;
   rdfs:label "Bug Toast" ;
+.
+:Built_to_Last
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d6c92867-ef82-4932-956c-7844bf97582f"^^xsd:anyURI ;
+  rdfs:label "Built to Last" ;
 .
 :Burn_to_Shine
   rdf:type mo:CD ;
@@ -2202,6 +2260,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/7593fea5-4f0e-4ee5-ad61-c249bbc4c560"^^xsd:anyURI ;
   rdfs:label "Dawgnation" ;
 .
+:Dead_at_Cornell
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/aa0d7d7e-1d78-4f78-ba03-7a32c200f660"^^xsd:anyURI ;
+  rdfs:label "Dead at Cornell 5.8.77" ;
+.
 :Dead_City_Radio
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2211,6 +2279,25 @@
   bibliographica:byArtist SoloMusicArtist:William_S_Burroughs ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a8821dcf-4e78-4291-a102-0606b79213a3"^^xsd:anyURI ;
   rdfs:label "Dead City Radio" ;
+.
+:Dead_Men_Cant_Die
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  rdfs:label "Dead Men Can't Die" ;
+.
+:Deadicated
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/01eaaacc-1e9e-478e-ba3e-ed88b8b01c45"^^xsd:anyURI ;
+  rdfs:label "Deadicated" ;
 .
 :Dear_Heather
   rdf:type mo:CD ;
@@ -2321,6 +2408,116 @@
   bibliographica:byArtist SoloMusicArtist:Joan_Baez ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/3a9a3cd7-0274-4025-b467-44cbd174f1ba"^^xsd:anyURI ;
   rdfs:label "Diamonds & Rust" ;
+.
+:Dicks_Picks_Vol_1
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/6f45d450-599d-478c-8f3a-2198023d86c0"^^xsd:anyURI ;
+  rdfs:label "Dick’s Picks, Volume 1: Tampa Florida 12/19/73" ;
+.
+:Dicks_Picks_Vol_2
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/93a909e5-1c42-4754-bcc2-663ba661d305"^^xsd:anyURI ;
+  rdfs:label "Dick’s Picks, Volume 2: Columbus, Ohio 10/31/71" ;
+.
+:Dicks_Picks_Vol_3
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/40ff133b-8052-4ca4-9d61-2743ca9ea185"^^xsd:anyURI ;
+  rdfs:label "Dick’s Picks, Volume 3: Pembroke Pines, FL 5/22/77" ;
+.
+:Dicks_Picks_Vol_5
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b78e978e-0cef-47a8-89d1-627f648eae9c"^^xsd:anyURI ;
+  rdfs:label "Dick’s Picks, Volume 5: Oakland Auditorium Arena 12/26/79" ;
+.
+:Dicks_Picks_Vol_6
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c9f5b330-8ceb-4c19-b153-ae43121707fc"^^xsd:anyURI ;
+  rdfs:label "Dick’s Picks, Volume 6: Hartford Civic Center 10/14/83" ;
+.
+:Dicks_Picks_Vol_7
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5437e0cd-0e79-46ef-9a15-c3aa1f8b24e0"^^xsd:anyURI ;
+  rdfs:label "Dick’s Picks, Volume 7: Alexandra Palace, London England, September 1974" ;
+.
+:Dicks_Picks_Vol_8
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f037dd16-e631-48c0-bec2-123040473db6"^^xsd:anyURI ;
+  rdfs:label "Dick’s Picks, Volume 8: Harpur College, Binghampton, NY 5/2/70" ;
+.
+:Dicks_Picks_Vol_9
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/05fcf2e7-a108-4b78-96ee-d8f9d82f4a3f"^^xsd:anyURI ;
+  rdfs:label "Dick’s Picks, Volume 9: Madison Square Garden 9/16/90" ;
+.
+:Dicks_Picks_Vol_10
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/01bb8254-f53d-43ef-bb49-af77832c778a"^^xsd:anyURI ;
+  rdfs:label "Dick’s Picks, Volume 10: Winterland Arena 12/29/77" ;
+.
+:Dicks_Picks_Vol_11
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/8cfe7765-572a-4de5-85ed-8cb51f86f3be"^^xsd:anyURI ;
+  rdfs:label "Dick’s Picks, Volume 11: Stanley Theater 9/27/72" ;
+.
+:Dicks_Picks_Vol_12
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/59729eb0-9066-4382-9c1b-f8702604b518"^^xsd:anyURI ;
+  rdfs:label "Dick’s Picks, Volume 12: Providence Civic 6/26/74, Boston Garden 6/28/74" ;
 .
 :Die_Grossen_Tangos
   rdf:type mo:CD ;
@@ -3216,6 +3413,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/68193220-9e8e-493d-8589-bc945eba0796"^^xsd:anyURI ;
   rdfs:label "Gold Medal Collection" ;
 .
+:Golden_Palminos_History
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Golden_Palominos ;
+  bibliographica:byArtist MusicGroup:Golden_Palominos ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d82699c9-aa44-42de-9867-0975a729bca4"^^xsd:anyURI ;
+  rdfs:label "The Golden Palominos : A History (1982-1985)" ;
+.
 :Good_As_I_Been_to_You
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3439,6 +3646,16 @@
   bibliographica:byArtist MusicGroup:Baka_Beyond ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/30258950-da8c-4b26-b3eb-42ab828e682d"^^xsd:anyURI ;
   rdfs:label "Heart of the Forest" ;
+.
+:Hello_Young_Lovers
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Glass_Eye ;
+  bibliographica:byArtist MusicGroup:Glass_Eye ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c77ce024-dcd1-4bbb-b1c1-18f1cd6a2961"^^xsd:anyURI ;
+  rdfs:label "Hello Young Lovers" ;
 .
 :Here_Come_Warm_Jets
   rdf:type mo:CD ;
@@ -5341,6 +5558,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e241af7a-38e9-4ca5-ac4c-be83978dea58"^^xsd:anyURI ;
   rdfs:label "Middle Passage" ;
 .
+:Mighty_Joe_Moon
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grant_Lee_Buffalo ;
+  bibliographica:byArtist MusicGroup:Grant_Lee_Buffalo ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/35adc396-c0f9-4b40-9947-8d493d5b9a6b"^^xsd:anyURI ;
+  rdfs:label "Mighty Joe Moon" ;
+.
 :Mile_Marker
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -6246,6 +6473,15 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/f4ec25ff-4fd2-4ee6-b9ce-426639f0f63a"^^xsd:anyURI ;
   rdfs:label "Pieta Brown" ;
 .
+:Pigpen_Apt_Demos
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  rdfs:label "1966 - Pigpen Apartment Demos" ;
+.
 :Pink_Moon
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -6760,6 +6996,16 @@
   bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b0083b56-90aa-4da0-bb07-519b7c85332b"^^xsd:anyURI ;
   rdfs:label "In Person: Saturday Night at the Blackhawk, San Francisco, Vol 2" ;
+.
+:Saturday_Rolling_Around
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Golden_Palominos ;
+  bibliographica:byArtist MusicGroup:Golden_Palominos ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/669b389f-9b58-42b8-a618-2cfcd2beccfb"^^xsd:anyURI ;
+  rdfs:label "Saturday Rolling Around" ;
 .
 :Savoy_Brown_Collection
   rdf:type mo:CD ;
@@ -7424,6 +7670,16 @@
   bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/3b9bfc68-b38c-47c2-8337-51977b224708"^^xsd:anyURI ;
   rdfs:label "Standard Coltrane" ;
+.
+:State_of_Wonder
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Glenn_Gould ;
+  bibliographica:byArtist SoloMusicArtist:Glenn_Gould ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/75b299db-e90e-4ed1-b9e1-0fcb3169e4a5"^^xsd:anyURI ;
+  rdfs:label "A State of Wonder: The Complete Goldberg Variations 1955 & 1981" ;
 .
 :Station_to_Station
   rdf:type mo:CD ;
@@ -8288,6 +8544,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/3b487094-e321-4c3d-9633-872719d84d9b"^^xsd:anyURI ;
   rdfs:label "This Fire" ;
 .
+:This_How_It_Feels
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Golden_Palominos ;
+  bibliographica:byArtist MusicGroup:Golden_Palominos ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/4789640c-3da1-4cad-a07e-05dee40ecd30"^^xsd:anyURI ;
+  rdfs:label "This Is How It Feels" ;
+.
 :This_Land
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -8337,6 +8603,16 @@
   bibliographica:byArtist SoloMusicArtist:Eliza_Gilkyson ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/00eef7ce-64a2-455e-97c9-3adcfcb73669"^^xsd:anyURI ;
   rdfs:label "Through the Looking Glass" ;
+.
+:Thundering_Herd
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Golden_Palominos ;
+  bibliographica:byArtist MusicGroup:Golden_Palominos ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/565c2bb2-5277-467d-ad36-97e8be01ce6e"^^xsd:anyURI ;
+  rdfs:label "Thundering Herd (disc 1)" ;
 .
 :Time_No_Reply
   rdf:type mo:CD ;
