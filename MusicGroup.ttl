@@ -1511,6 +1511,12 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/e01646f2-2a04-450d-8bf2-0d993082e058"^^xsd:anyURI ;
   rdfs:label "Phish" ;
 .
+:Pickin_on_Project
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/a2e48b1e-62a3-470e-bddc-2fe167148e0b"^^xsd:anyURI ;
+  rdfs:label "Pickin' on Project" ;
+.
 :Pink_Floyd
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassMP ;

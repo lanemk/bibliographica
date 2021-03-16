@@ -455,6 +455,15 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/978ce480-cf4b-468d-985b-daee3976e7e7"^^xsd:anyURI ;
   rdfs:label "Apollo: Atmospheres & Soundtracks" ;
 .
+:April_Fools_Day
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  rdfs:label "April Fool's Day" ;
+.
 :Arethas_Gold
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2519,6 +2528,36 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/59729eb0-9066-4382-9c1b-f8702604b518"^^xsd:anyURI ;
   rdfs:label "Dick’s Picks, Volume 12: Providence Civic 6/26/74, Boston Garden 6/28/74" ;
 .
+:Dicks_Picks_Vol_20
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/65abd6df-8758-4b72-8fde-62fbdaf3458e"^^xsd:anyURI ;
+  rdfs:label "Dick’s Picks, Volume 20: Capital Centre, Landover, MD 9/25/76, Onondaga County War Memorial, Syracuse, NY 9/28/76" ;
+.
+:Dicks_Picks_Vol_21
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/4b93a7c5-a635-4364-8939-12cb9fe923f4"^^xsd:anyURI ;
+  rdfs:label "Dick’s Picks, Volume 21: Richmond Coliseum, Richmond, VA 11/1/85" ;
+.
+:Dicks_Picks_Vol_22
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/83b118e4-5a95-4904-b11b-7d4a038f57b8"^^xsd:anyURI ;
+  rdfs:label "Dick’s Picks, Volume 22: Kings Beach Bowl, Kings Beach, Lake Tahoe, CA 2/23-24/68" ;
+.
 :Die_Grossen_Tangos
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2697,6 +2736,16 @@
   bibliographica:byArtist SoloMusicArtist:Greg_Brown ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/7747bc60-5d1e-4c07-847d-a55436ffcae4"^^xsd:anyURI ;
   rdfs:label "Down in There" ;
+.
+:Dozin_at_Knick
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/72ed7718-2e82-402e-8543-2d2d586a2c12"^^xsd:anyURI ;
+  rdfs:label "Dozin' at the Knick" ;
 .
 :Dream_Cafe
   rdf:type mo:CD ;
@@ -2943,6 +2992,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/7903ef07-4f6a-4450-b573-38b2af7328da"^^xsd:anyURI ;
   rdfs:label "Essential, the Very Best Of" ;
 .
+:Europe_72
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/97006c03-a9b5-4e10-8f52-39fa91c9836b"^^xsd:anyURI ;
+  rdfs:label "Europe ’72" ;
+.
 :Eva_By_Heart
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2962,6 +3021,16 @@
   bibliographica:byArtist MusicGroup:Fairport_Convention ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c1547cfe-52c2-3ff2-a487-d7a27f2f5c68"^^xsd:anyURI ;
   rdfs:label "Fairport Convention" ;
+.
+:Fairport_Unconventional
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Fairport_Convention ;
+  bibliographica:byArtist MusicGroup:Fairport_Convention ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/512c8445-223f-4124-9c4a-edb346aa05a2"^^xsd:anyURI ;
+  rdfs:label "Fairport Unconventional" ;
 .
 :Family_Man
   rdf:type mo:CD ;
@@ -3052,6 +3121,26 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/fa5cc77b-f8fa-32da-8b0f-4d4eab9cbb10"^^xsd:anyURI ;
   rdfs:label "Filles De Kilimanjaro" ;
 .
+:Fillmore_East_Live
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/2a267575-38bd-43d9-9d18-7d1f5190ca62"^^xsd:anyURI ;
+  rdfs:label "Live at the Fillmore East" ;
+.
+:Fillmore_West_1969
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f0ccafbc-8f2b-4901-9352-464c29f9d03b"^^xsd:anyURI ;
+  rdfs:label "Fillmore West 1969: The Complete Recordings" ;
+.
 :Fingerlings_Three
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3061,6 +3150,16 @@
   bibliographica:byArtist SoloMusicArtist:Andrew_Bird ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/fe9668c3-69fd-3e11-ac34-c66fbc329c6c"^^xsd:anyURI ;
   rdfs:label "Fingerlings 3" ;
+.
+:Fire_on_Mountain_Reggae
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f46a8d48-048c-4baf-902d-79d123cfdbc0"^^xsd:anyURI ;
+  rdfs:label "Fire on the Mountain: Reggae Celebrates the Grateful Dead" ;
 .
 :First_Time
   rdf:type mo:CD ;
@@ -3402,7 +3501,17 @@
   bibliographica:byArtist MusicGroup:Blind_Boys_of_Alabama ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/da61b4b3-33c4-4995-92a2-ecc58c46c4d8"^^xsd:anyURI ;
   rdfs:label "Go Tell It On The Mountain" ;
-. 
+.
+:Go_to_Nassau
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/de7e554f-e658-4d95-97aa-7ba6febecc01"^^xsd:anyURI ;
+  rdfs:label "Go to Nassau" ;
+.
 :Gold_Medal_Collection
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3493,6 +3602,25 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/0fa56e29-96cd-4800-8b98-26d6687788c0"^^xsd:anyURI ;
   rdfs:label "Grand Piano Canyon" ;
 .
+:Grateful_Dead_Interview
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  rdfs:label "Grateful Dead Interview Picture Disc" ;
+.
+:Grateful_Dead_Movie
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5d4f2f57-1791-43a8-86da-d9de173a6a67"^^xsd:anyURI ;
+  rdfs:label "The Grateful Dead Movie Soundtrack" ;
+.
 :Gravity
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3522,6 +3650,25 @@
   bibliographica:byArtist SoloMusicArtist:Fred_Frith ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/be81c7e1-3488-45de-bd25-8aeaad8a3fad"^^xsd:anyURI ;
   rdfs:label "Gravity" ;
+.
+:Grayfolded
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/1ef366bf-40fd-4698-9550-47953b1632b4"^^xsd:anyURI ;
+  rdfs:label "Grayfolded" ;
+.
+:Great_Red_Rocks
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  rdfs:label "The Great Red Rocks" ;
 .
 :Great_Summit
   rdf:type mo:CD ;
@@ -3977,6 +4124,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d4329f26-8577-4806-ab10-825f21846ba3"^^xsd:anyURI ;
   rdfs:label "Humpty Dumpty" ;
 .
+:Hundred_Year_Hall
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/98b5c41e-2288-46b1-9152-d711fca024fe"^^xsd:anyURI ;
+  rdfs:label "Hundred Year Hall" ;
+.
 :Ice_Caps_Peaks_Telluride
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4006,6 +4163,16 @@
   bibliographica:byArtist MusicGroup:Everything_but_the_Girl ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/833e5d60-d082-4030-b072-5ec35bb8a3e3"^^xsd:anyURI ;
   rdfs:label "Idewild" ;
+.
+:Infrared_Roses
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c923aa9e-804c-4da5-981c-5de05f3d645e"^^xsd:anyURI ;
+  rdfs:label "Infrared Roses" ;
 .
 :Ive_Been_Everywhere
   rdf:type mo:CD ;
@@ -4594,6 +4761,15 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/47b63911-581a-4948-a181-2a8b7799e129"^^xsd:anyURI ;
   rdfs:label "Le Hoogie Boogie: Louisiana French Music for Children" ;
 .
+:Left_in_Vaults
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  rdfs:label "Left In The Vaults, Vol. 3" ;
+.
 :Lemon_of_Pink
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4965,6 +5141,25 @@
   bibliographica:byArtist SoloMusicArtist:Clifton_Chenier ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/cb51cdc5-16d8-4219-9104-f09243f0b77d"^^xsd:anyURI ;
   rdfs:label "Live at Montreux" ;
+.
+:Live_Dead
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9ab55bce-4aef-31dc-b3db-701b53f0d9e2"^^xsd:anyURI ;
+  rdfs:label "Live Dead" ;
+.
+:Live_Dead_NY_71
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  rdfs:label "New York 2-21-71" ;
 .
 :Live_From_Left_Coast
   rdf:type mo:CD ;
@@ -5842,6 +6037,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/871130d5-477a-3919-a7e8-ae909f718ee0"^^xsd:anyURI ;
   rdfs:label "Murder Ballads" ;
 .
+:Music_Never_Stopped
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/1b85bb5c-9fd8-463e-b46b-4aa2999889c8"^^xsd:anyURI ;
+  rdfs:label "The Music Never Stopped: Roots of the Grateful Dead" ;
+.
 :My_Aim_Is_True
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5973,6 +6178,16 @@
   bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/c663c0fb-c739-3191-b099-13ed01fd6df8"^^xsd:anyURI ;
   rdfs:label "Night Vision" ;
+.
+:Nightfall_of_Diamonds
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/90189871-381e-4ad0-9f5d-cfb35b174bbc"^^xsd:anyURI ;
+  rdfs:label "Nightfall of Diamonds" ;
 .
 :Nights_at_Keystone_v1
   rdf:type mo:CD ;
@@ -6163,6 +6378,16 @@
   bibliographica:byArtist SoloMusicArtist:Dexter_Gordon ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/1dd4d180-7dc4-4d78-b098-2561a06adc14"^^xsd:anyURI ;
   rdfs:label "One Flight Up" ;
+.
+:One_From_Vault
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/761ec65c-9fc9-4b37-a0e5-5c83cc512251"^^xsd:anyURI ;
+  rdfs:label "One From the Vault" ;
 .
 :One_Kind
   rdf:type mo:CD ;
@@ -6453,6 +6678,18 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/f3ae3377-8a18-41c9-b745-ff6053bb65e5"^^xsd:anyURI ;
   rdfs:label "Pick Up On This!" ;
 .
+:Pickin_on_Grateful_Dead
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  dcterms:creator MusicGroup:Pickin_on_Project ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Pickin_on_Project ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/533b6409-0f75-4eff-adc7-d49baedd32cf"^^xsd:anyURI ;
+  rdfs:label "Pickin' on the Grateful Dead: A Tribute" ;
+.
 :Pieces_of_Sky
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -6480,7 +6717,7 @@
   rdf:type schema:MusicAlbum ;
   dcterms:creator MusicGroup:Grateful_Dead ;
   bibliographica:byArtist MusicGroup:Grateful_Dead ;
-  rdfs:label "1966 - Pigpen Apartment Demos" ;
+  rdfs:label "Pigpen Apartment Demos" ;
 .
 :Pink_Moon
   rdf:type mo:CD ;
@@ -6531,6 +6768,16 @@
   bibliographica:byArtist SoloMusicArtist:Dizzy_Gillespie ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a52de013-9bba-4858-b58f-0178cc026f83"^^xsd:anyURI ;
   rdfs:label "Plays in Paris" ;
+.
+:Postcards_of_Hanging
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/795c6176-83d9-4905-8663-65b572ce1133"^^xsd:anyURI ;
+  rdfs:label "Postcards of the Hanging: Grateful Dead Perform the Songs of Bob Dylan" ;
 .
 :Prairie_Home_Invasion
   rdf:type mo:CD ;
@@ -6632,6 +6879,15 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b802a64e-c8a3-4a72-9b1e-f37c3b134c2f"^^xsd:anyURI ;
   rdfs:label "Eric Clapton's Rainbow Concert" ;
 .
+:Rainforest_Benefit_Show
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  rdfs:label "Rainforest Benefit Show" ;
+.
 :Rat_Patrol_Ft_Bragg
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -6701,6 +6957,16 @@
   bibliographica:byArtist SoloMusicArtist:Emmylou_Harris ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/41ced0c2-94e2-4987-a3f8-2867c904c553"^^xsd:anyURI ;
   rdfs:label "Red Dirt Girl" ;
+.
+:Red_Rocks_78
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/933ad42b-7d73-491e-92c4-a056803e697f"^^xsd:anyURI ;
+  rdfs:label "Red Rocks 7-8-78" ;
 .
 :Regina_Carter_CD
   rdf:type mo:CD ;
@@ -7371,6 +7637,15 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/5545706b-ba5b-48ab-9b68-022b450963d9"^^xsd:anyURI ;
   rdfs:label "Smash & Scatteration" ;
 .
+:Smoke_and_Mirrors
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  rdfs:label "Smoke And Mirrors" ;
+.
 :Smokin_Java
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7701,6 +7976,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b5e3fbcf-c9f8-4c84-acf3-7db35ab586a0"^^xsd:anyURI ;
   rdfs:label "Steady On" ;
 .
+:Steal_Your_Face
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/92bae6ff-2458-4879-91eb-e6f46797bccb"^^xsd:anyURI ;
+  rdfs:label "Steal Your Face" ;
+.
 :Stealing_Fire
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7711,6 +7996,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/57fa6f1e-4a34-3bc5-9120-5afbbe1ae8a1"^^xsd:anyURI ;
   rdfs:label "Stealing Fire" ;
 .
+:Steppin_Out_England_72
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/134a2bea-2c61-47d3-9403-cf7581512e88"^^xsd:anyURI ;
+  rdfs:label "Steppin' Out With the Grateful Dead: England '72" ;
+.
 :Still_in_Hollywood
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7720,6 +8015,16 @@
   bibliographica:byArtist MusicGroup:Concrete_Blonde ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/bdce4869-cd60-4a21-adab-74f3d85136eb"^^xsd:anyURI ;
   rdfs:label "Still in Hollywood" ;
+.
+:Stolen_Roses
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e49d0df7-ce94-4e44-bb29-3bea02f49c45"^^xsd:anyURI ;
+  rdfs:label "Stolen Roses: Songs of the Grateful Dead" ;
 .
 :Stories_From_Bluebus
   rdf:type mo:CD ;
@@ -8053,6 +8358,26 @@
   bibliographica:byArtist SoloMusicArtist:Joy_Askew ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/aa51f2f2-1bb5-4306-8e82-53ab10e522f8"^^xsd:anyURI ;
   rdfs:label "Tender City" ;
+.
+:Terrapin_Station
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a0d1bd24-cc27-3a6d-b736-079876499ce3"^^xsd:anyURI ;
+  rdfs:label "Terrapin Station" ;
+.
+:Terrapin_Station_Live
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f87924fd-8725-4b3a-892c-2492456aea52"^^xsd:anyURI ;
+  rdfs:label "Terrapin Station Live" ;
 .
 :The_Art_of_Coltrane
   rdf:type mo:CD ;
@@ -8664,6 +8989,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e2e80584-2c2f-488d-983b-6292f04f3598"^^xsd:anyURI ;
   rdfs:label "To Kingdom Come" ;
 .
+:To_Terrapin_Hartford
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/96f38a95-6410-489e-a34b-61ba4da4ca4e"^^xsd:anyURI ;
+  rdfs:label "To Terrapin: Hartford '77" ;
+.
 :To_Venus_and_Back
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -9190,6 +9525,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/f36d8ca5-df31-4f0a-8b30-644dd61c9874"^^xsd:anyURI ;
   rdfs:label "¡Viva Zapata!" ;
 .
+:Wake_of_Flood
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/38770ad0-e77a-4fdb-a6b4-aca09b2ee816"^^xsd:anyURI ;
+  rdfs:label "Wake of the Flood" ;
+.
 :Walk_Under_Ladders
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -9493,15 +9838,15 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/fe982b21-5039-4f0c-9224-6203fb1c3ee2"^^xsd:anyURI ;
   rdfs:label "With Enemies Like These, Who Needs Friends?" ;
 .
-:Fairport_Unconventional
+:Without_a_Net
   rdf:type mo:CD ;
   rdf:type mo:Record ;
   rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
-  dcterms:creator MusicGroup:Fairport_Convention ;
-  bibliographica:byArtist MusicGroup:Fairport_Convention ;
-  bibliographica:musicbrainzURI "https://musicbrainz.org/release/512c8445-223f-4124-9c4a-edb346aa05a2"^^xsd:anyURI ;
-  rdfs:label "Fairport Unconventional" ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a9ef2528-9b35-4014-9ba1-7a44a6f81173"^^xsd:anyURI ;
+  rdfs:label "Without a Net" ;
 .
 :Works
   rdf:type mo:CD ;
@@ -9512,6 +9857,16 @@
   bibliographica:byArtist SoloMusicArtist:Bill_Frisell ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/af1d4584-2aad-4344-b124-d8325efd8f2e"^^xsd:anyURI ;
   rdfs:label "Works" ;
+.
+:Workingmans_Dead
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Grateful_Dead ;
+  bibliographica:byArtist MusicGroup:Grateful_Dead ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e42901c5-74f0-3055-9c70-54cc5fb2516c"^^xsd:anyURI ;
+  rdfs:label "Workingman's Dead" ;
 .
 :World_Gone_Wrong
   rdf:type mo:CD ;
