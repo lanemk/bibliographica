@@ -195,6 +195,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/caa689c7-3a25-41a9-aa54-dd48a2e0fa06"^^xsd:anyURI ;
   rdfs:label "Allies" ;
 .
+:Almost_Acoustic
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jerry_Garcia ;
+  bibliographica:byArtist SoloMusicArtist:Jerry_Garcia ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/0cfc1fbf-1784-4b0d-9149-91fe926caf6a"^^xsd:anyURI ;
+  rdfs:label "Almost Acoustic" ;
+.
 :Alright_Again
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -715,6 +725,18 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/2c996e0f-e8c2-3167-894c-ab59a7c74989"^^xsd:anyURI ;
   rdfs:label "Bebel Gilberto (CD)" ;
 .
+:Been_Around_World
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jerry_Garcia ;
+  dcterms:creator SoloMusicArtist:David_Grisman ;
+  bibliographica:byArtist SoloMusicArtist:Jerry_Garcia ;
+  bibliographica:byArtist SoloMusicArtist:David_Grisman ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/384fe9c4-ce9f-4da9-8ab4-c7c6d0454d41"^^xsd:anyURI ;
+  rdfs:label "Been All Around This World" ;
+.
 :Before_Flood
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -814,6 +836,16 @@
   bibliographica:byArtist SoloMusicArtist:Freddie_Hubbard ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/f9b1745a-e2f4-4a22-b2c9-68b0b51d3e3d"^^xsd:anyURI ;
   rdfs:label "The Best of Freddie Hubbard" ;
+.
+:Best_of_Isaac_Hayes
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Isaac_Hayes ;
+  bibliographica:byArtist SoloMusicArtist:Isaac_Hayes ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/2dbe855c-a7e6-4926-872a-4d4d2a577e7c"^^xsd:anyURI ;
+  rdfs:label "The Best of Isaac Hayes, Vol. 1" ;
 .
 :Best_of_Leonard_Cohen
   rdf:type mo:CD ;
@@ -1353,6 +1385,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/32bbab8e-02c0-30d2-9e23-a19739864b84"^^xsd:anyURI ;
   rdfs:label "Buena Vista Social Club" ;
 .
+:Buena_Vista_Social_Club_IF
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ibrahim_Ferrer ;
+  bibliographica:byArtist SoloMusicArtist:Ibrahim_Ferrer ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/231dc0e9-bcfa-449f-b445-ae6835c09b2a"^^xsd:anyURI ;
+  rdfs:label "Buena Vista Social Club Presents Ibrahim Ferrer" ;
+.
 :Bug_Toast_CD
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1521,6 +1563,16 @@
   bibliographica:byArtist SoloMusicArtist:Catie_Curtis ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/06a1ea99-732d-477e-ac07-1abb3a09e255"^^xsd:anyURI ;
   rdfs:label "Catie Curtis" ;
+.
+:Cats_Under_Stars
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jerry_Garcia ;
+  bibliographica:byArtist SoloMusicArtist:Jerry_Garcia ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e5317817-1c5e-4250-8d11-47982ec09c46"^^xsd:anyURI ;
+  rdfs:label "Cats Under the Stars" ;
 .
 :Cattin_with_Coltrane
   rdf:type mo:CD ;
@@ -3444,6 +3496,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c675171a-4c25-43be-b99d-98cc620dfa44"^^xsd:anyURI ;
   rdfs:label "Further In" ;
 .
+:Garcia_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jerry_Garcia ;
+  bibliographica:byArtist SoloMusicArtist:Jerry_Garcia ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e58f1f3b-41ca-4408-a671-5a7a118f9f13"^^xsd:anyURI ;
+  rdfs:label "Garcia" ;
+.
 :Generative_Music
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4274,6 +4336,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c923aa9e-804c-4da5-981c-5de05f3d645e"^^xsd:anyURI ;
   rdfs:label "Infrared Roses" ;
 .
+:Its_My_Sin
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jan_Hellriegel ;
+  bibliographica:byArtist SoloMusicArtist:Jan_Hellriegel ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/740888a7-7ba1-4d75-a08c-6f73b9fda605"^^xsd:anyURI ;
+  rdfs:label "It's My Sin" ;
+.
 :Ive_Been_Everywhere
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4890,6 +4962,18 @@
   bibliographica:byArtist MusicGroup:Grateful_Dead ;
   rdfs:label "Left In The Vaults, Vol. 3" ;
 .
+:Legion_of_Mary_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jerry_Garcia ;
+  dcterms:creator MusicGroup:Legion_of_Mary ;
+  bibliographica:byArtist SoloMusicArtist:Jerry_Garcia ;
+  bibliographica:byArtist MusicGroup:Legion_of_Mary ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/eae0ce70-bdc7-4fac-8534-4f0cd32ef663"^^xsd:anyURI ;
+  rdfs:label "The Jerry Garcia Collection, Vol. 1: Legion of Mary" ;
+.
 :Lemon_of_Pink
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5172,6 +5256,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e771cfaf-35a3-4dd0-8626-513ac2511c84"^^xsd:anyURI ;
   rdfs:label "Live at the Royalty Theatre" ;
 .
+:Live_at_Sahara_Tahoe
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Isaac_Hayes ;
+  bibliographica:byArtist SoloMusicArtist:Isaac_Hayes ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f39437a9-fb5b-4202-8e9c-07269a2dc131"^^xsd:anyURI ;
+  rdfs:label "Live at the Sahara Tahoe" ;
+.
 :Live_at_Sweetwater
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5441,6 +5535,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b03f8087-f951-4f0b-a0b1-8e1dd41d9427"^^xsd:anyURI ;
   rdfs:label "Live, Love, Larf, & Loaf" ;
 .
+:Living_End
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Husker_Du ;
+  bibliographica:byArtist MusicGroup:Husker_Du ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/1b09e966-c453-4c01-bcd5-02cc92478c57"^^xsd:anyURI ;
+  rdfs:label "The Living End" ;
+.
 :Living_In_Clip
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5539,6 +5643,16 @@
   bibliographica:byArtist MusicGroup:Clash ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/64cbd9c8-7446-3e26-8db0-81653eadc8dd"^^xsd:anyURI ;
   rdfs:label "London Calling" ;
+.
+:Lonesome_Prison_Blues
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jerry_Garcia ;
+  bibliographica:byArtist SoloMusicArtist:Jerry_Garcia ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a9ce011c-aad7-4b1f-9ba4-14f33a0b3258"^^xsd:anyURI ;
+  rdfs:label "Lonesome Prison Blues" ;
 .
 :Long_Journey_Home
   rdf:type mo:CD ;
@@ -6419,6 +6533,18 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/05c5458e-3b78-3f33-8c93-0911e8fdd315"^^xsd:anyURI ;
   rdfs:label "The North Star Grassman and the Ravens" ;
 .
+:Not_For_Kids_Only
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jerry_Garcia ;
+  dcterms:creator SoloMusicArtist:David_Grisman ;
+  bibliographica:byArtist SoloMusicArtist:Jerry_Garcia ;
+  bibliographica:byArtist SoloMusicArtist:David_Grisman ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5ef633c3-f345-4d86-a52a-3a55b4509a3f"^^xsd:anyURI ;
+  rdfs:label "Not For Kids Only" ;
+.
 :Nothing_But_Burning_Light
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -6919,6 +7045,34 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/608de3ea-c08f-36f5-9ac6-53d401940de7"^^xsd:anyURI ;
   rdfs:label "Pink Moon" ;
 .
+:Pizza_Tapes
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jerry_Garcia ;
+  dcterms:creator SoloMusicArtist:David_Grisman ;
+  dcterms:creator SoloMusicArtist:Tony_Rice ;
+  bibliographica:byArtist SoloMusicArtist:Jerry_Garcia ;
+  bibliographica:byArtist SoloMusicArtist:David_Grisman ;
+  bibliographica:byArtist SoloMusicArtist:Tony_Rice ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/74e17c67-f7e3-498c-973e-28883258f4ac"^^xsd:anyURI ;
+  rdfs:label "The Pizza Tapes" ;
+.
+:Pizza_Tapes_II
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jerry_Garcia ;
+  dcterms:creator SoloMusicArtist:David_Grisman ;
+  dcterms:creator SoloMusicArtist:Tony_Rice ;
+  bibliographica:byArtist SoloMusicArtist:Jerry_Garcia ;
+  bibliographica:byArtist SoloMusicArtist:David_Grisman ;
+  bibliographica:byArtist SoloMusicArtist:Tony_Rice ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c0aeaa9d-e474-41a9-821a-fdc62515a069"^^xsd:anyURI ;
+  rdfs:label "The Pizza Tapes II" ;
+.
 :Places
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7178,6 +7332,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/933ad42b-7d73-491e-92c4-a056803e697f"^^xsd:anyURI ;
   rdfs:label "Red Rocks 7-8-78" ;
 .
+:Reflections
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jerry_Garcia ;
+  bibliographica:byArtist SoloMusicArtist:Jerry_Garcia ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9e14c789-02b3-4544-a0bf-fc6a0350fc03"^^xsd:anyURI ;
+  rdfs:label "Reflections" ;
+.
 :Regina_Carter_CD
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7394,6 +7558,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/0b2646a5-fe87-49e8-aaf5-b875e9cce57d"^^xsd:anyURI ;
   rdfs:label "Rules of Travel" ;
 .
+:Run_For_Roses
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jerry_Garcia ;
+  bibliographica:byArtist SoloMusicArtist:Jerry_Garcia ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/03a7627f-b1cd-41ea-af70-ef8fae9c357a"^^xsd:anyURI ;
+  rdfs:label "Run For The Roses" ;
+.
 :Running_on_Empty
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7581,6 +7755,18 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/95eaa4fa-d525-3f74-a518-4d4c0a92629a"^^xsd:anyURI ;
   rdfs:label "Shadow Man" ;
 .
+:Shady_Grove
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jerry_Garcia ;
+  dcterms:creator SoloMusicArtist:David_Grisman ;
+  bibliographica:byArtist SoloMusicArtist:Jerry_Garcia ;
+  bibliographica:byArtist SoloMusicArtist:David_Grisman ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/238a43ae-317b-42ca-9029-e75f8b97efe5"^^xsd:anyURI ;
+  rdfs:label "Shady Grove" ;
+.
 :Sharing_the_Night_Together
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7674,6 +7860,18 @@
   bibliographica:byArtist SoloMusicArtist:Adrian_Belew ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c28052f6-e133-3e90-aa7e-ac5727d649d6"^^xsd:anyURI ;
   rdfs:label "Side One" ;
+.
+:Side_Trips
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jerry_Garcia ;
+  dcterms:creator SoloMusicArtist:Howard_Wales ;
+  bibliographica:byArtist SoloMusicArtist:Jerry_Garcia ;
+  bibliographica:byArtist SoloMusicArtist:Howard_Wales ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/bee6e9b8-3d68-4cef-bfd7-7903c9b566c7"^^xsd:anyURI ;
+  rdfs:label "Side Trips - Volume One" ;
 .
 :Sings_Cole_Porter
   rdf:type mo:CD ;
@@ -7874,6 +8072,18 @@
   bibliographica:byArtist SoloMusicArtist:Ani_DiFranco ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/a9675493-dd84-3a94-94e7-71fe28279742"^^xsd:anyURI ;
   rdfs:label "So Much Shouting, So Much Laughter" ;
+.
+:So_What
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jerry_Garcia ;
+  dcterms:creator SoloMusicArtist:David_Grisman ;
+  bibliographica:byArtist SoloMusicArtist:Jerry_Garcia ;
+  bibliographica:byArtist SoloMusicArtist:David_Grisman ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/825b6052-5f94-4393-abd7-6537e8baefea"^^xsd:anyURI ;
+  rdfs:label "So What" ;
 .
 :Solo
   rdf:type mo:CD ;
@@ -8294,6 +8504,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/763f1a88-fb23-3d94-be12-4439a9eefc0b"^^xsd:anyURI ;
   rdfs:label "Friends" ;
 .
+:Stripping_Cane
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jeffrey_Foucault ;
+  bibliographica:byArtist SoloMusicArtist:Jeffrey_Foucault ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/ccb9810d-ca31-4283-a715-c59afe4be1a9"^^xsd:anyURI ;
+  rdfs:label "Stripping Cane" ;
+.
 :Strong_Enough
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -8448,6 +8668,16 @@
   bibliographica:byArtist MusicGroup:The_Corrs ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/5779728a-9d41-4304-81ba-3d68d8611893"^^xsd:anyURI ;
   rdfs:label "Talk on Corners" ;
+.
+:Talk_With_Jerry
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jerry_Garcia ;
+  bibliographica:byArtist SoloMusicArtist:Jerry_Garcia ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/83086fdc-75c5-4930-8776-6d093d5557eb"^^xsd:anyURI ;
+  rdfs:label "A Talk With Jerry Garcia" ;
 .
 :Talking_Timbuktu
   rdf:type mo:CD ;
@@ -9824,6 +10054,15 @@
   bibliographica:byArtist SoloMusicArtist:Enya ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c57034fa-c08b-4aaa-bcaa-b207ba760de9"^^xsd:anyURI ;
   rdfs:label "Watermark" ;
+.
+:Way_After_Midnight
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jerry_Garcia ;
+  bibliographica:byArtist SoloMusicArtist:Jerry_Garcia ;
+  rdfs:label "Way After Midnight" ;
 .
 :Way_to_Blue
   rdf:type mo:CD ;

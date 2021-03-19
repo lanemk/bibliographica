@@ -1165,6 +1165,13 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/3020be1d-3c41-4e42-911b-ca5e96489300"^^xsd:anyURI ;
   rdfs:label "Leftover Salmon" ;
 .
+:Legion_of_Mary
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Legion_of_Mary_(band).ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/cf5fa30a-fbf2-4a9b-a32d-86282752c58e"^^xsd:anyURI ;
+  rdfs:label "Legion of Mary" ;
+.
 :Levellers
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassIL ;

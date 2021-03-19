@@ -1559,6 +1559,13 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/9b58672a-e68e-4972-956e-a8985a165a1f"^^xsd:anyURI ;
   rdfs:label "Howard Shore" ;
 .
+:Howard_Wales
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Howard_Wales.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/3638179c-efe8-449e-858a-e1e6f394b9fe"^^xsd:anyURI ;
+  rdfs:label "Howard Wales" ;
+.
 :Ian_Anderson
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassAD ;
