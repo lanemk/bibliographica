@@ -125,6 +125,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/7c00822f-f645-43f6-ae90-0b0d763f9487"^^xsd:anyURI ;
   rdfs:label "Afro Blue Impressions" ;
 .
+:After_Midnight
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Jerry_Garcia_Band ;
+  bibliographica:byArtist MusicGroup:Jerry_Garcia_Band ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c3d62e65-367e-44fd-a760-c3d6dc955a99"^^xsd:anyURI ;
+  rdfs:label "After Midnight" ;
+.
 :Agua_de_Luna
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -572,6 +582,16 @@
   dcterms:creator MusicGroup:Dave_Alvin_Guilty_Men ;
   bibliographica:byArtist SoloMusicArtist:Dave_Alvin_Guilty_Men ;
   rdfs:label "Austin '96" ;
+.
+:Axis_Bold_As_love
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jimi_Hendrix ;
+  bibliographica:byArtist SoloMusicArtist:Jimi_Hendrix ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9e4b2047-7329-3dda-9328-db05daee0c96"^^xsd:anyURI ;
+  rdfs:label "Axis: Bold as Love" ;
 .
 :Aye
   rdf:type mo:CD ;
@@ -1553,6 +1573,16 @@
   bibliographica:byArtist SoloMusicArtist:Kasey_Chambers ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/422c79b0-9b1a-435b-b490-e5235e54093f"^^xsd:anyURI ;
   rdfs:label "Carnival" ;
+.
+:Casual_Gods
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jerry_Harrison ;
+  bibliographica:byArtist SoloMusicArtist:Jerry_Harrison ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/1b81192c-84c2-4f0b-950e-4f7e546835d5"^^xsd:anyURI ;
+  rdfs:label "Casual Gods" ;
 .
 :Catie_Curtis_CD
   rdf:type mo:CD ;
@@ -2779,6 +2809,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c506273f-d462-3fb8-833f-82e472edc43e"^^xsd:anyURI ;
   rdfs:label "Don’t Give Up On Me" ;
 .
+:Dont_Let_Go
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Jerry_Garcia_Band ;
+  bibliographica:byArtist MusicGroup:Jerry_Garcia_Band ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/99c2c64b-a0eb-4696-b344-be22e6f0666c"^^xsd:anyURI ;
+  rdfs:label "Don't Let Go" ;
+.
 :Doo_Bop
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2971,6 +3011,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b4ad9372-324a-4aa4-b141-1b5191daa837"^^xsd:anyURI ;
   rdfs:label "El Ruiseñor Yucateco" ;
 .
+:Electric_Ladyland
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jimi_Hendrix ;
+  bibliographica:byArtist SoloMusicArtist:Jimi_Hendrix ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a2e3ee0e-b3b4-3129-8fb6-89fbbb9b2b85"^^xsd:anyURI ;
+  rdfs:label "Electric Ladyland" ;
+.
 :Eleven_Tracks_Whack
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3083,6 +3133,16 @@
   bibliographica:byArtist SoloMusicArtist:Airto_Moreira ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/7903ef07-4f6a-4450-b573-38b2af7328da"^^xsd:anyURI ;
   rdfs:label "Essential, the Very Best Of" ;
+.
+:Eu_Sei
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Joao_Gilberto ;
+  bibliographica:byArtist SoloMusicArtist:Joao_Gilberto ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a65d7e44-4d58-3eb3-9075-51cd98b78f93"^^xsd:anyURI ;
+  rdfs:label "Eu sei que vou te amar (ao vivo)" ;
 .
 :Europe_72
   rdf:type mo:CD ;
@@ -3252,6 +3312,16 @@
   bibliographica:byArtist MusicGroup:Grateful_Dead ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/f46a8d48-048c-4baf-902d-79d123cfdbc0"^^xsd:anyURI ;
   rdfs:label "Fire on the Mountain: Reggae Celebrates the Grateful Dead" ;
+.
+:First_Rays_Rising_Sun
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jimi_Hendrix ;
+  bibliographica:byArtist SoloMusicArtist:Jimi_Hendrix ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e37dbca5-99bc-4b79-b707-b66d31de4f2f"^^xsd:anyURI ;
+  rdfs:label "First Rays of the New Rising Sun" ;
 .
 :First_Time
   rdf:type mo:CD ;
@@ -4256,6 +4326,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e77a0f88-956b-45ba-bb70-553ef0e9bd17"^^xsd:anyURI ;
   rdfs:label "House of Hope" ;
 .
+:How_Sweet_It_Is
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Jerry_Garcia_Band ;
+  bibliographica:byArtist MusicGroup:Jerry_Garcia_Band ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/079f8a91-b504-4a83-af13-d7f855403512"^^xsd:anyURI ;
+  rdfs:label "How Sweet It Is..." ;
+.
 :Howling_at_Moon
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4671,6 +4751,16 @@
   bibliographica:byArtist SoloMusicArtist:Guru ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/cf40162e-85bc-433d-b285-3665782652f1"^^xsd:anyURI ;
   rdfs:label "Jazzmatazz, Vol. 2: The New Reality" ;
+.
+:Jerry_Garcia_Band_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Jerry_Garcia_Band ;
+  bibliographica:byArtist MusicGroup:Jerry_Garcia_Band ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/0475ea5d-16d5-4f27-b65a-a7b8d018d811"^^xsd:anyURI ;
+  rdfs:label "Jerry Garcia Band" ;
 .
 :Jewel_in_Crown
   rdf:type mo:CD ;
@@ -5226,6 +5316,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/6b6ec452-f4c0-4f3d-8191-9d1494af6fa4"^^xsd:anyURI ;
   rdfs:label "Live at the Fillmore East (March 7, 1970): It's About That Time" ;
 .
+:Live_at_Fillmore_East_JH
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jimi_Hendrix ;
+  bibliographica:byArtist SoloMusicArtist:Jimi_Hendrix ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/54b68e60-4431-444d-b32c-0204c1cedebd"^^xsd:anyURI ;
+  rdfs:label "Live at the Fillmore East" ;
+.
 :Live_at_Newport
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5534,6 +5634,16 @@
   bibliographica:byArtist MusicGroup:French_Frith_Kaiser_Thompson ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b03f8087-f951-4f0b-a0b1-8e1dd41d9427"^^xsd:anyURI ;
   rdfs:label "Live, Love, Larf, & Loaf" ;
+.
+:Live_Unreleased
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jimi_Hendrix ;
+  bibliographica:byArtist SoloMusicArtist:Jimi_Hendrix ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c0a9334f-bd50-4b14-82b1-282c64aa9fd9"^^xsd:anyURI ;
+  rdfs:label "Live & Unreleased: The Radio Show" ;
 .
 :Living_End
   rdf:type mo:CD ;
@@ -5996,6 +6106,16 @@
   bibliographica:byArtist SoloMusicArtist:Ry_Cooder ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c66a6bfa-bfc5-4bc2-902b-2251234e751c"^^xsd:anyURI ;
   rdfs:label "A Meeting by the River" ;
+.
+:Merriweather_Post_Pavilion
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Jerry_Garcia_Band ;
+  bibliographica:byArtist MusicGroup:Jerry_Garcia_Band ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f45efc80-447d-41f3-91a6-df4a55d5957c"^^xsd:anyURI ;
+  rdfs:label "Pure Jerry: Merriweather Post Pavilion - September 1 & 2, 1989" ;
 .
 :Mexican_Moon
   rdf:type mo:CD ;
@@ -7153,6 +7273,26 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/bff31636-944b-4d39-8bab-5f6e7e5dd3be"^^xsd:anyURI ;
   rdfs:label "Pulse - Where the Rhythm Begins" ;
 .
+:Pure_Jerry_Theatre_1839
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Jerry_Garcia_Band ;
+  bibliographica:byArtist MusicGroup:Jerry_Garcia_Band ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/11aada03-1d30-4b5f-b9d2-30655147cb95"^^xsd:anyURI ;
+  rdfs:label "Pure Jerry: Theatre 1839, San Francisco, July 29 & 30, 1977" ;
+.
+:Pure_Jerry_Warner_Theatre
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Jerry_Garcia_Band ;
+  bibliographica:byArtist MusicGroup:Jerry_Garcia_Band ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/7da829bd-e0e2-4ae5-abe0-6237aa80c1cc"^^xsd:anyURI ;
+  rdfs:label "Pure Jerry: Warner Theatre, March 18, 1978" ;
+.
 :Q_Are_We_Not_Men
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7223,6 +7363,26 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b818648d-83fe-4cff-be38-f6e2729525dc"^^xsd:anyURI ;
   rdfs:label "Radio Boogie" ;
 .
+:Radio_One
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jimi_Hendrix ;
+  bibliographica:byArtist SoloMusicArtist:Jimi_Hendrix ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/8935134e-3584-4267-971e-1e8e6fba5263"^^xsd:anyURI ;
+  rdfs:label "Radio One" ;
+.
+:Rainbow_Bridge
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jimi_Hendrix ;
+  bibliographica:byArtist SoloMusicArtist:Jimi_Hendrix ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b54dbe90-c811-3f23-ae53-ff6e6af9c2e0"^^xsd:anyURI ;
+  rdfs:label "Rainbow Bridge" ;
+.
 :Rainbow_Concert
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7291,6 +7451,16 @@
   bibliographica:byArtist MusicGroup:Hot_Tuna ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/1964e201-9b62-4a61-91a6-7be9494e8be8"^^xsd:anyURI ;
   rdfs:label "Recorded Live Electric" ;
+.
+:Red_and_Black
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jerry_Harrison ;
+  bibliographica:byArtist SoloMusicArtist:Jerry_Harrison ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d14ecfe0-2268-4621-b6c7-d46802e299de"^^xsd:anyURI ;
+  rdfs:label "The Red and the Black" ;
 .
 :Red_and_Gold
   rdf:type mo:CD ;
@@ -7796,6 +7966,16 @@
   bibliographica:byArtist SoloMusicArtist:Sheryl_Crow ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/9c1007f2-b70a-4334-ac91-7b9cd4e8d182"^^xsd:anyURI ;
   rdfs:label "Sheryl Crow & Friends Live From Central Park" ;
+.
+:Shining_Star
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Jerry_Garcia_Band ;
+  bibliographica:byArtist MusicGroup:Jerry_Garcia_Band ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a39c36e8-88f3-4977-a6e5-fd96908da3f0"^^xsd:anyURI ;
+  rdfs:label "Shining Star" ;
 .
 :Shiny_Beast
   rdf:type mo:CD ;
@@ -10005,6 +10185,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/f36d8ca5-df31-4f0a-8b30-644dd61c9874"^^xsd:anyURI ;
   rdfs:label "¡Viva Zapata!" ;
 .
+:Voodoo_Soup
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jimi_Hendrix ;
+  bibliographica:byArtist SoloMusicArtist:Jimi_Hendrix ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/7aef041c-3566-431a-b5df-54bb73d49156"^^xsd:anyURI ;
+  rdfs:label "Voodoo Soup" ;
+.
 :Wake_of_Flood
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -10123,6 +10313,17 @@
   bibliographica:byArtist SoloMusicArtist:Ben_Harper ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/5ec54bef-a930-3842-89f1-395c26b4d42a"^^xsd:anyURI ;
   rdfs:label "Welcome to the Cruel World" ;
+.
+.
+:Welcome_Our_World
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Jerry_Garcia_Band ;
+  bibliographica:byArtist MusicGroup:Jerry_Garcia_Band ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c3cef3f1-f5e4-4a4f-94ea-d701248a3a11"^^xsd:anyURI ;
+  rdfs:label "Welcome to Our World (For Members Only)" ;
 .
 :What_We_Did_Holidays
   rdf:type mo:CD ;
