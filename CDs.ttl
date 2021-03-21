@@ -779,6 +779,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/32250a4b-1cc6-4cfa-a148-5ac819bd340b"^^xsd:anyURI ;
   rdfs:label "Before the Moon" ;
 .
+:Beneath_Gruff_Exterior
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Hiatt ;
+  bibliographica:byArtist SoloMusicArtist:John_Hiatt ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b7c89c38-4e68-4820-9bfc-499832b387ed"^^xsd:anyURI ;
+  rdfs:label "Beneath This Gruff Exterior" ;
+.
 :Bend_Without_Breaking
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -866,6 +876,16 @@
   bibliographica:byArtist SoloMusicArtist:Isaac_Hayes ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/2dbe855c-a7e6-4926-872a-4d4d2a577e7c"^^xsd:anyURI ;
   rdfs:label "The Best of Isaac Hayes, Vol. 1" ;
+.
+:Best_of_John_Hammond
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Hammond ;
+  bibliographica:byArtist SoloMusicArtist:John_Hammond ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/44586617-b6d9-437d-bbc5-3355e1cf0811"^^xsd:anyURI ;
+  rdfs:label "The Best Of John Hammond" ;
 .
 :Best_of_Leonard_Cohen
   rdf:type mo:CD ;
@@ -1145,6 +1165,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/1ff4ea24-a87a-4240-a76c-d6249f559db4"^^xsd:anyURI ;
   rdfs:label "Blue Horse" ;
 .
+:Blue_Moon_Swamp
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Fogerty ;
+  bibliographica:byArtist SoloMusicArtist:John_Fogerty ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b37ce1bf-5900-422f-a23e-fa93cfa94521"^^xsd:anyURI ;
+  rdfs:label "Blue Moon Swamp" ;
+.
 :Blue_River
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1206,6 +1236,16 @@
   bibliographica:byArtist SoloMusicArtist:Meredith_Brooks ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/7ab34777-3a00-39c6-a43e-4b997916bb3c"^^xsd:anyURI ;
   rdfs:label "Blurring the Edges" ;
+.
+:Boom_Boom
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Lee_Hooker ;
+  bibliographica:byArtist SoloMusicArtist:John_Lee_Hooker ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c9cec95b-ba41-4507-ab1d-92236da72662"^^xsd:anyURI ;
+  rdfs:label "Boom Boom" ;
 .
 :Boomers_Story
   rdf:type mo:CD ;
@@ -1355,7 +1395,7 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/127fbc4c-b309-38bf-af91-624f03b134c4"^^xsd:anyURI ;
   rdfs:label "Boys for Pele" ;
 .
-:Breakfast_New_Orleans_Dinner_Timbuktu
+:Breakfast_NO_Dinner_Tim
   rdf:type mo:CD ;
   rdf:type mo:Record ;
   rdf:type mo:Release ;
@@ -1364,6 +1404,16 @@
   bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/08bc0277-fcb2-3a52-8bbc-f7411d76d6df"^^xsd:anyURI ;
   rdfs:label "Breakfast in New Orleans, Dinner in Timbuktu" ;
+.
+:Bring_the_Family
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Hiatt ;
+  bibliographica:byArtist SoloMusicArtist:John_Hiatt ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/4f77c160-baf5-40bb-9e16-d62d9cce1870"^^xsd:anyURI ;
+  rdfs:label "Bring the Family" ;
 .
 :Brothers_And_Sisters
   rdf:type mo:CD ;
@@ -1723,6 +1773,16 @@
   dcterms:creator MusicGroup:Black_Uhuru ;
   bibliographica:byArtist MusicGroup:Black_Uhuru ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/2fac5b16-6da2-3dae-bdb5-9d3b7db2919b"^^xsd:anyURI ;
+  rdfs:label "Chill Out" ;
+.
+:Chill_Out_JLH
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Lee_Hooker ;
+  bibliographica:byArtist SoloMusicArtist:John_Lee_Hooker ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/55f2abf7-a4f7-4c53-8b6a-5ed152b7cbc8"^^xsd:anyURI ;
   rdfs:label "Chill Out" ;
 .
 :Chinatown
@@ -2227,6 +2287,16 @@
   bibliographica:byArtist MusicGroup:Crossing_Jordan ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/aaa87e9d-f665-44eb-875e-d712e07c61c8"^^xsd:anyURI ;
   rdfs:label "Crossing Jordan" ;
+.
+:Crossing_Muddy_Waters
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Hiatt ;
+  bibliographica:byArtist SoloMusicArtist:John_Hiatt ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/754b83fe-d6f8-4bdd-b0d0-9440aea808d9"^^xsd:anyURI ;
+  rdfs:label "Crossing Muddy Waters" ;
 .
 :Crosswinds
   rdf:type mo:CD ;
@@ -2819,6 +2889,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/99c2c64b-a0eb-4696-b344-be22e6f0666c"^^xsd:anyURI ;
   rdfs:label "Don't Let Go" ;
 .
+:Dont_Look_Back
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Lee_Hooker ;
+  bibliographica:byArtist SoloMusicArtist:John_Lee_Hooker ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/4a2735a4-0899-4a86-a9fd-8e8800299531"^^xsd:anyURI ;
+  rdfs:label "Don’t Look Back" ;
+.
 :Doo_Bop
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3313,6 +3393,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/f46a8d48-048c-4baf-902d-79d123cfdbc0"^^xsd:anyURI ;
   rdfs:label "Fire on the Mountain: Reggae Celebrates the Grateful Dead" ;
 .
+:Firemans_Wedding
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Joe_Henry ;
+  bibliographica:byArtist SoloMusicArtist:Joe_Henry ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/afbb98f2-8fec-4c6d-98bc-b137bb0169e1"^^xsd:anyURI ;
+  rdfs:label "Fireman's Wedding" ;
+.
 :First_Rays_Rising_Sun
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3391,6 +3481,16 @@
   bibliographica:byArtist SoloMusicArtist:Greg_Brown ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/f5256c3f-f85f-368f-8e9c-5b464b1e1146"^^xsd:anyURI ;
   rdfs:label "44 & 66" ;
+.
+:Found_True_Love
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Hammond ;
+  bibliographica:byArtist SoloMusicArtist:John_Hammond ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d000fd6f-883f-4f99-bbcb-74455446aecd"^^xsd:anyURI ;
+  rdfs:label "Found True Love" ;
 .
 :Four_Sixty_One_Ocean_Blvd
   rdf:type mo:CD ;
@@ -3485,6 +3585,16 @@
   bibliographica:byArtist SoloMusicArtist:Henry_Kaiser ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a54cfe28-1e1a-4991-bbce-8a8e8ee2a004"^^xsd:anyURI ;
   rdfs:label "Friends & Enemies" ;
+.
+:Frogs_For_Snakes
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Hammond ;
+  bibliographica:byArtist SoloMusicArtist:John_Hammond ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/01c41c91-96d6-42ae-842b-9d11157c4fdf"^^xsd:anyURI ;
+  rdfs:label "Frogs For Snakes" ;
 .
 :From_Choirgirl_Hotel
   rdf:type mo:CD ;
@@ -3764,6 +3874,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/6b056c9e-642e-4084-8716-02cd8b24cc71"^^xsd:anyURI ;
   rdfs:label "Goodbye Cruel World" ;
 .
+:Got_Love_If_You_Want_It
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Hammond ;
+  bibliographica:byArtist SoloMusicArtist:John_Hammond ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/228790dc-8ce4-449f-a42c-75ac5f12e31a"^^xsd:anyURI ;
+  rdfs:label "Got Love If You Want It" ;
+.
 :Gotham_City
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3955,6 +4075,16 @@
   dcterms:creator SoloMusicArtist:William_Aura ;
   bibliographica:byArtist SoloMusicArtist:William_Aura ;
   rdfs:label "Half Moon Bay" ;
+.
+:Hanging_Around_Observatory
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Hiatt ;
+  bibliographica:byArtist SoloMusicArtist:John_Hiatt ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/bfb6fc30-063b-4132-845f-442c57184ec7"^^xsd:anyURI ;
+  rdfs:label "Hangin’ Around the Observatory" ;
 .
 :Harbourfront
   rdf:type mo:CD ;
@@ -4781,6 +4911,26 @@
   bibliographica:byArtist SoloMusicArtist:Joan_Armatrading ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/bd79f706-0743-398a-976f-761e35c128e6"^^xsd:anyURI ;
   rdfs:label "Joan Armatrading" ;
+.
+:John_Fahey_Anthology
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Fahey ;
+  bibliographica:byArtist SoloMusicArtist:John_Fahey ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/ff83d695-ddf3-4a99-bfdd-2b1710163c59"^^xsd:anyURI ;
+  rdfs:label "Return of the Repressed: The John Fahey Anthology" ;
+.
+:John_Hammond_Live
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Hammond ;
+  bibliographica:byArtist SoloMusicArtist:John_Hammond ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e046559f-b69e-42d3-af37-424d9be394f3"^^xsd:anyURI ;
+  rdfs:label "John Hammond Live" ;
 .
 :Johnny_Cash_at_MSG
   rdf:type mo:CD ;
@@ -6077,6 +6227,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/6e79ccba-7f40-3d24-ab7d-ea8ddd89be75"^^xsd:anyURI ;
   rdfs:label "Me Myself I" ;
 .
+:Me_Oh_My
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Hartford ;
+  bibliographica:byArtist SoloMusicArtist:John_Hartford ;
+  bibliographica:musicbrainzSoloMusicArtistURI "https://musicbrainz.org/release/1290ff1d-53f1-4bd9-a4d0-a63d05449ae3"^^xsd:anyURI ;
+  rdfs:label "Me Oh My How the Time Does Fly" ;
+.
 :Medusa
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -6400,6 +6560,16 @@
   bibliographica:byArtist SoloMusicArtist:Regina_Carter ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/65ef3f04-39df-44b9-af20-d0046b4db403"^^xsd:anyURI ;
   rdfs:label "Motor City Moments" ;
+.
+:Mr_Lucky
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Lee_Hooker ;
+  bibliographica:byArtist SoloMusicArtist:John_Lee_Hooker ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/51a517d8-4c7e-41c4-9619-f861fc22da13"^^xsd:anyURI ;
+  rdfs:label "Mr. Lucky" ;
 .
 :Mr_Music_Head
   rdf:type mo:CD ;
@@ -7084,6 +7254,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/339009a5-8ecc-4f78-af3c-0c7bccd5858a"^^xsd:anyURI ;
   rdfs:label "People in Me" ;
 .
+:Perfectly_Good_Guitar
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Hiatt ;
+  bibliographica:byArtist SoloMusicArtist:John_Hiatt ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5bbb4214-72d9-4525-be52-90619ae016cc"^^xsd:anyURI ;
+  rdfs:label "Perfectly Good Guitar" ;
+.
 :Pet_Sounds
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7252,6 +7432,16 @@
   bibliographica:byArtist SoloMusicArtist:Jello_Biafra ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/32b15f41-5346-4b4c-afe1-2e5dc554388f"^^xsd:anyURI ;
   rdfs:label "Prairie Home Invasion" ;
+.
+:Premonition
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Fogerty ;
+  bibliographica:byArtist SoloMusicArtist:John_Fogerty ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/06234b1d-bd5a-483e-95f2-7b4c25e7dba2"^^xsd:anyURI ;
+  rdfs:label "Premonition" ;
 .
 :Private_Eyes
   rdf:type mo:CD ;
@@ -7837,6 +8027,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/dd457c2d-9b31-4883-bbfe-277b99b8df81"^^xsd:anyURI ;
   rdfs:label "The Savoy Brown Collection" ;
 .
+:Scar
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Joe_Henry ;
+  bibliographica:byArtist SoloMusicArtist:Joe_Henry ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/3ea1f107-3ad8-42c5-9598-f77e3c794403"^^xsd:anyURI ;
+  rdfs:label "Scar" ;
+.
 :Scarlets_Walk
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7987,6 +8187,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/5887c600-15a7-3c40-9b8b-49aac410be6d"^^xsd:anyURI ;
   rdfs:label "Shiny Beast (Bat Chain Puller)" ;
 .
+:Short_Mans_Room
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Joe_Henry ;
+  bibliographica:byArtist SoloMusicArtist:Joe_Henry ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/79c2e686-2afc-475c-8ca1-116391de997d"^^xsd:anyURI ;
+  rdfs:label "Short Man's Room" ;
+.
 :Show_Some_Emotion
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -8020,6 +8230,16 @@
   bibliographica:byArtist SoloMusicArtist:Ry_Cooder ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/83b96844-9085-4b51-af74-2710c76001e8"^^xsd:anyURI ;
   rdfs:label "Showtime" ;
+.
+:Shuffletown
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Joe_Henry ;
+  bibliographica:byArtist SoloMusicArtist:Joe_Henry ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/8a495034-5cf3-46cf-a2c3-668fb0125d56"^^xsd:anyURI ;
+  rdfs:label "Shuffletown" ;
 .
 :Side_Four
   rdf:type mo:CD ;
@@ -9158,6 +9378,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/5781be9d-e60e-44e7-b82f-d58f629d865d"^^xsd:anyURI ;
   rdfs:label "The Harder They Come" ;
 .
+:The_Healer
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Lee_Hooker ;
+  bibliographica:byArtist SoloMusicArtist:John_Lee_Hooker ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b3e196cb-9f35-4cdb-ac3b-ed0905a856d7"^^xsd:anyURI ;
+  rdfs:label "The Healer" ;
+.
 :The_Impulse_Years
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -9609,6 +9839,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/dad1dada-1fda-3186-beb7-3bc80e90f9e0"^^xsd:anyURI ;
   rdfs:label "Time Out of Mind" ;
 .
+:Tiny_Voices
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Joe_Henry ;
+  bibliographica:byArtist SoloMusicArtist:Joe_Henry ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/60b7d7d1-2ec4-3272-845b-f2b2d17862a7"^^xsd:anyURI ;
+  rdfs:label "Tiny Voices" ;
+.
 :Tipplers_Tales
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -9772,6 +10012,16 @@
   bibliographica:byArtist MusicGroup:Hot_Rize ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/eff7e4fa-f5ea-4ce6-8839-6963a5ca6c0d"^^xsd:anyURI ;
   rdfs:label "Traditional Ties" ;
+.
+:Trampoline
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Joe_Henry ;
+  bibliographica:byArtist SoloMusicArtist:Joe_Henry ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a0250859-9900-4008-b954-edad2585fc58"^^xsd:anyURI ;
+  rdfs:label "Trampoline" ;
 .
 :Traneing_In
   rdf:type mo:CD ;
@@ -10475,6 +10725,16 @@
   bibliographica:byArtist SoloMusicArtist:Abbey_Lincoln ;
   bibliographica:musicbrainzSoloMusicArtistURI "https://musicbrainz.org/release/689dad1c-0789-42d6-8346-b48f115e05fb"^^xsd:anyURI ;
   rdfs:label "Wholly Earth" ;
+.
+:Wicked_Grin
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Hammond ;
+  bibliographica:byArtist SoloMusicArtist:John_Hammond ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/6e3d3613-086c-4de9-8bc4-e9aa2ad8b73c"^^xsd:anyURI ;
+  rdfs:label "Wicked Grin" ;
 .
 :Wild_Planet
   rdf:type mo:CD ;
