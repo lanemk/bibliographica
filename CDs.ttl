@@ -355,6 +355,15 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/91374080-46c3-41f5-8b0e-9ac998f79a8e"^^xsd:anyURI ;
   rdfs:label "An Equal Love" ;
 .
+:Angel_Town
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Joy_Eden_Harrison ;
+  bibliographica:byArtist SoloMusicArtist:Joy_Eden_Harrison ;
+  rdfs:label "Angel Town" ;
+.
 :Angels_Cigarettes
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -464,6 +473,16 @@
   bibliographica:byArtist MusicGroup:Grateful_Dead ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/15c10195-596b-4f4f-b62e-552d5df60ca2"^^xsd:anyURI ;
   rdfs:label "Aoxomoxoa" ;
+.
+:Apollo
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Kerry_Getz ;
+  bibliographica:byArtist SoloMusicArtist:Kerry_Getz ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/66a5420a-85e3-4864-af02-a4d828d0a091"^^xsd:anyURI ;
+  rdfs:label "Apollo" ;
 .
 :Apollo_Atmospheres
   rdf:type mo:CD ;
@@ -744,6 +763,16 @@
   bibliographica:byArtist SoloMusicArtist:Bebel_Gilberto ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/2c996e0f-e8c2-3167-894c-ab59a7c74989"^^xsd:anyURI ;
   rdfs:label "Bebel Gilberto (CD)" ;
+.
+:Become_What_Are
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Juliana_Hatfield ;
+  bibliographica:byArtist SoloMusicArtist:Juliana_Hatfield ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/498e1991-8a25-4283-816e-01789040c05a"^^xsd:anyURI ;
+  rdfs:label "Become What You Are" ;
 .
 :Been_Around_World
   rdf:type mo:CD ;
@@ -1065,6 +1094,16 @@
   bibliographica:byArtist SoloMusicArtist:Grace ;
   rdfs:label "Black Sand Shore" ;
 .
+:Blazing_Away
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Marianne_Faithfull ;
+  bibliographica:byArtist SoloMusicArtist:Marianne_Faithfull ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e6d3ed16-b0c5-402a-88f2-7215a4163f5d"^^xsd:anyURI ;
+  rdfs:label "Blazing Away" ;
+.
 :Blind_Faith_CD
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1174,6 +1213,16 @@
   bibliographica:byArtist SoloMusicArtist:John_Fogerty ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b37ce1bf-5900-422f-a23e-fa93cfa94521"^^xsd:anyURI ;
   rdfs:label "Blue Moon Swamp" ;
+.
+:Blue_Ridge
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jonathan_Edwards ;
+  bibliographica:byArtist SoloMusicArtist:Jonathan_Edwards ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/396657da-b49e-4d6e-a5d8-4876ef4aa129"^^xsd:anyURI ;
+  rdfs:label "Blue Ridge" ;
 .
 :Blue_River
   rdf:type mo:CD ;
@@ -1414,6 +1463,16 @@
   bibliographica:byArtist SoloMusicArtist:John_Hiatt ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/4f77c160-baf5-40bb-9e16-d62d9cce1870"^^xsd:anyURI ;
   rdfs:label "Bring the Family" ;
+.
+:Broken_English
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Marianne_Faithfull ;
+  bibliographica:byArtist SoloMusicArtist:Marianne_Faithfull ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/edba5150-2435-4d08-b5e3-6699b0b4bb09"^^xsd:anyURI ;
+  rdfs:label "Broken English" ;
 .
 :Brothers_And_Sisters
   rdf:type mo:CD ;
@@ -3174,6 +3233,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/a90b32b2-c84d-35ad-bab3-07e6799cde5b"^^xsd:anyURI ;
   rdfs:label "Empire Burlesque" ;
 .
+:En_el
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Juan_Formell ;
+  bibliographica:byArtist SoloMusicArtist:Juan_Formell ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/36ab81ff-9a11-47db-83c9-5b93275b3463"^^xsd:anyURI ;
+  rdfs:label "En el malecón de La Habana" ;
+.
 :Eric_Clapton_CD
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3243,6 +3312,16 @@
   bibliographica:byArtist SoloMusicArtist:Eva_Cassidy ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e8e9c42a-7f80-4f7f-b388-9e9bbe35d8ac"^^xsd:anyURI ;
   rdfs:label "Eva By Heart" ;
+.
+:Excerpts_Love_Circus
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Lisa_Germano ;
+  bibliographica:byArtist SoloMusicArtist:Lisa_Germano ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d93bd03b-116f-4c26-9f4e-188c68df9a1b"^^xsd:anyURI ;
+  rdfs:label "Excerpts From A Love Circus" ;
 .
 :Fairport_Convention_CD
   rdf:type mo:CD ;
@@ -4085,6 +4164,16 @@
   bibliographica:byArtist SoloMusicArtist:John_Hiatt ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/bfb6fc30-063b-4132-845f-442c57184ec7"^^xsd:anyURI ;
   rdfs:label "Hangin’ Around the Observatory" ;
+.
+:Happiness
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Lisa_Germano ;
+  bibliographica:byArtist SoloMusicArtist:Lisa_Germano ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5171b1d2-ca3e-4c23-a578-b184f2fbab04"^^xsd:anyURI ;
+  rdfs:label "Happiness" ;
 .
 :Harbourfront
   rdf:type mo:CD ;
@@ -4961,6 +5050,16 @@
   bibliographica:byArtist SoloMusicArtist:Ry_Cooder ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e6619929-cf9d-4721-8da5-008a47934a96"^^xsd:anyURI ;
   rdfs:label "Johnny Handsome" ;
+.
+:Jonathan_Edwards_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jonathan_Edwards ;
+  bibliographica:byArtist SoloMusicArtist:Jonathan_Edwards ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e9489083-2071-4332-930d-3ffdbb1d4917"^^xsd:anyURI ;
+  rdfs:label "Jonathan Edwards" ;
 .
 :Jou_a_Rive
   rdf:type mo:CD ;
@@ -5894,6 +5993,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/0cefe3fa-a5fd-41ba-9b89-ae4b2a3f26e8"^^xsd:anyURI ;
   rdfs:label "Lookout for Hope" ;
 .
+:Loose_in_World
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Judy_Henske ;
+  bibliographica:byArtist SoloMusicArtist:Judy_Henske ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/06a07c86-8865-43e8-9e83-7ae0441b65e4"^^xsd:anyURI ;
+  rdfs:label "Loose in the World" ;
+.
 :London_Calling
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -6075,6 +6184,16 @@
   bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/3ee15c41-77b1-32bd-9513-d6035444a34e"^^xsd:anyURI ;
   rdfs:label "MTV Unplugged" ;
+.
+:MTV_Unplugged_2
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Lauryn_Hill ;
+  bibliographica:byArtist SoloMusicArtist:Lauryn_Hill ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d1334b72-0294-4ea4-98ed-147e1473fd09"^^xsd:anyURI ;
+  rdfs:label "MTV Unplugged 2.0" ;
 .
 :Made_To_Love_Magic
   rdf:type mo:CD ;
@@ -6448,6 +6567,16 @@
   bibliographica:byArtist SoloMusicArtist:Desree ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/789a27a8-c390-4b37-b466-666aed434b7b"^^xsd:anyURI ;
   rdfs:label "Mind Adventures" ;
+.
+:Mirror_Pool
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Lisa_Gerrard ;
+  bibliographica:byArtist SoloMusicArtist:Lisa_Gerrard ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d3fb7a2d-1507-32da-8fcf-3b15fa633e92"^^xsd:anyURI ;
+  rdfs:label "The Mirror Pool" ;
 .
 :Misc
   rdf:type mo:CD ;
@@ -6905,6 +7034,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e4f20302-1951-42ab-bacd-fd3b6f4cc6f1"^^xsd:anyURI ;
   rdfs:label "Oh Moscow" ;
 .
+:Old_Testaments
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Kinky_Friedman ;
+  bibliographica:byArtist SoloMusicArtist:Kinky_Friedman ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d85ca1cb-2285-3421-99e6-4096de345240"^^xsd:anyURI ;
+  rdfs:label "Old Testaments & New Revelations" ;
+.
 :Ole_Coltrane
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -6934,6 +7073,16 @@
   bibliographica:byArtist MusicGroup:Dire_Straits ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/5a2c11bb-292f-4e4a-a82f-fd5932612cf3"^^xsd:anyURI ;
   rdfs:label "On The Night" ;
+.
+:On_Way_Down
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Lisa_Germano ;
+  bibliographica:byArtist SoloMusicArtist:Lisa_Germano ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/2eb278d1-ca26-456f-8d00-7f4855f9c9c0"^^xsd:anyURI ;
+  rdfs:label "On the Way Down From the Moon Palace" ;
 .
 :One_Big_Town
   rdf:type mo:CD ;
@@ -7413,6 +7562,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a52de013-9bba-4858-b58f-0178cc026f83"^^xsd:anyURI ;
   rdfs:label "Plays in Paris" ;
 .
+:Porcelain
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Julia_Fordham ;
+  bibliographica:byArtist SoloMusicArtist:Julia_Fordham ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b9af0f53-e47b-4292-b4fd-6750888b8d3d"^^xsd:anyURI ;
+  rdfs:label "Porcelain" ;
+.
 :Postcards_of_Hanging
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7805,6 +7964,16 @@
   bibliographica:byArtist SoloMusicArtist:Randy_Crawford ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b6c4e193-bddd-417f-a17a-a4e0c071fbe5"^^xsd:anyURI ;
   rdfs:label "Rich and Poor" ;
+.
+:Rich_Kid_Blues
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Marianne_Faithfull ;
+  bibliographica:byArtist SoloMusicArtist:Marianne_Faithfull ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/941d8ace-2faf-46de-a77b-dff1a063e2ce"^^xsd:anyURI ;
+  rdfs:label "Rich Kid Blues" ;
 .
 :Rise_and_Fall_Ziggy_Stardust
   rdf:type mo:CD ;
@@ -8885,6 +9054,16 @@
   bibliographica:byArtist SoloMusicArtist:Clive_Gregson ;
   rdfs:label "Strange Persuasions" ;
 .
+:Strange_Weather
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Marianne_Faithfull ;
+  bibliographica:byArtist SoloMusicArtist:Marianne_Faithfull ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d2c29675-45cb-4488-9f37-5558b52bad53"^^xsd:anyURI ;
+  rdfs:label "Strange Weather" ;
+.
 :Stranger_to_This_Land
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -8963,6 +9142,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/1b05393d-e6cf-4c91-a95d-9047d7470a93"^^xsd:anyURI ;
   rdfs:label "Sun Ship" ;
 .
+:Sunny_Border_Blue
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Kristin_Hersh ;
+  bibliographica:byArtist SoloMusicArtist:Kristin_Hersh ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c1eedf21-be23-48eb-b079-61ff3c2941e5"^^xsd:anyURI ;
+  rdfs:label "Sunny Border Blue" ;
+.
 :Sunwheel_Dance
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -9016,6 +9205,16 @@
   bibliographica:byArtist SoloMusicArtist:Roy_Buchanan ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/4999fb78-a139-4b34-963f-e2deebbc6a58"^^xsd:anyURI ;
   rdfs:label "Sweet Dreams: The Anthology" ;
+.
+:Swept
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Julia_Fordham ;
+  bibliographica:byArtist SoloMusicArtist:Julia_Fordham ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/37720bac-0506-4f95-a4ad-4eb0da624bfb"^^xsd:anyURI ;
+  rdfs:label "Swept" ;
 .
 :Swerve
   rdf:type mo:CD ;
@@ -10544,6 +10743,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e87ad418-0e38-460d-b971-9f31b221d327"^^xsd:anyURI ;
   rdfs:label "We Want Miles" ;
 .
+:Weary_Blues
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Langston_Hughes ;
+  bibliographica:byArtist SoloMusicArtist:Langston_Hughes ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/81b695b6-c88c-4a74-96d2-a45352688266"^^xsd:anyURI ;
+  rdfs:label "Weary Blues" ;
+.
 :Weaving_Ancestors_Voices
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -10574,6 +10783,16 @@
   bibliographica:byArtist MusicGroup:Jerry_Garcia_Band ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c3cef3f1-f5e4-4a4f-94ea-d701248a3a11"^^xsd:anyURI ;
   rdfs:label "Welcome to Our World (For Members Only)" ;
+.
+:Whale_Rider
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Lisa_Gerrard ;
+  bibliographica:byArtist SoloMusicArtist:Lisa_Gerrard ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/0b1e8307-ccd4-353a-81b4-16bada756637"^^xsd:anyURI ;
+  rdfs:label "Whale Rider" ;
 .
 :What_We_Did_Holidays
   rdf:type mo:CD ;
@@ -10645,6 +10864,15 @@
   bibliographica:byArtist SoloMusicArtist:Hank_Jones ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d20eecae-2fd1-45e9-895b-8a8089a02461"^^xsd:anyURI ;
   rdfs:label "When There is Love" ;
+.
+:Where_Im_Standing
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Julie_Hoest ;
+  bibliographica:byArtist SoloMusicArtist:Julie_Hoest ;
+  rdfs:label "Where I'm Standing" ;
 .
 :Where_It_Goes
   rdf:type mo:CD ;

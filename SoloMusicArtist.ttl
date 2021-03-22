@@ -2363,6 +2363,13 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/576134a6-9f1f-4bfa-af04-4848195849ca"^^xsd:anyURI ;
   rdfs:label "King Tubby" ;
 .
+:Kinky_Friedman
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Kinky_Friedman.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/8d22894d-5105-44d4-923d-0c2f3f515da6"^^xsd:anyURI ;
+  rdfs:label "Kinky Friedman" ;
+.
 :Koko_Taylor
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassQT ;
