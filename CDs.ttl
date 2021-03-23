@@ -105,6 +105,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/406ec17c-b23e-4cfd-817a-4923a0cf9e43"^^xsd:anyURI ;
   rdfs:label "The Acoustic Motorbike" ;
 .
+:Aerial_Boundaries
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Michael_Hedges ;
+  bibliographica:byArtist SoloMusicArtist:Michael_Hedges ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/2734a2ba-5df6-4863-88f7-4aa86fc332a7"^^xsd:anyURI ;
+  rdfs:label "Aerial Boundaries" ;
+.
 :African_Force
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -573,6 +583,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c863ec7a-8930-4e1e-8209-3293333dc83e"^^xsd:anyURI ;
   rdfs:label "At Last" ;
 .
+:At_The_Edge
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Mickey_Hart ;
+  bibliographica:byArtist SoloMusicArtist:Mickey_Hart ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b1c578a1-5cbd-4ccd-9e42-20eba161c84c"^^xsd:anyURI ;
+  rdfs:label "At the Edge" ;
+.
 :Attainable_Love
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -925,6 +945,16 @@
   bibliographica:byArtist SoloMusicArtist:Leonard_Cohen ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/4aaca24f-a467-480d-ba01-51caf489d677"^^xsd:anyURI ;
   rdfs:label "The Best of Leonard Cohen" ;
+.
+:Best_of_Marvin_Gaye
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Marvin_Gaye ;
+  bibliographica:byArtist SoloMusicArtist:Marvin_Gaye ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/518efc81-ed01-479d-97eb-9f0c4ba4f940"^^xsd:anyURI ;
+  rdfs:label "The Best Of Marvin Gaye, Vol. 2: The '70s" ;
 .
 :Best_of_Mary_Black
   rdf:type mo:CD ;
@@ -1444,6 +1474,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/127fbc4c-b309-38bf-af91-624f03b134c4"^^xsd:anyURI ;
   rdfs:label "Boys for Pele" ;
 .
+:Breakfast_In_Field
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Michael_Hedges ;
+  bibliographica:byArtist SoloMusicArtist:Michael_Hedges ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f3cd188c-884e-46dc-90eb-b03a9f07a0c8"^^xsd:anyURI ;
+  rdfs:label "Breakfast in the Field" ;
+.
 :Breakfast_NO_Dinner_Tim
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1864,6 +1904,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/83e2b3be-7334-428e-ae95-caba10f67121"^^xsd:anyURI ;
   rdfs:label "Chiwoniso: Music of Zimbabwe" ;
 .
+:Choc_Supa_High
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Michael_Franti ;
+  bibliographica:byArtist SoloMusicArtist:Michael_Franti ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/26927dd1-6d6b-4fe9-b785-c7b03cec5111"^^xsd:anyURI ;
+  rdfs:label "Chocolate Supa Highway" ;
+.
 :Christine_Kane_Live
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1955,6 +2005,16 @@
   bibliographica:byArtist SoloMusicArtist:Marc_Antoine ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/63b9a1a4-f72d-49b7-8696-8d3549763bdf"^^xsd:anyURI ;
   rdfs:label "Classical Soul" ;
+.
+:Clock_Without_Hands
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Nanci_Griffith ;
+  bibliographica:byArtist SoloMusicArtist:Nanci_Griffith ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f085d53f-f811-48b6-8c72-058c118923dc"^^xsd:anyURI ;
+  rdfs:label "Clock Without Hands" ;
 .
 :Cmon_Cmon
   rdf:type mo:CD ;
@@ -4353,6 +4413,16 @@
   dcterms:creator SoloMusicArtist:Holladay_Cole ;
   bibliographica:byArtist SoloMusicArtist:Holladay_Cole ;
   rdfs:label "Holladay Cole" ;
+.
+:Home
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Michael_Franti ;
+  bibliographica:byArtist SoloMusicArtist:Michael_Franti ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/ccf6beb3-a589-409f-bf03-e577d347e42f"^^xsd:anyURI ;
+  rdfs:label "Home" ;
 .
 :Home_and_Away
   rdf:type mo:CD ;
@@ -6782,6 +6852,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/598d521e-0cbf-4088-927e-0bbe3ef40dd6"^^xsd:anyURI ;
   rdfs:label "My Life in the Bush of Ghosts" ;
 .
+:Mystery_Box
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Mickey_Hart ;
+  bibliographica:byArtist SoloMusicArtist:Mickey_Hart ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/92eb602c-ba08-4e11-9082-33506d12f3a8"^^xsd:anyURI ;
+  rdfs:label "Mickey Hart's Mystery Box" ;
+.
 :Mystery_White_Boy_live
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7104,6 +7184,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/4e73212d-bfdd-4cb7-9fd7-066fd38e984d"^^xsd:anyURI ;
   rdfs:label "One Down, One Up: Live at the Half Note" ;
 .
+:One_Fair_Summer
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Nanci_Griffith ;
+  bibliographica:byArtist SoloMusicArtist:Nanci_Griffith ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/dc0add73-4dff-470a-8fc3-c4bffbc1fa38"^^xsd:anyURI ;
+  rdfs:label "One Fair Summer Evening" ;
+.
 :One_Flight_Up
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7194,6 +7284,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c9c9db42-6c95-4b8f-b827-6aed11f145c1"^^xsd:anyURI ;
   rdfs:label "Open Road" ;
 .
+:Oracle
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Michael_Hedges ;
+  bibliographica:byArtist SoloMusicArtist:Michael_Hedges ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5284faf7-e959-44b8-926b-8f5d158bd831"^^xsd:anyURI ;
+  rdfs:label "Oracle" ;
+.
 :Original_Bad_Co_Anthology
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7213,6 +7313,25 @@
   bibliographica:byArtist SoloMusicArtist:Dexter_Gordon ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/7437d8af-bd07-44e9-98b4-deace01b515b"^^xsd:anyURI ;
   rdfs:label "The Other Side Of Round Midnight" ;
+.
+:Other_Voices_Too
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Nanci_Griffith ;
+  bibliographica:byArtist SoloMusicArtist:Nanci_Griffith ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b2c841cd-38ff-464c-8a51-93c39638e850"^^xsd:anyURI ;
+  rdfs:label "Other Voices, Too (A Trip Back to Bountiful)" ;
+.
+:Other_Voices_Present
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Nanci_Griffith ;
+  bibliographica:byArtist SoloMusicArtist:Nanci_Griffith ;
+  rdfs:label "Other Voices, Present Echoes" ;
 .
 :Our_Beloved_Revolutionary
   rdf:type mo:CD ;
@@ -7532,6 +7651,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/420c81ba-31a2-4475-8c8d-3dfa94a44985"^^xsd:anyURI ;
   rdfs:label "Places" ;
 .
+:Planet_Drum
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Mickey_Hart ;
+  bibliographica:byArtist SoloMusicArtist:Mickey_Hart ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/cae9ea41-74c6-47cc-aed8-cda2963c5b0a"^^xsd:anyURI ;
+  rdfs:label "Planet Drum" ;
+.
 :Planet_Waves
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7571,6 +7700,16 @@
   bibliographica:byArtist SoloMusicArtist:Julia_Fordham ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b9af0f53-e47b-4292-b4fd-6750888b8d3d"^^xsd:anyURI ;
   rdfs:label "Porcelain" ;
+.
+:Post_Card
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Mary_Hopkin ;
+  bibliographica:byArtist SoloMusicArtist:Mary_Hopkin ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/65080847-d682-4011-b1ca-86326ec9d1af"^^xsd:anyURI ;
+  rdfs:label "Post Card" ;
 .
 :Postcards_of_Hanging
   rdf:type mo:CD ;
@@ -7841,6 +7980,15 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/41ced0c2-94e2-4987-a3f8-2867c904c553"^^xsd:anyURI ;
   rdfs:label "Red Dirt Girl" ;
 .
+:Red_Dog_Blues
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Michael_Fracasso ;
+  bibliographica:byArtist SoloMusicArtist:Michael_Fracasso ;
+  rdfs:label "Red Dog Blues" ;
+.
 :Red_Rocks_78
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7924,6 +8072,15 @@
   bibliographica:byArtist SoloMusicArtist:Shawn_Colvin ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/86e55f2d-617c-4daa-a91b-46ee5db96c72"^^xsd:anyURI ;
   rdfs:label "Retrospective" ;
+.
+:Retrospective_MF
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Michael_Fracasso ;
+  bibliographica:byArtist SoloMusicArtist:Michael_Fracasso ;
+  rdfs:label "Retrospective (Live)" ;
 .
 :Reveries
   rdf:type mo:CD ;
@@ -8044,6 +8201,16 @@
   bibliographica:byArtist MusicGroup:The_Band ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/7f657970-99ce-40e8-ae6a-69989231577d"^^xsd:anyURI ;
   rdfs:label "Rock of Ages" ;
+.
+:Rolling_Thunder
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Mickey_Hart ;
+  bibliographica:byArtist SoloMusicArtist:Mickey_Hart ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/182ca04f-6c88-4eff-aab5-1fe34c86df0c"^^xsd:anyURI ;
+  rdfs:label "Rolling Thunder" ;
 .
 :Root_of_Steely_Dan
   rdf:type mo:CD ;
@@ -9186,6 +9353,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/26fa86bf-be86-4d45-843d-4f48fc2ecfc9"^^xsd:anyURI ;
   rdfs:label "Super Session" ;
 .
+:Supralingua
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Mickey_Hart ;
+  bibliographica:byArtist SoloMusicArtist:Mickey_Hart ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c9abf0e9-4bef-4399-a8c8-fccaf2671024"^^xsd:anyURI ;
+  rdfs:label "Supralingua" ;
+.
 :Supreme
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -9327,6 +9504,16 @@
   bibliographica:byArtist SoloMusicArtist:George_Clinton ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/414012b2-4a20-416f-a946-7b79fd772436"^^xsd:anyURI ;
   rdfs:label "T.A.P.O.A.F.O.M." ;
+.
+:Taproot
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Michael_Hedges ;
+  bibliographica:byArtist SoloMusicArtist:Michael_Hedges ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/3002e163-3164-4072-9d63-f577a6194e39"^^xsd:anyURI ;
+  rdfs:label "Taproot" ;
 .
 :Tears_of_Stone
   rdf:type mo:CD ;
@@ -10322,13 +10509,23 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/3b95f31a-eec4-4478-866e-6d9714a57743"^^xsd:anyURI ;
   rdfs:label "Truth and Soul" ;
 .
+:Try_Whistling_This
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Tim_Finn ;
+  bibliographica:byArtist SoloMusicArtist:Tim_Finn ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5b569700-0195-3c0a-a522-104eadc603a6"^^xsd:anyURI ;
+  rdfs:label "Try Whistling This" ;
+.
 :Tumblin_Down
   rdf:type mo:CD ;
   rdf:type mo:Record ;
   rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
-  dcterms:creator SoloMusicArtist:Bleecker_Street ;
-  bibliographica:byArtist SoloMusicArtist:Bleecker_Street ;
+  dcterms:creator MusicGroup:Bleecker_Street ;
+  bibliographica:byArtist MusicGroup:Bleecker_Street ;
   rdfs:label "Tumblin' Down" ;
 .
 :Turf
@@ -11115,6 +11312,16 @@
   bibliographica:byArtist SoloMusicArtist:Al_Stewart ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/8f195fea-549e-4659-97a8-d9e619361ab0"^^xsd:anyURI ;
   rdfs:label "Year of the Cat" ;
+.
+:Yell_Fire
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Michael_Franti ;
+  bibliographica:byArtist SoloMusicArtist:Michael_Franti ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/08a62e01-a89f-432c-ba97-89efeea39dac"^^xsd:anyURI ;
+  rdfs:label "Yell Fire" ;
 .
 :Yellow_Dog
   rdf:type mo:CD ;
