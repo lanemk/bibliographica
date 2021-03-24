@@ -533,6 +533,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/fea946a8-c05d-3a9b-a6fb-df5e592342a5"^^xsd:anyURI ;
   rdfs:label "Armed Forces" ;
 .
+:Art_of_Rakoto
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Rakoto_Frah ;
+  bibliographica:byArtist SoloMusicArtist:Rakoto_Frah ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/3a6bff5a-58eb-4a49-b166-b020597ef8c5"^^xsd:anyURI ;
+  rdfs:label "The Art of Rakoto Frah & Randafison Sylvestre / Madagascar" ;
+.
 :At_Budokan
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2467,6 +2477,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/6b452115-016f-4253-967a-21ef6c661ea8"^^xsd:anyURI ;
   rdfs:label "Cut Me Loose" ;
 .
+:Dance_Afro_Beat
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Orlando_Julius ;
+  bibliographica:byArtist SoloMusicArtist:Orlando_Julius ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/6118a545-4fc7-4cdb-b01c-4c50682c2317"^^xsd:anyURI ;
+  rdfs:label "Dance Afro Beat" ;
+.
 :Dancing_Dragons_Jaws
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3117,6 +3137,16 @@
   bibliographica:byArtist SoloMusicArtist:Nurudafina_Pili_Adena ;
   rdfs:label "Drum Call" ;
 .
+:Dry
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:PJ_Harvey ;
+  bibliographica:byArtist SoloMusicArtist:PJ_Harvey ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/4ecaba33-4323-41ca-8129-18699d105562"^^xsd:anyURI ;
+  rdfs:label "Dry" ;
+.
 :Dub_Side_Moon
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3383,6 +3413,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d93bd03b-116f-4c26-9f4e-188c68df9a1b"^^xsd:anyURI ;
   rdfs:label "Excerpts From A Love Circus" ;
 .
+:Exposure
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Robert_Fripp ;
+  bibliographica:byArtist SoloMusicArtist:Robert_Fripp ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/1cd700f5-c2cb-40fa-aa06-6ad14701f7fb"^^xsd:anyURI ;
+  rdfs:label "Exposure" ;
+.
 :Fairport_Convention_CD
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3541,6 +3581,16 @@
   bibliographica:byArtist SoloMusicArtist:Joe_Henry ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/afbb98f2-8fec-4c6d-98bc-b137bb0169e1"^^xsd:anyURI ;
   rdfs:label "Fireman's Wedding" ;
+.
+:First_Instrument
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Rachelle_Ferrell ;
+  bibliographica:byArtist SoloMusicArtist:Rachelle_Ferrell ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/23856e41-cd13-43f5-ba2d-2e122c469351"^^xsd:anyURI ;
+  rdfs:label "First Instrument" ;
 .
 :First_Rays_Rising_Sun
   rdf:type mo:CD ;
@@ -3702,6 +3752,16 @@
   bibliographica:byArtist SoloMusicArtist:Greg_Brown ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/8070e370-5fe6-48c7-bad5-77c9a013da13"^^xsd:anyURI ;
   rdfs:label "Friend of Mine" ;
+.
+:Friends_of_Mine
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ramblin_Jack_Elliott ;
+  bibliographica:byArtist SoloMusicArtist:Ramblin_Jack_Elliott ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/de57dcee-7b73-43f3-8165-e7b4fa5c263f"^^xsd:anyURI ;
+  rdfs:label "Friends of Mine" ;
 .
 :Friends
   rdf:type mo:CD ;
@@ -4705,6 +4765,18 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c923aa9e-804c-4da5-981c-5de05f3d645e"^^xsd:anyURI ;
   rdfs:label "Infrared Roses" ;
 .
+:Intergalactic_Boogie
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Robert_Fripp ;
+  bibliographica:byArtist SoloMusicArtist:Robert_Fripp ;
+  dcterms:creator MusicGroup:League_Crafty_Guitarists ;
+  bibliographica:byArtist MusicGroup:League_Crafty_Guitarists ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/eedc7af4-db61-4802-9758-f9e11516a516"^^xsd:anyURI ;
+  rdfs:label "Intergalactic Boogie Express: Live in Europe 1991" ;
+.
 :Its_My_Sin
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5362,6 +5434,18 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/47b63911-581a-4948-a181-2a8b7799e129"^^xsd:anyURI ;
   rdfs:label "Le Hoogie Boogie: Louisiana French Music for Children" ;
 .
+:League_of_Gentlemen_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Robert_Fripp ;
+  bibliographica:byArtist SoloMusicArtist:Robert_Fripp ;
+  dcterms:creator MusicGroup:League_of_Gentlemen ;
+  bibliographica:byArtist MusicGroup:League_of_Gentlemen ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f9871a60-2d3b-45ca-a304-b5b40dc5ecbc"^^xsd:anyURI ;
+  rdfs:label "The League of Gentlemen" ;
+.
 :Left_in_Vaults
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5541,6 +5625,18 @@
   bibliographica:byArtist MusicGroup:Gipsy_Kings ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/bf9d860f-a99b-41f9-9357-e98516d5552e"^^xsd:anyURI ;
   rdfs:label "Gipsy Kings Live" ;
+.
+:Live_RF_LCG
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Robert_Fripp ;
+  bibliographica:byArtist SoloMusicArtist:Robert_Fripp ;
+  dcterms:creator MusicGroup:League_Crafty_Guitarists ;
+  bibliographica:byArtist MusicGroup:League_Crafty_Guitarists ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f9871a60-2d3b-45ca-a304-b5b40dc5ecbc"^^xsd:anyURI ;
+  rdfs:label "Live!" ;
 .
 :Live_Adventures
   rdf:type mo:CD ;
@@ -6003,6 +6099,16 @@
   bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/3ec0ff23-08e3-48ab-92b7-e68ff60d9c72"^^xsd:anyURI ;
   rdfs:label "Living Space" ;
+.
+:Living_With_Ghosts
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Patty_Griffin ;
+  bibliographica:byArtist SoloMusicArtist:Patty_Griffin ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/7fe6a811-5c22-4211-b0b6-a7b8e0a270bd"^^xsd:anyURI ;
+  rdfs:label "Living With Ghosts" ;
 .
 :Lizard_Music
   rdf:type mo:CD ;
@@ -6992,6 +7098,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/2af210d7-0597-4cfd-af7c-aac3c11a51f5"^^xsd:anyURI ;
   rdfs:label "Nights at the Keystone, Volume 3" ;
 .
+:Nnenna_Freelon_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Nnenna_Freelon ;
+  bibliographica:byArtist SoloMusicArtist:Nnenna_Freelon ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/023ba167-d4de-4f74-bf48-995b2ef1582d"^^xsd:anyURI ;
+  rdfs:label "Nnenna Freelon" ;
+.
 :No_Material
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7053,6 +7169,16 @@
   bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/49fb19c2-b8a3-3462-94ba-8847841024ce"^^xsd:anyURI ;
   rdfs:label "Nothing But a Burning Light" ;
+.
+:Novemeber_Suite
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Robert_Fripp ;
+  bibliographica:byArtist SoloMusicArtist:Robert_Fripp ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c1db41d2-528e-46ac-be9c-bd9f3190e554"^^xsd:anyURI ;
+  rdfs:label "Novemeber Suite" ;
 .
 :Now_It_Can_Be_Told
   rdf:type mo:CD ;
@@ -7274,6 +7400,15 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/dd18208e-946d-3f05-ac0c-e2a14be0d318"^^xsd:anyURI ;
   rdfs:label "Open" ;
 .
+:Open_Ears_Eyes
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Allen_Ginsberg ;
+  bibliographica:byArtist SoloMusicArtist:Allen_Ginsberg ;
+  rdfs:label "Open Ears, Open Eyes with Allen Ginsburg" ;
+.
 :Open_Road
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7492,6 +7627,25 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/dcf0173c-9751-4300-b77a-8faf3c0ad900"^^xsd:anyURI ;
   rdfs:label "Passengers" ;
 .
+:Passion_Soundtrack
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Peter_Gabriel ;
+  bibliographica:byArtist SoloMusicArtist:Peter_Gabriel ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c0cf7ebb-2db9-3dcf-8029-67f487316ea0"^^xsd:anyURI ;
+  rdfs:label "Passion: Music for the Last Temptation of Christ" ;
+.
+:Passion_Sources
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Peter_Gabriel ;
+  bibliographica:byArtist SoloMusicArtist:Peter_Gabriel ;
+  rdfs:label "Passion Sources" ;
+.
 :Past_Light
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7541,6 +7695,16 @@
   bibliographica:byArtist MusicGroup:The_Beach_Boys ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/865cad65-0ee4-4ba3-89e8-66e23e8e0b53"^^xsd:anyURI ;
   rdfs:label "Pet Sounds" ;
+.
+:Peter_Gabriel_Melt
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Peter_Gabriel ;
+  bibliographica:byArtist SoloMusicArtist:Peter_Gabriel ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c3a90044-9258-3e46-a77f-b33ca78c5503"^^xsd:anyURI ;
+  rdfs:label "Peter Gabriel (Melt)" ;
 .
 :Phosphorescent_Rat
   rdf:type mo:CD ;
@@ -7690,6 +7854,16 @@
   bibliographica:byArtist SoloMusicArtist:Dizzy_Gillespie ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a52de013-9bba-4858-b58f-0178cc026f83"^^xsd:anyURI ;
   rdfs:label "Plays in Paris" ;
+.
+:Plays_Live
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Peter_Gabriel ;
+  bibliographica:byArtist SoloMusicArtist:Peter_Gabriel ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9d897884-ac56-4edf-97e7-8ee450cd57c3"^^xsd:anyURI ;
+  rdfs:label "Plays Live" ;
 .
 :Porcelain
   rdf:type mo:CD ;
@@ -8038,6 +8212,16 @@
   bibliographica:byArtist MusicGroup:Cowboy_Junkies ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/fbb9c189-64cb-4325-9532-7ac53e658b46"^^xsd:anyURI ;
   rdfs:label "The Nomad Series, Volume 1: Renmin Park" ;
+.
+:Repercussions_Angleic_Behavior
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Robert_Fripp ;
+  bibliographica:byArtist SoloMusicArtist:Robert_Fripp ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/0fcc1d02-9575-49eb-99c8-4abacdb5a224"^^xsd:anyURI ;
+  rdfs:label "The Repercussions of Angelic Behavior" ;
 .
 :ReTurning
   rdf:type mo:CD ;
@@ -8473,6 +8657,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/238a43ae-317b-42ca-9029-e75f8b97efe5"^^xsd:anyURI ;
   rdfs:label "Shady Grove" ;
 .
+:Shaking_Free
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Nnenna_Freelon ;
+  bibliographica:byArtist SoloMusicArtist:Nnenna_Freelon ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/074ee03c-5baa-462e-908a-34691ffa00f7"^^xsd:anyURI ;
+  rdfs:label "Shaking Free" ;
+.
 :Sharing_the_Night_Together
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -8532,6 +8726,18 @@
   bibliographica:byArtist SoloMusicArtist:Joe_Henry ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/79c2e686-2afc-475c-8ca1-116391de997d"^^xsd:anyURI ;
   rdfs:label "Short Man's Room" ;
+.
+:Show_Of_Hands
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Robert_Fripp ;
+  bibliographica:byArtist SoloMusicArtist:Robert_Fripp ;
+  dcterms:creator MusicGroup:League_Crafty_Guitarists ;
+  bibliographica:byArtist MusicGroup:League_Crafty_Guitarists ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/08afb1e1-fdeb-4bb3-9859-e943fdbccf90"^^xsd:anyURI ;
+  rdfs:label "Show of Hands" ;
 .
 :Show_Some_Emotion
   rdf:type mo:CD ;
@@ -8798,6 +9004,16 @@
   dcterms:creator SoloMusicArtist:Darrell_Grant ;
   bibliographica:byArtist SoloMusicArtist:Darrell_Grant ;
   rdfs:label "Smokin' Java" ;
+.
+:So
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Peter_Gabriel ;
+  bibliographica:byArtist SoloMusicArtist:Peter_Gabriel ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e0778052-5b59-39f2-a0b0-48515b64a94d"^^xsd:anyURI ;
+  rdfs:label "So" ;
 .
 :So_Much_Shouting_So_Much_Laughter
   rdf:type mo:CD ;
@@ -9191,6 +9407,16 @@
   bibliographica:byArtist SoloMusicArtist:Jill_Cohn ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/02fcdf79-3c07-4282-b73e-47d013a87812"^^xsd:anyURI ;
   rdfs:label "Stories From the Bluebus" ;
+.
+:Stories_From_City
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:PJ_Harvey ;
+  bibliographica:byArtist SoloMusicArtist:PJ_Harvey ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a227a9b1-59e1-43fd-93b5-ecdd85da190c"^^xsd:anyURI ;
+  rdfs:label "Stories from the City, Stories from the Sea" ;
 .
 :Strange_Angels
   rdf:type mo:CD ;
@@ -10245,6 +10471,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d95e019c-d94b-4776-9810-a0d915ce4559"^^xsd:anyURI ;
   rdfs:label "Tipplers Tales" ;
 .
+:To_Bring_Love
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:PJ_Harvey ;
+  bibliographica:byArtist SoloMusicArtist:PJ_Harvey ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/ed790ac9-8562-3192-adce-7aa890dab146"^^xsd:anyURI ;
+  rdfs:label "To Bring You My Love" ;
+.
 :To_Kingdom_Come
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -10608,6 +10844,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/f875da30-52f0-4990-b584-636340fa87fe"^^xsd:anyURI ;
   rdfs:label "200 More Miles" ;
 .
+:Uh_Huh_Her
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:PJ_Harvey ;
+  bibliographica:byArtist SoloMusicArtist:PJ_Harvey ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f86c0b17-f117-45e0-94b2-5dd4664e271e"^^xsd:anyURI ;
+  rdfs:label "Uh Huh Her" ;
+.
 :Ultimate_Anita_O-Day
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -10628,6 +10874,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/284ce5a4-1b89-4e35-9bf4-e9058736747a"^^xsd:anyURI ;
   rdfs:label "Ultra Hi-Fidelity" ;
   rdfs:comment "A bonus CD from While You Weren't Looking" ;
+.
+:Under_Heavy_Manners
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Robert_Fripp ;
+  bibliographica:byArtist SoloMusicArtist:Robert_Fripp ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/3ec31875-9480-3432-bc0f-445b2972b4e5"^^xsd:anyURI ;
+  rdfs:label "God Save the Queen/Under Heavy Manners" ;
 .
 :Under_Red_Sky
   rdf:type mo:CD ;
@@ -10770,6 +11026,16 @@
   bibliographica:byArtist SoloMusicArtist:Billie_Holiday ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/0aa514bf-5be2-475a-ac1b-0222f9d4c881"^^xsd:anyURI ;
   rdfs:label "The Silver Collection" ;
+.
+:Very_Best_Of_Nina
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Nina_Hagen ;
+  bibliographica:byArtist SoloMusicArtist:Nina_Hagen ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/00e45b6d-29d6-47e7-86b4-ec85b37ee439"^^xsd:anyURI ;
+  rdfs:label "The Very Best of Nina Hagen" ;
 .
 :Victims
   rdf:type mo:CD ;

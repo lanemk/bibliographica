@@ -1145,6 +1145,20 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/cb8d5012-d384-4574-a0b4-59a3aedddf52"^^xsd:anyURI ;
   rdfs:label "Lavay Smith & Her Red Hot Skillet Lickers" ;
 .
+:League_Crafty_Guitarists
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Guitar_Craft.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/6ee2f839-a523-41b4-aa5a-a6dafcf4a9b9"^^xsd:anyURI ;
+  rdfs:label "League of Crafty Guitarists" ;
+.
+:League_of_Gentlemen
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/The_League_of_Gentlemen_(band).ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/e2cd9278-7bd1-4fbf-b507-e8c68c5fb21a"^^xsd:anyURI ;
+  rdfs:label "League of Gentlemen" ;
+.
 :Led_Zeppelin
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassIL ;
