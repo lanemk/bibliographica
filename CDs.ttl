@@ -1115,6 +1115,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a46128d0-d0a5-4e27-9eef-2379e136904c"^^xsd:anyURI ;
   rdfs:label "Black Beauty" ;
 .
+:Black_Music_White_People
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Screamin_Jay_Hawkins ;
+  bibliographica:byArtist SoloMusicArtist:Screamin_Jay_Hawkins ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e597524a-29be-4217-9922-3d523925096a"^^xsd:anyURI ;
+  rdfs:label "Black Music For White People" ;
+.
 :Black_Pearls
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1653,6 +1663,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b34eef68-3932-4565-ba34-296fffa71caf"^^xsd:anyURI ;
   rdfs:label "Cajun Conja" ;
 .
+:Calling_Card
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Rory_Gallagher ;
+  bibliographica:byArtist SoloMusicArtist:Rory_Gallagher ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/acfcfd68-ee32-323d-a608-f9d50ef5c5ee"^^xsd:anyURI ;
+  rdfs:label "Calling Card" ;
+.
 :Camper_Van_Beethoven_Is_Dead
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1793,14 +1813,15 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/7f2ed214-9239-4c78-8059-4da3bcd50b0e"^^xsd:anyURI ;
   rdfs:label "Chameleon" ;
 .
-:Chante
+:Chanchullo
   rdf:type mo:CD ;
   rdf:type mo:Record ;
   rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
-  dcterms:creator SoloMusicArtist:Chante ;
-  bibliographica:byArtist SoloMusicArtist:Chante ;
-  rdfs:label "Prairie Girl" ;
+  dcterms:creator SoloMusicArtist:Ruben_Gonzalez ;
+  bibliographica:byArtist SoloMusicArtist:Ruben_Gonzalez ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/fc690b04-9d4f-4eb0-a35b-bc1c9bab618b"^^xsd:anyURI ;
+  rdfs:label "Chanchullo" ;
 .
 :Change_in_Weather
   rdf:type mo:CD ;
@@ -3147,6 +3168,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/4ecaba33-4323-41ca-8129-18699d105562"^^xsd:anyURI ;
   rdfs:label "Dry" ;
 .
+:Du_Jazz
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Serge_Gainsbourg ;
+  bibliographica:byArtist SoloMusicArtist:Serge_Gainsbourg ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/976dbda1-c41e-4515-a31a-f5c153b3c6bf"^^xsd:anyURI ;
+  rdfs:label "Du Jazz Dans Le Ravin" ;
+.
 :Dub_Side_Moon
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3954,6 +3985,26 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/99ff7940-a89d-4778-8892-abbc65b0bcd5"^^xsd:anyURI ;
   rdfs:label "Gettin' Around" ;
 .
+:Getz_Gilberto
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Stan_Getz ;
+  bibliographica:byArtist SoloMusicArtist:Stan_Getz ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b36a7186-8a86-47b1-ad97-f2278ef0da5f"^^xsd:anyURI ;
+  rdfs:label "Getz/Gilberto" ;
+.
+:Girl_From_Impanema
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Stan_Getz ;
+  bibliographica:byArtist SoloMusicArtist:Stan_Getz ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9b9cbb73-0d08-4c1b-9595-708b178c0be4"^^xsd:anyURI ;
+  rdfs:label "The Girl from Ipanema: The Bossa Nova Years" ;
+.
 :Girl_Like_Me
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4252,6 +4303,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/da27dab2-990a-421f-bea4-da368d3e7cc0"^^xsd:anyURI ;
   rdfs:label "Guitar on Fire: The Atlantic Sessions" ;
 .
+:Guitar_Town
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Steve_Earle ;
+  bibliographica:byArtist SoloMusicArtist:Steve_Earle ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a633eb47-8b0d-4b82-8132-cc5cf09d7e7e"^^xsd:anyURI ;
+  rdfs:label "Guitar Town" ;
+.
 :Guitar_Trio
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4454,6 +4515,16 @@
   bibliographica:byArtist MusicGroup:Austin_Lounge_Lizards ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/e6d56ffd-cd69-316d-8d76-43934fd27a6d"^^xsd:anyURI ;
   rdfs:label "Highway Cafe Of The Damned (1988)" ;
+.
+:Histoire_de_Melody
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Serge_Gainsbourg ;
+  bibliographica:byArtist SoloMusicArtist:Serge_Gainsbourg ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/bdbe5b7d-6579-4ff6-832f-172b2e83fdb3"^^xsd:anyURI ;
+  rdfs:label "Histoire de Melody Nelson" ;
 .
 :Hogs_on_the_Highway
   rdf:type mo:CD ;
@@ -4776,6 +4847,16 @@
   bibliographica:byArtist MusicGroup:League_Crafty_Guitarists ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/eedc7af4-db61-4802-9758-f9e11516a516"^^xsd:anyURI ;
   rdfs:label "Intergalactic Boogie Express: Live in Europe 1991" ;
+.
+:Introducing_Ruben
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ruben_Gonzalez ;
+  bibliographica:byArtist SoloMusicArtist:Ruben_Gonzalez ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/92eff59f-da6e-36b7-b025-6e90e6c0d6f8"^^xsd:anyURI ;
+  rdfs:label "Introducing… Rubén González" ;
 .
 :Its_My_Sin
   rdf:type mo:CD ;
@@ -5122,6 +5203,16 @@
   bibliographica:byArtist MusicGroup:Jerry_Garcia_Band ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/0475ea5d-16d5-4f27-b65a-a7b8d018d811"^^xsd:anyURI ;
   rdfs:label "Jerry Garcia Band" ;
+.
+:Jerusalem
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Steve_Earle ;
+  bibliographica:byArtist SoloMusicArtist:Steve_Earle ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/3b7bf8fa-ed80-41f1-a04b-7b73e648550d"^^xsd:anyURI ;
+  rdfs:label "Jerusalem" ;
 .
 :Jewel_in_Crown
   rdf:type mo:CD ;
@@ -5626,6 +5717,18 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/bf9d860f-a99b-41f9-9357-e98516d5552e"^^xsd:anyURI ;
   rdfs:label "Gipsy Kings Live" ;
 .
+:Live_SG_DG
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Stephane_Grappelli ;
+  dcterms:creator SoloMusicArtist:David_Grisman ;
+  bibliographica:byArtist SoloMusicArtist:Stephane_Grappelli ;
+  bibliographica:byArtist SoloMusicArtist:David_Grisman ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5b27476a-2710-4fc3-a5d8-25d994b79e09"^^xsd:anyURI ;
+  rdfs:label "Live" ;
+.
 :Live_RF_LCG
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5999,6 +6102,15 @@
   bibliographica:byArtist MusicGroup:Burning_Spear ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/5960fe04-1b1c-4fe0-a557-bdd05dc952ae"^^xsd:anyURI ;
   rdfs:label "Live in Paris: Zenith '88" ;
+.
+:Live_Last_Troubador
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Steve_Earle ;
+  bibliographica:byArtist SoloMusicArtist:Steve_Earle ;
+  rdfs:label "Live: The Last of HC Troubador" ;
 .
 :Live_Maxs_KC
   rdf:type mo:CD ;
@@ -7018,6 +7130,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e182adf6-e2a8-444f-9b1f-43bec130ba82"^^xsd:anyURI ;
   rdfs:label "Neath Your Covers, Part 1" ;
 .
+:New_Era
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sipho_Gumede ;
+  bibliographica:byArtist SoloMusicArtist:Sipho_Gumede ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/92758ea7-5f4e-4816-bc34-ec8cff0d5f0c"^^xsd:anyURI ;
+  rdfs:label "New Era" ;
+.
 :New_Skin
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7895,6 +8017,15 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/795c6176-83d9-4905-8663-65b572ce1133"^^xsd:anyURI ;
   rdfs:label "Postcards of the Hanging: Grateful Dead Perform the Songs of Bob Dylan" ;
 .
+:Prairie_Girl
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Chante ;
+  bibliographica:byArtist SoloMusicArtist:Chante ;
+  rdfs:label "Prairie Girl" ;
+.
 :Prairie_Home_Invasion
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7924,6 +8055,15 @@
   bibliographica:byArtist SoloMusicArtist:Tommy_Bolin ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/63d543b4-7e5f-4586-86cf-f1d797eb0419"^^xsd:anyURI ;
   rdfs:label "Private Eyes" ;
+.
+:Promontory_Rider
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Robert_Hunter ;
+  bibliographica:byArtist SoloMusicArtist:Robert_Hunter ;
+  rdfs:label "Promontory Rider" ;
 .
 :Pulse_Where_Rhythm_Begins
   rdf:type mo:CD ;
@@ -8275,6 +8415,16 @@
   bibliographica:byArtist SoloMusicArtist:Paolo_Conte ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e9fb2f9f-ae8c-490c-949f-ec7bf1373266"^^xsd:anyURI ;
   rdfs:label "Reveries" ;
+.
+:Revolution_Starts_Now
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Steve_Earle ;
+  bibliographica:byArtist SoloMusicArtist:Steve_Earle ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/7e249817-bd03-47d4-9ed3-9206d31ce291"^^xsd:anyURI ;
+  rdfs:label "The Revolution Starts Now" ;
 .
 :Revolver
   rdf:type mo:CD ;
@@ -9087,6 +9237,16 @@
   bibliographica:musicbraiSoloMusicArtistnzURI "https://musicbrainz.org/release/e981afd2-c54b-4023-8c37-1b78ac69bfeb"^^xsd:anyURI ;
   rdfs:label "Son of the Wind" ;
 .
+:Song_Is_You
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Stan_Getz ;
+  bibliographica:byArtist SoloMusicArtist:Stan_Getz ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/ef3e3867-213f-49d8-be70-6392ed86d792"^^xsd:anyURI ;
+  rdfs:label "The Song Is You" ;
+.
 :Songs_From_a_Room
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -9277,6 +9437,16 @@
   bibliographica:byArtist MusicGroup:Baka_Beyond ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/cd30cc39-3855-3e83-ab92-623831c66829"^^xsd:anyURI ;
   rdfs:label "Spirit of the Forest" ;
+.
+:Spiritual_Appliances
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sara_Hickman ;
+  bibliographica:byArtist SoloMusicArtist:Sara_Hickman ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/147ecce2-d4ae-4a2f-99a7-7ea23e226054"^^xsd:anyURI ;
+  rdfs:label "Spiritual Appliances" ;
 .
 :Spyboy
   rdf:type mo:CD ;
@@ -9901,6 +10071,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c806639b-f8db-4e52-b96f-acfcc07da536"^^xsd:anyURI ;
   rdfs:label "The Bethlehem Years" ;
 .
+:The_Big_Time
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Robin_Holcomb ;
+  bibliographica:byArtist SoloMusicArtist:Robin_Holcomb ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b9a7a401-5fb7-4697-bac0-78aa685bb9e5"^^xsd:anyURI ;
+  rdfs:label "The Big Time" ;
+.
 :The_Captain
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -10421,6 +10601,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/565c2bb2-5277-467d-ad36-97e8be01ce6e"^^xsd:anyURI ;
   rdfs:label "Thundering Herd (disc 1)" ;
 .
+:Timbre
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sophie_B_Hawkins ;
+  bibliographica:byArtist SoloMusicArtist:Sophie_B_Hawkins ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/ac1519b3-01b0-4448-894a-ae15ea26c5ed"^^xsd:anyURI ;
+  rdfs:label "Timbre" ;
+.
 :Time_No_Reply
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -10625,6 +10815,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/6c895bc5-7781-3cef-829e-0e1449b9c2f1"^^xsd:anyURI ;
   rdfs:label "Total Eclipse" ;
 .
+:Tongue_Tails
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sophie_B_Hawkins ;
+  bibliographica:byArtist SoloMusicArtist:Sophie_B_Hawkins ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/0b6ffacd-0db8-33cb-952b-7a8f3fd9b8a9"^^xsd:anyURI ;
+  rdfs:label "Tongues and Tails" ;
+.
 :Traditional_Ties
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -10644,6 +10844,16 @@
   bibliographica:byArtist SoloMusicArtist:Joe_Henry ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a0250859-9900-4008-b954-edad2585fc58"^^xsd:anyURI ;
   rdfs:label "Trampoline" ;
+.
+:Transcendental_Blues
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Steve_Earle ;
+  bibliographica:byArtist SoloMusicArtist:Steve_Earle ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b09571d4-8b90-4b6e-b698-087d7cf9957a"^^xsd:anyURI ;
+  rdfs:label "Transcendental Blues" ;
 .
 :Traneing_In
   rdf:type mo:CD ;
@@ -11017,6 +11227,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a485361f-b525-4543-ac0b-61c97421b13d"^^xsd:anyURI ;
   rdfs:label "Upper Extremities" ;
 .
+:Verve_Masters_Stan_Getz
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Stan_Getz ;
+  bibliographica:byArtist SoloMusicArtist:Stan_Getz ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/0aa514bf-5be2-475a-ac1b-0222f9d4c881"^^xsd:anyURI ;
+  rdfs:label "Verve Jazz Masters 8: Stan Getz" ;
+.
 :Verve_Silver_Collection
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -11046,6 +11266,16 @@
   bibliographica:byArtist SoloMusicArtist:Lucky_Dube ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/eb26c05b-519d-478b-9281-021969b1bdff"^^xsd:anyURI ;
   rdfs:label "Victims" ;
+.
+:Vieux_Vinyls
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Screamin_Jay_Hawkins ;
+  bibliographica:byArtist SoloMusicArtist:Screamin_Jay_Hawkins ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c8f60c5b-a1eb-4db0-970f-7ecee06a4b95"^^xsd:anyURI ;
+  rdfs:label "Vieux Vinyls" ;
 .
 :Vintage_Years
   rdf:type mo:CD ;
@@ -11096,6 +11326,16 @@
   bibliographica:byArtist MusicGroup:Seven_Year_Bitch ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/f36d8ca5-df31-4f0a-8b30-644dd61c9874"^^xsd:anyURI ;
   rdfs:label "¡Viva Zapata!" ;
+.
+:Voodoo_Jive
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Screamin_Jay_Hawkins ;
+  bibliographica:byArtist SoloMusicArtist:Screamin_Jay_Hawkins ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/fb761a5f-1639-4cc2-882c-05008b562d2d"^^xsd:anyURI ;
+  rdfs:label "Voodoo Jive: The Best of Screamin' Jay Hawkins" ;
 .
 :Voodoo_Soup
   rdf:type mo:CD ;
@@ -11226,6 +11466,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/57cf757d-c486-47b2-a314-ac113fee9417"^^xsd:anyURI ;
   rdfs:label "Weaving My Ancestors’ Voices" ;
 .
+:Week_In_January
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Seamus_Egan ;
+  bibliographica:byArtist SoloMusicArtist:Seamus_Egan ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/2d2dc571-adcc-4367-916a-0582131befd3"^^xsd:anyURI ;
+  rdfs:label "A Week in January" ;
+.
 :Welcome_Cruel_World
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -11235,7 +11485,6 @@
   bibliographica:byArtist SoloMusicArtist:Ben_Harper ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/5ec54bef-a930-3842-89f1-395c26b4d42a"^^xsd:anyURI ;
   rdfs:label "Welcome to the Cruel World" ;
-.
 .
 :Welcome_Our_World
   rdf:type mo:CD ;
@@ -11306,6 +11555,16 @@
   bibliographica:byArtist SoloMusicArtist:Elvis_Costello ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/bedd4ab5-d28b-4792-a9d6-84e91d6f0149"^^xsd:anyURI ;
   rdfs:label "When I Was Cruel" ;
+.
+:When_Juniper_Sleeps
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Seamus_Egan ;
+  bibliographica:byArtist SoloMusicArtist:Seamus_Egan ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/37ab533c-3dc7-4462-8257-f34ad179fd73"^^xsd:anyURI ;
+  rdfs:label "When Juniper Sleeps" ;
 .
 :When_Woman_Gets_Blues
   rdf:type mo:CD ;
@@ -11628,6 +11887,16 @@
   bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/9a900f5d-28dd-3efa-b3c1-298fc84fc11b"^^xsd:anyURI ;
   rdfs:label "You Pay Your Money and You Take Your Chance" ;
+.
+:You_Were_Here
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sarah_Harmer ;
+  bibliographica:byArtist SoloMusicArtist:Sarah_Harmer ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/be8ea099-7d30-45c4-8b86-fb5d5238d339"^^xsd:anyURI ;
+  rdfs:label "You Were Here" ;
 .
 :Young_Americans
   rdf:type mo:CD ;
