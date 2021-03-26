@@ -623,6 +623,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/41c8c97f-3db5-479e-aba0-f4ebd1ec6f52"^^xsd:anyURI ;
   rdfs:label "Audio Visualscapes" ;
 .
+:Aura
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Steve_Hillage ;
+  bibliographica:byArtist SoloMusicArtist:Steve_Hillage ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/4223e666-afda-4930-945d-af0b0b6b6c98"^^xsd:anyURI ;
+  rdfs:label "Aura" ;
+.
 :Austin_96
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1014,6 +1024,16 @@
   bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/a6949ea3-e29c-3fa3-a21a-2c87b38c4e72"^^xsd:anyURI ;
   rdfs:label "Big Circumstance" ;
+.
+:Big_City_Blues
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sue_Foley ;
+  bibliographica:byArtist SoloMusicArtist:Sue_Foley ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/89d74f1b-acab-429b-8b6f-6faa022c5e4c"^^xsd:anyURI ;
+  rdfs:label "Big City Blues" ;
 .
 :Big_Fun
   rdf:type mo:CD ;
@@ -2105,6 +2125,16 @@
   bibliographica:byArtist SoloMusicArtist:Johnny_Cash ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e8dd3ab1-4cd9-4652-af16-a3fa5f92f742"^^xsd:anyURI ;
   rdfs:label "Columbia Records 1958-1986" ;
+.
+:Columbia_River_Collection
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Woody_Guthrie ;
+  bibliographica:byArtist SoloMusicArtist:Woody_Guthrie ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/7d67047e-a859-4a47-8454-9b709a6f57cc"^^xsd:anyURI ;
+  rdfs:label "Columbia River Collection" ;
 .
 :Coltrane_CD
   rdf:type mo:CD ;
@@ -3252,6 +3282,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c69cdb18-5195-4a43-9e26-9d66622fd926"^^xsd:anyURI ;
   rdfs:label "Echoes of Brazil" ;
 .
+:Edgewise
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Vance_Gilbert ;
+  bibliographica:byArtist SoloMusicArtist:Vance_Gilbert ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/64580a64-749a-4941-84e2-691ab4e08945"^^xsd:anyURI ;
+  rdfs:label "Edgewise" ;
+.
 :Edie_Brickell_mix
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3845,6 +3885,16 @@
   bibliographica:byArtist MusicGroup:Clash ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/23b1c9f4-4e89-4c20-b497-517a51953e7b"^^xsd:anyURI ;
   rdfs:label "From Here to Eternity: Live" ;
+.
+:Fugitives
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Vance_Gilbert ;
+  bibliographica:byArtist SoloMusicArtist:Vance_Gilbert ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/11eaa656-08e6-4649-9c6d-3200a06ccb9f"^^xsd:anyURI ;
+  rdfs:label "Fugitives" ;
 .
 :Full_House
   rdf:type mo:CD ;
@@ -5617,6 +5667,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b68bf54c-5e26-410e-984f-dc5b720b7526"^^xsd:anyURI ;
   rdfs:label "Liege & Lief" ;
 .
+:Life_On_Bottom
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Halibuts ;
+  bibliographica:byArtist MusicGroup:Halibuts ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/eb96cb63-6815-46d6-a3c8-beb1837527a9"^^xsd:anyURI ;
+  rdfs:label "Life on the Bottom" ;
+.
 :Life_Short_Call_Now
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -6958,6 +7018,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/80b30b91-5b5b-433b-8cf7-3590aa31ad79"^^xsd:anyURI ;
   rdfs:label "More Creedence Gold" ;
 .
+:More_Legend_Than_Band
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Flatlanders ;
+  bibliographica:byArtist MusicGroup:Flatlanders ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a96c8956-5c21-4b05-a44b-0c6d725659fb"^^xsd:anyURI ;
+  rdfs:label "More a Legend Than a Band" ;
+.
 :More_Study_Brown
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7230,6 +7300,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/023ba167-d4de-4f74-bf48-995b2ef1582d"^^xsd:anyURI ;
   rdfs:label "Nnenna Freelon" ;
 .
+:No_Big_Surprise
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Steve_Goodman ;
+  bibliographica:byArtist SoloMusicArtist:Steve_Goodman ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b433114f-3cb8-4b18-92ea-ada3b14e4003"^^xsd:anyURI ;
+  rdfs:label "No Big Surprise" ;
+.
 :No_Material
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7239,6 +7319,16 @@
   bibliographica:byArtist SoloMusicArtist:Ginger_Baker ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/414f52a8-9702-44b0-92ac-f00f9cdddc55"^^xsd:anyURI ;
   rdfs:label "No Material" ;
+.
+:No_Talking_Just_Head
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Heads ;
+  bibliographica:byArtist MusicGroup:Heads ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/7f28d946-7ebf-427f-86c0-177e1ae075b6"^^xsd:anyURI ;
+  rdfs:label "No Talking Just Head" ;
 .
 :No_Word_From_Tom
   rdf:type mo:CD ;
@@ -7301,6 +7391,16 @@
   bibliographica:byArtist SoloMusicArtist:Robert_Fripp ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c1db41d2-528e-46ac-be9c-bd9f3190e554"^^xsd:anyURI ;
   rdfs:label "Novemeber Suite" ;
+.
+:Now_Again
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Flatlanders ;
+  bibliographica:byArtist MusicGroup:Flatlanders ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/34aec3dc-a788-47cc-b9bf-02c8c11b5150"^^xsd:anyURI ;
+  rdfs:label "Now Again" ;
 .
 :Now_It_Can_Be_Told
   rdf:type mo:CD ;
@@ -9769,6 +9869,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/415ae0d2-3608-43b3-8b70-d0764a177fe9"^^xsd:anyURI ;
   rdfs:label "Supreme" ;
 .
+:Swamped
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Tony_Furtado ;
+  bibliographica:byArtist SoloMusicArtist:Tony_Furtado ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/2e4ebca9-0a83-4f7f-83d0-e298d9dac84a"^^xsd:anyURI ;
+  rdfs:label "Swamped" ;
+.
 :Sweet_Dreams
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -9881,6 +9991,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/27b97cd4-5ab6-3a6f-a1f1-edbc6248e5c9"^^xsd:anyURI ;
   rdfs:label "Tanto Tempo" ;
 .
+:Taos_Tennesse
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Tish_Hinojosa ;
+  bibliographica:byArtist SoloMusicArtist:Tish_Hinojosa ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/683df416-8fef-4437-8eec-bd17fe344830"^^xsd:anyURI ;
+  rdfs:label "Taos to Tennesse" ;
+.
 :Tapestry
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -9990,6 +10110,16 @@
   bibliographica:byArtist SoloMusicArtist:Joy_Askew ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/aa51f2f2-1bb5-4306-8e82-53ab10e522f8"^^xsd:anyURI ;
   rdfs:label "Tender City" ;
+.
+:Terminal_Hold
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Tret_Fure ;
+  bibliographica:byArtist SoloMusicArtist:Tret_Fure ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/ba18b6eb-5344-4d56-825e-1bb9bda817d4"^^xsd:anyURI ;
+  rdfs:label "Terminal Hold" ;
 .
 :Terrapin_Station
   rdf:type mo:CD ;
@@ -10262,6 +10392,18 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d0a4892d-29a9-406f-8c8d-03cbec42dd87"^^xsd:anyURI ;
   rdfs:label "The Major Works of John Coltrane" ;
 .
+:The_Mountain
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Steve_Earle ;
+  bibliographica:byArtist SoloMusicArtist:Steve_Earle ;
+  dcterms:creator MusicGroup:Del_McCoury_Band ;
+  bibliographica:byArtist MusicGroup:Del_McCoury_Band ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/46600b98-3c33-42d4-b66c-0617013a6d6f"^^xsd:anyURI ;
+  rdfs:label "The Mountain" ;
+.
 :The_Peel_Session_Album
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -10510,6 +10652,16 @@
   dcterms:creator SoloMusicArtist:Jill_Cohn ;
   bibliographica:byArtist SoloMusicArtist:Jill_Cohn ;
   rdfs:label "13September6" ;
+.
+:Thirteen_Years_Herbs
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Herbs ;
+  bibliographica:byArtist MusicGroup:Herbs ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/53e3591e-6ab0-4f2b-a40c-83b0dc016b88"^^xsd:anyURI ;
+  rdfs:label "13 Years of Herbs: The Best Of" ;
 .
 :Thirty_Greatest_Hits
   rdf:type mo:CD ;
@@ -11247,6 +11399,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/0aa514bf-5be2-475a-ac1b-0222f9d4c881"^^xsd:anyURI ;
   rdfs:label "The Silver Collection" ;
 .
+:Very_Best_Meters
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Meters ;
+  bibliographica:byArtist MusicGroup:Meters ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/aef4c964-2602-43ea-b39a-62cb4f91f09c"^^xsd:anyURI ;
+  rdfs:label "The Very Best of the Meters" ;
+.
 :Very_Best_Of_Nina
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -11356,6 +11518,16 @@
   bibliographica:byArtist MusicGroup:Grateful_Dead ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/38770ad0-e77a-4fdb-a6b4-aca09b2ee816"^^xsd:anyURI ;
   rdfs:label "Wake of the Flood" ;
+.
+:Wake_Up
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Susan_Greenbaum ;
+  bibliographica:byArtist SoloMusicArtist:Susan_Greenbaum ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5a5a35ed-1ae5-4203-85f7-87edfaf23c32"^^xsd:anyURI ;
+  rdfs:label "Wake Up!" ;
 .
 :Walk_Under_Ladders
   rdf:type mo:CD ;
@@ -11587,6 +11759,15 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d20eecae-2fd1-45e9-895b-8a8089a02461"^^xsd:anyURI ;
   rdfs:label "When There is Love" ;
 .
+:When_Words_Disappear
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Zakir_Hussain ;
+  bibliographica:byArtist SoloMusicArtist:Zakir_Hussain ;
+  rdfs:label "When Words Disappear" ;
+.
 :Where_Im_Standing
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -11757,6 +11938,16 @@
   bibliographica:byArtist MusicGroup:Grateful_Dead ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a9ef2528-9b35-4014-9ba1-7a44a6f81173"^^xsd:anyURI ;
   rdfs:label "Without a Net" ;
+.
+:Without_Warning
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sue_Foley ;
+  bibliographica:byArtist SoloMusicArtist:Sue_Foley ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/954981aa-bdba-4c5a-af64-deeb9707f1cf"^^xsd:anyURI ;
+  rdfs:label "Without a Warning" ;
 .
 :Works
   rdf:type mo:CD ;
@@ -11937,6 +12128,16 @@
   bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/6c88bc8e-eaee-3670-ad6b-e37cef8b3e1c"^^xsd:anyURI ;
   rdfs:label "You've Never Seen Everything" ;
+.
+:Zakir_Hussain_Rhythm_Exp
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Zakir_Hussain ;
+  bibliographica:byArtist SoloMusicArtist:Zakir_Hussain ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/ded265fc-db65-49ee-a417-ebd49be3b632"^^xsd:anyURI ;
+  rdfs:label "Zakir Hussain & the Rhythm Experience" ;
 .
 :Ziggy_Stardust
   rdf:type mo:CD ;
