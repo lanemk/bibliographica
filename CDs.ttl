@@ -66,6 +66,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d0511f81-348f-3778-aa3e-8d30221980d2"^^xsd:anyURI ;
   rdfs:label "ABoneCroneDrone" ;
 .
+:Acadie
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Daniel_Lanois ;
+  bibliographica:byArtist SoloMusicArtist:Daniel_Lanois ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/7ce6c8a5-6125-40c2-ba62-91d143b83a94"^^xsd:anyURI ;
+  rdfs:label "Acadie" ;
+.
 :Access_All_Areas
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -848,6 +858,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/32250a4b-1cc6-4cfa-a148-5ac819bd340b"^^xsd:anyURI ;
   rdfs:label "Before the Moon" ;
 .
+:Belladonna
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Daniel_Lanois ;
+  bibliographica:byArtist SoloMusicArtist:Daniel_Lanois ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e2bf4e10-885d-471a-b1be-ddee0ba29205"^^xsd:anyURI ;
+  rdfs:label "Belladonna" ;
+.
 :Beneath_Gruff_Exterior
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -925,6 +945,15 @@
   bibliographica:byArtist SoloMusicArtist:Dexter_Gordon ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e868a962-67a7-43e4-9e19-3cc6f17357df"^^xsd:anyURI ;
   rdfs:label "The Best of Dexter Gordon" ;
+.
+:Best_of_Etta_James
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Etta_James ;
+  bibliographica:byArtist SoloMusicArtist:Etta_James ;
+  rdfs:label "The Best of Etta James" ;
 .
 :Best_of_Freddie_Hubbard
   rdf:type mo:CD ;
@@ -3301,6 +3330,16 @@
   bibliographica:byArtist SoloMusicArtist:Edie_Brickell ;
   rdfs:label "Edie Brickell Mix" ;
 .
+:El_Rayo_X_Live
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:David_Lindley ;
+  bibliographica:byArtist SoloMusicArtist:David_Lindley ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/aef90364-a168-40b7-a0a1-c64269a75d56"^^xsd:anyURI ;
+  rdfs:label "El Rayo-X Live!!" ;
+.
 :El_Ruisenor_Yucateco
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3731,6 +3770,16 @@
   bibliographica:byArtist SoloMusicArtist:Herbie_Hancock ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d59cee98-ab1a-4a00-a629-2bbc7b25f4e7"^^xsd:anyURI ;
   rdfs:label "Flood" ;
+.
+:For_Beauty_Wynona
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Daniel_Lanois ;
+  bibliographica:byArtist SoloMusicArtist:Daniel_Lanois ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/4204c64c-c3a4-4401-865b-14e112c031a1"^^xsd:anyURI ;
+  rdfs:label "For the Beauty of Wynona" ;
 .
 :Forty_Four_Sixty_Six
   rdf:type mo:CD ;
@@ -6034,6 +6083,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/6914db2d-8add-4fa3-9fca-d8520e4a4b5d"^^xsd:anyURI ;
   rdfs:label "Live at the Black Sheep" ;
 .
+:Live_Bottom_Line
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:David_Johansen ;
+  bibliographica:byArtist SoloMusicArtist:David_Johansen ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c123545e-9547-4dcd-b662-2e527fac24cb"^^xsd:anyURI ;
+  rdfs:label "The David Johansen Group Live" ;
+.
 :Live_at_Blues_Alley
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -6162,6 +6221,16 @@
   bibliographica:byArtist MusicGroup:Burning_Spear ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/5960fe04-1b1c-4fe0-a557-bdd05dc952ae"^^xsd:anyURI ;
   rdfs:label "Live in Paris: Zenith '88" ;
+.
+:Live_in_Paris_DK
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Diana_Krall ;
+  bibliographica:byArtist SoloMusicArtist:Diana_Krall ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/4abb7376-f2b2-4fb4-a003-1f80d877ae63"^^xsd:anyURI ;
+  rdfs:label "Live in Paris" ;
 .
 :Live_Last_Troubador
   rdf:type mo:CD ;
@@ -6552,6 +6621,16 @@
   bibliographica:byArtist SoloMusicArtist:Nick_Drake ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c1e3a0c5-fb34-47a8-83ca-4278aa47905d"^^xsd:anyURI ;
   rdfs:label "Made to Love Magic" ;
+.
+:Madman_Across_Water
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Elton_John ;
+  bibliographica:byArtist SoloMusicArtist:Elton_John ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/255f97cc-a7c5-3691-b3a4-e7146e391d8f"^^xsd:anyURI ;
+  rdfs:label "Madman Across the Water" ;
 .
 :Maire
   rdf:type mo:CD ;
@@ -7289,6 +7368,15 @@
   bibliographica:byArtist SoloMusicArtist:Dexter_Gordon ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/2af210d7-0597-4cfd-af7c-aac3c11a51f5"^^xsd:anyURI ;
   rdfs:label "Nights at the Keystone, Volume 3" ;
+.
+:Nils_Sangit
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Georges_Kazazian ;
+  bibliographica:byArtist SoloMusicArtist:Georges_Kazazian ;
+  rdfs:label "Nils Sangit" ;
 .
 :Nnenna_Freelon_CD
   rdf:type mo:CD ;
@@ -8067,6 +8155,30 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c4144425-e510-4289-9653-22d6c85d0aa5"^^xsd:anyURI ;
   rdfs:label "Plasma" ;
 .
+:Playing_Even_Better
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:David_Lindley ;
+  dcterms:creator SoloMusicArtist:Hani_Naser ;
+  bibliographica:byArtist SoloMusicArtist:David_Lindley ;
+  bibliographica:byArtist SoloMusicArtist:Hani_Naser ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/0172a202-ba62-42e5-a145-54c9a9eda26f"^^xsd:anyURI ;
+  rdfs:label "Playing Even Better" ;
+.
+:Playing_Real_Good
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:David_Lindley ;
+  dcterms:creator SoloMusicArtist:Hani_Naser ;
+  bibliographica:byArtist SoloMusicArtist:David_Lindley ;
+  bibliographica:byArtist SoloMusicArtist:Hani_Naser ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a5822d80-c0fa-487f-8d25-e304e6708c16"^^xsd:anyURI ;
+  rdfs:label "Playing Real Good" ;
+.
 :Plays_in_Paris
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -8636,6 +8748,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/7f657970-99ce-40e8-ae6a-69989231577d"^^xsd:anyURI ;
   rdfs:label "Rock of Ages" ;
 .
+:Rockets
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Daniel_Lanois ;
+  bibliographica:byArtist SoloMusicArtist:Daniel_Lanois ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f57b1695-bc7b-4e59-9301-512d69a4c4a5"^^xsd:anyURI ;
+  rdfs:label "Rockets" ;
+.
 :Rolling_Thunder
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -8717,6 +8839,15 @@
   bibliographica:byArtist SoloMusicArtist:Exene_Cervenka ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/370a64f8-4762-4a05-8693-8cf5252906b4"^^xsd:anyURI ;
   rdfs:label "Running Scared" ;
+.
+:Sabil
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Georges_Kazazian ;
+  bibliographica:byArtist SoloMusicArtist:Georges_Kazazian ;
+  rdfs:label "Sabil" ;
 .
 :Salt_Sun_Time
   rdf:type mo:CD ;
@@ -10006,6 +10137,16 @@
   rdf:type mo:Record ;
   rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Carole_King ;
+  bibliographica:byArtist SoloMusicArtist:Carole_King ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/26bd4a35-027d-4a0e-8d5b-4458cf6da5b7"^^xsd:anyURI ;
+  rdfs:label "Tapestry" ;
+.
+:Tapestry_CK
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
   dcterms:creator SoloMusicArtist:Chantal_Kreviazuk ;
   bibliographica:byArtist SoloMusicArtist:Chantal_Kreviazuk ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/570f5f29-bf35-38ed-8e6e-26ea1f8e24f4"^^xsd:anyURI ;
@@ -10382,6 +10523,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c8fafdaa-1843-4076-b1f3-f9a7ef680d64"^^xsd:anyURI ;
   rdfs:label "The Long Way Home" ;
 .
+:The_Look_of_Love
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Diana_Krall ;
+  bibliographica:byArtist SoloMusicArtist:Diana_Krall ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/73881b92-df90-4a36-9f0a-d01dfdd7b885"^^xsd:anyURI ;
+  rdfs:label "The Look of Love" ;
+.
 :The_Major_Works_of_Coltrane
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -10391,6 +10542,16 @@
   bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d0a4892d-29a9-406f-8c8d-03cbec42dd87"^^xsd:anyURI ;
   rdfs:label "The Major Works of John Coltrane" ;
+.
+:The_Messenger
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Daniel_Lanois ;
+  bibliographica:byArtist SoloMusicArtist:Daniel_Lanois ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/cc5de41c-b952-47d2-9b87-62c7d5b87de0"^^xsd:anyURI ;
+  rdfs:label "The Messenger" ;
 .
 :The_Mountain
   rdf:type mo:CD ;
@@ -10423,6 +10584,16 @@
   bibliographica:byArtist SoloMusicArtist:Greg_Brown ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/01e3de8d-d11d-4aec-95e5-44df3f984aef"^^xsd:anyURI ;
   rdfs:label "The Poet Game" ;
+.
+:The_Right_Time
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Etta_James ;
+  bibliographica:byArtist SoloMusicArtist:Etta_James ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/96c2def4-e840-443d-845a-5405f1d00fb0"^^xsd:anyURI ;
+  rdfs:label "The Right Time" ;
 .
 :The_Secret_Language_Birds
   rdf:type mo:CD ;
@@ -10483,6 +10654,16 @@
   bibliographica:byArtist SoloMusicArtist:Dexter_Gordon ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/7301e872-b064-495e-ab97-f38febfb27e0"^^xsd:anyURI ;
   rdfs:label "The Squirrel" ;
+.
+:The_Sweet_Sunny_North
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:David_Lindley ;
+  bibliographica:byArtist SoloMusicArtist:David_Lindley ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/3578718c-e29e-438b-b5b4-a12e3a94454d"^^xsd:anyURI ;
+  rdfs:label "The Sweet Sunny North, Vol. 2" ;
 .
 :The_Wheel
   rdf:type mo:CD ;
@@ -11176,6 +11357,18 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/6ddcaf4c-d7e7-47f6-89c3-b28716bf79d0"^^xsd:anyURI ;
   rdfs:label "Twang Bar King" ;
 .
+:Twango_Bango_Deluxe
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:David_Lindley ;
+  dcterms:creator SoloMusicArtist:Wally_Ingram ;
+  bibliographica:byArtist SoloMusicArtist:David_Lindley ;
+  bibliographica:byArtist SoloMusicArtist:Wally_Ingram ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/0172a202-ba62-42e5-a145-54c9a9eda26f"^^xsd:anyURI ;
+  rdfs:label "Twango Bango Deluxe" ;
+.
 :Twenty_Fifth_Anniv_Concert
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -11418,6 +11611,16 @@
   bibliographica:byArtist SoloMusicArtist:Nina_Hagen ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/00e45b6d-29d6-47e7-86b4-ec85b37ee439"^^xsd:anyURI ;
   rdfs:label "The Very Best of Nina Hagen" ;
+.
+:Very_Greasy
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:David_Lindley ;
+  bibliographica:byArtist SoloMusicArtist:David_Lindley ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/102015a6-3b86-4085-aa1f-8f4a9854535d"^^xsd:anyURI ;
+  rdfs:label "Very Greasy" ;
 .
 :Victims
   rdf:type mo:CD ;
@@ -11906,6 +12109,16 @@
   bibliographica:byArtist SoloMusicArtist:Billy_Bragg ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/01f8a2a0-8996-4277-9f00-10b27b51db78"^^xsd:anyURI ;
   rdfs:label "William Bloke" ;
+.
+:Win_This_Record
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:David_Lindley ;
+  bibliographica:byArtist SoloMusicArtist:David_Lindley ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/6cc7d654-1334-3a01-9cc0-71e1f4b49b0a"^^xsd:anyURI ;
+  rdfs:label "Win This Record!" ;
 .
 :Wired
   rdf:type mo:CD ;

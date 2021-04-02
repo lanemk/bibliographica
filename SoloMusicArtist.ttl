@@ -1498,6 +1498,13 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/80d610fe-7771-4226-aa9b-950944791698"^^xsd:anyURI ;
   rdfs:label "Hank Jones" ;
 .
+:Hani_Naser
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Hani_Naser.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/e08b8270-b8a2-4efc-bf2c-105da36a3dfb"^^xsd:anyURI ;
+  rdfs:label "Hani Naser" ;
+.
 :Hans_Zimmer
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassWZ ;
@@ -4401,6 +4408,13 @@
   bibliographica:dbpediaURI "http://dbpedia.org/data/Walter_Becker.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/8cc72457-488e-44e6-a5b3-d2da843b7245"^^xsd:anyURI ;
   rdfs:label "Walter Becker" ;
+.
+:Wally_Ingram
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Wally_Ingram.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/a7f5c003-5ef7-498a-a0a9-68701510ba83"^^xsd:anyURI ;
+  rdfs:label "Wally Ingram" ;
 .
 :Warren_Zevon
   rdf:type mo:SoloMusicArtist ;
