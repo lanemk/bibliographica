@@ -722,6 +722,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/93ef6b76-a6ab-4d01-ae7f-a141d4c4a852"^^xsd:anyURI ;
   rdfs:label "Baduizm" ;
 .
+:Bang
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:James_Gang ;
+  bibliographica:byArtist MusicGroup:James_Gang ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c8f7efb4-1499-4f1d-a072-64488f85358c"^^xsd:anyURI ;
+  rdfs:label "Bang" ;
+.
 :Bare
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2264,6 +2274,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/9f53ce59-1396-4c1f-b31b-52ed735bcece"^^xsd:anyURI ;
   rdfs:label "The Complete Concert 1964: My Funny Valentine + Four & More" ;
 .
+:Complete_Greatest_Hits
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Gordon_Lightfoot ;
+  bibliographica:byArtist SoloMusicArtist:Gordon_Lightfoot ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/84be735c-4438-45a6-b5a1-9caf6b6870ba"^^xsd:anyURI ;
+  rdfs:label "Complete Greatest Hits" ;
+.
 :Complete_Live_Plugged_Nickel
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3483,6 +3503,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/7903ef07-4f6a-4450-b573-38b2af7328da"^^xsd:anyURI ;
   rdfs:label "Essential, the Very Best Of" ;
 .
+:Eternity_Blue
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Henry_Kaiser ;
+  bibliographica:byArtist SoloMusicArtist:Henry_Kaiser ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b3ee5f2a-c8d3-4e7d-92f8-600f6ade6d89"^^xsd:anyURI ;
+  rdfs:label "Eternity Blue" ;
+.
 :Eu_Sei
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4223,6 +4253,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/6b056c9e-642e-4084-8716-02cd8b24cc71"^^xsd:anyURI ;
   rdfs:label "Goodbye Cruel World" ;
 .
+:Gords_Gold
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Gordon_Lightfoot ;
+  bibliographica:byArtist SoloMusicArtist:Gordon_Lightfoot ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/1a833945-4192-4b25-8b75-e3fabde55eba"^^xsd:anyURI ;
+  rdfs:label "Gord's Gold" ;
+.
 :Got_Love_If_You_Want_It
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4925,6 +4965,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/833e5d60-d082-4030-b072-5ec35bb8a3e3"^^xsd:anyURI ;
   rdfs:label "Idewild" ;
 .
+:Indigenous
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Indigenous ;
+  bibliographica:byArtist MusicGroup:Indigenous ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c3700e54-0790-41c6-8374-36c7996eed06"^^xsd:anyURI ;
+  rdfs:label "Indigenous" ;
+.
 :Infrared_Roses
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5044,6 +5094,16 @@
   bibliographica:byArtist SoloMusicArtist:Eva_Cassidy ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/255dc784-0832-4718-99d3-ef4533449c76"^^xsd:anyURI ;
   rdfs:label "Imagine" ;
+.
+:In_A_Gadda_Da_Vida
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Iron_Butterfly ;
+  bibliographica:byArtist MusicGroup:Iron_Butterfly ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/15275649-a394-4db9-9c4e-04c3c0326ca1"^^xsd:anyURI ;
+  rdfs:label "In-A-Gadda-Da-Vida" ;
 .
 :In_Dark_With_You
   rdf:type mo:CD ;
@@ -5232,6 +5292,16 @@
   bibliographica:byArtist SoloMusicArtist:Bill_Frisell ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/9dacd67b-3d67-4c82-9093-62ea9109f4a2"^^xsd:anyURI ;
   rdfs:label "Is That You?" ;
+.
+:Jack_Kerouac_Collection
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jack_Kerouac ;
+  bibliographica:byArtist SoloMusicArtist:Jack_Kerouac ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f94f0038-f95c-426c-9d16-f051df02e440"^^xsd:anyURI ;
+  rdfs:label "The Jack Kerouac Collection" ;
 .
 :Jazz
   rdf:type mo:CD ;
@@ -5657,6 +5727,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/eae0ce70-bdc7-4fac-8534-4f0cd32ef663"^^xsd:anyURI ;
   rdfs:label "The Jerry Garcia Collection, Vol. 1: Legion of Mary" ;
 .
+:Lemon_Fish_Tweezer
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Henry_Kaiser ;
+  bibliographica:byArtist SoloMusicArtist:Henry_Kaiser ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/6ed6c188-8b6d-4369-9577-eef16a3515a8"^^xsd:anyURI ;
+  rdfs:label "Lemon Fish Tweezer" ;
+.
 :Lemon_of_Pink
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5825,6 +5905,15 @@
   bibliographica:byArtist MusicGroup:Gipsy_Kings ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/bf9d860f-a99b-41f9-9357-e98516d5552e"^^xsd:anyURI ;
   rdfs:label "Gipsy Kings Live" ;
+.
+:Live_IG
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Indigo_Girls ;
+  bibliographica:byArtist MusicGroup:Indigo_Girls ;
+  rdfs:label "Live" ;
 .
 :Live_SG_DG
   rdf:type mo:CD ;
@@ -6833,6 +6922,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b38cf694-5447-42a7-a6ad-c434bdc0cbc8"^^xsd:anyURI ;
   rdfs:label "Mexican Moon" ;
 .
+:Miami
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:James_Gang ;
+  bibliographica:byArtist MusicGroup:James_Gang ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/05c59759-d169-497e-868b-3d5e07ef6b60"^^xsd:anyURI ;
+  rdfs:label "Miami" ;
+.
 :Michael_Doucet_Cajun_Brew
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7309,6 +7408,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/0f2384c4-7ef1-426e-9fdc-efeaf2d443c5"^^xsd:anyURI ;
   rdfs:label "New Roman Times" ;
 .
+:Nightclubbing
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Grace_Jones ;
+  bibliographica:byArtist SoloMusicArtist:Grace_Jones ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/095e2e2e-60c4-4f9f-a14a-2cc1b468bf66"^^xsd:anyURI ;
+  rdfs:label "Nightclubbing" ;
+.
 :Night_in_Tunisia
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7437,6 +7546,16 @@
   bibliographica:byArtist MusicGroup:Nick_Cave_Bad_Seeds ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d4c4e73b-295a-3461-9ff8-5607969ae535"^^xsd:anyURI ;
   rdfs:label "Nocturama" ;
+.
+:Nomads_Indians_Saints
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Indigo_Girls ;
+  bibliographica:byArtist MusicGroup:Indigo_Girls ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/0882cb9b-226f-463f-8d26-1f3a62708d27"^^xsd:anyURI ;
+  rdfs:label "Nomads - Indians - Saints" ;
 .
 :North_Star_Grassman
   rdf:type mo:CD ;
@@ -8708,6 +8827,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b42cf846-b4a9-46a6-84fd-d5ae129beca7"^^xsd:anyURI ;
   rdfs:label "Rise Up Like The Sun" ;
 .
+:Rising_For_Moon
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Fairport_Convention ;
+  bibliographica:byArtist MusicGroup:Fairport_Convention ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/63418eb7-79a5-4437-bc10-f920503024f5"^^xsd:anyURI ;
+  rdfs:label "Rising for the Moon" ;
+.
 :River_Under_The_Road
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -8718,6 +8847,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/b42e2f6e-587b-37f7-b750-362ec21a1e52"^^xsd:anyURI ;
   rdfs:label "River Under The Road" ;
 .
+:Rites_of_Passage
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Indigo_Girls ;
+  bibliographica:byArtist MusicGroup:Indigo_Girls ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d5bfb4ba-39db-4c54-834a-cbd5bb67ac7f"^^xsd:anyURI ;
+  rdfs:label "Rites of Passage" ;
+.
 :Riverside
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -8727,16 +8866,6 @@
   bibliographica:byArtist SoloMusicArtist:Luka_Bloom ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/7da06982-bbeb-4033-a6b6-a7161f19c518"^^xsd:anyURI ;
   rdfs:label "Riverside" ;
-.
-:Rising_For_Moon
-  rdf:type mo:CD ;
-  rdf:type mo:Record ;
-  rdf:type mo:Release ;
-  rdf:type schema:MusicAlbum ;
-  dcterms:creator MusicGroup:Fairport_Convention ;
-  bibliographica:byArtist MusicGroup:Fairport_Convention ;
-  bibliographica:musicbrainzURI "https://musicbrainz.org/release/63418eb7-79a5-4437-bc10-f920503024f5"^^xsd:anyURI ;
-  rdfs:label "Rising for the Moon" ;
 .
 :Rock_Of_Ages
   rdf:type mo:CD ;
@@ -9829,6 +9958,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/367a065c-44d2-405c-8a00-2f0d97c707fe"^^xsd:anyURI ;
   rdfs:label "Strange Angels" ;
 .
+:Strange_Fire
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Indigo_Girls ;
+  bibliographica:byArtist MusicGroup:Indigo_Girls ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/ac8156a0-3953-4d89-9101-c70c678c5165"^^xsd:anyURI ;
+  rdfs:label "Strange Fire" ;
+.
 :Strange_Little_Girls
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -10461,6 +10600,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/4c86092a-3dfa-4c91-84d9-513b4f659b76"^^xsd:anyURI ;
   rdfs:label "A John Coltrane Retrospective: The Impulse! Years" ;
 .
+:The_Kid_and_Brute
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Illinois_Jacquet_Ben_Webster ;
+  bibliographica:byArtist MusicGroup:Illinois_Jacquet_Ben_Webster ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d3851f2c-48dd-466c-9222-1a72490ac570"^^xsd:anyURI ;
+  rdfs:label "The Kid and the Brute" ;
+.
 :The_Last_Trane
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -10904,6 +11053,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e8101296-9ef3-457f-b2c4-56e014e4d3dc"^^xsd:anyURI ;
   rdfs:label "This Year’s Model" ;
 .
+:Those_Who_Know
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Henry_Kaiser ;
+  bibliographica:byArtist SoloMusicArtist:Henry_Kaiser ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/183216a8-6623-4f7e-8e46-e53c701258e6"^^xsd:anyURI ;
+  rdfs:label "Those Who Know History Are Doomed to Repeat It" ;
+.
 :Three_Years_5_Months
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -11069,6 +11228,16 @@
   bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/2202f7cc-6ce1-3aea-85b0-163347528402"^^xsd:anyURI ;
   rdfs:label "Together Through Life" ;
+.
+:Tomorrow_Knows
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Henry_Kaiser ;
+  bibliographica:byArtist SoloMusicArtist:Henry_Kaiser ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e8aca49c-f6c2-4843-a344-506668a397e5"^^xsd:anyURI ;
+  rdfs:label "Tomorrow Knows Where You Live" ;
 .
 :Tone_Poems
   rdf:type mo:CD ;
@@ -12211,6 +12380,42 @@
   bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/4abb4993-7960-3331-8535-471c71cf9d76"^^xsd:anyURI ;
   rdfs:label "World of Wonders" ;
+.
+:World_Out_of_Time
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Henry_Kaiser ;
+  dcterms:creator SoloMusicArtist:David_Lindley ;
+  bibliographica:byArtist SoloMusicArtist:Henry_Kaiser ;
+  bibliographica:byArtist SoloMusicArtist:David_Lindley ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/fbc6053f-5bcf-422c-8f98-83cf223cc964"^^xsd:anyURI ;
+  rdfs:label "A World out of Time: Henry Kaiser & David Lindley in Madagascar" ;
+.
+:World_Out_of_Time_2
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Henry_Kaiser ;
+  dcterms:creator SoloMusicArtist:David_Lindley ;
+  bibliographica:byArtist SoloMusicArtist:Henry_Kaiser ;
+  bibliographica:byArtist SoloMusicArtist:David_Lindley ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/40fbdb89-a8e1-4b07-8f56-90653eec5bda"^^xsd:anyURI ;
+  rdfs:label "A World out of Time, Vol. 2: Henry Kaiser & David Lindley in Madagascar" ;
+.
+:World_Out_of_Time_3
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Henry_Kaiser ;
+  dcterms:creator SoloMusicArtist:David_Lindley ;
+  bibliographica:byArtist SoloMusicArtist:Henry_Kaiser ;
+  bibliographica:byArtist SoloMusicArtist:David_Lindley ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/dbaf69a6-9a19-479c-a9bf-75c603351d75"^^xsd:anyURI ;
+  rdfs:label "A World Out of Time, Volume 3: Music of Madagascar" ;
 .
 :Wrecking_Ball
   rdf:type mo:CD ;
