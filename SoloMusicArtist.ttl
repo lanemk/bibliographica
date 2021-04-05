@@ -1628,6 +1628,11 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/f2d13d28-6f74-4dd5-b596-8bd0b6f67615"^^xsd:anyURI ;
   rdfs:label "Jack DeJohnette" ;
 .
+:Jano
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassIL ;
+  rdfs:label "Jano" ;
+.
 :Jack_Kerouac
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassIL ;

@@ -1035,6 +1035,13 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/a6339659-c879-4f88-9908-206d47963e29"^^xsd:anyURI ;
   rdfs:label "Jeff Beck Group" ;
 .
+:Jefferson_Airplane
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Jefferson_Airplane.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/39c2a93d-9afa-4a22-9bba-c087ab056e1c"^^xsd:anyURI ;
+  rdfs:label "Jefferson Airplane" ;
+.
 :Jerry_Garcia_Band
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassEH ;

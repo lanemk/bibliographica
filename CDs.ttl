@@ -36,6 +36,26 @@
   bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
   rdfs:label "A Love Supreme (Live in Antibes France) 1965)" ;
 .
+:A_Little_Light_Music
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Jethro_Tull ;
+  bibliographica:byArtist MusicGroup:Jethro_Tull ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/1a710d7f-672c-3c87-a409-258477235e72"^^xsd:anyURI ;
+  rdfs:label "A Little Light Music" ;
+.
+:A_Passion_Play
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Jethro_Tull ;
+  bibliographica:byArtist MusicGroup:Jethro_Tull ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/7cf0a00c-e607-45f6-ab95-0f178b81ea36"^^xsd:anyURI ;
+  rdfs:label "A Passion Play" ;
+.
 :Abbatoir_Blues
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -523,6 +543,16 @@
   bibliographica:byArtist MusicGroup:Grateful_Dead ;
   rdfs:label "April Fool's Day" ;
 .
+:Aqualung
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Jethro_Tull ;
+  bibliographica:byArtist MusicGroup:Jethro_Tull ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b8e3b5bd-497e-4c40-a4ca-c9371da05106"^^xsd:anyURI ;
+  rdfs:label "Aqualung" ;
+.
 :Arethas_Gold
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -878,6 +908,15 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e2bf4e10-885d-471a-b1be-ddee0ba29205"^^xsd:anyURI ;
   rdfs:label "Belladonna" ;
 .
+:Bend_Without_Breaking
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Chris_Maggie ;
+  bibliographica:byArtist MusicGroup:Chris_Maggie ;
+  rdfs:label "Bend Without Breaking" ;
+.
 :Beneath_Gruff_Exterior
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -888,14 +927,15 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b7c89c38-4e68-4820-9bfc-499832b387ed"^^xsd:anyURI ;
   rdfs:label "Beneath This Gruff Exterior" ;
 .
-:Bend_Without_Breaking
+:Benefit
   rdf:type mo:CD ;
   rdf:type mo:Record ;
   rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
-  dcterms:creator MusicGroup:Chris_Maggie ;
-  bibliographica:byArtist MusicGroup:Chris_Maggie ;
-  rdfs:label "Bend Without Breaking" ;
+  dcterms:creator MusicGroup:Jethro_Tull ;
+  bibliographica:byArtist MusicGroup:Jethro_Tull ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d35ff204-adfe-3ce1-9242-4825af659761"^^xsd:anyURI ;
+  rdfs:label "Benefit" ;
 .
 :Bent_By_Nature
   rdf:type mo:CD ;
@@ -1672,6 +1712,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a2611b7b-593a-4d9f-8b04-81c746e2312f"^^xsd:anyURI ;
   rdfs:label "Burn to Shine" ;
 .
+:Bursting_Out
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Jethro_Tull ;
+  bibliographica:byArtist MusicGroup:Jethro_Tull ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9c4482ae-01fe-3566-9b48-e340bf79ab65"^^xsd:anyURI ;
+  rdfs:label "Bursting Out" ;
+.
 :By_The_Hand_Of_The_Father
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1822,6 +1872,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/1b81192c-84c2-4f0b-950e-4f7e546835d5"^^xsd:anyURI ;
   rdfs:label "Casual Gods" ;
 .
+:Catfish_Rising
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Jethro_Tull ;
+  bibliographica:byArtist MusicGroup:Jethro_Tull ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/7c1793d9-7403-3182-a7fd-c5787e8ed788"^^xsd:anyURI ;
+  rdfs:label "Catfish Rising" ;
+.
 :Catie_Curtis_CD
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1861,6 +1921,15 @@
   bibliographica:byArtist SoloMusicArtist:Celine_Dion ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/cb514bea-1f43-4594-9db0-5038f0677d38"^^xsd:anyURI ;
   rdfs:label "Céline Dion" ;
+.
+:Certain_Things
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jano ;
+  bibliographica:byArtist SoloMusicArtist:Jano ;
+  rdfs:label "Certain Things" ;
 .
 :Chameleon
   rdf:type mo:CD ;
@@ -2043,6 +2112,16 @@
   bibliographica:byArtist SoloMusicArtist:Karl_Denson ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e0e5f6b3-59e4-4d9f-b3a6-3ee95bf8dd22"^^xsd:anyURI ;
   rdfs:label "Chunky Pecan Pie" ;
+.
+:City_Garden
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jess_Klein ;
+  bibliographica:byArtist SoloMusicArtist:Jess_Klein ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b12dff80-34d7-45a9-9def-03a12363a725"^^xsd:anyURI ;
+  rdfs:label "City Garden" ;
 .
 :Circles_Round
   rdf:type mo:CD ;
@@ -3198,6 +3277,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/72ed7718-2e82-402e-8543-2d2d586a2c12"^^xsd:anyURI ;
   rdfs:label "Dozin' at the Knick" ;
 .
+:Draw_Them_Near
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jess_Klein ;
+  bibliographica:byArtist SoloMusicArtist:Jess_Klein ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/10af3ff8-cff8-4dfb-b30d-68c424034121"^^xsd:anyURI ;
+  rdfs:label "Draw Them Near" ;
+.
 :Dream_Cafe
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3523,6 +3612,15 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a65d7e44-4d58-3eb3-9075-51cd98b78f93"^^xsd:anyURI ;
   rdfs:label "Eu sei que vou te amar (ao vivo)" ;
 .
+:Eugene_JID
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Jazz_Is_Dead ;
+  bibliographica:byArtist MusicGroup:Jazz_Is_Dead ;
+  rdfs:label "Live in Eugene" ;
+.
 :Europe_72
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3532,6 +3630,15 @@
   bibliographica:byArtist MusicGroup:Grateful_Dead ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/97006c03-a9b5-4e10-8f52-39fa91c9836b"^^xsd:anyURI ;
   rdfs:label "Europe ’72" ;
+.
+:European_Tour_JT
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Jethro_Tull ;
+  bibliographica:byArtist MusicGroup:Jethro_Tull ;
+  rdfs:label "A Live Passion - European Tour, May 1973" ;
 .
 :Eva_By_Heart
   rdf:type mo:CD ;
@@ -3801,6 +3908,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d59cee98-ab1a-4a00-a629-2bbc7b25f4e7"^^xsd:anyURI ;
   rdfs:label "Flood" ;
 .
+:For_All_Seasons_Mind
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Janis_Ian ;
+  bibliographica:byArtist SoloMusicArtist:Janis_Ian ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/54d5e90d-7c87-4e59-bb9e-bfc206bf8e07"^^xsd:anyURI ;
+  rdfs:label "For All the Seasons of Your Mind" ;
+.
 :For_Beauty_Wynona
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3984,6 +4101,16 @@
   bibliographica:byArtist MusicGroup:Fairport_Convention ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/168e1820-028a-3237-b6f7-5e4413e2336f"^^xsd:anyURI ;
   rdfs:label "Full House" ;
+.
+:Fulton_Street
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Jefferson_Airplane ;
+  bibliographica:byArtist MusicGroup:Jefferson_Airplane ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/007195e3-cc99-4408-a81b-82f4577f85ce"^^xsd:anyURI ;
+  rdfs:label "2400 Fulton Street" ;
 .
 :Funk_Inc_1971
   rdf:type mo:CD ;
@@ -4192,6 +4319,16 @@
   bibliographica:byArtist MusicGroup:Grateful_Dead ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/de7e554f-e658-4d95-97aa-7ba6febecc01"^^xsd:anyURI ;
   rdfs:label "Go to Nassau" ;
+.
+:God_FBI
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Janis_Ian ;
+  bibliographica:byArtist SoloMusicArtist:Janis_Ian ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/03b758c8-bd37-416d-a07c-0bfea9a85bae"^^xsd:anyURI ;
+  rdfs:label "God & The FBI" ;
 .
 :Gold_Medal_Collection
   rdf:type mo:CD ;
@@ -4544,6 +4681,16 @@
   bibliographica:byArtist MusicGroup:Baka_Beyond ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/30258950-da8c-4b26-b3eb-42ab828e682d"^^xsd:anyURI ;
   rdfs:label "Heart of the Forest" ;
+.
+:Heavy_Horses
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Jethro_Tull ;
+  bibliographica:byArtist MusicGroup:Jethro_Tull ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e2b928b1-4b85-3095-9926-63d3f4af1172"^^xsd:anyURI ;
+  rdfs:label "Heavy Horses" ;
 .
 :Hello_Young_Lovers
   rdf:type mo:CD ;
@@ -5303,6 +5450,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/f94f0038-f95c-426c-9d16-f051df02e440"^^xsd:anyURI ;
   rdfs:label "The Jack Kerouac Collection" ;
 .
+:Janis
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Janis_Joplin ;
+  bibliographica:byArtist SoloMusicArtist:Janis_Joplin ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/05ebfb8b-750c-4160-8268-d1b2692df1ed"^^xsd:anyURI ;
+  rdfs:label "Janis" ;
+.
 :Jazz
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5641,6 +5798,16 @@
   bibliographica:byArtist SoloMusicArtist:Larry_Carlton ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d7ef922e-a465-4951-9488-ef2624c02bee"^^xsd:anyURI ;
   rdfs:label "Larry Carlton" ;
+.
+:Last_Man_Standing
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jerry_Lee_Lewis ;
+  bibliographica:byArtist SoloMusicArtist:Jerry_Lee_Lewis ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e5dff1b6-b26f-4f25-82cb-5902999af48d"^^xsd:anyURI ;
+  rdfs:label "Last Man Standing" ;
 .
 :Last_Scream_Missing_Neighbors
   rdf:type mo:CD ;
@@ -6261,6 +6428,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/94861915-41de-4b7d-9211-bf713bb3f93f"^^xsd:anyURI ;
   rdfs:label "Live From Mars" ;
 .
+:Live_Hammersmith
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Jethro_Tull ;
+  bibliographica:byArtist MusicGroup:Jethro_Tull ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c944c47b-a036-4910-8364-672f8d9c7d0d"^^xsd:anyURI ;
+  rdfs:label "Live at Hammersmith '84" ;
+.
 :Live_at_Troubadour
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -6419,6 +6596,16 @@
   bibliographica:byArtist MusicGroup:Dead_Ringer_Band ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/83e0c31d-82a6-4951-8de6-81da797d6fa9"^^xsd:anyURI ;
   rdfs:label "Living in the Circle" ;
+.
+:Living_In_Past
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Jethro_Tull ;
+  bibliographica:byArtist MusicGroup:Jethro_Tull ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/52a31f6c-1e07-4d4c-91f1-ee6675325cf5"^^xsd:anyURI ;
+  rdfs:label "Living in the Past" ;
 .
 :Living_Space
   rdf:type mo:CD ;
@@ -7094,6 +7281,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/789a27a8-c390-4b37-b466-666aed434b7b"^^xsd:anyURI ;
   rdfs:label "Mind Adventures" ;
 .
+:Minstrel_In_Gallery
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Jethro_Tull ;
+  bibliographica:byArtist MusicGroup:Jethro_Tull ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/99a89431-9b5d-4672-9e34-1d21384d43b3"^^xsd:anyURI ;
+  rdfs:label "Minstrel in the Gallery" ;
+.
 :Mirror_Pool
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7378,6 +7575,15 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e182adf6-e2a8-444f-9b1f-43bec130ba82"^^xsd:anyURI ;
   rdfs:label "Neath Your Covers, Part 1" ;
 .
+:New_Album
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Janes_Addiction ;
+  bibliographica:byArtist MusicGroup:Janes_Addiction ;
+  rdfs:label "New Album" ;
+.
 :New_Era
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7437,6 +7643,16 @@
   bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/c663c0fb-c739-3191-b099-13ed01fd6df8"^^xsd:anyURI ;
   rdfs:label "Night Vision" ;
+.
+:Nightcap
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Jethro_Tull ;
+  bibliographica:byArtist MusicGroup:Jethro_Tull ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c2b5b2e5-ede5-3b6e-9eec-8b6eae2468fe"^^xsd:anyURI ;
+  rdfs:label "Nightcap: The Unreleased Masters 1973–1991" ;
 .
 :Nightfall_of_Diamonds
   rdf:type mo:CD ;
@@ -7588,6 +7804,25 @@
   bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/49fb19c2-b8a3-3462-94ba-8847841024ce"^^xsd:anyURI ;
   rdfs:label "Nothing But a Burning Light" ;
+.
+:Nothing_Is_Easy_Aragon
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Jethro_Tull ;
+  bibliographica:byArtist MusicGroup:Jethro_Tull ;
+  rdfs:label "Nothing Is Easy: Live - Aragon Ballroom Chicago 1970" ;
+.
+:Nothing_Is_Easy_Wight
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Jethro_Tull ;
+  bibliographica:byArtist MusicGroup:Jethro_Tull ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/bef53b94-3010-45bc-b9e0-85749393e5d7"^^xsd:anyURI ;
+  rdfs:label "Nothing Is Easy: Live at the Isle of Wight 1970" ;
 .
 :Novemeber_Suite
   rdf:type mo:CD ;
@@ -9107,6 +9342,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/ea085dcf-d422-4804-a1aa-bc77f701186a"^^xsd:anyURI ;
   rdfs:label "Second Album" ;
 .
+:Secret_Life_Eddy_Fink
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Janis_Ian ;
+  bibliographica:byArtist SoloMusicArtist:Janis_Ian ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/79523269-1500-43e5-ace3-af8442cf1d31"^^xsd:anyURI ;
+  rdfs:label "The Secret Life of J. Eddy Fink" ;
+.
 :Self_Portrait
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -9547,6 +9792,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/825b6052-5f94-4393-abd7-6537e8baefea"^^xsd:anyURI ;
   rdfs:label "So What" ;
 .
+:Societys_Child
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Janis_Ian ;
+  bibliographica:byArtist SoloMusicArtist:Janis_Ian ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f03d1ee8-8cb9-45ba-b280-3bb6cbc24fda"^^xsd:anyURI ;
+  rdfs:label "Society's Child" ;
+.
 :Solo
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -9616,6 +9871,16 @@
   bibliographica:byArtist SoloMusicArtist:Leonard_Cohen ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/ffce248e-e94e-40c5-b2d8-ad15069bbc52"^^xsd:anyURI ;
   rdfs:label "Songs From a Room" ;
+.
+:Songs_From_Wood
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Jethro_Tull ;
+  bibliographica:byArtist MusicGroup:Jethro_Tull ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/fc6570d5-e24f-4348-a512-8165cf0d3515"^^xsd:anyURI ;
+  rdfs:label "Songs From The Wood" ;
 .
 :Songs_of_Innocence_Experience
   rdf:type mo:CD ;
@@ -9838,6 +10103,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/43a4b6c2-7573-4cfc-be0e-6e10d45e0037"^^xsd:anyURI ;
   rdfs:label "Stages" ;
 .
+:Stand_Up
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Jethro_Tull ;
+  bibliographica:byArtist MusicGroup:Jethro_Tull ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/6bd9ac39-6fb6-3eba-a684-78d98a8ddd72"^^xsd:anyURI ;
+  rdfs:label "Stand Up" ;
+.
 :Standard_Coltrane
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -10005,6 +10280,26 @@
   dcterms:creator SoloMusicArtist:Barbara_Kessler ;
   bibliographica:byArtist SoloMusicArtist:Barbara_Kessler ;
   rdfs:label "Stranger to This Land" ;
+.
+:Strays
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Janes_Addiction ;
+  bibliographica:byArtist MusicGroup:Janes_Addiction ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/8e92c571-8e2b-38e4-bc8a-f87a3da3682b"^^xsd:anyURI ;
+  rdfs:label "Strays" ;
+.
+:Strawberry_Lover
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jess_Klein ;
+  bibliographica:byArtist SoloMusicArtist:Jess_Klein ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/be965971-b73d-417d-b950-a002b4400e21"^^xsd:anyURI ;
+  rdfs:label "Strawberry Lover" ;
 .
 :Strikes_Twice
   rdf:type mo:CD ;
@@ -10934,6 +11229,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/f81db7e2-68b7-3725-b98d-5c5efde603a1"^^xsd:anyURI ;
   rdfs:label "These Four Walls" ;
 .
+:Thick_As_Brick
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Jethro_Tull ;
+  bibliographica:byArtist MusicGroup:Jethro_Tull ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/0e31a7b5-a753-3330-9418-8a32efd1141d"^^xsd:anyURI ;
+  rdfs:label "Thick As A Brick" ;
+.
 :Thin_Wild_Mercury_Music
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -11052,6 +11357,16 @@
   bibliographica:byArtist SoloMusicArtist:Elvis_Costello ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e8101296-9ef3-457f-b2c4-56e014e4d3dc"^^xsd:anyURI ;
   rdfs:label "This Year’s Model" ;
+.
+:This_Was
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Jethro_Tull ;
+  bibliographica:byArtist MusicGroup:Jethro_Tull ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/1e7d01af-7983-4d80-a4a8-2f83fe43fbd7"^^xsd:anyURI ;
+  rdfs:label "This Was" ;
 .
 :Those_Who_Know
   rdf:type mo:CD ;
@@ -11538,6 +11853,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/0172a202-ba62-42e5-a145-54c9a9eda26f"^^xsd:anyURI ;
   rdfs:label "Twango Bango Deluxe" ;
 .
+:Twenty_Fifth_Box_Set
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Jethro_Tull ;
+  bibliographica:byArtist MusicGroup:Jethro_Tull ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/2ee5af01-5742-3cf0-a8df-76878fa777c0"^^xsd:anyURI ;
+  rdfs:label "The 25th Anniversary Box Set" ;
+.
 :Twenty_Fifth_Anniv_Concert
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -11930,6 +12255,16 @@
   bibliographica:byArtist SoloMusicArtist:Caitlin_Cary ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/4942576d-9f1a-467e-9b13-b710dc77e187"^^xsd:anyURI ;
   rdfs:label "Waltzie" ;
+.
+:War_Child
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Jethro_Tull ;
+  bibliographica:byArtist MusicGroup:Jethro_Tull ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/fa27969e-544a-4020-ac3b-2ba6332a5549"^^xsd:anyURI ;
+  rdfs:label "War Child" ;
 .
 :Watermark
   rdf:type mo:CD ;
