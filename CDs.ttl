@@ -145,6 +145,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/2734a2ba-5df6-4863-88f7-4aa86fc332a7"^^xsd:anyURI ;
   rdfs:label "Aerial Boundaries" ;
 .
+:Africa_Brass
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e4d4c059-3700-4826-895a-74d7c477484a"^^xsd:anyURI ;
+  rdfs:label "Africa Brass, Volume 1 & 2" ;
+.
 :African_Force
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -752,6 +762,18 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/93ef6b76-a6ab-4d01-ae7f-a141d4c4a852"^^xsd:anyURI ;
   rdfs:label "Baduizm" ;
 .
+:Bags_Trane
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  dcterms:creator SoloMusicArtist:Milt_Jackson ;
+  bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:Milt_Jackson ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5b359464-9ace-4130-bda3-7fe01fc55299"^^xsd:anyURI ;
+  rdfs:label "Bags & Trane" ;
+.
 :Bang
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -761,6 +783,16 @@
   bibliographica:byArtist MusicGroup:James_Gang ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c8f7efb4-1499-4f1d-a072-64488f85358c"^^xsd:anyURI ;
   rdfs:label "Bang" ;
+.
+:Barbecue_King
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jorma_Kaukonen ;
+  bibliographica:byArtist SoloMusicArtist:Jorma_Kaukonen ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/91369b28-e3c5-4e6b-8c2e-bc4020fc4aa3"^^xsd:anyURI ;
+  rdfs:label "Barbecue King" ;
 .
 :Bare
   rdf:type mo:CD ;
@@ -1024,6 +1056,16 @@
   bibliographica:byArtist SoloMusicArtist:Isaac_Hayes ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/2dbe855c-a7e6-4926-872a-4d4d2a577e7c"^^xsd:anyURI ;
   rdfs:label "The Best of Isaac Hayes, Vol. 1" ;
+.
+:Best_of_John_Coltrane
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a257b218-559f-354d-9e20-919c12e8017b"^^xsd:anyURI ;
+  rdfs:label "The Best Of John Coltrane" ;
 .
 :Best_of_John_Hammond
   rdf:type mo:CD ;
@@ -1332,6 +1374,16 @@
   bibliographica:byArtist SoloMusicArtist:Dave_Alvin ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/55ad48dd-7b2f-4d98-83ad-f90b1140e79f"^^xsd:anyURI ;
   rdfs:label "Blue Boulevard" ;
+.
+:Blue_Country_Heart
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jorma_Kaukonen ;
+  bibliographica:byArtist SoloMusicArtist:Jorma_Kaukonen ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/66087e86-47d6-494d-8ddf-19a86612bf15"^^xsd:anyURI ;
+  rdfs:label "Blue Country Heart" ;
 .
 :Blue_Haze
   rdf:type mo:CD ;
@@ -1731,6 +1783,16 @@
   bibliographica:byArtist SoloMusicArtist:Alejandro_Escovedo ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/0e7e13a7-0aa9-4d45-9213-2c86581d0ae7"^^xsd:anyURI ;
   rdfs:label "By The Hand Of The Father" ;
+.
+:Bye_Bye_Blackbird
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c881c5ea-8ceb-4f9f-91ec-8fdaed34fe66"^^xsd:anyURI ;
+  rdfs:label "Bye Bye Blackbird" ;
 .
 :Bye_Bye_Route_66
   rdf:type mo:CD ;
@@ -2273,6 +2335,16 @@
   bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/00e20769-22e6-4bca-b953-8c8aaa3291bd"^^xsd:anyURI ;
   rdfs:label "Coltrane for Lovers" ;
+.
+:Coltrane_Plays_Blues
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e18b9dad-7dc9-4dbc-a007-d9f658f7d6fe"^^xsd:anyURI ;
+  rdfs:label "Coltrane Plays the Blues" ;
 .
 :Coltranes_Sound
   rdf:type mo:CD ;
@@ -2817,6 +2889,16 @@
   bibliographica:byArtist SoloMusicArtist:Leonard_Cohen ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c15c2b7f-0164-439b-af47-be1c474e4446"^^xsd:anyURI ;
   rdfs:label "Dear Heather" ;
+.
+:Dear_Old_Stockholm
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b3ea624f-fea0-4aeb-a5df-becd58186f0a"^^xsd:anyURI ;
+  rdfs:label "Dear Old Stockholm" ;
 .
 :Death_Rides_Pale_Cow
   rdf:type mo:CD ;
@@ -3868,6 +3950,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/3adbcc25-34f0-4790-832e-61dc0dc75705"^^xsd:anyURI ;
   rdfs:label "The Firstborn Is Dead" ;
 .
+:Fishing_With_John
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Lurie ;
+  bibliographica:byArtist SoloMusicArtist:John_Lurie ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/83cd542a-2b13-4471-b5fc-6551fb9fd9b3"^^xsd:anyURI ;
+  rdfs:label "Fishing with John" ;
+.
 :Five_Leaves_Left
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4180,6 +4272,16 @@
   dcterms:creator SoloMusicArtist:Brian_Eno ;
   bibliographica:byArtist SoloMusicArtist:Brian_Eno ;
   rdfs:label "Generative Music" ;
+.
+:Gentle_Side_John_Coltrane
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/cae584e6-3e98-435f-94ce-7c9ca788b63b"^^xsd:anyURI ;
+  rdfs:label "The Gentle Side Of John Coltrane" ;
 .
 :Genuine_Negro_Jig
   rdf:type mo:CD ;
@@ -6567,6 +6669,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c0a9334f-bd50-4b14-82b1-282c64aa9fd9"^^xsd:anyURI ;
   rdfs:label "Live & Unreleased: The Radio Show" ;
 .
+:Live_in_Seattle
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/8cc94888-f0cf-4433-a6f5-0a8c1bbd860c"^^xsd:anyURI ;
+  rdfs:label "Live In Seattle" ;
+.
 :Living_End
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -6908,6 +7020,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/255f97cc-a7c5-3691-b3a4-e7146e391d8f"^^xsd:anyURI ;
   rdfs:label "Madman Across the Water" ;
 .
+:Magic_Two
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jorma_Kaukonen ;
+  bibliographica:byArtist SoloMusicArtist:Jorma_Kaukonen ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b8f4399c-05c6-45ec-8213-126cfb4e1c31"^^xsd:anyURI ;
+  rdfs:label "Magic Two" ;
+.
 :Maire
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7028,6 +7150,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/57df3412-99e4-479b-a8df-5bada7c48926"^^xsd:anyURI ;
   rdfs:label "Manifold" ;
 .
+:Marvin_Pontiac
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Lurie ;
+  bibliographica:byArtist SoloMusicArtist:John_Lurie ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/4982f664-3584-4d86-a019-b080e1a3fdc7"^^xsd:anyURI ;
+  rdfs:label "Greatest Hits of Marvin Pontiac" ;
+.
 :Masked_and_Anonymous
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7038,6 +7170,15 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/85acb6fb-8fc2-48b5-9ec5-d764c752d2ec"^^xsd:anyURI ;
   rdfs:label "Masked and Anonymous" ;
   skos:related SoloMusicArtist:Bob_Dylan ;
+.
+:Mazurka_Berserker
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Kirkpatrick ;
+  bibliographica:byArtist SoloMusicArtist:John_Kirkpatrick ;
+  rdfs:label "Mazurka Berserker" ;
 .
 :Me_Myself_I
   rdf:type mo:CD ;
@@ -7594,15 +7735,15 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/92758ea7-5f4e-4816-bc34-ec8cff0d5f0c"^^xsd:anyURI ;
   rdfs:label "New Era" ;
 .
-:New_Skin
+:Newport_63
   rdf:type mo:CD ;
   rdf:type mo:Record ;
   rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
-  dcterms:creator SoloMusicArtist:Leonard_Cohen ;
-  bibliographica:byArtist SoloMusicArtist:Leonard_Cohen ;
-  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e26274ca-69a0-491d-b742-2c999d06dbc2"^^xsd:anyURI ;
-  rdfs:label "New Skin for the Old Ceremony" ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c20373dd-3767-4b62-8328-3e135d4198da"^^xsd:anyURI ;
+  rdfs:label "Newport '63" ;
 .
 :New_Roman_Times
   rdf:type mo:CD ;
@@ -7613,6 +7754,28 @@
   bibliographica:byArtist MusicGroup:Camper_Van_Beethoven ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/0f2384c4-7ef1-426e-9fdc-efeaf2d443c5"^^xsd:anyURI ;
   rdfs:label "New Roman Times" ;
+.
+:New_Skin
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Leonard_Cohen ;
+  bibliographica:byArtist SoloMusicArtist:Leonard_Cohen ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e26274ca-69a0-491d-b742-2c999d06dbc2"^^xsd:anyURI ;
+  rdfs:label "New Skin for the Old Ceremony" ;
+.
+:New_Thing_Newport
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  dcterms:creator SoloMusicArtist:Archie_Shepp ;
+  bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:Archie_Shepp ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/4e0fd29d-f964-4bb7-bee9-d272b23e6c92"^^xsd:anyURI ;
+  rdfs:label "New Thing At Newport" ;
 .
 :Nightclubbing
   rdf:type mo:CD ;
@@ -8509,6 +8672,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c4144425-e510-4289-9653-22d6c85d0aa5"^^xsd:anyURI ;
   rdfs:label "Plasma" ;
 .
+:Plastic_Ono_Band_JL
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Lennon ;
+  bibliographica:byArtist SoloMusicArtist:John_Lennon ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c4144425-e510-4289-9653-22d6c85d0aa5"^^xsd:anyURI ;
+  rdfs:label "Plastic Ono Band" ;
+.
 :Playing_Even_Better
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -8670,6 +8843,16 @@
   bibliographica:byArtist MusicGroup:Devo ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d4bfdd53-f9ac-35d8-b30d-f750b4420af4"^^xsd:anyURI ;
   rdfs:label "Q: Are We Not Men? A: We Are Devo!" ;
+.
+:Quah
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jorma_Kaukonen ;
+  bibliographica:byArtist SoloMusicArtist:Jorma_Kaukonen ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9573da27-0a80-47cd-8427-3494efd5b6f8"^^xsd:anyURI ;
+  rdfs:label "Quah" ;
 .
 :Quiet_Nights
   rdf:type mo:CD ;
@@ -8898,6 +9081,16 @@
   bibliographica:byArtist SoloMusicArtist:Regina_Carter ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/ddbaf869-bbf3-4efb-bc91-d1cf4eaba1c9"^^xsd:anyURI ;
   rdfs:label "Regina Carter" ;
+.
+:Relix_Bay_Rock_Shop
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jorma_Kaukonen ;
+  bibliographica:byArtist SoloMusicArtist:Jorma_Kaukonen ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e17f6c5e-0436-4299-9791-ee509be18367"^^xsd:anyURI ;
+  rdfs:label "Relix Bay Rock Shop, Volume 3: Part 1" ;
 .
 :Rendezvous
   rdf:type mo:CD ;
@@ -9361,6 +9554,16 @@
   bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/6163aa70-d97f-34e5-a5bf-54b7d85a7ea0"^^xsd:anyURI ;
   rdfs:label "Self Portrait" ;
+.
+:Settin_the_Pace
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/2790082e-ca3f-40c6-9e62-05b6bd656f7b"^^xsd:anyURI ;
+  rdfs:label "Settin' the Pace" ;
 .
 :Seven_Steps
   rdf:type mo:CD ;
@@ -11602,6 +11805,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/87921985-431d-307c-9627-e3ecbda9e3a7"^^xsd:anyURI ;
   rdfs:label "Too Good to Be Forgotten" ;
 .
+:Too_Many_Years
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jorma_Kaukonen ;
+  bibliographica:byArtist SoloMusicArtist:Jorma_Kaukonen ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/80c1431a-485f-465a-85d8-ad153623c173"^^xsd:anyURI ;
+  rdfs:label "Too Many Years" ;
+.
 :Too_Much_Fun
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -11671,6 +11884,16 @@
   bibliographica:byArtist SoloMusicArtist:Steve_Earle ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b09571d4-8b90-4b6e-b698-087d7cf9957a"^^xsd:anyURI ;
   rdfs:label "Transcendental Blues" ;
+.
+:Transition
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/6be28f83-dcad-41d4-9e62-115f7190db55"^^xsd:anyURI ;
+  rdfs:label "Transition" ;
 .
 :Traneing_In
   rdf:type mo:CD ;
@@ -12245,6 +12468,16 @@
   bibliographica:byArtist MusicGroup:Guadalcanal_Diary ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/6dac5350-5c91-44bf-8a72-00661a750651"^^xsd:anyURI ;
   rdfs:label "Walking in the Shadow of the Big Man" ;
+.
+:Walls_and_Bridges
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Lennon ;
+  bibliographica:byArtist SoloMusicArtist:John_Lennon ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/54c153f9-6df9-469b-af40-8358737c050e"^^xsd:anyURI ;
+  rdfs:label "Walls and Bridges" ;
 .
 :Waltzie
   rdf:type mo:CD ;

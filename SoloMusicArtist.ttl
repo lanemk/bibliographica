@@ -266,6 +266,13 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/3e30aebd-0557-4cfd-8fb9-3945afa5d72b"^^xsd:anyURI ;
   rdfs:label "Annie Lennox" ;
 .
+:Archie_Shepp
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Archie_Shepp.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/5ceff60b-8183-49bf-a855-328d3c172106"^^xsd:anyURI ;
+  rdfs:label "Archie Shepp" ;
+.
 :Aretha_Franklin
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassEH ;
@@ -2976,6 +2983,13 @@
   bibliographica:dbpediaURI "http://dbpedia.org/data/Miles_Davis.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/561d854a-6a28-4aa7-8c99-323e6ce46c2a"^^xsd:anyURI ;
   rdfs:label "Miles Davis" ;
+.
+:Milt_Jackson
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Milt_Jackson.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/2e38e1de-2890-4620-8467-5b0bb4641cb9"^^xsd:anyURI ;
+  rdfs:label "Milt Jackson" ;
 .
 :Mindy_Jostyn
   rdf:type mo:SoloMusicArtist ;
