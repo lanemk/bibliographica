@@ -76,6 +76,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/2fa972a2-9165-3423-9ab1-38ed7b07e807"^^xsd:anyURI ;
   rdfs:label "Abbey is Blue" ;
 .
+:Absolute_Torch_Twang
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:KD_Lang ;
+  bibliographica:byArtist SoloMusicArtist:KD_Lang ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b0522f34-7d72-45bb-bd64-58c1c0a6163e"^^xsd:anyURI ;
+  rdfs:label "Absolute Torch And Twang" ;
+.
 :A_Bone_Crone_Drone
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -164,6 +174,16 @@
   bibliographica:byArtist SoloMusicArtist:Ginger_Baker ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/7bbaa2a8-1fcc-4e7c-b31f-1c5a461e77c7"^^xsd:anyURI ;
   rdfs:label "African Force" ;
+.
+:African_Litany
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Juluka ;
+  bibliographica:byArtist MusicGroup:Juluka ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f5cc7ef2-cf3d-4a70-80aa-3b4e5aebcaa9"^^xsd:anyURI ;
+  rdfs:label "African Litany" ;
 .
 :Afro_Blue_Impressions
   rdf:type mo:CD ;
@@ -413,6 +433,16 @@
   dcterms:creator SoloMusicArtist:Joy_Eden_Harrison ;
   bibliographica:byArtist SoloMusicArtist:Joy_Eden_Harrison ;
   rdfs:label "Angel Town" ;
+.
+:Angel_With_Lariat
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:KD_Lang ;
+  bibliographica:byArtist SoloMusicArtist:KD_Lang ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/ab93b1bd-6a96-47a4-a613-42439e129e0f"^^xsd:anyURI ;
+  rdfs:label "Angel With a Lariat" ;
 .
 :Angels_Cigarettes
   rdf:type mo:CD ;
@@ -1185,6 +1215,16 @@
   bibliographica:byArtist SoloMusicArtist:Laurie_Anderson ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/5b9e6ad2-8f80-4713-bb8b-2e1f977c4808"^^xsd:anyURI ;
   rdfs:label "Big Science" ;
+.
+:Big_Wide_Grin
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Keb_Mo ;
+  bibliographica:byArtist SoloMusicArtist:Keb_Mo ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b006e488-d072-499b-bb72-5e6bd5c062de"^^xsd:anyURI ;
+  rdfs:label "Big Wide Grin" ;
 .
 :Bigger_Better_Faster_More
   rdf:type mo:CD ;
@@ -3732,6 +3772,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e8e9c42a-7f80-4f7f-b388-9e9bbe35d8ac"^^xsd:anyURI ;
   rdfs:label "Eva By Heart" ;
 .
+:Everybody_Loves_You
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Kaki_King ;
+  bibliographica:byArtist SoloMusicArtist:Kaki_King ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/bdc3145c-b84f-4d07-a4e4-d3f52a0ee5aa"^^xsd:anyURI ;
+  rdfs:label "Everybody Loves You" ;
+.
 :Excerpts_Love_Circus
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4472,6 +4522,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/77e5859c-f164-42b6-bb5a-6dd2724003bc"^^xsd:anyURI ;
   rdfs:label "Good Dog, Happy Man" ;
 .
+:Good_Hope_Concerts
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Juluka ;
+  bibliographica:byArtist MusicGroup:Juluka ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/50702c57-713a-4e7a-baaa-8e4d73327c45"^^xsd:anyURI ;
+  rdfs:label "Live: The Good Hope Concerts" ;
+.
 :Good_Stuff
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5184,6 +5244,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/98b5c41e-2288-46b1-9152-d711fca024fe"^^xsd:anyURI ;
   rdfs:label "Hundred Year Hall" ;
 .
+:Hymns_49th_Parallel
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:KD_Lang ;
+  bibliographica:byArtist SoloMusicArtist:KD_Lang ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/4115e2d2-27e8-4a7c-b43e-47b1381409ae"^^xsd:anyURI ;
+  rdfs:label "Hymns of the 49th Parallel" ;
+.
 :Ice_Caps_Peaks_Telluride
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5761,6 +5831,26 @@
   bibliographica:byArtist SoloMusicArtist:King_Sunny_Ade ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b42705ad-218f-46b0-8483-fdc8917081ad"^^xsd:anyURI ;
   rdfs:label "Juju Music" ;
+.
+:Just_Like_You
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Keb_Mo ;
+  bibliographica:byArtist SoloMusicArtist:Keb_Mo ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/0360c55f-8b6d-3b4c-a564-9a7646240c2e"^^xsd:anyURI ;
+  rdfs:label "Just Like You" ;
+.
+:Keb_Mo_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Keb_Mo ;
+  bibliographica:byArtist SoloMusicArtist:Keb_Mo ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/7477b3a3-e595-49f5-b2da-085358afbdfb"^^xsd:anyURI ;
+  rdfs:label "Keb Mo" ;
 .
 :Keep_the_Dog
   rdf:type mo:CD ;
@@ -7603,6 +7693,16 @@
   bibliographica:byArtist MusicGroup:Nick_Cave_Bad_Seeds ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/871130d5-477a-3919-a7e8-ae909f718ee0"^^xsd:anyURI ;
   rdfs:label "Murder Ballads" ;
+.
+:Musa_Ukungilandela
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Juluka ;
+  bibliographica:byArtist MusicGroup:Juluka ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/8709ffd3-3f5d-44f6-bad7-3fda74c933b9"^^xsd:anyURI ;
+  rdfs:label "Musa Ukungilandela" ;
 .
 :Music_Never_Stopped
   rdf:type mo:CD ;
@@ -9515,6 +9615,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/968b7e86-4645-3417-b6c0-59d8c2b9862f"^^xsd:anyURI ;
   rdfs:label "Scary Monsters (and Super Creeps)" ;
 .
+:Scatterlings
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Juluka ;
+  bibliographica:byArtist MusicGroup:Juluka ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/2d8ea5ef-1247-4e71-9bd9-77c9a391054a"^^xsd:anyURI ;
+  rdfs:label "Scatterlings" ;
+.
 :School_Days
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -9592,6 +9702,16 @@
   bibliographica:byArtist SoloMusicArtist:Suzanne_Ciani ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/fb560d3f-495e-45c8-a97f-5b7e339aebd1"^^xsd:anyURI ;
   rdfs:label "Seven Waves" ;
+.
+:Shadowland
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:KD_Lang ;
+  bibliographica:byArtist SoloMusicArtist:KD_Lang ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/2d1d66f2-8ec7-4a74-a5f0-4921c888d937"^^xsd:anyURI ;
+  rdfs:label "Shadowland" ;
 .
 :Shadow_Man
   rdf:type mo:CD ;
@@ -9903,6 +10023,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/63e51a74-53c0-3b9b-bf4c-4ab15734967c"^^xsd:anyURI ;
   rdfs:label "Slow Circle" ;
 .
+:Slow_Down
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Keb_Mo ;
+  bibliographica:byArtist SoloMusicArtist:Keb_Mo ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c539abbd-b84f-462a-b86d-3bab733b7613"^^xsd:anyURI ;
+  rdfs:label "Slow Down" ;
+.
 :Small_Minds
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -10064,6 +10194,22 @@
   bibliographica:byArtist SoloMusicArtist:Stan_Getz ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/ef3e3867-213f-49d8-be70-6392ed86d792"^^xsd:anyURI ;
   rdfs:label "The Song Is You" ;
+.
+:Songhai_2
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Ketama ;
+  bibliographica:byArtist MusicGroup:Ketama ;
+  dcterms:creator SoloMusicArtist:Toumani_Diabate ;
+  dcterms:creator SoloMusicArtist:Jose_Soto ;
+  dcterms:creator SoloMusicArtist:Danny_Thompson ;
+  bibliographica:byArtist SoloMusicArtist:Toumani_Diabate ;
+  bibliographica:byArtist SoloMusicArtist:Jose_Soto ;
+  bibliographica:byArtist SoloMusicArtist:Danny_Thompson ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f1da490b-cd4b-4ddb-929e-429a499564c8"^^xsd:anyURI ;
+  rdfs:label "Songhai 2" ;
 .
 :Songs_From_a_Room
   rdf:type mo:CD ;
@@ -12147,6 +12293,16 @@
   rdfs:label "Ultra Hi-Fidelity" ;
   rdfs:comment "A bonus CD from While You Weren't Looking" ;
 .
+:Ubuhle_Bemvelo
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Juluka ;
+  bibliographica:byArtist MusicGroup:Juluka ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/eeab9dd6-ec67-431a-be76-786fa821d1b1"^^xsd:anyURI ;
+  rdfs:label "Ubuhle Bemvelo" ;
+.
 :Under_Heavy_Manners
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -12216,6 +12372,26 @@
   bibliographica:byArtist SoloMusicArtist:Toni_Childs ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/90f0009d-a9bd-4aca-a08c-63bcc0854f95"^^xsd:anyURI ;
   rdfs:label "Union" ;
+.
+:Universal_Language
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Kevyn_Lettau ;
+  bibliographica:byArtist SoloMusicArtist:Kevyn_Lettau ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e4bad0d1-ff07-4b68-a256-965006f3e9a0"^^xsd:anyURI ;
+  rdfs:label "Universal Language" ;
+.
+:Universal_Men
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Juluka ;
+  bibliographica:byArtist MusicGroup:Juluka ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b1d4d1e7-9295-4391-a53b-1e36ac13c88e"^^xsd:anyURI ;
+  rdfs:label "Universal Men" ;
 .
 :Unknown_Territory
   rdf:type mo:CD ;
@@ -12618,6 +12794,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/0b1e8307-ccd4-353a-81b4-16bada756637"^^xsd:anyURI ;
   rdfs:label "Whale Rider" ;
 .
+:What_About_Regret
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Kate_Jacobs ;
+  bibliographica:byArtist SoloMusicArtist:Kate_Jacobs ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f8bb402a-234c-4fd3-8ac1-255879efdbef"^^xsd:anyURI ;
+  rdfs:label "What About Regret" ;
+.
 :What_We_Did_Holidays
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -12898,6 +13084,26 @@
   bibliographica:byArtist SoloMusicArtist:Sue_Foley ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/954981aa-bdba-4c5a-af64-deeb9707f1cf"^^xsd:anyURI ;
   rdfs:label "Without a Warning" ;
+.
+:Universal_Men
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Juluka ;
+  bibliographica:byArtist MusicGroup:Juluka ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b1d4d1e7-9295-4391-a53b-1e36ac13c88e"^^xsd:anyURI ;
+  rdfs:label "Universal Men" ;
+.
+:Work_For_All
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Juluka ;
+  bibliographica:byArtist MusicGroup:Juluka ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b096d90d-40e5-41ab-9041-7bb371bdc734"^^xsd:anyURI ;
+  rdfs:label "Work For All" ;
 .
 :Works
   rdf:type mo:CD ;
