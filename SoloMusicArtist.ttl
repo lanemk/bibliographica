@@ -2389,6 +2389,13 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/8d22894d-5105-44d4-923d-0c2f3f515da6"^^xsd:anyURI ;
   rdfs:label "Kinky Friedman" ;
 .
+:Kitaro
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Kitar%C5%8D.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/f3d8c154-208d-4efa-b52d-7e9f16adcdae"^^xsd:anyURI ;
+  rdfs:label "Kitarō" ;
+.
 :Koko_Taylor
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassQT ;

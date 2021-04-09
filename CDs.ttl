@@ -245,6 +245,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/9690e98d-d226-3e79-b206-7bfd2c1c15bf"^^xsd:anyURI ;
   rdfs:label "All Things Must Pass" ;
 .
+:All_Time_Greatest_Hits
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Kris_Kristofferson ;
+  bibliographica:byArtist SoloMusicArtist:Kris_Kristofferson ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9258409f-92d7-4efd-bd50-84d885c40007"^^xsd:anyURI ;
+  rdfs:label "All-Time Greatest Hits" ;
+.
 :All_Understood
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -886,6 +896,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/54daca91-4e82-320e-8aa8-1896e46bf69e"^^xsd:anyURI ;
   rdfs:label "Be Yourself Tonight" ;
 .
+:Beat
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:King_Crimson ;
+  bibliographica:byArtist MusicGroup:King_Crimson ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c09a72e8-2b12-44b2-91ce-b0ef65f05b9c"^^xsd:anyURI ;
+  rdfs:label "Beat" ;
+.
 :Beaupres_Home
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1008,6 +1028,16 @@
   bibliographica:byArtist MusicGroup:Glass_Eye ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/579dc43c-bad4-40ff-a277-37c874906865"^^xsd:anyURI ;
   rdfs:label "Bent By Nature" ;
+.
+:Best_Kept_Secret
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Lady_Bianca ;
+  bibliographica:byArtist SoloMusicArtist:Lady_Bianca ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5adb955f-e0af-4e85-9abd-d39fe69fc0e0"^^xsd:anyURI ;
+  rdfs:label "Best Kept Secret" ;
 .
 :Best_Of
   rdf:type mo:CD ;
@@ -1526,6 +1556,16 @@
   bibliographica:byArtist SoloMusicArtist:Meredith_Brooks ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/7ab34777-3a00-39c6-a43e-4b997916bb3c"^^xsd:anyURI ;
   rdfs:label "Blurring the Edges" ;
+.
+:BBoom
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:King_Crimson ;
+  bibliographica:byArtist MusicGroup:King_Crimson ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/60358613-5c21-4c60-bc55-2ba3c63a8e5d"^^xsd:anyURI ;
+  rdfs:label "B’BOOM: Official Bootleg – Live in Argentina" ;
 .
 :Boom_Boom
   rdf:type mo:CD ;
@@ -2609,6 +2649,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a4603320-5599-4bc4-894e-b1d6cf523616"^^xsd:anyURI ;
   rdfs:label "Courage My Love" ;
 .
+:Court_of_Crimson_King
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:King_Crimson ;
+  bibliographica:byArtist MusicGroup:King_Crimson ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/808b2ebc-175c-3dd8-81f6-d4a5b8f79cef"^^xsd:anyURI ;
+  rdfs:label "In the Court of the Crimson King" ;
+.
 :Covenant
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3250,6 +3300,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/2dde37d8-46a6-461b-ae60-9fffd62f60c4"^^xsd:anyURI ;
   rdfs:label "Disappear Fear" ;
 .
+:Discipline
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:King_Crimson ;
+  bibliographica:byArtist MusicGroup:King_Crimson ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e0fdf2b4-f3db-3d5e-8789-1aeba880fc1b"^^xsd:anyURI ;
+  rdfs:label "Discipline" ;
+.
 :Discovered_Covered
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3348,6 +3408,16 @@
   bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/dc311d36-6df0-4efc-8568-a50b727a281c"^^xsd:anyURI ;
   rdfs:label "Doo-Bop" ;
+.
+:Dose
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Latin_Playboys ;
+  bibliographica:byArtist MusicGroup:Latin_Playboys ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/12f2d5ef-c565-4e3e-b473-858699141dfe"^^xsd:anyURI ;
+  rdfs:label "Dose" ;
 .
 :Double_Barrel_Blues
   rdf:type mo:CD ;
@@ -3541,6 +3611,16 @@
   bibliographica:byArtist SoloMusicArtist:Badi_Assad ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c69cdb18-5195-4a43-9e26-9d66622fd926"^^xsd:anyURI ;
   rdfs:label "Echoes of Brazil" ;
+.
+:Edge_of_City
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Kinsey_Report ;
+  bibliographica:byArtist MusicGroup:Kinsey_Report ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e7f9f5ac-1bb5-4fce-8f2c-5a02c9684aee"^^xsd:anyURI ;
+  rdfs:label "Edge of the City" ;
 .
 :Edgewise
   rdf:type mo:CD ;
@@ -4244,6 +4324,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/168e1820-028a-3237-b6f7-5e4413e2336f"^^xsd:anyURI ;
   rdfs:label "Full House" ;
 .
+:Full_Moon_Story
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Kitaro ;
+  bibliographica:byArtist SoloMusicArtist:Kitaro ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/3dcefd74-06a3-451d-8dcb-d0ae99fac043"^^xsd:anyURI ;
+  rdfs:label "Full Moon Story" ;
+.
 :Fulton_Street
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4793,6 +4883,16 @@
   bibliographica:byArtist SoloMusicArtist:Lisa_Germano ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/5171b1d2-ca3e-4c23-a578-b184f2fbab04"^^xsd:anyURI ;
   rdfs:label "Happiness" ;
+.
+:Happy_Hour
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:King_Missile ;
+  bibliographica:byArtist MusicGroup:King_Missile ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/8c45c5da-aaef-4c05-89c5-b54822f219b8"^^xsd:anyURI ;
+  rdfs:label "Happy Hour" ;
 .
 :Harbourfront
   rdf:type mo:CD ;
@@ -5504,6 +5604,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/3bafdd01-b13d-4d27-8625-8a7fba81c096"^^xsd:anyURI ;
   rdfs:label "In the Mouth of the Crocodile: Live in Seattle" ;
 .
+:In_Wake_of_Poseidon
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:King_Crimson ;
+  bibliographica:byArtist MusicGroup:King_Crimson ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d2f3245f-670b-358f-9695-24eea8cbfdfb"^^xsd:anyURI ;
+  rdfs:label "In the Wake of Poseidon" ;
+.
 :Indecent
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5921,6 +6031,35 @@
   bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
   rdfs:label "King of Trumpets" ;
 .
+:King_Tubby_Meets_Rockers
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:King_Tubby ;
+  bibliographica:byArtist MusicGroup:King_Tubby ;
+  rdfs:label "King Tubby Meets Rockers Downtown" ;
+.
+:Kingfish_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Kingfish ;
+  bibliographica:byArtist MusicGroup:Kingfish ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/ba793ccf-e648-4ad6-90f8-0d272606b5d7"^^xsd:anyURI ;
+  rdfs:label "Kingfish" ;
+.
+:Kingfish_II
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Kingfish ;
+  bibliographica:byArtist MusicGroup:Kingfish ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5b895db7-1459-41da-939b-072d8bb36843"^^xsd:anyURI ;
+  rdfs:label "Kingfish II" ;
+.
 :Kiss_of_Fire
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5951,6 +6090,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/53a6438f-7cc4-47dd-8f8a-3990e6cbdbe0"^^xsd:anyURI ;
   rdfs:label "Labyrinth" ;
 .
+:Ladies_of_the_Road
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:King_Crimson ;
+  bibliographica:byArtist MusicGroup:King_Crimson ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/3e9a227c-4432-4f7b-b474-339cb3754377"^^xsd:anyURI ;
+  rdfs:label "Ladies of the Road" ;
+.
 :Lady_in_Autumn
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5970,6 +6119,16 @@
   bibliographica:byArtist SoloMusicArtist:Billie_Holiday ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/561e20b5-6bb1-4bc1-bd13-bad2881a0b01"^^xsd:anyURI ;
   rdfs:label "Lady's Decca Days, Volume One" ;
+.
+:Ladysmith_Black_Mambazo_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Ladysmith_Black_Mambazo ;
+  bibliographica:byArtist MusicGroup:Ladysmith_Black_Mambazo ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/436851f1-2e35-4666-88c8-c448ba1335e6"^^xsd:anyURI ;
+  rdfs:label "Ladysmith Black Mambazo" ;
 .
 :Lamb_Lies_Down_Broadway
   rdf:type mo:CD ;
@@ -6032,6 +6191,16 @@
   bibliographica:byArtist SoloMusicArtist:Christine_Collister ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/342c2233-f551-49bc-8148-cc0dcce065a7"^^xsd:anyURI ;
   rdfs:label "The Last Word" ;
+.
+:Latin_Playboys_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Latin_Playboys ;
+  bibliographica:byArtist MusicGroup:Latin_Playboys ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/fe4d0355-674d-4e79-a37a-1b6a7c44afe8"^^xsd:anyURI ;
+  rdfs:label "Latin Playboys" ;
 .
 :Lay_It_Down
   rdf:type mo:CD ;
@@ -9735,6 +9904,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/238a43ae-317b-42ca-9029-e75f8b97efe5"^^xsd:anyURI ;
   rdfs:label "Shady Grove" ;
 .
+:Shaka_Zulu
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Ladysmith_Black_Mambazo ;
+  bibliographica:byArtist MusicGroup:Ladysmith_Black_Mambazo ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/cbe96d3c-8ae3-34fe-81c3-7340dc39651e"^^xsd:anyURI ;
+  rdfs:label "Shaka Zulu" ;
+.
 :Shaking_Free
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -9892,6 +10071,16 @@
   bibliographica:byArtist SoloMusicArtist:Howard_Wales ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/bee6e9b8-3d68-4cef-bfd7-7903c9b566c7"^^xsd:anyURI ;
   rdfs:label "Side Trips - Volume One" ;
+.
+:Silver_Cloud
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Kitaro ;
+  bibliographica:byArtist SoloMusicArtist:Kitaro ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/17140502-4918-335a-9b19-c97ec75952ac"^^xsd:anyURI ;
+  rdfs:label "Silver Cloud" ;
 .
 :Sings_Cole_Porter
   rdf:type mo:CD ;
@@ -11726,6 +11915,16 @@
   bibliographica:byArtist SoloMusicArtist:Henry_Kaiser ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/183216a8-6623-4f7e-8e46-e53c701258e6"^^xsd:anyURI ;
   rdfs:label "Those Who Know History Are Doomed to Repeat It" ;
+.
+:Three_of_a_Perfect_Pair
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:King_Crimson ;
+  bibliographica:byArtist MusicGroup:King_Crimson ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d41e6dba-361f-41e6-bfa9-1c1e5f6c04f6"^^xsd:anyURI ;
+  rdfs:label "Three of a Perfect Pair" ;
 .
 :Three_Years_5_Months
   rdf:type mo:CD ;
