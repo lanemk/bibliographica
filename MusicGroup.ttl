@@ -1440,6 +1440,12 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/172e1f1a-504d-4488-b053-6344ba63e6d0"^^xsd:anyURI ;
   rdfs:label "Nick Cave & the Bad Seeds" ;
 .
+:Nine_Stories
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/94204786-d86d-40ab-ba91-ef8e6c640e07"^^xsd:anyURI ;
+  rdfs:label "Nine Stories" ;
+.
 :Nirvana
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassMP ;

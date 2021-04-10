@@ -633,6 +633,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/3a6bff5a-58eb-4a49-b166-b020597ef8c5"^^xsd:anyURI ;
   rdfs:label "The Art of Rakoto Frah & Randafison Sylvestre / Madagascar" ;
 .
+:Ask_The_Fish
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Leftover_Salmon ;
+  bibliographica:byArtist MusicGroup:Leftover_Salmon ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b2f58a79-088f-4b1a-8355-1bd7e8ba0175"^^xsd:anyURI ;
+  rdfs:label "Ask the Fish" ;
+.
 :At_Budokan
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -771,6 +781,16 @@
   bibliographica:byArtist SoloMusicArtist:Aimee_Mann ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/595565db-6bfd-4772-a865-fa91d0259f53"^^xsd:anyURI ;
   rdfs:label "Bachelor No. 2" ;
+.
+:Back_on_Street_Again
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Laurel_Canyon_Ramblers ;
+  bibliographica:byArtist MusicGroup:Laurel_Canyon_Ramblers ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/4f562a56-79de-4ec8-b76c-3faaf9bc14b4"^^xsd:anyURI ;
+  rdfs:label "Back on the Street Again" ;
 .
 :Backbone
   rdf:type mo:CD ;
@@ -1744,6 +1764,16 @@
   bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/08bc0277-fcb2-3a52-8bbc-f7411d76d6df"^^xsd:anyURI ;
   rdfs:label "Breakfast in New Orleans, Dinner in Timbuktu" ;
+.
+:Bridges_To_Bert
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Leftover_Salmon ;
+  bibliographica:byArtist MusicGroup:Leftover_Salmon ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9dbf87e4-239f-4678-b18d-cf8732425490"^^xsd:anyURI ;
+  rdfs:label "Bridges to Bert" ;
 .
 :Bring_the_Family
   rdf:type mo:CD ;
@@ -3823,6 +3853,16 @@
   bibliographica:byArtist MusicGroup:Jazz_Is_Dead ;
   rdfs:label "Live in Eugene" ;
 .
+:Euphoria
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Leftover_Salmon ;
+  bibliographica:byArtist MusicGroup:Leftover_Salmon ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/87efb923-d665-4ac5-8f94-90d50d67cf04"^^xsd:anyURI ;
+  rdfs:label "Euphoria" ;
+.
 :Europe_72
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4642,6 +4682,15 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/6b056c9e-642e-4084-8716-02cd8b24cc71"^^xsd:anyURI ;
   rdfs:label "Goodbye Cruel World" ;
 .
+:Goodnight_Venus
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Libby_Kirkpatrick ;
+  bibliographica:byArtist SoloMusicArtist:Libby_Kirkpatrick ;
+  rdfs:label "Goodnight Venus" ;
+.
 :Gords_Gold
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4963,6 +5012,16 @@
   bibliographica:byArtist MusicGroup:Glass_Eye ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c77ce024-dcd1-4bbb-b1c1-18f1cd6a2961"^^xsd:anyURI ;
   rdfs:label "Hello Young Lovers" ;
+.
+:Helvetica_Bold
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Laura_Love ;
+  bibliographica:byArtist SoloMusicArtist:Laura_Love ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/bca90eaa-cc41-405f-b53d-ee78edef7868"^^xsd:anyURI ;
+  rdfs:label "Helvetica Bold" ;
 .
 :Here_Come_Warm_Jets
   rdf:type mo:CD ;
@@ -5303,6 +5362,16 @@
   bibliographica:byArtist MusicGroup:Jerry_Garcia_Band ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/079f8a91-b504-4a83-af13-d7f855403512"^^xsd:anyURI ;
   rdfs:label "How Sweet It Is..." ;
+.
+:How_West_Was_Won
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Led_Zeppelin ;
+  bibliographica:byArtist MusicGroup:Led_Zeppelin ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/df7eb1e1-a9a5-410b-ab78-36e38ae338d4"^^xsd:anyURI ;
+  rdfs:label "How the West Was Won" ;
 .
 :Howling_at_Moon
   rdf:type mo:CD ;
@@ -6202,6 +6271,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/fe4d0355-674d-4e79-a37a-1b6a7c44afe8"^^xsd:anyURI ;
   rdfs:label "Latin Playboys" ;
 .
+:Laughing_Hands_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Laughing_Hands ;
+  bibliographica:byArtist MusicGroup:Laughing_Hands ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/dc082c8f-d010-4a04-af3a-a59f776c5862"^^xsd:anyURI ;
+  rdfs:label "Laughing Hands" ;
+.
 :Lay_It_Down
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -6233,6 +6312,36 @@
   bibliographica:byArtist MusicGroup:League_of_Gentlemen ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/f9871a60-2d3b-45ca-a304-b5b40dc5ecbc"^^xsd:anyURI ;
   rdfs:label "The League of Gentlemen" ;
+.
+:Led_Zeppelin_III
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Led_Zeppelin ;
+  bibliographica:byArtist MusicGroup:Led_Zeppelin ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/721180e3-88f0-40a1-83cc-468215819a0d"^^xsd:anyURI ;
+  rdfs:label "Led Zeppelin III" ;
+.
+:Led_Zeppelin_IV
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Led_Zeppelin ;
+  bibliographica:byArtist MusicGroup:Led_Zeppelin ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/4779d5d3-e57e-3a0b-9f2d-688ebb25e509"^^xsd:anyURI ;
+  rdfs:label "Led Zeppelin IV" ;
+.
+:Led_Zeppelin_Boxed_Set
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Led_Zeppelin ;
+  bibliographica:byArtist MusicGroup:Led_Zeppelin ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c6ce30ec-ecfd-481c-b666-eea02373c66f"^^xsd:anyURI ;
+  rdfs:label "Led Zeppelin Boxed Set" ;
 .
 :Left_in_Vaults
   rdf:type mo:CD ;
@@ -6275,6 +6384,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/3f59ccb0-a63b-3ac6-beaa-bca629030969"^^xsd:anyURI ;
   rdfs:label "The Lemon of Pink" ;
 .
+:Leo_Kottke_Live
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Leo_Kottke ;
+  bibliographica:byArtist SoloMusicArtist:Leo_Kottke ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/76f61f92-5926-46bd-bce3-12cfb27ef24c"^^xsd:anyURI ;
+  rdfs:label "Leo Kottke Live" ;
+.
 :Let_It_Be
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -6303,6 +6422,26 @@
   dcterms:creator SoloMusicArtist:Felina ;
   bibliographica:byArtist SoloMusicArtist:Felina ;
   rdfs:label "Let Me Tell You a Story" ;
+.
+:Levellers_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Levellers ;
+  bibliographica:byArtist MusicGroup:Levellers ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/da580b73-6614-417f-b819-a9755620195e"^^xsd:anyURI ;
+  rdfs:label "Levellers" ;
+.
+:Levelling_The_Land
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Levellers ;
+  bibliographica:byArtist MusicGroup:Levellers ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/576dd322-bce3-4bda-a884-5495cdb3207a"^^xsd:anyURI ;
+  rdfs:label "Levelling the Land" ;
 .
 :Lick_My_Decals
   rdf:type mo:CD ;
@@ -7813,6 +7952,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a21ea995-76a6-47c0-9ca8-5569642236c7"^^xsd:anyURI ;
   rdfs:label "More Study in Brown" ;
 .
+:Mothers_Nightmare
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Left_Wing_Fascists ;
+  bibliographica:byArtist MusicGroup:Left_Wing_Fascists ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/dd7d1deb-78c0-4f99-845d-d580454cc2a8"^^xsd:anyURI ;
+  rdfs:label "A Mother's Nightmare" ;
+.
 :Motor_City_Moments
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -8306,6 +8455,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d081f9e8-ddd0-43f3-948f-b75596f8b33b"^^xsd:anyURI ;
   rdfs:label "Ocean of Tears" ;
 .
+:Octoroon
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Laura_Love ;
+  bibliographica:byArtist SoloMusicArtist:Laura_Love ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9f575c47-264c-4921-abb2-49ba56a785e1"^^xsd:anyURI ;
+  rdfs:label "Octoroon" ;
+.
 :Odu
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -8761,6 +8920,16 @@
   bibliographica:byArtist SoloMusicArtist:Tori_Amos ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/93c840ab-7174-4799-9c6c-6b9051d0ff97"^^xsd:anyURI ;
   rdfs:label "Past The Mission" ;
+.
+:Peculiaroso
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Leo_Kottke ;
+  bibliographica:byArtist SoloMusicArtist:Leo_Kottke ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/4401db6d-6ea1-466a-81a1-4dd6af2c3b45"^^xsd:anyURI ;
+  rdfs:label "Peculiaroso" ;
 .
 :People_in_Me
   rdf:type mo:CD ;
@@ -10410,6 +10579,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/ffce248e-e94e-40c5-b2d8-ad15069bbc52"^^xsd:anyURI ;
   rdfs:label "Songs From a Room" ;
 .
+:Songs_From_Ether
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Libby_Kirkpatrick ;
+  bibliographica:byArtist SoloMusicArtist:Libby_Kirkpatrick ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/e843e1c0-a590-308c-af74-47ee7c60e215"^^xsd:anyURI ;
+  rdfs:label "Songs From the Ether" ;
+.
 :Songs_From_Wood
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -10660,6 +10839,16 @@
   bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/3b9bfc68-b38c-47c2-8337-51977b224708"^^xsd:anyURI ;
   rdfs:label "Standard Coltrane" ;
+.
+:Standing_In_Shoes
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Leo_Kottke ;
+  bibliographica:byArtist SoloMusicArtist:Leo_Kottke ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f81b3472-1c96-4b0d-a5dd-7bcf5723cb64"^^xsd:anyURI ;
+  rdfs:label "Standing in My Shoes" ;
 .
 :State_of_Wonder
   rdf:type mo:CD ;
@@ -11023,6 +11212,18 @@
   bibliographica:byArtist SoloMusicArtist:Junior_Wells ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e24908ef-cf56-4e0e-a8d6-14001e647ca7"^^xsd:anyURI ;
   rdfs:label "Drinkin' TNT 'n' Smokin' Dynamite" ;
+.
+:Tails
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Lisa_Loeb ;
+  bibliographica:byArtist SoloMusicArtist:Lisa_Loeb ;
+  dcterms:creator MusicGroup:Nine_Stories ;
+  bibliographica:byArtist MusicGroup:Nine_Stories ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/958dd336-ed7d-4984-b70e-af795ddd4c93"^^xsd:anyURI ;
+  rdfs:label "Tails" ;
 .
 :Take_It_Home
   rdf:type mo:CD ;
