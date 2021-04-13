@@ -906,6 +906,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/47873729-6db0-3431-99e7-0292e939dadf"^^xsd:anyURI ;
   rdfs:label "The Basement Tapes" ;
 .
+:Bass_Desires
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Marc_Johnson ;
+  bibliographica:byArtist SoloMusicArtist:Marc_Johnson ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/4e37210f-975d-46cf-976b-63198d4e195b"^^xsd:anyURI ;
+  rdfs:label "Bass Desires" ;
+.
 :Bawdy_Sea_Chanties
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1805,6 +1815,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/edba5150-2435-4d08-b5e3-6699b0b4bb09"^^xsd:anyURI ;
   rdfs:label "Broken English" ;
 .
+:Broken_Moon
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Lowen_Navarro ;
+  bibliographica:byArtist MusicGroup:Lowen_Navarro ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/41d97dba-8bf6-49af-a887-d1db4e5e1093"^^xsd:anyURI ;
+  rdfs:label "Broken Moon" ;
+.
 :Brothers_And_Sisters
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1963,6 +1983,16 @@
   bibliographica:byArtist MusicGroup:BeauSoleil ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b34eef68-3932-4565-ba34-296fffa71caf"^^xsd:anyURI ;
   rdfs:label "Cajun Conja" ;
+.
+:Cal_Soundtrack
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Mark_Knopfler ;
+  bibliographica:byArtist SoloMusicArtist:Mark_Knopfler ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/0418b46a-fff4-49cb-9b3e-81d985c78ef8"^^xsd:anyURI ;
+  rdfs:label "Cal (Music from the Film)" ;
 .
 :Calling_Card
   rdf:type mo:CD ;
@@ -4220,6 +4250,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/f06c4dd0-d1f6-4db0-9a9f-257138ddf69f"^^xsd:anyURI ;
   rdfs:label "5,000,000" ;
 .
+:Five_Miles_From_Hope
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Mindy_Jostyn ;
+  bibliographica:byArtist SoloMusicArtist:Mindy_Jostyn ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/147ad48b-bb86-4430-b9e2-22f25d68c1af"^^xsd:anyURI ;
+  rdfs:label "Five Miles From Hope" ;
+.
 :Five_Stories
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4229,6 +4269,16 @@
   bibliographica:byArtist SoloMusicArtist:Kris_Delmhorst ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/2fe3cba1-271a-4686-a9c4-9c53e3a9b782"^^xsd:anyURI ;
   rdfs:label "Five Stories" ;
+.
+:Flesh_and_Bone
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Lucy_Kaplansky ;
+  bibliographica:byArtist SoloMusicArtist:Lucy_Kaplansky ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9b30a290-6ab4-4cb0-bc69-5081b312c849"^^xsd:anyURI ;
+  rdfs:label "Flesh and Bone" ;
 .
 :Flood_Live_Japan
   rdf:type mo:CD ;
@@ -5642,6 +5692,16 @@
   bibliographica:byArtist MusicGroup:English_Beat ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/0248c59e-1c5f-412c-beb9-36eb8ac5cfd6"^^xsd:anyURI ;
   rdfs:label "I Just Can't Stop It" ;
+.
+:I_Love_Everybody
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Lyle_Lovett ;
+  bibliographica:byArtist SoloMusicArtist:Lyle_Lovett ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/aea36fb5-706f-4bc7-bdb8-b3a98614afe3"^^xsd:anyURI ;
+  rdfs:label "I Love Everybody" ;
 .
 :I_Need_A_Gun_And_A_Drunk
   rdf:type mo:CD ;
@@ -7315,6 +7375,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/7185f82b-32dc-48d7-8308-a67e6ff73290"^^xsd:anyURI ;
   rdfs:label "Lizard Vision" ;
 .
+:Llego_Van_Van
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Los_Van_Van ;
+  bibliographica:byArtist MusicGroup:Los_Van_Van ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f598b9c2-30ba-4119-b523-52144679578f"^^xsd:anyURI ;
+  rdfs:label "Llegó... Van Van" ;
+.
 :Lo_Cura
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7433,6 +7503,16 @@
   bibliographica:byArtist SoloMusicArtist:Adrian_Belew ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e92792f7-ed85-4e80-8e38-c06646222c03"^^xsd:anyURI ;
   rdfs:label "Lone Rhino" ;
+.
+:Los_Lonely_Boys_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Los_Lonely_Boys ;
+  bibliographica:byArtist MusicGroup:Los_Lonely_Boys ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/6e4df799-c739-4a05-8783-af9dc3fe40ef"^^xsd:anyURI ;
+  rdfs:label "Los Lonely Boys" ;
 .
 :Lost_In_Space
   rdf:type mo:CD ;
@@ -7555,6 +7635,16 @@
   bibliographica:byArtist SoloMusicArtist:Emmylou_Harris ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/640b080f-4e7c-4447-8169-8809bcfe32dc"^^xsd:anyURI ;
   rdfs:label "Luxury Liner" ;
+.
+:Lyle_Lovett_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Lyle_Lovett ;
+  bibliographica:byArtist SoloMusicArtist:Lyle_Lovett ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/8fcbb190-d993-4bf3-bac2-05512bcab6a7"^^xsd:anyURI ;
+  rdfs:label "Lyle Lovett" ;
 .
 :MTV_Unplugged
   rdf:type mo:CD ;
@@ -8491,6 +8581,16 @@
   bibliographica:byArtist SoloMusicArtist:Ginger_Baker ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/414f52a8-9702-44b0-92ac-f00f9cdddc55"^^xsd:anyURI ;
   rdfs:label "No Material" ;
+.
+:No_Pain_For_Cakes
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Lounge_Lizards ;
+  bibliographica:byArtist MusicGroup:Lounge_Lizards ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/1c424f56-cc7d-439e-87f6-fd24de470c91"^^xsd:anyURI ;
+  rdfs:label "No Pain For Cakes" ;
 .
 :No_Talking_Just_Head
   rdf:type mo:CD ;
@@ -9470,6 +9570,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/9573da27-0a80-47cd-8427-3494efd5b6f8"^^xsd:anyURI ;
   rdfs:label "Quah" ;
 .
+:Queen_All_Ears
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Lounge_Lizards ;
+  bibliographica:byArtist MusicGroup:Lounge_Lizards ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e117f547-7248-461d-bfdb-f24e0d67efea"^^xsd:anyURI ;
+  rdfs:label "Queen of All Ears" ;
+.
 :Quiet_Nights
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -10042,6 +10152,16 @@
   bibliographica:byArtist SoloMusicArtist:Georges_Kazazian ;
   rdfs:label "Sabil" ;
 .
+:Sailing_to_Philiadelphia
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Mark_Knopfler ;
+  bibliographica:byArtist SoloMusicArtist:Mark_Knopfler ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/4426ad55-d292-4aca-bab4-b2606622f411"^^xsd:anyURI ;
+  rdfs:label "Sailing to Philadelphia" ;
+.
 :Salt_Sun_Time
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -10170,6 +10290,16 @@
   bibliographica:byArtist SoloMusicArtist:Stanley_Clarke ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/33e9f93c-4996-4e4c-a20a-9fba4e0446e1"^^xsd:anyURI ;
   rdfs:label "School Days" ;
+.
+:Seastones
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ned_Lagin ;
+  bibliographica:byArtist SoloMusicArtist:Ned_Lagin ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f15a07b8-1e8c-4ec2-b934-0cb4f8af4d22"^^xsd:anyURI ;
+  rdfs:label "Seastones" ;
 .
 :Second_Album_RoyB
   rdf:type mo:CD ;
@@ -10877,6 +11007,16 @@
   bibliographica:byArtist MusicGroup:Drive_By_Truckers ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/bd3a9303-06c3-342e-9209-aeb2e194b02b"^^xsd:anyURI ;
   rdfs:label "Southern Rock Opera" ;
+.
+:Southern_Surroundings
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Lynyrd_Skynyrd ;
+  bibliographica:byArtist MusicGroup:Lynyrd_Skynyrd ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/638f9c11-77d1-4cb9-aa67-ce025dbe32ff"^^xsd:anyURI ;
+  rdfs:label "Southern Surroundings: The Ultimate Skynyrd Collection" ;
 .
 :Space_Oddity
   rdf:type mo:CD ;
@@ -11623,6 +11763,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/f3293d60-db10-4ea7-9cc3-7c551bd5ac8a"^^xsd:anyURI ;
   rdfs:label "10 Song Demo" ;
 .
+:Ten_Year_Night
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Lucy_Kaplansky ;
+  bibliographica:byArtist SoloMusicArtist:Lucy_Kaplansky ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/0805ac90-d2b3-437f-9aee-f9c1221c889e"^^xsd:anyURI ;
+  rdfs:label "Ten Year Night" ;
+.
 :Tender_City
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -11986,6 +12136,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/01e3de8d-d11d-4aec-95e5-44df3f984aef"^^xsd:anyURI ;
   rdfs:label "The Poet Game" ;
 .
+:The_Red_Thread
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Lucy_Kaplansky ;
+  bibliographica:byArtist SoloMusicArtist:Lucy_Kaplansky ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/86be63b7-8125-4b96-95e5-a590307c1220"^^xsd:anyURI ;
+  rdfs:label "The Red Thread" ;
+.
 :The_Ride
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -12046,6 +12206,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/9f54e9d9-529a-3652-8805-3b5e84debd8d"^^xsd:anyURI ;
   rdfs:label "The Spirit Room" ;
 .
+:The_Sound_Summer_Running
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Marc_Johnson ;
+  bibliographica:byArtist SoloMusicArtist:Marc_Johnson ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5401839f-b68a-4300-83c9-d4a10f54d2e2"^^xsd:anyURI ;
+  rdfs:label "The Sound of Summer Running" ;
+.
 :The_Source
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -12075,6 +12245,16 @@
   bibliographica:byArtist SoloMusicArtist:David_Lindley ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/3578718c-e29e-438b-b5b4-a12e3a94454d"^^xsd:anyURI ;
   rdfs:label "The Sweet Sunny North, Vol. 2" ;
+.
+:The_Tide
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Lucy_Kaplansky ;
+  bibliographica:byArtist SoloMusicArtist:Lucy_Kaplansky ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/fc1d5715-92ed-4115-bb47-8925b5e1aa9e"^^xsd:anyURI ;
+  rdfs:label "The Tide" ;
 .
 :The_Town_and_City
   rdf:type mo:CD ;
@@ -13611,6 +13791,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/034e0c73-c2df-328b-861c-3db28217aeed"^^xsd:anyURI ;
   rdfs:label "The Beatles (“The White Album”)" ;
 .
+:White_Lilies_Island
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Natalie_Imbruglia ;
+  bibliographica:byArtist SoloMusicArtist:Natalie_Imbruglia ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/4ae2f4b3-b35d-3210-b955-b3ebecd2829d"^^xsd:anyURI ;
+  rdfs:label "White Lilies Island" ;
+.
 :Who_Knows_Where_Time_Goes
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -13898,6 +14088,16 @@
   bibliographica:byArtist SoloMusicArtist:Michael_Franti ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/08a62e01-a89f-432c-ba97-89efeea39dac"^^xsd:anyURI ;
   rdfs:label "Yell Fire" ;
+.
+:Yelling_at_Mary
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Mary_Karlzen ;
+  bibliographica:byArtist SoloMusicArtist:Mary_Karlzen ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/ecff2e1a-6c7c-4660-816b-17faee96ba9b"^^xsd:anyURI ;
+  rdfs:label "Yelling at Mary" ;
 .
 :Yellow_Dog
   rdf:type mo:CD ;
