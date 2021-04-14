@@ -713,6 +713,15 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b1c578a1-5cbd-4ccd-9e42-20eba161c84c"^^xsd:anyURI ;
   rdfs:label "At the Edge" ;
 .
+:Atlanta_62506
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Phil_Lesh ;
+  bibliographica:byArtist SoloMusicArtist:Phil_Lesh ;
+  rdfs:label "Atlanta 6.25.06" ;
+.
 :Attainable_Love
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2556,6 +2565,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/912e77ed-015a-33cc-b6c0-fed80d9de0b7"^^xsd:anyURI ;
   rdfs:label "Combat Rock" ;
 .
+:Come_Away_With_Me
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Norah_Jones ;
+  bibliographica:byArtist SoloMusicArtist:Norah_Jones ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c88138cf-00f3-3c70-8757-3bbe0e4713d1"^^xsd:anyURI ;
+  rdfs:label "Come Away With Me" ;
+.
 :Compact_Jazz_Duke
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2917,6 +2936,16 @@
   bibliographica:byArtist MusicGroup:The_Assassins ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/6b452115-016f-4253-967a-21ef6c661ea8"^^xsd:anyURI ;
   rdfs:label "Cut Me Loose" ;
+.
+:Dana_Owens_Album
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Queen_Latifah ;
+  bibliographica:byArtist SoloMusicArtist:Queen_Latifah ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/157cd7ee-ec0f-4ed1-8b85-4510c5c68abd"^^xsd:anyURI ;
+  rdfs:label "The Dana Owens Album" ;
 .
 :Dance_Afro_Beat
   rdf:type mo:CD ;
@@ -3924,6 +3953,15 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/7903ef07-4f6a-4450-b573-38b2af7328da"^^xsd:anyURI ;
   rdfs:label "Essential, the Very Best Of" ;
 .
+:Essex_Junction_71206
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Phil_Lesh ;
+  bibliographica:byArtist SoloMusicArtist:Phil_Lesh ;
+  rdfs:label "Essex Junction, VT 7.12.06" ;
+.
 :Eternity_Blue
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4290,6 +4328,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d59cee98-ab1a-4a00-a629-2bbc7b25f4e7"^^xsd:anyURI ;
   rdfs:label "Flood" ;
 .
+:Flying_Cowboys
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Rickie_Lee_Jones ;
+  bibliographica:byArtist SoloMusicArtist:Rickie_Lee_Jones ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/fd595b60-e4cf-4dc5-8a14-06d457a7bbfd"^^xsd:anyURI ;
+  rdfs:label "Flying Cowboys" ;
+.
 :For_All_Seasons_Mind
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4652,6 +4700,16 @@
   bibliographica:byArtist SoloMusicArtist:Stan_Getz ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b36a7186-8a86-47b1-ad97-f2278ef0da5f"^^xsd:anyURI ;
   rdfs:label "Getz/Gilberto" ;
+.
+:Ghostyhead
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Rickie_Lee_Jones ;
+  bibliographica:byArtist SoloMusicArtist:Rickie_Lee_Jones ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/de20a560-2311-42b9-8445-60873be2f80f"^^xsd:anyURI ;
+  rdfs:label "Ghostyhead" ;
 .
 :Girl_From_Impanema
   rdf:type mo:CD ;
@@ -5950,6 +6008,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/9dacd67b-3d67-4c82-9093-62ea9109f4a2"^^xsd:anyURI ;
   rdfs:label "Is That You?" ;
 .
+:Its_Like_This
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Rickie_Lee_Jones ;
+  bibliographica:byArtist SoloMusicArtist:Rickie_Lee_Jones ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/3066d8ca-115c-4b05-bc9b-565d0af415f3"^^xsd:anyURI ;
+  rdfs:label "It's Like This" ;
+.
 :Jack_Kerouac_Collection
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -6327,6 +6395,16 @@
   bibliographica:byArtist MusicGroup:BeauSoleil ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/5311e9f9-fe6d-4d1c-ba21-46d4b8e0bd71"^^xsd:anyURI ;
   rdfs:label "L'Amour ou la Folie" ;
+.
+:Labour_of_Lust
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Nick_Lowe ;
+  bibliographica:byArtist SoloMusicArtist:Nick_Lowe ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/90c818a1-77a9-488c-b4a5-be4867d386c5"^^xsd:anyURI ;
+  rdfs:label "Labour of Lust" ;
 .
 :Labyrinth
   rdf:type mo:CD ;
@@ -7176,6 +7254,16 @@
   bibliographica:byArtist SoloMusicArtist:Boo_Zoo_Chavis ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/ca5d4a18-67d1-416c-80c2-68a916d8ba3e"^^xsd:anyURI ;
   rdfs:label "Live at the Habibi Temple" ;
+.
+:Live_at_Red_Rocks
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Rickie_Lee_Jones ;
+  bibliographica:byArtist SoloMusicArtist:Rickie_Lee_Jones ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/439142c6-4da6-4659-b497-321a60087ee6"^^xsd:anyURI ;
+  rdfs:label "Live at Red Rocks" ;
 .
 :Live_Badu
   rdf:type mo:CD ;
@@ -8300,6 +8388,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/1b85bb5c-9fd8-463e-b46b-4aa2999889c8"^^xsd:anyURI ;
   rdfs:label "The Music Never Stopped: Roots of the Grateful Dead" ;
 .
+:Mustt_Mustt
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Nusrat_Fateh_Ali_Khan ;
+  bibliographica:byArtist SoloMusicArtist:Nusrat_Fateh_Ali_Khan ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f215e4c5-bd6e-3fd2-8acf-10e5c2e16dca"^^xsd:anyURI ;
+  rdfs:label "Mustt Mustt" ;
+.
 :My_Aim_Is_True
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -8381,6 +8479,16 @@
   bibliographica:byArtist SoloMusicArtist:Randy_Crawford ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b08c15ec-f1bd-4d4c-ad6b-48e554f492ae"^^xsd:anyURI ;
   rdfs:label "Naked and True" ;
+.
+:Naked_Songs
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Rickie_Lee_Jones ;
+  bibliographica:byArtist SoloMusicArtist:Rickie_Lee_Jones ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/ca525c7b-9eee-4724-a962-9a4a6308f8be"^^xsd:anyURI ;
+  rdfs:label "Naked Songs: Live and Acoustic" ;
 .
 :Nashville_Skyline
   rdf:type mo:CD ;
@@ -8682,6 +8790,16 @@
   bibliographica:byArtist MusicGroup:Jethro_Tull ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/bef53b94-3010-45bc-b9e0-85749393e5d7"^^xsd:anyURI ;
   rdfs:label "Nothing Is Easy: Live at the Isle of Wight 1970" ;
+.
+:Nouveau_Flamenco
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ottmar_Liebert ;
+  bibliographica:byArtist SoloMusicArtist:Ottmar_Liebert ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/65515613-c20c-462c-a846-a43284d9cc15"^^xsd:anyURI ;
+  rdfs:label "Nouveau Flamenco" ;
 .
 :Novemeber_Suite
   rdf:type mo:CD ;
@@ -9229,6 +9347,25 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/5bbb4214-72d9-4525-be52-90619ae016cc"^^xsd:anyURI ;
   rdfs:label "Perfectly Good Guitar" ;
 .
+:Perishable_Fruit
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Patty_Larkin ;
+  bibliographica:byArtist SoloMusicArtist:Patty_Larkin ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/1098b562-805c-41ac-8bd5-cc801b7eb8a9"^^xsd:anyURI ;
+  rdfs:label "Perishable Fruit" ;
+.
+:Perro
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Paul_Kantner ;
+  bibliographica:byArtist SoloMusicArtist:Paul_Kantner ;
+  rdfs:label "Perro" ;
+.
 :Pet_Sounds
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -9319,6 +9456,16 @@
   bibliographica:byArtist SoloMusicArtist:Nick_Drake ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/608de3ea-c08f-36f5-9ac6-53d401940de7"^^xsd:anyURI ;
   rdfs:label "Pink Moon" ;
+.
+:Pirates
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Rickie_Lee_Jones ;
+  bibliographica:byArtist SoloMusicArtist:Rickie_Lee_Jones ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/954dcb1f-c559-428f-aad8-923b5fe78169"^^xsd:anyURI ;
+  rdfs:label "Pirates" ;
 .
 :Pizza_Tapes
   rdf:type mo:CD ;
@@ -9441,6 +9588,16 @@
   bibliographica:byArtist SoloMusicArtist:Peter_Gabriel ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/9d897884-ac56-4edf-97e7-8ee450cd57c3"^^xsd:anyURI ;
   rdfs:label "Plays Live" ;
+.
+:Pop_Pop
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Rickie_Lee_Jones ;
+  bibliographica:byArtist SoloMusicArtist:Rickie_Lee_Jones ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/71709dc1-8f41-4404-a55a-0ae72b7e906f"^^xsd:anyURI ;
+  rdfs:label "Pop Pop" ;
 .
 :Porcelain
   rdf:type mo:CD ;
@@ -9961,6 +10118,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/941d8ace-2faf-46de-a77b-dff1a063e2ce"^^xsd:anyURI ;
   rdfs:label "Rich Kid Blues" ;
 .
+:Rickie_Lee_Jones_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Rickie_Lee_Jones ;
+  bibliographica:byArtist SoloMusicArtist:Rickie_Lee_Jones ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/dad30215-3b7c-48cc-8086-006b6c8051fa"^^xsd:anyURI ;
+  rdfs:label "Rickie Lee Jones" ;
+.
 :Ride_This
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -10401,6 +10568,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/238a43ae-317b-42ca-9029-e75f8b97efe5"^^xsd:anyURI ;
   rdfs:label "Shady Grove" ;
 .
+:Shahen_Shah
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Nusrat_Fateh_Ali_Khan ;
+  bibliographica:byArtist SoloMusicArtist:Nusrat_Fateh_Ali_Khan ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/32a3a19a-803a-4b92-b362-a057cce3a5d7"^^xsd:anyURI ;
+  rdfs:label "Shahen-Shah" ;
+.
 :Shaka_Zulu
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -10588,6 +10765,16 @@
   bibliographica:byArtist SoloMusicArtist:Kitaro ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/17140502-4918-335a-9b19-c97ec75952ac"^^xsd:anyURI ;
   rdfs:label "Silver Cloud" ;
+.
+:Simmer_Reduce_Garnish_Serve
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Rahsaan_Roland_Kirk ;
+  bibliographica:byArtist SoloMusicArtist:Rahsaan_Roland_Kirk ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/4aa03b59-ca8e-4281-9038-e092a903adbc"^^xsd:anyURI ;
+  rdfs:label "Simmer, Reduce, Garnish, & Serve" ;
 .
 :Sings_Cole_Porter
   rdf:type mo:CD ;
@@ -10878,8 +11065,18 @@
   rdf:type schema:MusicAlbum ;
   dcterms:creator SoloMusicArtist:Arlo_Guthrie ;
   bibliographica:byArtist SoloMusicArtist:Arlo_Guthrie ;
-  bibliographica:musicbraiSoloMusicArtistnzURI "https://musicbrainz.org/release/e981afd2-c54b-4023-8c37-1b78ac69bfeb"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e981afd2-c54b-4023-8c37-1b78ac69bfeb"^^xsd:anyURI ;
   rdfs:label "Son of the Wind" ;
+.
+:Soneros_de_Verdad
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Pio_Leyva ;
+  bibliographica:byArtist SoloMusicArtist:Pio_Leyva ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/689eb8d1-e8f7-4379-a02f-b5ab8069dccb"^^xsd:anyURI ;
+  rdfs:label "Soneros de Verdad Present: Pío Leiva" ;
 .
 :Song_Is_You
   rdf:type mo:CD ;
@@ -11355,6 +11552,16 @@
   dcterms:creator SoloMusicArtist:Barbara_Kessler ;
   bibliographica:byArtist SoloMusicArtist:Barbara_Kessler ;
   rdfs:label "Stranger to This Land" ;
+.
+:Strangers_World
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Patty_Larkin ;
+  bibliographica:byArtist SoloMusicArtist:Patty_Larkin ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/af835e59-c5e8-464a-a662-c247d6f27249"^^xsd:anyURI ;
+  rdfs:label "Stranger's World" ;
 .
 :Strays
   rdf:type mo:CD ;
@@ -11913,6 +12120,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/4ed4218e-4b96-47e0-986d-391b3aa9f5f5"^^xsd:anyURI ;
   rdfs:label "The Complete 1961 Village Vanguard Recordings" ;
 .
+:The_Convincer
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Nick_Lowe ;
+  bibliographica:byArtist SoloMusicArtist:Nick_Lowe ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/23ede523-1685-4379-9280-6237b785d72b"^^xsd:anyURI ;
+  rdfs:label "The Convincer" ;
+.
 :The_Delivery_Man
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -11932,6 +12149,16 @@
   bibliographica:byArtist MusicGroup:The_Doors ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/25988409-04ef-4da5-ba97-a87d33624204"^^xsd:anyURI ;
   rdfs:label "The Doors" ;
+.
+:The_Evening_My_Best_Day
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Rickie_Lee_Jones ;
+  bibliographica:byArtist SoloMusicArtist:Rickie_Lee_Jones ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/38105434-2eef-4cd9-a216-ad7bcf441ac7"^^xsd:anyURI ;
+  rdfs:label "The Evening of My Best Day" ;
 .
 :The_First_Ten_Years
   rdf:type mo:CD ;
@@ -12001,6 +12228,16 @@
   bibliographica:byArtist MusicGroup:Illinois_Jacquet_Ben_Webster ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d3851f2c-48dd-466c-9222-1a72490ac570"^^xsd:anyURI ;
   rdfs:label "The Kid and the Brute" ;
+.
+:The_Magazine
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Rickie_Lee_Jones ;
+  bibliographica:byArtist SoloMusicArtist:Rickie_Lee_Jones ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/7f1e9aaf-ffc3-4f4b-a8c7-7619d57c0b38"^^xsd:anyURI ;
+  rdfs:label "The Magazine" ;
 .
 :The_Last_Trane
   rdf:type mo:CD ;
@@ -12185,6 +12422,16 @@
   bibliographica:byArtist SoloMusicArtist:Kate_Bush ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d7fe4164-109f-48d2-a35a-53f6502f3f3d"^^xsd:anyURI ;
   rdfs:label "The Sensual World" ;
+.
+:The_Sermon_Exposition_Blvd
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Rickie_Lee_Jones ;
+  bibliographica:byArtist SoloMusicArtist:Rickie_Lee_Jones ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d309b897-829c-49b9-9028-43472e605a3a"^^xsd:anyURI ;
+  rdfs:label "The Sermon on Exposition Boulevard" ;
 .
 :The_Sky_is_Falling
   rdf:type mo:CD ;
@@ -12839,6 +13086,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/eff7e4fa-f5ea-4ce6-8839-6963a5ca6c0d"^^xsd:anyURI ;
   rdfs:label "Traditional Ties" ;
 .
+:Traffic_From_Paradise
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Rickie_Lee_Jones ;
+  bibliographica:byArtist SoloMusicArtist:Rickie_Lee_Jones ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/16385add-9084-44a3-a746-244fe7544a7e"^^xsd:anyURI ;
+  rdfs:label "Traffic From Paradise" ;
+.
 :Trampoline
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -13332,6 +13589,16 @@
   bibliographica:byArtist MusicGroup:Meters ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/aef4c964-2602-43ea-b39a-62cb4f91f09c"^^xsd:anyURI ;
   rdfs:label "The Very Best of the Meters" ;
+.
+:Very_Best_Of_Nicolette
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Nicolette_Larson ;
+  bibliographica:byArtist SoloMusicArtist:Nicolette_Larson ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a471cfb8-c161-42bd-a472-21641fcc820a"^^xsd:anyURI ;
+  rdfs:label "The Very Best of Nicolette Larson" ;
 .
 :Very_Best_Of_Nina
   rdf:type mo:CD ;
