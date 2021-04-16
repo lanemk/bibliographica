@@ -1576,6 +1576,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/ebd26d0e-217d-450a-94cb-e55c2758107b"^^xsd:anyURI ;
   rdfs:label "Bluegrass Reunion" ;
 .
+:Blues_Attack
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sonny_Landreth ;
+  bibliographica:byArtist SoloMusicArtist:Sonny_Landreth ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/40a2daab-26e6-44dd-b3d4-af2ef1c29c0d"^^xsd:anyURI ;
+  rdfs:label "Blues Attack" ;
+.
 :Blues_For_Allah
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2102,6 +2112,16 @@
   bibliographica:byArtist SoloMusicArtist:Jerry_Harrison ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/1b81192c-84c2-4f0b-950e-4f7e546835d5"^^xsd:anyURI ;
   rdfs:label "Casual Gods" ;
+.
+:Catalyst
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sherri_Jackson ;
+  bibliographica:byArtist SoloMusicArtist:Sherri_Jackson ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/04e64829-bf6b-4776-b295-27194ce1b31e"^^xsd:anyURI ;
+  rdfs:label "Catalyst" ;
 .
 :Catfish_Rising
   rdf:type mo:CD ;
@@ -2644,6 +2664,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/12df4b65-a928-4424-ae95-1df40303a774"^^xsd:anyURI ;
   rdfs:label "The Complete Live at The Plugged Nickel 1965" ;
 .
+:Complete_Recordings_RJ
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Robert_Johnson ;
+  bibliographica:byArtist SoloMusicArtist:Robert_Johnson ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5150f446-9301-4e37-bb9e-c903f44f84bb"^^xsd:anyURI ;
+  rdfs:label "Complete Recordings" ;
+.
 :Complete_Savoy_Sessions
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3169,6 +3199,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/9d9560ff-bac3-43ef-8ded-442d34ec8d68"^^xsd:anyURI ;
   rdfs:label "Deeper Still" ;
 .
+:Definitive_Gold
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Jam ;
+  bibliographica:byArtist MusicGroup:Jam ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f1da48e0-97cc-404a-bdbc-699434acc027"^^xsd:anyURI ;
+  rdfs:label "Definitive Gold" ;
+.
 :Desire
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3597,6 +3637,16 @@
   bibliographica:byArtist MusicGroup:Butthole_Surfers ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/34e761bc-583e-4715-ac95-734d9d5c5ab0"^^xsd:anyURI ;
   rdfs:label "Double Live" ;
+.
+:Down_in_Louisiana
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sonny_Landreth ;
+  bibliographica:byArtist SoloMusicArtist:Sonny_Landreth ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/ea746873-089a-3bb7-b504-5b42818d7558"^^xsd:anyURI ;
+  rdfs:label "Down in Louisiana" ;
 .
 :Down_in_There
   rdf:type mo:CD ;
@@ -4100,6 +4150,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/beba85a6-8a05-3bf8-99d6-2a5e9f38f12e"^^xsd:anyURI ;
   rdfs:label "Family Tree" ;
 .
+:Fasiya
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sona_Jobarteh ;
+  bibliographica:byArtist SoloMusicArtist:Sona_Jobarteh ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/1fe3a801-4018-4ce4-9387-be15572ab69b"^^xsd:anyURI ;
+  rdfs:label "Fasiya" ;
+.
 :Fat_City
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4562,6 +4622,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/5ef533fd-1257-4a00-8b89-87daf7fb7307"^^xsd:anyURI ;
   rdfs:label "Funk, Inc." ;
 .
+:Funky_Good_Time
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:JBs ;
+  bibliographica:byArtist MusicGroup:JBs ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/8e41f472-ed3d-41ef-a5fe-956d6e1aeecc"^^xsd:anyURI ;
+  rdfs:label "Funky Good Time - The Anthology" ;
+.
 :Funky_Sitar_Man
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4630,6 +4700,16 @@
   bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/cae584e6-3e98-435f-94ce-7c9ca788b63b"^^xsd:anyURI ;
   rdfs:label "The Gentle Side Of John Coltrane" ;
+.
+:Genre
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Shona_Laing ;
+  bibliographica:byArtist SoloMusicArtist:Shona_Laing ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a72b0612-e0e7-4d7b-b90e-8cec19d32632"^^xsd:anyURI ;
+  rdfs:label "Genre" ;
 .
 :Genuine_Negro_Jig
   rdf:type mo:CD ;
@@ -5110,6 +5190,16 @@
   bibliographica:byArtist SoloMusicArtist:John_Hiatt ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/bfb6fc30-063b-4132-845f-442c57184ec7"^^xsd:anyURI ;
   rdfs:label "Hangin’ Around the Observatory" ;
+.
+:Hangmans_Beautiful_Daughter
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Incredible_String_Band ;
+  bibliographica:byArtist MusicGroup:Incredible_String_Band ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/37bef007-fcdf-4b6b-b95b-7773d119344c"^^xsd:anyURI ;
+  rdfs:label "The Hangman’s Beautiful Daughter" ;
 .
 :Happiness
   rdf:type mo:CD ;
@@ -5800,6 +5890,15 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/255dc784-0832-4718-99d3-ef4533449c76"^^xsd:anyURI ;
   rdfs:label "Imagine" ;
 .
+:Immortal_Secrets
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sibongile_Khumalo ;
+  bibliographica:byArtist SoloMusicArtist:Sibongile_Khumalo ;
+  rdfs:label "Immortal Secrets" ;
+.
 :In_A_Gadda_Da_Vida
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -6337,6 +6436,16 @@
   bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/f8f79f3a-3a63-3286-a43d-0135c1a59fea"^^xsd:anyURI ;
   rdfs:label "Kind of Blue" ;
+.
+:King_Delta_Blues_Singers
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Robert_Johnson ;
+  bibliographica:byArtist SoloMusicArtist:Robert_Johnson ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/7800ceb3-33c0-3081-8093-55d7f9d14fc1"^^xsd:anyURI ;
+  rdfs:label "King of the Delta Blues Singers" ;
 .
 :King_of_Trumpets
   rdf:type mo:CD ;
@@ -8258,6 +8367,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/d300b74b-02b4-33e3-998e-e4405e8e6580"^^xsd:anyURI ;
   rdfs:label "Modern Times" ;
 .
+:Moments_in_Denial
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sherri_Jackson ;
+  bibliographica:byArtist SoloMusicArtist:Sherri_Jackson ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f60e284b-1bb8-40ad-9a52-2d90447031d0"^^xsd:anyURI ;
+  rdfs:label "Moments in Denial" ;
+.
 :Momofuku
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -8528,6 +8647,16 @@
   bibliographica:byArtist SoloMusicArtist:Sipho_Gumede ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/92758ea7-5f4e-4816-bc34-ec8cff0d5f0c"^^xsd:anyURI ;
   rdfs:label "New Era" ;
+.
+:New_on_Earth
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Shona_Laing ;
+  bibliographica:byArtist SoloMusicArtist:Shona_Laing ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a72b0612-e0e7-4d7b-b90e-8cec19d32632"^^xsd:anyURI ;
+  rdfs:label "New on Earth" ;
 .
 :Newport_63
   rdf:type mo:CD ;
@@ -9001,6 +9130,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/d2595b71-5353-3ae7-853d-3490e0622353"^^xsd:anyURI ;
   rdfs:label "One of a Kind" ;
 .
+:One_Mans_Trash
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Jody_Grind ;
+  bibliographica:byArtist MusicGroup:Jody_Grind ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/47bdb44f-a22c-489a-be3f-1c6d3181f25a"^^xsd:anyURI ;
+  rdfs:label "One Man's Trash Is Another Man's Treasure" ;
+.
 :One_More_Goodnight_Kiss
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -9138,6 +9277,16 @@
   bibliographica:byArtist MusicGroup:Bela_Fleck_and_the_Flecktones ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/2b766264-7cd9-408b-a73f-bc2b8d270a76"^^xsd:anyURI ;
   rdfs:label "Outbound" ;
+.
+:Outward_Bound
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sonny_Landreth ;
+  bibliographica:byArtist SoloMusicArtist:Sonny_Landreth ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/680b39e1-a9a5-437d-8c1c-357a663a3b60"^^xsd:anyURI ;
+  rdfs:label "Outward Bound" ;
 .
 :Over_and_Under
   rdf:type mo:CD ;
@@ -9787,6 +9936,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/18383b88-cd98-4f38-a9ea-197092f8ec72"^^xsd:anyURI ;
   rdfs:label "The Quintessential Billie Holiday, Vol. 7" ;
 .
+:Racine
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sass_Jordan ;
+  bibliographica:byArtist SoloMusicArtist:Sass_Jordan ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/db4ea45e-9905-45ae-959d-f07fbe2eced1"^^xsd:anyURI ;
+  rdfs:label "Racine" ;
+.
 :Radio_1_Live
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -9855,6 +10014,16 @@
   bibliographica:byArtist MusicGroup:Clash ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/f3330aa5-4047-4a2d-996f-7e82fe2374e5"^^xsd:anyURI ;
   rdfs:label "Rat Patrol From Fort Bragg" ;
+.
+:Rats
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sass_Jordan ;
+  bibliographica:byArtist SoloMusicArtist:Sass_Jordan ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a14e77d7-720b-4486-bc8d-ec9697c5170b"^^xsd:anyURI ;
+  rdfs:label "Rats" ;
 .
 :Real_Live
   rdf:type mo:CD ;
@@ -10058,6 +10227,15 @@
   bibliographica:byArtist SoloMusicArtist:Michael_Fracasso ;
   rdfs:label "Retrospective (Live)" ;
 .
+:Retrospective_SL
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Shona_Laing ;
+  bibliographica:byArtist SoloMusicArtist:Shona_Laing ;
+  rdfs:label "1905-1990 A Retrospective" ;
+.
 :Reveries
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -10067,6 +10245,15 @@
   bibliographica:byArtist SoloMusicArtist:Paolo_Conte ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e9fb2f9f-ae8c-490c-949f-ec7bf1373266"^^xsd:anyURI ;
   rdfs:label "Reveries" ;
+.
+:Revisited
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Robbie_Laws ;
+  bibliographica:byArtist SoloMusicArtist:Robbie_Laws ;
+  rdfs:label "Revisited" ;
 .
 :Revolution_Starts_Now
   rdf:type mo:CD ;
@@ -10618,6 +10805,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/ff60dab1-b459-4732-a188-93018485224d"^^xsd:anyURI ;
   rdfs:label "Shelter" ;
 .
+:Sherri_Jackson_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sherri_Jackson ;
+  bibliographica:byArtist SoloMusicArtist:Sherri_Jackson ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/413dae8f-59be-487c-b351-a64118ff4d89"^^xsd:anyURI ;
+  rdfs:label "Sherri Jackson" ;
+.
 :Sheryl_Crow_CD
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -10657,6 +10854,16 @@
   bibliographica:byArtist MusicGroup:Captain_Beefheart_Magic_Band ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/5887c600-15a7-3c40-9b8b-49aac410be6d"^^xsd:anyURI ;
   rdfs:label "Shiny Beast (Bat Chain Puller)" ;
+.
+:Shona_Laing_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Shona_Laing ;
+  bibliographica:byArtist SoloMusicArtist:Shona_Laing ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/2bf7c414-b90a-4190-863b-07d746a98107"^^xsd:anyURI ;
+  rdfs:label "Shona Laing" ;
 .
 :Short_Mans_Room
   rdf:type mo:CD ;
@@ -10966,6 +11173,18 @@
   dcterms:creator MusicGroup:Grateful_Dead ;
   bibliographica:byArtist MusicGroup:Grateful_Dead ;
   rdfs:label "Smoke And Mirrors" ;
+.
+:Smokin_at_Half_Note
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Wes_Montgomery ;
+  dcterms:creator MusicGroup:Wynton_Kelly_Trio ;
+  bibliographica:byArtist SoloMusicArtist:Wes_Montgomery ;
+  bibliographica:byArtist MusicGroup:Wynton_Kelly_Trio ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/bc484406-5475-423b-9509-95c67ae30431"^^xsd:anyURI ;
+  rdfs:label "Smokin’ at the Half Note" ;
 .
 :Smokin_Java
   rdf:type mo:CD ;
@@ -11455,6 +11674,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/134a2bea-2c61-47d3-9403-cf7581512e88"^^xsd:anyURI ;
   rdfs:label "Steppin' Out With the Grateful Dead: England '72" ;
 .
+:Stick_Man
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Tony_Levin ;
+  bibliographica:byArtist SoloMusicArtist:Tony_Levin ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/12002bd7-07f7-4b18-9cda-347c4114dec1"^^xsd:anyURI ;
+  rdfs:label "Stick Man" ;
+.
 :Still_in_Hollywood
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -11725,6 +11954,16 @@
   bibliographica:byArtist SoloMusicArtist:Tony_Furtado ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/2e4ebca9-0a83-4f7f-83d0-e298d9dac84a"^^xsd:anyURI ;
   rdfs:label "Swamped" ;
+.
+:Sweet_Brown_Sugar
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Rosie_Ledet ;
+  bibliographica:byArtist SoloMusicArtist:Rosie_Ledet ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/60fa5864-c853-4a8b-9605-0c17cc75609a"^^xsd:anyURI ;
+  rdfs:label "Sweet Brown Sugar" ;
 .
 :Sweet_Dreams
   rdf:type mo:CD ;
@@ -13560,6 +13799,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/4df009ce-78de-4515-8499-19cc56d66eba"^^xsd:anyURI ;
   rdfs:label "Van Lear Rose" ;
 .
+:Versions
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Robbie_Krieger ;
+  bibliographica:byArtist SoloMusicArtist:Robbie_Krieger ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c976404a-22ab-4ba7-920d-2509573df51b"^^xsd:anyURI ;
+  rdfs:label "Versions" ;
+.
 :Verve_Masters_Stan_Getz
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -14249,6 +14498,16 @@
   bibliographica:byArtist MusicGroup:Grateful_Dead ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e42901c5-74f0-3055-9c70-54cc5fb2516c"^^xsd:anyURI ;
   rdfs:label "Workingman's Dead" ;
+.
+:World_Diary
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Tony_Levin ;
+  bibliographica:byArtist SoloMusicArtist:Tony_Levin ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/bb4c3b38-0467-483e-bd59-586290858502"^^xsd:anyURI ;
+  rdfs:label "World Diary" ;
 .
 :World_Gone_Wrong
   rdf:type mo:CD ;
