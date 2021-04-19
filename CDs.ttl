@@ -215,6 +215,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c3d62e65-367e-44fd-a760-c3d6dc955a99"^^xsd:anyURI ;
   rdfs:label "After Midnight" ;
 .
+:Age_of_Possibility
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Carrie_Newcomer ;
+  bibliographica:byArtist SoloMusicArtist:Carrie_Newcomer ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/daf593b0-1b61-4d4d-b70b-5663b9970c86"^^xsd:anyURI ;
+  rdfs:label "The Age of Possibility" ;
+.
 :Agua_de_Luna
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1414,6 +1424,16 @@
   bibliographica:byArtist SoloMusicArtist:Grace ;
   rdfs:label "Black Sand Shore" ;
 .
+:Black_Sheets
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bob_Mould ;
+  bibliographica:byArtist SoloMusicArtist:Bob_Mould ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/cb385205-868d-3ae1-b52e-7525a5111c04"^^xsd:anyURI ;
+  rdfs:label "Black Sheets of Rain" ;
+.
 :Blazing_Away
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1884,6 +1904,28 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/93d4c2fa-6749-3820-88df-b1f6df8cf48b"^^xsd:anyURI ;
   rdfs:label "Bryter Layter" ;
 .
+:Buckshot_LeFonque
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Branford_Marsalis ;
+  bibliographica:byArtist SoloMusicArtist:Branford_Marsalis ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/04f9ee33-d824-31fd-857a-e48f92582a76"^^xsd:anyURI ;
+  rdfs:label "Buckshot LeFonque" ;
+.
+:Buddy_Julie_Miller
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Buddy_Miller ;
+  bibliographica:byArtist SoloMusicArtist:Buddy_Miller ;
+  dcterms:creator SoloMusicArtist:Julie_Miller ;
+  bibliographica:byArtist SoloMusicArtist:Julie_Miller ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/bb9f1eff-9363-42fd-9b4b-aaae51940252"^^xsd:anyURI ;
+  rdfs:label "Buddy & Julie Miller" ;
+.
 :Buena_Vista_Social_Club_CD
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1952,6 +1994,16 @@
   bibliographica:byArtist MusicGroup:Jethro_Tull ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/9c4482ae-01fe-3566-9b48-e340bf79ab65"^^xsd:anyURI ;
   rdfs:label "Bursting Out" ;
+.
+:Busters_Happy_Hour
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:David_Johansen ;
+  bibliographica:byArtist SoloMusicArtist:David_Johansen ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/dc0553c3-3981-4195-a8a3-4f9b20d93328"^^xsd:anyURI ;
+  rdfs:label "Buster’s Happy Hour" ;
 .
 :By_The_Hand_Of_The_Father
   rdf:type mo:CD ;
@@ -8247,6 +8299,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e241af7a-38e9-4ca5-ac4c-be83978dea58"^^xsd:anyURI ;
   rdfs:label "Middle Passage" ;
 .
+:Midnight_Lonesome
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Buddy_Miller ;
+  bibliographica:byArtist SoloMusicArtist:Buddy_Miller ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/156117c2-3c70-475b-ad43-bb92eb2a0d93"^^xsd:anyURI ;
+  rdfs:label "Midnight and Lonesome" ;
+.
 :Mighty_Joe_Moon
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -9862,6 +9924,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/9d897884-ac56-4edf-97e7-8ee450cd57c3"^^xsd:anyURI ;
   rdfs:label "Plays Live" ;
 .
+:Poison_Love
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Buddy_Miller ;
+  bibliographica:byArtist SoloMusicArtist:Buddy_Miller ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/156117c2-3c70-475b-ad43-bb92eb2a0d93"^^xsd:anyURI ;
+  rdfs:label "Poison Love" ;
+.
 :Pop_Pop
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -10590,6 +10662,16 @@
   bibliographica:byArtist SoloMusicArtist:David_Grisman ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/ead94b0f-3d70-4fae-8f24-d0cb3e9883ad"^^xsd:anyURI ;
   rdfs:label "The David Grisman Rounder CD" ;
+.
+:Royal_Garden_Blues
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Branford_Marsalis ;
+  bibliographica:byArtist SoloMusicArtist:Branford_Marsalis ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/70c5411b-05d5-3eb7-9b88-99a6092d53ef"^^xsd:anyURI ;
+  rdfs:label "Royal Garden Blues" ;
 .
 :Rules_of_Travel
   rdf:type mo:CD ;
@@ -14073,6 +14155,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/aa36f047-1133-4412-a794-1b05c7e6e4d9"^^xsd:anyURI ;
   rdfs:label "Virgin Beauty" ;
 .
+:Visions_and_Dreams
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Carrie_Newcomer ;
+  bibliographica:byArtist SoloMusicArtist:Carrie_Newcomer ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/ecd33132-7c79-4153-8719-37a22f9c8378"^^xsd:anyURI ;
+  rdfs:label "Visions and Dreams" ;
+.
 :Visions_of_Plenty
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -14212,6 +14304,16 @@
   bibliographica:byArtist SoloMusicArtist:Enya ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c57034fa-c08b-4aaa-bcaa-b207ba760de9"^^xsd:anyURI ;
   rdfs:label "Watermark" ;
+.
+:Wave_of_Hand
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Carla_Olson ;
+  bibliographica:byArtist SoloMusicArtist:Carla_Olson ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/387ecedb-f133-46f7-9298-773905601a03"^^xsd:anyURI ;
+  rdfs:label "Wave of the Hand: The Best of Carla Olson" ;
 .
 :Way_After_Midnight
   rdf:type mo:CD ;
@@ -14652,6 +14754,16 @@
   bibliographica:byArtist MusicGroup:Juluka ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b096d90d-40e5-41ab-9041-7bb371bdc734"^^xsd:anyURI ;
   rdfs:label "Work For All" ;
+.
+:Workbook
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bob_Mould ;
+  bibliographica:byArtist SoloMusicArtist:Bob_Mould ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/1a547adc-c99e-4c55-87b1-5d7da769d743"^^xsd:anyURI ;
+  rdfs:label "Workbook" ;
 .
 :Works
   rdf:type mo:CD ;
