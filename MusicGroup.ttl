@@ -281,6 +281,13 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/6b28ecf0-94e6-48bb-aa2a-5ede325b675b"^^xsd:anyURI ;
   rdfs:label "Blues Traveler" ;
 .
+:Bob_Marley_Wailers
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Bob_Marley_and_the_Wailers.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/c296e10c-110a-4103-9e77-47bfebb7fb2e"^^xsd:anyURI ;
+  rdfs:label "Bob Marley & The Wailers" ;
+.
 :Bombay_Black
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassAD ;

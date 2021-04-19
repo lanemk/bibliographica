@@ -333,7 +333,7 @@
   dcterms:creator SoloMusicArtist:Amanda_Marshall ;
   bibliographica:byArtist SoloMusicArtist:Amanda_Marshall ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/0375a849-d8b1-4851-9faf-2ea75e78173b"^^xsd:anyURI ;
-  rdfs:label "Amanda Marshall (cd)" ;
+  rdfs:label "Amanda Marshall" ;
 .
 :Amazulu
   rdf:type mo:CD ;
@@ -1096,6 +1096,16 @@
   dcterms:creator MusicGroup:Crosby_Nash ;
   bibliographica:byArtist MusicGroup:Crosby_Nash ;
   rdfs:label "Best of" ;
+.
+:Best_of_Airto
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Airto_Moreira ;
+  bibliographica:byArtist SoloMusicArtist:Airto_Moreira ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a0f0593e-8b75-401a-a90c-78c1e2192f38"^^xsd:anyURI ;
+  rdfs:label "The Best Of Airto" ;
 .
 :Best_of_Big_Bands_LB
   rdf:type mo:CD ;
@@ -1923,6 +1933,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a2611b7b-593a-4d9f-8b04-81c746e2312f"^^xsd:anyURI ;
   rdfs:label "Burn to Shine" ;
 .
+:Burnin
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Bob_Marley_Wailers ;
+  bibliographica:byArtist MusicGroup:Bob_Marley_Wailers ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d31904ea-2257-41e9-b5f0-4ff970a5bce8"^^xsd:anyURI ;
+  rdfs:label "Burnin'" ;
+.
 :Bursting_Out
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2122,6 +2142,16 @@
   bibliographica:byArtist SoloMusicArtist:Sherri_Jackson ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/04e64829-bf6b-4776-b295-27194ce1b31e"^^xsd:anyURI ;
   rdfs:label "Catalyst" ;
+.
+:Catch_a_Fire
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Bob_Marley_Wailers ;
+  bibliographica:byArtist MusicGroup:Bob_Marley_Wailers ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/776a48b4-2e3a-440d-9b62-dfac8a3e40a8"^^xsd:anyURI ;
+  rdfs:label "Catch a Fire" ;
 .
 :Catfish_Rising
   rdf:type mo:CD ;
@@ -2967,6 +2997,20 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/6b452115-016f-4253-967a-21ef6c661ea8"^^xsd:anyURI ;
   rdfs:label "Cut Me Loose" ;
 .
+:Dafos
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Airto_Moreira ;
+  bibliographica:byArtist SoloMusicArtist:Airto_Moreira ;
+  dcterms:creator SoloMusicArtist:Mickey_Hart ;
+  bibliographica:byArtist SoloMusicArtist:Mickey_Hart ;
+  dcterms:creator SoloMusicArtist:Flora_Purim ;
+  bibliographica:byArtist SoloMusicArtist:Flora_Purim ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a8145191-ef19-49e8-af44-a586e9d1f142"^^xsd:anyURI ;
+  rdfs:label "Däfos" ;
+.
 :Dana_Owens_Album
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3727,6 +3771,16 @@
   bibliographica:byArtist SoloMusicArtist:Nurudafina_Pili_Adena ;
   rdfs:label "Drum Call" ;
 .
+:Drums_of_Passion
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Babatunde_Olatunji ;
+  bibliographica:byArtist SoloMusicArtist:Babatunde_Olatunji ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/2a387ccf-9d99-3c3e-a0fe-2922d15ecb39"^^xsd:anyURI ;
+  rdfs:label "Drums of Passion" ;
+.
 :Dry
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4100,6 +4154,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d93bd03b-116f-4c26-9f4e-188c68df9a1b"^^xsd:anyURI ;
   rdfs:label "Excerpts From A Love Circus" ;
 .
+:Exodus
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Bob_Marley_Wailers ;
+  bibliographica:byArtist MusicGroup:Bob_Marley_Wailers ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/02beea32-c645-37c4-abb9-8c311bc36a6d"^^xsd:anyURI ;
+  rdfs:label "Exodus" ;
+.
 :Exposure
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4278,6 +4342,16 @@
   bibliographica:byArtist SoloMusicArtist:Joe_Henry ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/afbb98f2-8fec-4c6d-98bc-b137bb0169e1"^^xsd:anyURI ;
   rdfs:label "Fireman's Wedding" ;
+.
+:Firin_in_Fouta
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Baaba_Maal ;
+  bibliographica:byArtist SoloMusicArtist:Baaba_Maal ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9ad488a3-03da-4958-a7bb-f4c2176bae5b"^^xsd:anyURI ;
+  rdfs:label "Firin' in Fouta" ;
 .
 :First_Instrument
   rdf:type mo:CD ;
@@ -5361,6 +5435,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b1dfd603-67d2-44a3-b043-8af8cd23e76d"^^xsd:anyURI ;
   rdfs:label "Heyday: BBC Radio Sessions 1968-1969" ;
 .
+:Hi_How_Are_You_Today
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ashley_MacIsaac ;
+  bibliographica:byArtist SoloMusicArtist:Ashley_MacIsaac ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/09607773-5cc3-4d75-8eb1-8bb343f037bd"^^xsd:anyURI ;
+  rdfs:label "Hi How Are You Today?" ;
+.
 :Hidden_Harvest
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -6357,6 +6441,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/0360c55f-8b6d-3b4c-a564-9a7646240c2e"^^xsd:anyURI ;
   rdfs:label "Just Like You" ;
 .
+:Kaya
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Bob_Marley_Wailers ;
+  bibliographica:byArtist MusicGroup:Bob_Marley_Wailers ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/6571aa7a-5de8-34df-acce-d3ab13b775c1"^^xsd:anyURI ;
+  rdfs:label "Kaya" ;
+.
 :Keb_Mo_CD
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -6948,6 +7042,16 @@
   bibliographica:byArtist SoloMusicArtist:Bill_Frisell ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d6349333-58c2-4aa1-bc07-be5fb9877e60"^^xsd:anyURI ;
   rdfs:label "Live" ;
+.
+:Live_BMW
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Bob_Marley_Wailers ;
+  bibliographica:byArtist MusicGroup:Bob_Marley_Wailers ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/452cf962-f646-4150-ba46-450965e84488"^^xsd:anyURI ;
+  rdfs:label "Live!" ;
 .
 :Live_GK
   rdf:type mo:CD ;
@@ -8337,6 +8441,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/be6a1a44-c856-4569-b832-44c75d307f2b"^^xsd:anyURI ;
   rdfs:label "Miss Perfumado" ;
 .
+:Missing_You
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Baaba_Maal ;
+  bibliographica:byArtist SoloMusicArtist:Baaba_Maal ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/93859bb6-d21e-4cb8-94cc-3e067d19d42c"^^xsd:anyURI ;
+  rdfs:label "Missing You (Mi Yeewnii)" ;
+.
 :Mister_Heartbreak
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -8618,6 +8732,16 @@
   bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/2ca28746-8987-3015-b54c-75b3aa8ca1a1"^^xsd:anyURI ;
   rdfs:label "Nashville Skyline" ;
+.
+:Natty_Dread
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Bob_Marley_Wailers ;
+  bibliographica:byArtist MusicGroup:Bob_Marley_Wailers ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d1007b74-c38a-4996-b13f-cd1c67a97814"^^xsd:anyURI ;
+  rdfs:label "Natty Dread" ;
 .
 :Neath_Your_Covers
   rdf:type mo:CD ;
@@ -10005,6 +10129,16 @@
   bibliographica:byArtist MusicGroup:Grateful_Dead ;
   rdfs:label "Rainforest Benefit Show" ;
 .
+:Rastaman_Vibration
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Bob_Marley_Wailers ;
+  bibliographica:byArtist MusicGroup:Bob_Marley_Wailers ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d306e7dc-cc36-4bb1-b259-389347f5f6b2"^^xsd:anyURI ;
+  rdfs:label "Rastaman Vibration" ;
+.
 :Rat_Patrol_Ft_Bragg
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -11323,6 +11457,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/f1da490b-cd4b-4ddb-929e-429a499564c8"^^xsd:anyURI ;
   rdfs:label "Songhai 2" ;
 .
+:Songs_of_Freedom
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Bob_Marley_Wailers ;
+  bibliographica:byArtist MusicGroup:Bob_Marley_Wailers ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9bca615a-93c0-4a1a-ae21-3282a955eed4"^^xsd:anyURI ;
+  rdfs:label "Songs of Freedom" ;
+.
 :Songs_From_a_Room
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -12058,6 +12202,16 @@
   bibliographica:byArtist SoloMusicArtist:Jerry_Garcia ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/83086fdc-75c5-4930-8776-6d093d5557eb"^^xsd:anyURI ;
   rdfs:label "A Talk With Jerry Garcia" ;
+.
+:Talkin_Blues
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Bob_Marley_Wailers ;
+  bibliographica:byArtist MusicGroup:Bob_Marley_Wailers ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f7d5ae0c-52bd-4379-9360-0ef771b47265"^^xsd:anyURI ;
+  rdfs:label "Talkin' Blues" ;
 .
 :Talking_Timbuktu
   rdf:type mo:CD ;
@@ -13789,6 +13943,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a485361f-b525-4543-ac0b-61c97421b13d"^^xsd:anyURI ;
   rdfs:label "Upper Extremities" ;
 .
+:Uprising
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Bob_Marley_Wailers ;
+  bibliographica:byArtist MusicGroup:Bob_Marley_Wailers ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f05b59f2-edc1-4c33-8dc9-795ace7f1c3e"^^xsd:anyURI ;
+  rdfs:label "Uprising" ;
+.
 :Van_Lear_Rose
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -14057,6 +14221,16 @@
   dcterms:creator SoloMusicArtist:Jerry_Garcia ;
   bibliographica:byArtist SoloMusicArtist:Jerry_Garcia ;
   rdfs:label "Way After Midnight" ;
+.
+:Way_Back_to_Paradise
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ashley_MacIsaac ;
+  bibliographica:byArtist SoloMusicArtist:Ashley_MacIsaac ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/3bacac9f-c0bf-4feb-8b52-cba1fb437c36"^^xsd:anyURI ;
+  rdfs:label "Way Back to Paradise" ;
 .
 :Way_to_Blue
   rdf:type mo:CD ;

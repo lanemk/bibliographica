@@ -1339,6 +1339,13 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/6f393ff8-1f77-40f5-8515-2f72b0c28cf2"^^xsd:anyURI ;
   rdfs:label "Felina" ;
 .
+:Flora_Purim
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Flora_Purim.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/b1091eee-4198-4e66-8b15-05ae12b03353"^^xsd:anyURI ;
+  rdfs:label "Flora Purim" ;
+.
 :Frank_Zappa
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassWZ ;
