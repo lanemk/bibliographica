@@ -1415,6 +1415,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/896beb5e-700b-3b68-9141-29bc9437ac69"^^xsd:anyURI ;
   rdfs:label "Black Pearls" ;
 .
+:Black_Saint_Sinner
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Charles_Mingus ;
+  bibliographica:byArtist SoloMusicArtist:Charles_Mingus ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d1b8d7db-2808-4255-8056-678b3fd1e5e2"^^xsd:anyURI ;
+  rdfs:label "Black Saint & the Sinner Lady" ;
+.
 :Black_Sand_Shore
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1625,6 +1635,16 @@
   bibliographica:byArtist MusicGroup:Grateful_Dead ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e6996642-ae79-395a-af24-ddbf40d06fcc"^^xsd:anyURI ;
   rdfs:label "Blues for Allah" ;
+.
+:Blues_Roots
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Charles_Mingus ;
+  bibliographica:byArtist SoloMusicArtist:Charles_Mingus ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/6843d7b4-e99a-4748-a4c8-5bc87a494262"^^xsd:anyURI ;
+  rdfs:label "Blues & Roots" ;
 .
 :Blues_Traveler_CD
   rdf:type mo:CD ;
@@ -2296,6 +2316,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/2f571c59-0e8c-4c3e-9ee4-63ae749457c8"^^xsd:anyURI ;
   rdfs:label "A Change In The Weather" ;
 .
+:Changes_One
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Charles_Mingus ;
+  bibliographica:byArtist SoloMusicArtist:Charles_Mingus ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/4489c864-3ca5-3463-b3b1-69738b25809c"^^xsd:anyURI ;
+  rdfs:label "Changes One" ;
+.
 :Charity_of_Night
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2305,6 +2335,26 @@
   bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/79f2f3a8-102a-3046-b2ff-bdfa2a1c63db"^^xsd:anyURI ;
   rdfs:label "The Charity of Night" ;
+.
+:Charles_Mingus_Friends
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Charles_Mingus ;
+  bibliographica:byArtist SoloMusicArtist:Charles_Mingus ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d461c131-c94d-4ea5-adc9-dedce780d69a"^^xsd:anyURI ;
+  rdfs:label "Charles Mingus And Friends In Concert" ;
+.
+:Charles_Mingus_Presents
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Charles_Mingus ;
+  bibliographica:byArtist SoloMusicArtist:Charles_Mingus ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/dcb1f17e-558f-3bdf-b7ce-7a01903d636f"^^xsd:anyURI ;
+  rdfs:label "Charles Mingus Presents Charles Mingus" ;
 .
 :Chatterbox_Session
   rdf:type mo:CD ;
@@ -4068,6 +4118,16 @@
   bibliographica:byArtist SoloMusicArtist:Juan_Formell ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/36ab81ff-9a11-47db-83c9-5b93275b3463"^^xsd:anyURI ;
   rdfs:label "En el malecón de La Habana" ;
+.
+:Epitaph
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Charles_Mingus ;
+  bibliographica:byArtist SoloMusicArtist:Charles_Mingus ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/ec311c80-a1ab-4520-b751-31114214aaf2"^^xsd:anyURI ;
+  rdfs:label "Epitaph" ;
 .
 :Eric_Clapton_CD
   rdf:type mo:CD ;
@@ -6045,6 +6105,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/15275649-a394-4db9-9c4e-04c3c0326ca1"^^xsd:anyURI ;
   rdfs:label "In-A-Gadda-Da-Vida" ;
 .
+:In_Soulful_Mood
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Charles_Mingus ;
+  bibliographica:byArtist SoloMusicArtist:Charles_Mingus ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e199a1ad-03cb-48fe-92ae-6a62a6d84d6f"^^xsd:anyURI ;
+  rdfs:label "In A Soulful Mood" ;
+.
 :In_Dark_With_You
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -6212,6 +6282,16 @@
   bibliographica:byArtist SoloMusicArtist:Ry_Cooder ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/33fe641f-2459-3049-8edd-ad0167e6f59b"^^xsd:anyURI ;
   rdfs:label "Into The Purple Valley" ;
+.
+:Intrusions
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Charles_Mingus ;
+  bibliographica:byArtist SoloMusicArtist:Charles_Mingus ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/fc20b713-3dae-4d08-a94a-a140a095619e"^^xsd:anyURI ;
+  rdfs:label "Intrusions" ;
 .
 :Invisible_Means
   rdf:type mo:CD ;
@@ -6945,6 +7025,16 @@
   bibliographica:byArtist SoloMusicArtist:Felina ;
   rdfs:label "Let Me Tell You a Story" ;
 .
+:Let_My_Children_Hear_Music
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Charles_Mingus ;
+  bibliographica:byArtist SoloMusicArtist:Charles_Mingus ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5834e2a5-d1e8-4aab-adac-e5cc55d5143d"^^xsd:anyURI ;
+  rdfs:label "Let My Children Hear Music" ;
+.
 :Levellers_CD
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7330,6 +7420,16 @@
   bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/15e885fc-a37c-4eef-b4b2-e44500711442"^^xsd:anyURI ;
   rdfs:label "Live at the Village Vanguard Again!" ;
+.
+:Live_in_Chateauvallon
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Charles_Mingus ;
+  bibliographica:byArtist SoloMusicArtist:Charles_Mingus ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5d2910f3-fb1e-4e82-b700-b06a4101683d"^^xsd:anyURI ;
+  rdfs:label "Live In Chateauvallon, 1972" ;
 .
 :Live_in_Japan_HT
   rdf:type mo:CD ;
@@ -8199,6 +8299,16 @@
   bibliographica:byArtist SoloMusicArtist:John_Kirkpatrick ;
   rdfs:label "Mazurka Berserker" ;
 .
+:Me_Myself_An_Eye
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Charles_Mingus ;
+  bibliographica:byArtist SoloMusicArtist:Charles_Mingus ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/1658bd0b-5e65-388c-a718-9ab2de506ffd"^^xsd:anyURI ;
+  rdfs:label "Me Myself An Eye" ;
+.
 :Me_Myself_I
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -8450,6 +8560,105 @@
   bibliographica:byArtist SoloMusicArtist:Desree ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/789a27a8-c390-4b37-b466-666aed434b7b"^^xsd:anyURI ;
   rdfs:label "Mind Adventures" ;
+.
+:Mingus_at_Antibes
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Charles_Mingus ;
+  bibliographica:byArtist SoloMusicArtist:Charles_Mingus ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b6d3ad3e-46ae-4cd1-a233-7817355ed9a2"^^xsd:anyURI ;
+  rdfs:label "Mingus at Antibes" ;
+.
+:Mingus_at_Carnegie_Hall
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Charles_Mingus ;
+  bibliographica:byArtist SoloMusicArtist:Charles_Mingus ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b00d5414-c543-4818-bb7a-026489e4ddd5"^^xsd:anyURI ;
+  rdfs:label "Mingus at Carnegie Hall" ;
+.
+:Mingus_at_Monterey
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Charles_Mingus ;
+  bibliographica:byArtist SoloMusicArtist:Charles_Mingus ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c4b3d1a1-7627-43db-bda7-510e06d16cb0"^^xsd:anyURI ;
+  rdfs:label "Mingus At Monterey" ;
+.
+:Mingus_at_Bohemia
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Charles_Mingus ;
+  bibliographica:byArtist SoloMusicArtist:Charles_Mingus ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c554dc81-4d40-471a-b94e-3b65c33fbd14"^^xsd:anyURI ;
+  rdfs:label "Mingus at The Bohemia" ;
+.
+:Mingus_Dynasty
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Charles_Mingus ;
+  bibliographica:byArtist SoloMusicArtist:Charles_Mingus ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/99daa87a-0b4c-4f2c-8c2d-9d00e0e16ef2"^^xsd:anyURI ;
+  rdfs:label "Mingus Dynasty" ;
+.
+:Mingus_in_Europe
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Charles_Mingus ;
+  bibliographica:byArtist SoloMusicArtist:Charles_Mingus ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c43bd8ef-ece3-470a-ac39-a2c8401e1a06"^^xsd:anyURI ;
+  rdfs:label "Mingus in Europe" ;
+.
+:Mingus_in_Wonderland
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Charles_Mingus ;
+  bibliographica:byArtist SoloMusicArtist:Charles_Mingus ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e891955d-36d7-3395-966b-432326833616"^^xsd:anyURI ;
+  rdfs:label "Mingus in Wonderland" ;
+.
+:Mingus_Live_in_Time
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Charles_Mingus ;
+  bibliographica:byArtist SoloMusicArtist:Charles_Mingus ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/0b6a9783-d795-465b-8cb3-3392960f051e"^^xsd:anyURI ;
+  rdfs:label "Live in Time" ;
+.
+:Mingus_Mingus
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Charles_Mingus ;
+  bibliographica:byArtist SoloMusicArtist:Charles_Mingus ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/70d13ec1-e731-3775-b70f-c1a2fb416828"^^xsd:anyURI ;
+  rdfs:label "Mingus Mingus Mingus Mingus Mingus" ;
+.
+:Mingus_Unknown_Origins
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Charles_Mingus ;
+  bibliographica:byArtist SoloMusicArtist:Charles_Mingus ;
+  rdfs:label "Mingus - unknown origins" ;
 .
 :Minstrel_In_Gallery
   rdf:type mo:CD ;
@@ -9205,6 +9414,16 @@
   bibliographica:byArtist SoloMusicArtist:Lindsay_Cooper ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e4f20302-1951-42ab-bacd-fd3b6f4cc6f1"^^xsd:anyURI ;
   rdfs:label "Oh Moscow" ;
+.
+:Oh_Yeah
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Charles_Mingus ;
+  bibliographica:byArtist SoloMusicArtist:Charles_Mingus ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/315d2d84-3bd2-4644-babb-3338881177fd"^^xsd:anyURI ;
+  rdfs:label "Oh Yeah" ;
 .
 :Old_Testaments
   rdf:type mo:CD ;
@@ -10442,6 +10661,16 @@
   bibliographica:byArtist SoloMusicArtist:Shona_Laing ;
   rdfs:label "1905-1990 A Retrospective" ;
 .
+:Revenge
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Charles_Mingus ;
+  bibliographica:byArtist SoloMusicArtist:Charles_Mingus ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/938524ac-a9f2-42d7-a263-7f9694c41764"^^xsd:anyURI ;
+  rdfs:label "Revenge!" ;
+.
 :Reveries
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -11482,6 +11711,16 @@
   bibliographica:byArtist MusicGroup:Devo ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/1ca7b25c-dd1b-4dff-a3f3-cfacece12c52"^^xsd:anyURI ;
   rdfs:label "Something for Everybody" ;
+.
+:Something_Like_Bird
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Charles_Mingus ;
+  bibliographica:byArtist SoloMusicArtist:Charles_Mingus ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f2c8c6a0-27d0-454e-8f44-2866a41f7069"^^xsd:anyURI ;
+  rdfs:label "Something Like A Bird" ;
 .
 :Sometime_Tuesday_Morning
   rdf:type mo:CD ;
@@ -12585,6 +12824,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/98b1e961-bf84-4e4b-85c1-5de7161dfdef"^^xsd:anyURI ;
   rdfs:label "The Catherine Wheel" ;
 .
+:The_Clown
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Charles_Mingus ;
+  bibliographica:byArtist SoloMusicArtist:Charles_Mingus ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/910c0ae4-e0f6-35da-a9fd-786390756c5a"^^xsd:anyURI ;
+  rdfs:label "The Clown" ;
+.
 :The_Complete_1961_VV
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -12594,6 +12843,16 @@
   bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/4ed4218e-4b96-47e0-986d-391b3aa9f5f5"^^xsd:anyURI ;
   rdfs:label "The Complete 1961 Village Vanguard Recordings" ;
+.
+:The_Complete_Town_Hall
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Charles_Mingus ;
+  bibliographica:byArtist SoloMusicArtist:Charles_Mingus ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/fc665fe7-cf5b-4071-9c0f-91e4eb7d8d8f"^^xsd:anyURI ;
+  rdfs:label "The Complete Town Hall Concert" ;
 .
 :The_Convincer
   rdf:type mo:CD ;
@@ -13490,6 +13749,16 @@
   bibliographica:byArtist SoloMusicArtist:Bob_Brozman ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/8b6fea72-5e21-41dd-84b9-25c54a2c016a"^^xsd:anyURI ;
   rdfs:label "Tone Poems III" ;
+.
+:Tonight_at_Noon
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Charles_Mingus ;
+  bibliographica:byArtist SoloMusicArtist:Charles_Mingus ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/cf2393b9-76a1-3e8e-b89a-a9759cb13b8f"^^xsd:anyURI ;
+  rdfs:label "Tonight at Noon" ;
 .
 :Too_Good_to_Be_Forgotten
   rdf:type mo:CD ;
