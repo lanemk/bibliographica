@@ -4252,6 +4252,13 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/3bece26d-86b1-4534-a205-6e6182264eb6"^^xsd:anyURI ;
   rdfs:label "Tim O'Brien" ;
 .
+:Tim_Reynolds
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Tim_Reynolds.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/4ebefe60-3a9b-42a6-a5c5-27b85b76583f"^^xsd:anyURI ;
+  rdfs:label "Tim Reynolds" ;
+.
 :Tish_Hinojosa
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassEH ;

@@ -315,6 +315,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/0cfc1fbf-1784-4b0d-9149-91fe926caf6a"^^xsd:anyURI ;
   rdfs:label "Almost Acoustic" ;
 .
+:Alone_Together
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Dave_Mason ;
+  bibliographica:byArtist SoloMusicArtist:Dave_Mason ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/6b689e03-03ae-4223-8e65-eb88e2b3a94b"^^xsd:anyURI ;
+  rdfs:label "Alone Together" ;
+.
 :Alright_Again
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1246,6 +1256,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/83bdc6a4-6f08-4a30-9832-7cc05af59f65"^^xsd:anyURI ;
   rdfs:label "The Best of Sidney Bechet" ;
 .
+:Best_of_Whats_Around
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Dave_Matthews ;
+  bibliographica:byArtist SoloMusicArtist:Dave_Matthews ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/67269ee5-a963-4cca-bafc-31e3821d4e13"^^xsd:anyURI ;
+  rdfs:label "The Best of What's Around" ;
+.
 :Between_Mountain_Moon
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1364,6 +1384,36 @@
   bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/b5cbeb61-6e9c-38a8-9cb7-caf456782361"^^xsd:anyURI ;
   rdfs:label "Biograph" ;
+.
+:Bird_Hi_Hat
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Charlie_Parker ;
+  bibliographica:byArtist SoloMusicArtist:Charlie_Parker ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/94d22b67-1931-4174-926d-03117da20fc5"^^xsd:anyURI ;
+  rdfs:label "Bird at the Hi-Hat" ;
+.
+:Bird_Savoy_Recordings
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Charlie_Parker ;
+  bibliographica:byArtist SoloMusicArtist:Charlie_Parker ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/20bb99f7-c54b-4336-bea5-020e53b19447"^^xsd:anyURI ;
+  rdfs:label "Bird/The Savoy Recordings (Master Takes)" ;
+.
+:Birds_Best_Bop
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Charlie_Parker ;
+  bibliographica:byArtist SoloMusicArtist:Charlie_Parker ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/520060d9-72ae-4a95-8d2c-bf477f29a8c0"^^xsd:anyURI ;
+  rdfs:label "Bird's Best Bop on Verve" ;
 .
 :Birth_of_the_Cool
   rdf:type mo:CD ;
@@ -2598,6 +2648,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/9f624632-bf08-34f9-b87b-cdd3ceefb496"^^xsd:anyURI ;
   rdfs:label "Cohen Live: Leonard Cohen in Concert" ;
 .
+:Cold_Hard_Facts
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Del_McCoury_Band ;
+  bibliographica:byArtist MusicGroup:Del_McCoury_Band ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e428c96d-26e5-4458-a85b-ad4c45e18445"^^xsd:anyURI ;
+  rdfs:label "The Cold Hard Facts" ;
+.
 :Collectors_Items
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3354,6 +3414,16 @@
   bibliographica:byArtist MusicGroup:Jam ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/f1da48e0-97cc-404a-bdbc-699434acc027"^^xsd:anyURI ;
   rdfs:label "Definitive Gold" ;
+.
+:Del_And_The_Boys
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Del_McCoury_Band ;
+  bibliographica:byArtist MusicGroup:Del_McCoury_Band ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/31fce93f-44e1-46a5-98cb-6f8491f0d1b3"^^xsd:anyURI ;
+  rdfs:label "Del And The Boys" ;
 .
 :Desire
   rdf:type mo:CD ;
@@ -4305,6 +4375,16 @@
   bibliographica:byArtist MusicGroup:Fairport_Convention ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/512c8445-223f-4124-9c4a-edb346aa05a2"^^xsd:anyURI ;
   rdfs:label "Fairport Unconventional" ;
+.
+:Family
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Del_McCoury_Band ;
+  bibliographica:byArtist MusicGroup:Del_McCoury_Band ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/2e3d3e30-5d78-438a-a669-38ac2bac1327"^^xsd:anyURI ;
+  rdfs:label "The Family" ;
 .
 :Family_Man
   rdf:type mo:CD ;
@@ -5467,6 +5547,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e2b928b1-4b85-3095-9926-63d3f4af1172"^^xsd:anyURI ;
   rdfs:label "Heavy Horses" ;
 .
+:Headkeeper
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Dave_Mason ;
+  bibliographica:byArtist SoloMusicArtist:Dave_Mason ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/3cdda51c-ab21-4dba-9e85-df83a365d577"^^xsd:anyURI ;
+  rdfs:label "Headkeeper" ;
+.
 :Hello_Young_Lovers
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -6393,6 +6483,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/09a540e2-8a84-4124-bacf-76693aead849"^^xsd:anyURI ;
   rdfs:label "Jazz 'Round Midnight" ;
 .
+:Jazz_Round_Midnight_CP
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Charlie_Parker ;
+  bibliographica:byArtist SoloMusicArtist:Charlie_Parker ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/ae4ed2e2-08a7-4efa-b819-906f29484669"^^xsd:anyURI ;
+  rdfs:label "Jazz 'Round Midnight" ;
+.
 :Jazzmatazz_Vol_1
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7115,6 +7215,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/32ad9d9e-7a30-4d59-b54e-da97dad7bb06"^^xsd:anyURI ;
   rdfs:label "Like Sonny" ;
 .
+:Listener_Supported
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Dave_Matthews ;
+  bibliographica:byArtist SoloMusicArtist:Dave_Matthews ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/087d2304-b7f5-446a-96af-446c594b4f85"^^xsd:anyURI ;
+  rdfs:label "Listener Supported" ;
+.
 :Little_Earthquakes
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7194,6 +7304,15 @@
   bibliographica:byArtist MusicGroup:Bob_Marley_Wailers ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/452cf962-f646-4150-ba46-450965e84488"^^xsd:anyURI ;
   rdfs:label "Live!" ;
+.
+:Live_DMB
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Del_McCoury_Band ;
+  bibliographica:byArtist MusicGroup:Del_McCoury_Band ;
+  rdfs:label "Live" ;
 .
 :Live_GK
   rdf:type mo:CD ;
@@ -7531,6 +7650,18 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/5ecbf31e-bef2-48d9-ac2b-08188a811970"^^xsd:anyURI ;
   rdfs:label "Live at the El Mocambo" ;
 .
+:Live_at_Luther_College
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Dave_Matthews ;
+  bibliographica:byArtist SoloMusicArtist:Dave_Matthews ;
+  dcterms:creator SoloMusicArtist:Tim_Reynolds ;
+  bibliographica:byArtist SoloMusicArtist:Tim_Reynolds ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/79e912db-4f71-4fcb-b5be-aced98234ed3"^^xsd:anyURI ;
+  rdfs:label "Live At Luther College" ;
+.
 :Live_at_Montreux
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7629,6 +7760,16 @@
   bibliographica:byArtist SoloMusicArtist:Rickie_Lee_Jones ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/439142c6-4da6-4659-b497-321a60087ee6"^^xsd:anyURI ;
   rdfs:label "Live at Red Rocks" ;
+.
+:Live_at_Red_Rocks_DM
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Dave_Matthews ;
+  bibliographica:byArtist SoloMusicArtist:Dave_Matthews ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f5b1582c-65aa-4df5-ab2f-9d8ad2953be3"^^xsd:anyURI ;
+  rdfs:label "Live at Red Rocks 8.15.95" ;
 .
 :Live_Badu
   rdf:type mo:CD ;
@@ -8158,6 +8299,16 @@
   bibliographica:byArtist SoloMusicArtist:Maire_Brennan ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/4b0978a6-d511-339d-8ffe-e62deda4eb48"^^xsd:anyURI ;
   rdfs:label "Máire" ;
+.
+:Make_City_Ours
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Claire_Martin ;
+  bibliographica:byArtist SoloMusicArtist:Claire_Martin ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/ccb17bc7-cead-410e-b1ae-57aa99ba789e"^^xsd:anyURI ;
+  rdfs:label "Make This City Ours" ;
 .
 :Making_Movies
   rdf:type mo:CD ;
@@ -9095,6 +9246,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/4e0fd29d-f964-4bb7-bee9-d272b23e6c92"^^xsd:anyURI ;
   rdfs:label "New Thing At Newport" ;
 .
+:New_World_Order
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Curtis_Mayfield ;
+  bibliographica:byArtist SoloMusicArtist:Curtis_Mayfield ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c6169099-94aa-46f2-b722-29db8fcf8690"^^xsd:anyURI ;
+  rdfs:label "New World Order" ;
+.
 :Nightclubbing
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -9425,6 +9586,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/315d2d84-3bd2-4644-babb-3338881177fd"^^xsd:anyURI ;
   rdfs:label "Oh Yeah" ;
 .
+:Old_Boyfriends
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Claire_Martin ;
+  bibliographica:byArtist SoloMusicArtist:Claire_Martin ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/10cef20d-30a9-432f-a839-b0d96776c8a7"^^xsd:anyURI ;
+  rdfs:label "Old Boyfriends" ;
+.
 :Old_Testaments
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -9633,6 +9804,16 @@
   bibliographica:byArtist MusicGroup:Bad_Company ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/191f7ef5-d208-4959-8422-1159844bebb3"^^xsd:anyURI ;
   rdfs:label "The ‘Original’ Bad Co. Anthology" ;
+.
+:Original_Recordings_Charlie_Parker
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Charlie_Parker ;
+  bibliographica:byArtist SoloMusicArtist:Charlie_Parker ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/05a9ca93-fce8-45c4-bd7f-92054958410d"^^xsd:anyURI ;
+  rdfs:label "The Original Recordings of Charlie Parker" ;
 .
 :Other_Side_Round_Midnight
   rdf:type mo:CD ;
@@ -9890,6 +10071,16 @@
   bibliographica:byArtist SoloMusicArtist:Abbey_Lincoln ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/339009a5-8ecc-4f78-af3c-0c7bccd5858a"^^xsd:anyURI ;
   rdfs:label "People in Me" ;
+.
+:Perfect_Alibi
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Claire_Martin ;
+  bibliographica:byArtist SoloMusicArtist:Claire_Martin ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/24101b8b-8cc3-4019-b116-b090c58d7f15"^^xsd:anyURI ;
+  rdfs:label "Perfect Alibi" ;
 .
 :Perfectly_Good_Guitar
   rdf:type mo:CD ;
@@ -12336,6 +12527,16 @@
   bibliographica:byArtist MusicGroup:Flowmotion ;
   rdfs:label "Summer Meltdown 7" ;
 .
+:Superfly
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Curtis_Mayfield ;
+  bibliographica:byArtist SoloMusicArtist:Curtis_Mayfield ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/df1c3d1f-7180-39b1-a367-8a0a7acb296a"^^xsd:anyURI ;
+  rdfs:label "Superfly" ;
+.
 :Sun_Ship
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -12419,6 +12620,16 @@
   bibliographica:byArtist SoloMusicArtist:Tony_Furtado ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/2e4ebca9-0a83-4f7f-83d0-e298d9dac84a"^^xsd:anyURI ;
   rdfs:label "Swamped" ;
+.
+:Swedish_Schnapps
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Charlie_Parker ;
+  bibliographica:byArtist SoloMusicArtist:Charlie_Parker ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/cf6e387b-144f-4132-a0db-79c64b8d5cb9"^^xsd:anyURI ;
+  rdfs:label "Swedish Schnapps" ;
 .
 :Sweet_Brown_Sugar
   rdf:type mo:CD ;
@@ -14161,6 +14372,16 @@
   bibliographica:byArtist SoloMusicArtist:Tori_Amos ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/716ab432-03be-3567-9d9f-1cbb4736e0dc"^^xsd:anyURI ;
   rdfs:label "Under the Pink" ;
+.
+:Under_the_Table
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Dave_Matthews ;
+  bibliographica:byArtist SoloMusicArtist:Dave_Matthews ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c5c9dd54-2170-4377-9d0e-7a61d988ebea"^^xsd:anyURI ;
+  rdfs:label "Under the Table and Dreaming" ;
 .
 :Unearthed
   rdf:type mo:CD ;
