@@ -2135,6 +2135,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d0bda965-b993-4a69-a128-f246531287f6"^^xsd:anyURI ;
   rdfs:label "Cajun Conja" ;
 .
+:Candyland
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:James_McMurtry ;
+  bibliographica:byArtist SoloMusicArtist:James_McMurtry ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/7bce5c84-6ffb-430a-bad8-8d28ff5c4938"^^xsd:anyURI ;
+  rdfs:label "Candyland" ;
+.
 :Cajun_Conja
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2465,6 +2475,16 @@
   bibliographica:byArtist MusicGroup:Black_Uhuru ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/2fac5b16-6da2-3dae-bdb5-9d3b7db2919b"^^xsd:anyURI ;
   rdfs:label "Chill Out" ;
+.
+:Childish_Things
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:James_McMurtry ;
+  bibliographica:byArtist SoloMusicArtist:James_McMurtry ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/be523a00-d1ab-4dab-adfe-d6489266ccd9"^^xsd:anyURI ;
+  rdfs:label "Childish Things" ;
 .
 :Chill_Out_JLH
   rdf:type mo:CD ;
@@ -5265,6 +5285,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b2f862e5-a1f3-475d-85a1-6cb1160286aa"^^xsd:anyURI ;
   rdfs:label "Grace" ;
 .
+:Grand
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Erin_McKeown ;
+  bibliographica:byArtist SoloMusicArtist:Erin_McKeown ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/60d2ac5f-ac84-4809-850a-7f71dda2a9d3"^^xsd:anyURI ;
+  rdfs:label "Grand" ;
+.
 :Grand_Piano_Canyon
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5274,6 +5304,16 @@
   bibliographica:byArtist SoloMusicArtist:Bob_James ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/0fa56e29-96cd-4800-8b98-26d6687788c0"^^xsd:anyURI ;
   rdfs:label "Grand Piano Canyon" ;
+.
+:Grass_Is_Blue
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Dolly_Parton ;
+  bibliographica:byArtist SoloMusicArtist:Dolly_Parton ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9df2807e-e1b8-4056-9c90-7cc84442d264"^^xsd:anyURI ;
+  rdfs:label "The Grass Is Blue" ;
 .
 :Grateful_Dead_Interview
   rdf:type mo:CD ;
@@ -6176,6 +6216,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/255dc784-0832-4718-99d3-ef4533449c76"^^xsd:anyURI ;
   rdfs:label "Imagine" ;
 .
+:Immortal_Little_Sparrow
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Edith_Piaf ;
+  bibliographica:byArtist SoloMusicArtist:Edith_Piaf ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/568be438-b7be-45ea-8fc0-58294d329d5e"^^xsd:anyURI ;
+  rdfs:label "The Best of Édith Piaf: Immortal Little Sparrow of France" ;
+.
 :Immortal_Secrets
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -6412,6 +6462,16 @@
   bibliographica:byArtist SoloMusicArtist:Bill_Frisell ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/9dacd67b-3d67-4c82-9093-62ea9109f4a2"^^xsd:anyURI ;
   rdfs:label "Is That You?" ;
+.
+:It_Had_To_Happen
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:James_McMurtry ;
+  bibliographica:byArtist SoloMusicArtist:James_McMurtry ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/abe45edf-b97a-40e5-8f2c-b8edd6a76f59"^^xsd:anyURI ;
+  rdfs:label "It Had to Happen" ;
 .
 :Its_Like_This
   rdf:type mo:CD ;
@@ -6672,6 +6732,16 @@
   bibliographica:byArtist SoloMusicArtist:Keb_Mo ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/0360c55f-8b6d-3b4c-a564-9a7646240c2e"^^xsd:anyURI ;
   rdfs:label "Just Like You" ;
+.
+:Just_Us_Kids
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:James_McMurtry ;
+  bibliographica:byArtist SoloMusicArtist:James_McMurtry ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e2972a28-0991-4e6c-98a0-39b5b8556285"^^xsd:anyURI ;
+  rdfs:label "Just Us Kids" ;
 .
 :Kaya
   rdf:type mo:CD ;
@@ -7264,6 +7334,16 @@
   bibliographica:byArtist MusicGroup:Heart ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/f14c6b7a-382c-42a2-a7bc-e4aff3891d72"^^xsd:anyURI ;
   rdfs:label "Little Queen" ;
+.
+:Live_1973
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Gram_Parsons ;
+  bibliographica:byArtist SoloMusicArtist:Gram_Parsons ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/ad696dc8-afec-432c-a7a0-3ec91a299560"^^xsd:anyURI ;
+  rdfs:label "Live 1973" ;
 .
 :Live_88
   rdf:type mo:CD ;
@@ -11301,6 +11381,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/ea085dcf-d422-4804-a1aa-bc77f701186a"^^xsd:anyURI ;
   rdfs:label "Second Album" ;
 .
+:Secret_Handshake
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Geoff_Muldaur ;
+  bibliographica:byArtist SoloMusicArtist:Geoff_Muldaur ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/bd6fdcd2-200a-449e-864c-f807f57b4fb2"^^xsd:anyURI ;
+  rdfs:label "The Secret Handshake" ;
+.
 :Secret_Life_Eddy_Fink
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -11510,6 +11600,22 @@
   bibliographica:byArtist SoloMusicArtist:Joe_Henry ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/79c2e686-2afc-475c-8ca1-116391de997d"^^xsd:anyURI ;
   rdfs:label "Short Man's Room" ;
+.
+:Short_Trip_Home
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Edgar_Meyer ;
+  bibliographica:byArtist SoloMusicArtist:Edgar_Meyer ;
+  dcterms:creator SoloMusicArtist:Sam_Bush ;
+  bibliographica:byArtist SoloMusicArtist:Sam_Bush ;
+  dcterms:creator SoloMusicArtist:Mike_Marshall ;
+  bibliographica:byArtist SoloMusicArtist:Mike_Marshall ;
+  dcterms:creator SoloMusicArtist:Joshua_Bell ;
+  bibliographica:byArtist SoloMusicArtist:Joshua_Bell ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/58bc4ccf-8c41-49aa-b94b-819855121faa"^^xsd:anyURI ;
+  rdfs:label "Short Trip Home" ;
 .
 :Show_Of_Hands
   rdf:type mo:CD ;
@@ -11830,6 +11936,16 @@
   dcterms:creator SoloMusicArtist:Darrell_Grant ;
   bibliographica:byArtist SoloMusicArtist:Darrell_Grant ;
   rdfs:label "Smokin' Java" ;
+.
+:Snapshots
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Eleanor_McEvoy ;
+  bibliographica:byArtist SoloMusicArtist:Eleanor_McEvoy ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/8d8e3fcd-0385-4259-b1ab-555540b69f29"^^xsd:anyURI ;
+  rdfs:label "Snapshots" ;
 .
 :So
   rdf:type mo:CD ;
@@ -12517,6 +12633,16 @@
   bibliographica:byArtist SoloMusicArtist:Emmylou_Harris ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/cc3c00a5-d6fd-43d2-add9-f9eaffd1fda4"^^xsd:anyURI ;
   rdfs:label "Stumble Into Grace" ;
+.
+:Sublime_Ilusion
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Eliades_Ochoa ;
+  bibliographica:byArtist SoloMusicArtist:Eliades_Ochoa ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/3a6d5781-400e-4534-9658-d006a76cbbfc"^^xsd:anyURI ;
+  rdfs:label "Sublime Ilusión" ;
 .
 :Summer_Meltdown
   rdf:type mo:CD ;
@@ -13647,6 +13773,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/53e3591e-6ab0-4f2b-a40c-83b0dc016b88"^^xsd:anyURI ;
   rdfs:label "13 Years of Herbs: The Best Of" ;
 .
+:Thirty_Anniversaire
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Edith_Piaf ;
+  bibliographica:byArtist SoloMusicArtist:Edith_Piaf ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/86db16e8-deb7-492c-91f4-7dfdf7486644"^^xsd:anyURI ;
+  rdfs:label "30e Anniversaire" ;
+.
 :Thirty_Greatest_Hits
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -14131,6 +14267,34 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/faada5d1-971b-499c-b902-5bab9e03bc1b"^^xsd:anyURI ;
   rdfs:label "The Trinity Session" ;
 .
+:Trio_I
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Dolly_Parton ;
+  bibliographica:byArtist SoloMusicArtist:Dolly_Parton ;
+  dcterms:creator SoloMusicArtist:Emmylou_Harris ;
+  bibliographica:byArtist SoloMusicArtist:Emmylou_Harris ;
+  dcterms:creator SoloMusicArtist:Linda_Ronstadt ;
+  bibliographica:byArtist SoloMusicArtist:Linda_Ronstadt ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/8656cd1f-0f26-4159-8f4f-50ded1a45462"^^xsd:anyURI ;
+  rdfs:label "Trio I - Eponymous" ;
+.
+:Trio_II
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Dolly_Parton ;
+  bibliographica:byArtist SoloMusicArtist:Dolly_Parton ;
+  dcterms:creator SoloMusicArtist:Emmylou_Harris ;
+  bibliographica:byArtist SoloMusicArtist:Emmylou_Harris ;
+  dcterms:creator SoloMusicArtist:Linda_Ronstadt ;
+  bibliographica:byArtist SoloMusicArtist:Linda_Ronstadt ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/fcd5649e-c971-3c22-bd61-e1718da92b24"^^xsd:anyURI ;
+  rdfs:label "Trio II" ;
+.
 :Trouble_Bound
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -14343,6 +14507,20 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/eeab9dd6-ec67-431a-be76-786fa821d1b1"^^xsd:anyURI ;
   rdfs:label "Ubuhle Bemvelo" ;
 .
+:Uncommon_Ritual
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Edgar_Meyer ;
+  bibliographica:byArtist SoloMusicArtist:Edgar_Meyer ;
+  dcterms:creator SoloMusicArtist:Bela_Fleck ;
+  bibliographica:byArtist SoloMusicArtist:Bela_Fleck ;
+  dcterms:creator SoloMusicArtist:Mike_Marshall ;
+  bibliographica:byArtist SoloMusicArtist:Mike_Marshall ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/dc1efc0e-16bf-4d5c-baf4-fdd2607470a3"^^xsd:anyURI ;
+  rdfs:label "Uncommon Ritual" ;
+.
 :Under_Heavy_Manners
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -14492,6 +14670,16 @@
   bibliographica:byArtist MusicGroup:Hot_Rize ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/68d55852-da2f-4330-9b3c-ea699d37fee7"^^xsd:anyURI ;
   rdfs:label "Untold Stories" ;
+.
+:Up_From_Skies
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ellen_McIlwaine ;
+  bibliographica:byArtist SoloMusicArtist:Ellen_McIlwaine ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/2f62133b-8f2e-4e5a-9359-f39d174d83b9"^^xsd:anyURI ;
+  rdfs:label "Up From the Skies - the Polydor Years" ;
 .
 :Up_Up_Up_Up_Up_Up
   rdf:type mo:CD ;
@@ -14954,6 +15142,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d6cc906e-107c-3636-9890-8df3b80cbf22"^^xsd:anyURI ;
   rdfs:label "Whatever's for Us" ;
 .
+:Whats_Following_Me
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Eleanor_McEvoy ;
+  bibliographica:byArtist SoloMusicArtist:Eleanor_McEvoy ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/dc2bbb3b-394c-4e0e-bf73-8a5a6ad217c2"^^xsd:anyURI ;
+  rdfs:label "What’s Following Me?" ;
+.
 :Whats_Inside
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -15042,6 +15240,16 @@
   bibliographica:byArtist SoloMusicArtist:Lori_Carson ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/f2ed8400-4a81-4585-a275-e2a50f38fa85"^^xsd:anyURI ;
   rdfs:label "Where It Goes" ;
+.
+:Whered_You_Hide
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:James_McMurtry ;
+  bibliographica:byArtist SoloMusicArtist:James_McMurtry ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/4a435208-2306-4589-834e-2d550bdc1dbb"^^xsd:anyURI ;
+  rdfs:label "Where'd You Hide the Body" ;
 .
 :Which_Way_to_Here
   rdf:type mo:CD ;
@@ -15420,6 +15628,16 @@
   bibliographica:byArtist MusicGroup:Hot_Tuna ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/2d612997-d5b8-4c00-8fbc-33ae8962eb36"^^xsd:anyURI ;
   rdfs:label "Yellow Fever" ;
+.
+:Yola
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Eleanor_McEvoy ;
+  bibliographica:byArtist SoloMusicArtist:Eleanor_McEvoy ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a6df9ecc-a746-4bcc-9ca6-91a18c777e06"^^xsd:anyURI ;
+  rdfs:label "Yola" ;
 .
 :You_Can_Get_It
   rdf:type mo:CD ;

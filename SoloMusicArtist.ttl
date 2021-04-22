@@ -2137,6 +2137,13 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/f4bf07da-92d9-449f-bbb9-ff104b7321db"^^xsd:anyURI ;
   rdfs:label "José Soto \"Sorderita\"" ;
 .
+:Joshua_Bell
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Joshua_Bell.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/9b248b09-a736-4591-bdce-9dccb8391cc4"^^xsd:anyURI ;
+  rdfs:label "Joshua Bell" ;
+.
 :Joshua_Redman
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassQT ;
@@ -2554,6 +2561,13 @@
   bibliographica:dbpediaURI "http://dbpedia.org/data/Linda_Perry.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/26037b3e-064c-4e9d-9d88-ebcd35933272"^^xsd:anyURI ;
   rdfs:label "Linda Perry" ;
+.
+:Linda_Ronstadt
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Linda_Ronstadt.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/498f2581-be21-4eef-8756-fbb89d79b1c0"^^xsd:anyURI ;
+  rdfs:label "Linda Ronstadt" ;
 .
 :Linda_Thompson
   rdf:type mo:SoloMusicArtist ;
