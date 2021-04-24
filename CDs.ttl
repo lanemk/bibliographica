@@ -2928,6 +2928,15 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/06be49dd-3b5c-480e-ba15-8040ec01acd2"^^xsd:anyURI ;
   rdfs:label "Concrete Blonde y Los Illegals" ;
 .
+:Cook
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jim_McCaffrey ;
+  bibliographica:byArtist SoloMusicArtist:Jim_McCaffrey ;
+  rdfs:label "Cook" ;
+.
 :Cookin_at_Plugged_Nickel
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5976,6 +5985,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/079f8a91-b504-4a83-af13-d7f855403512"^^xsd:anyURI ;
   rdfs:label "How Sweet It Is..." ;
 .
+:How_Sweet_It_Is_JO
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Joan_Osborne ;
+  bibliographica:byArtist SoloMusicArtist:Joan_Osborne ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9cdba68c-8d15-4b97-8d1e-2023509bdca9"^^xsd:anyURI ;
+  rdfs:label "How Sweet It Is" ;
+.
 :How_West_Was_Won
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7413,6 +7432,16 @@
   bibliographica:byArtist MusicGroup:Indigo_Girls ;
   rdfs:label "Live" ;
 .
+:Live_JLP
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jean_Luc_Ponty ;
+  bibliographica:byArtist SoloMusicArtist:Jean_Luc_Ponty ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/6194b1ec-a230-4e61-85fc-93d20abe987c"^^xsd:anyURI ;
+  rdfs:label "Live" ;
+.
 :Live_SG_DG
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7508,6 +7537,16 @@
   bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/53851af0-de37-4bd8-9e2a-e8e664de4003"^^xsd:anyURI ;
   rdfs:label "Live Miles: More Music From the Legendary Carnegie Hall Concert" ;
+.
+:Live_at_Chene_Park
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jean_Luc_Ponty ;
+  bibliographica:byArtist SoloMusicArtist:Jean_Luc_Ponty ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/1127cbf5-b763-4623-8fc7-26fa6a4e0a22"^^xsd:anyURI ;
+  rdfs:label "Live at Chene Park" ;
 .
 :Live_at_Cropredy
   rdf:type mo:CD ;
@@ -9465,6 +9504,18 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/1c424f56-cc7d-439e-87f6-fd24de470c91"^^xsd:anyURI ;
   rdfs:label "No Pain For Cakes" ;
 .
+:No_Quarter
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jimmy_Page ;
+  bibliographica:byArtist SoloMusicArtist:Jimmy_Page ;
+  dcterms:creator SoloMusicArtist:Robert_Plant ;
+  bibliographica:byArtist SoloMusicArtist:Robert_Plant ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/6f75f697-346b-499d-8ef8-55cee0e49159"^^xsd:anyURI ;
+  rdfs:label "No Quarter - Unledded" ;
+.
 :No_Talking_Just_Head
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -10840,6 +10891,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/ddbaf869-bbf3-4efb-bc91-d1cf4eaba1c9"^^xsd:anyURI ;
   rdfs:label "Regina Carter" ;
 .
+:Relish
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Joan_Osborne ;
+  bibliographica:byArtist SoloMusicArtist:Joan_Osborne ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/41517c1e-45a2-4ddd-ae9c-220707577ef0"^^xsd:anyURI ;
+  rdfs:label "Relish" ;
+.
 :Relix_Bay_Rock_Shop
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -11030,6 +11091,16 @@
   bibliographica:byArtist MusicGroup:Los_Lobos ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/495ca722-abdc-47a6-8423-198e9697fe97"^^xsd:anyURI ;
   rdfs:label "Ride This" ;
+.
+:Righteous_Love
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Joan_Osborne ;
+  bibliographica:byArtist SoloMusicArtist:Joan_Osborne ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5f093672-f27c-4103-96ca-6a9278a94cb2"^^xsd:anyURI ;
+  rdfs:label "Righteous Love" ;
 .
 :Rise_and_Fall_Ziggy_Stardust
   rdf:type mo:CD ;
@@ -12593,6 +12664,16 @@
   bibliographica:byArtist SoloMusicArtist:Larry_Carlton ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/763f1a88-fb23-3d94-be12-4439a9eefc0b"^^xsd:anyURI ;
   rdfs:label "Friends" ;
+.
+:String_Wizards_Picks
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_McEuen ;
+  bibliographica:byArtist SoloMusicArtist:John_McEuen ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/8803ba57-77e8-48d9-a8da-2a448aca9e50"^^xsd:anyURI ;
+  rdfs:label "String Wizard's Picks" ;
 .
 :Stripping_Cane
   rdf:type mo:CD ;
@@ -14445,6 +14526,15 @@
   bibliographica:byArtist MusicGroup:Fairport_Convention ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/05550067-18c3-45c0-b964-46357fdf36b2"^^xsd:anyURI ;
   rdfs:label "25th Anniversary Concert" ;
+.
+:Twenty_Four_Hour_Concierge
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jim_McCaffrey ;
+  bibliographica:byArtist SoloMusicArtist:Jim_McCaffrey ;
+  rdfs:label "24 Hour Concierge" ;
 .
 :Twenty_Greatest_Hits
   rdf:type mo:CD ;

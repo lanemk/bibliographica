@@ -1736,7 +1736,7 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/5dc6e316-eef1-4883-86cd-c2872e009706"^^xsd:anyURI ;
   rdfs:label "Jano" ;
 .
-:Jean-Luc_Ponty
+:Jean_Luc_Ponty
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassMP ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Jean-Luc_Ponty.ttl"^^xsd:anyURI ;
@@ -1863,6 +1863,7 @@
 :Jim_McCaffrey
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/4b869707-6b46-4c93-b1b6-5dc22d0206ed"^^xsd:anyURI ;
   rdfs:label "Jim McCaffrey" ;
 .
 :Jim_White
