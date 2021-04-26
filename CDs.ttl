@@ -395,6 +395,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/ceae0e07-e2dc-43fe-ab2d-9568c0da4490"^^xsd:anyURI ;
   rdfs:label "Ambient 4: On Land" ;
 .
+:Amchitka
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Joni_Mitchell ;
+  bibliographica:byArtist SoloMusicArtist:Joni_Mitchell ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/1e7ca3cf-099b-4deb-8a8e-871abb680eaa"^^xsd:anyURI ;
+  rdfs:label "Amchitka" ;
+.
 :America_Live
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1049,6 +1059,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/32250a4b-1cc6-4cfa-a148-5ac819bd340b"^^xsd:anyURI ;
   rdfs:label "Before the Moon" ;
 .
+:Beginning_of_Survival
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Joni_Mitchell ;
+  bibliographica:byArtist SoloMusicArtist:Joni_Mitchell ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c3c488fb-c0c9-4e05-9d92-ecbd4b120487"^^xsd:anyURI ;
+  rdfs:label "Beginning of Survival" ;
+.
 :Belladonna
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1275,6 +1295,16 @@
   bibliographica:byArtist SoloMusicArtist:Luka_Bloom ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/336a519c-3770-36ef-9de6-267a6be50d65"^^xsd:anyURI ;
   rdfs:label "Between the Mountain and the Moon" ;
+.
+:Between_Nothingness_Eternity
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Mahavishnu_Orchestra ;
+  bibliographica:byArtist MusicGroup:Mahavishnu_Orchestra ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/ab78a2c3-9695-4d46-aba5-4e18b5d43c5a"^^xsd:anyURI ;
+  rdfs:label "Between Nothingness & Eternity" ;
 .
 :Beyond_Innocence
   rdf:type mo:CD ;
@@ -1564,6 +1594,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/95420b2e-d645-4582-b7ad-6c5f28bfec76"^^xsd:anyURI ;
   rdfs:label "Blow By Blow" ;
 .
+:Blue
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Joni_Mitchell ;
+  bibliographica:byArtist SoloMusicArtist:Joni_Mitchell ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a575174c-36c5-4ba5-8f34-1d752815fd99"^^xsd:anyURI ;
+  rdfs:label "Blue" ;
+.
 :Blue_Aconite
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1833,6 +1873,16 @@
   bibliographica:byArtist SoloMusicArtist:Albert_King ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/9fa36ff8-ba96-3201-bda1-729389a87620"^^xsd:anyURI ;
   rdfs:label "Born Under a Bad Sign" ;
+.
+:Both_Sides_Now
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Joni_Mitchell ;
+  bibliographica:byArtist SoloMusicArtist:Joni_Mitchell ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/42038990-4e2c-3c40-b74f-4930409f0edb"^^xsd:anyURI ;
+  rdfs:label "Both Sides Now" ;
 .
 :Bottomless_Cup
   rdf:type mo:CD ;
@@ -2344,6 +2394,16 @@
   bibliographica:byArtist SoloMusicArtist:Jano ;
   rdfs:label "Certain Things" ;
 .
+:Chalk_Mark_Rain_Storm
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Joni_Mitchell ;
+  bibliographica:byArtist SoloMusicArtist:Joni_Mitchell ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/240a5bb8-5e21-358b-ad03-b2077a84eee7"^^xsd:anyURI ;
+  rdfs:label "Chalk Mark in a Rain Storm" ;
+.
 :Chameleon
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2647,6 +2707,16 @@
   bibliographica:byArtist SoloMusicArtist:Nanci_Griffith ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/f085d53f-f811-48b6-8c72-058c118923dc"^^xsd:anyURI ;
   rdfs:label "Clock Without Hands" ;
+.
+:Clouds
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Joni_Mitchell ;
+  bibliographica:byArtist SoloMusicArtist:Joni_Mitchell ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b26f58eb-5cc3-3cf6-a077-1fab1d70e8e6"^^xsd:anyURI ;
+  rdfs:label "Clouds" ;
 .
 :Cmon_Cmon
   rdf:type mo:CD ;
@@ -3018,6 +3088,16 @@
   bibliographica:byArtist SoloMusicArtist:Annie_Gallup ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a4603320-5599-4bc4-894e-b1d6cf523616"^^xsd:anyURI ;
   rdfs:label "Courage My Love" ;
+.
+:Court_and_Spark
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Joni_Mitchell ;
+  bibliographica:byArtist SoloMusicArtist:Joni_Mitchell ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b26f58eb-5cc3-3cf6-a077-1fab1d70e8e6"^^xsd:anyURI ;
+  rdfs:label "Court and Spark" ;
 .
 :Court_of_Crimson_King
   rdf:type mo:CD ;
@@ -3792,6 +3872,26 @@
   bibliographica:byArtist SoloMusicArtist:Ginger_Baker ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/288ebe0d-ec8c-47fd-971b-448fbb32c8ec"^^xsd:anyURI ;
   rdfs:label "Do What You Like" ;
+.
+:Dog_Eat_Dog
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Joni_Mitchell ;
+  bibliographica:byArtist SoloMusicArtist:Joni_Mitchell ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/3db38f89-bd77-41ba-bb4a-9a84841807dd"^^xsd:anyURI ;
+  rdfs:label "Dog Eat Dog" ;
+.
+:Don_Juans_Reclkess_Daughter
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Joni_Mitchell ;
+  bibliographica:byArtist SoloMusicArtist:Joni_Mitchell ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/bc7d3926-3356-3bb2-903c-7d29d694d638"^^xsd:anyURI ;
+  rdfs:label "Don Juan's Reckless Daughter" ;
 .
 :Dont_Be_Afraid_Dark
   rdf:type mo:CD ;
@@ -4713,6 +4813,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/4204c64c-c3a4-4401-865b-14e112c031a1"^^xsd:anyURI ;
   rdfs:label "For the Beauty of Wynona" ;
 .
+:For_The_Roses
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Joni_Mitchell ;
+  bibliographica:byArtist SoloMusicArtist:Joni_Mitchell ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a1724de5-f3fe-4c9c-88f6-afc465183f53"^^xsd:anyURI ;
+  rdfs:label "For the Roses" ;
+.
 :Forty_Four_Sixty_Six
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4792,6 +4902,20 @@
   bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/59709a91-559a-44fb-9cd4-89dfd441b281"^^xsd:anyURI ;
   rdfs:label "In Person: Friday Night at the Blackhawk, San Francisco, Vol 1" ;
+.
+:Friday_Night_San_Fran
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_McLaughlin ;
+  bibliographica:byArtist SoloMusicArtist:John_McLaughlin ;
+  dcterms:creator SoloMusicArtist:Al_DiMeola ;
+  bibliographica:byArtist SoloMusicArtist:Al_DiMeola ;
+  dcterms:creator SoloMusicArtist:Paco_de_Lucia ;
+  bibliographica:byArtist SoloMusicArtist:Paco_de_Lucia ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a52c0c4d-475a-3a4d-8119-7bccd3aafb12"^^xsd:anyURI ;
+  rdfs:label "Friday Night In San Francisco" ;
 .
 :Friend_of_Mine
   rdf:type mo:CD ;
@@ -5755,6 +5879,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/bdbe5b7d-6579-4ff6-832f-172b2e83fdb3"^^xsd:anyURI ;
   rdfs:label "Histoire de Melody Nelson" ;
 .
+:Hits
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Joni_Mitchell ;
+  bibliographica:byArtist SoloMusicArtist:Joni_Mitchell ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/999e6a8e-374c-41ab-864b-78527f8f8166"^^xsd:anyURI ;
+  rdfs:label "Hits" ;
+.
 :Hogs_on_the_Highway
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -6094,6 +6228,16 @@
   bibliographica:byArtist MusicGroup:Everything_but_the_Girl ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/833e5d60-d082-4030-b072-5ec35bb8a3e3"^^xsd:anyURI ;
   rdfs:label "Idewild" ;
+.
+:In_Person_On_Stage
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Prine ;
+  bibliographica:byArtist SoloMusicArtist:John_Prine ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/19709fd2-ac39-4184-973c-673e7db00472"^^xsd:anyURI ;
+  rdfs:label "In Person & On Stage" ;
 .
 :Indigenous
   rdf:type mo:CD ;
@@ -6652,6 +6796,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e046559f-b69e-42d3-af37-424d9be394f3"^^xsd:anyURI ;
   rdfs:label "John Hammond Live" ;
 .
+:John_Prine_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_Prine ;
+  bibliographica:byArtist SoloMusicArtist:John_Prine ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/8e04e5d7-ed79-3e2e-8558-6df68bab5f6d"^^xsd:anyURI ;
+  rdfs:label "John Prine" ;
+.
 :Johnny_Cash_at_MSG
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -6939,6 +7093,16 @@
   bibliographica:byArtist SoloMusicArtist:Kerri_Anderson ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/53a6438f-7cc4-47dd-8f8a-3990e6cbdbe0"^^xsd:anyURI ;
   rdfs:label "Labyrinth" ;
+.
+:Ladies_of_the_Canyon
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Joni_Mitchell ;
+  bibliographica:byArtist SoloMusicArtist:Joni_Mitchell ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/4cc0f84c-bbb4-384d-b0e8-c4ec68e1875b"^^xsd:anyURI ;
+  rdfs:label "Ladies of the Canyon" ;
 .
 :Ladies_of_the_Road
   rdf:type mo:CD ;
@@ -8789,6 +8953,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/3b790eec-a7b4-43a1-86eb-56fc1f894aff"^^xsd:anyURI ;
   rdfs:label "Miles! Miles! Miles! : Live in Japan" ;
 .
+:Miles_of_Aisles
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Joni_Mitchell ;
+  bibliographica:byArtist SoloMusicArtist:Joni_Mitchell ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/7cdd1abc-d3ff-34b7-b68d-395b421ccb4b"^^xsd:anyURI ;
+  rdfs:label "Miles of Aisles" ;
+.
 :Miles_Quincy_at_Montreux
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -8830,6 +9004,16 @@
   bibliographica:byArtist SoloMusicArtist:Desree ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/789a27a8-c390-4b37-b466-666aed434b7b"^^xsd:anyURI ;
   rdfs:label "Mind Adventures" ;
+.
+:Mingus
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Joni_Mitchell ;
+  bibliographica:byArtist SoloMusicArtist:Joni_Mitchell ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e689e2ce-449a-3a41-8185-99e195e78f2e"^^xsd:anyURI ;
+  rdfs:label "Mingus" ;
 .
 :Mingus_at_Antibes
   rdf:type mo:CD ;
@@ -8981,6 +9165,16 @@
   bibliographica:byArtist SoloMusicArtist:Cesaria_Evora ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/be6a1a44-c856-4569-b832-44c75d307f2b"^^xsd:anyURI ;
   rdfs:label "Miss Perfumado" ;
+.
+:Misses
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Joni_Mitchell ;
+  bibliographica:byArtist SoloMusicArtist:Joni_Mitchell ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/62d8d0dc-ac50-3170-b42d-9ed2d2c6cee2"^^xsd:anyURI ;
+  rdfs:label "Misses" ;
 .
 :Missing_You
   rdf:type mo:CD ;
@@ -9394,6 +9588,16 @@
   bibliographica:byArtist SoloMusicArtist:Dizzy_Gillespie ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/4b79d9d1-4301-4c32-bc22-640ea7659d84"^^xsd:anyURI ;
   rdfs:label "A Night In Tunisia" ;
+.
+:Night_Ride_Home
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Joni_Mitchell ;
+  bibliographica:byArtist SoloMusicArtist:Joni_Mitchell ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/05a029a5-2b7d-3f20-8184-39e9927aa526"^^xsd:anyURI ;
+  rdfs:label "Night Ride Home" ;
 .
 :Night_Vision
   rdf:type mo:CD ;
@@ -10144,6 +10348,20 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/dcf0173c-9751-4300-b77a-8faf3c0ad900"^^xsd:anyURI ;
   rdfs:label "Passengers" ;
 .
+:Passion_Grace_Fire
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_McLaughlin ;
+  bibliographica:byArtist SoloMusicArtist:John_McLaughlin ;
+  dcterms:creator SoloMusicArtist:Al_DiMeola ;
+  bibliographica:byArtist SoloMusicArtist:Al_DiMeola ;
+  dcterms:creator SoloMusicArtist:Paco_de_Lucia ;
+  bibliographica:byArtist SoloMusicArtist:Paco_de_Lucia ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/29a412d2-5252-3a6c-8aaf-3f3158e8bbf8"^^xsd:anyURI ;
+  rdfs:label "Passion, Grace and Fire" ;
+.
 :Passion_Soundtrack
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -10612,6 +10830,16 @@
   bibliographica:byArtist SoloMusicArtist:Jorma_Kaukonen ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/9573da27-0a80-47cd-8427-3494efd5b6f8"^^xsd:anyURI ;
   rdfs:label "Quah" ;
+.
+:Que_Allegria
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_McLaughlin ;
+  bibliographica:byArtist SoloMusicArtist:John_McLaughlin ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5b2d1ffc-c183-4222-aa97-a63d61870f30"^^xsd:anyURI ;
+  rdfs:label "Qué alegría" ;
 .
 :Queen_All_Ears
   rdf:type mo:CD ;
@@ -11520,6 +11748,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/fb560d3f-495e-45c8-a97f-5b7e339aebd1"^^xsd:anyURI ;
   rdfs:label "Seven Waves" ;
 .
+:Shadows_and_Light
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Joni_Mitchell ;
+  bibliographica:byArtist SoloMusicArtist:Joni_Mitchell ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f2ae2376-9b10-4f03-b74a-f832b28f3d8e"^^xsd:anyURI ;
+  rdfs:label "Shadows and Light" ;
+.
 :Shadowland
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -11631,6 +11869,16 @@
   bibliographica:byArtist SoloMusicArtist:Sheryl_Crow ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/9c1007f2-b70a-4334-ac91-7b9cd4e8d182"^^xsd:anyURI ;
   rdfs:label "Sheryl Crow & Friends Live From Central Park" ;
+.
+:Shine
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Joni_Mitchell ;
+  bibliographica:byArtist SoloMusicArtist:Joni_Mitchell ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/3d3d3993-ffa7-47ba-a938-d2a4cf49a91d"^^xsd:anyURI ;
+  rdfs:label "Shine" ;
 .
 :Shining_Star
   rdf:type mo:CD ;
@@ -12139,6 +12387,16 @@
   bibliographica:byArtist SoloMusicArtist:Stan_Getz ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/ef3e3867-213f-49d8-be70-6392ed86d792"^^xsd:anyURI ;
   rdfs:label "The Song Is You" ;
+.
+:Song_To_A_Seagull
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Joni_Mitchell ;
+  bibliographica:byArtist SoloMusicArtist:Joni_Mitchell ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/16e70bd8-a702-3e8a-a008-0de4b98030c1"^^xsd:anyURI ;
+  rdfs:label "Song to a Seagull" ;
 .
 :Songhai_2
   rdf:type mo:CD ;
@@ -12972,6 +13230,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/ee62f4c1-fe9a-433a-a580-639530c3498f"^^xsd:anyURI ;
   rdfs:label "Talula" ;
 .
+:Taming_the_Tiger
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Joni_Mitchell ;
+  bibliographica:byArtist SoloMusicArtist:Joni_Mitchell ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/1a2ff067-a2dd-4755-ad1f-66d39675b00a"^^xsd:anyURI ;
+  rdfs:label "Taming the Tiger" ;
+.
 :Tanto_Tempo
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -13361,6 +13629,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b3e196cb-9f35-4cdb-ac3b-ed0905a856d7"^^xsd:anyURI ;
   rdfs:label "The Healer" ;
 .
+:The_Hissing_of_Summer_Lawns
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Joni_Mitchell ;
+  bibliographica:byArtist SoloMusicArtist:Joni_Mitchell ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/351991f2-036a-423e-b7bd-35dc6782464c"^^xsd:anyURI ;
+  rdfs:label "The Hissing of Summer Lawns" ;
+.
 :The_Impulse_Years
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -13524,6 +13802,16 @@
   bibliographica:byArtist SoloMusicArtist:Greg_Brown ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/01e3de8d-d11d-4aec-95e5-44df3f984aef"^^xsd:anyURI ;
   rdfs:label "The Poet Game" ;
+.
+:The_Promise
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_McLaughlin ;
+  bibliographica:byArtist SoloMusicArtist:John_McLaughlin ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/53cd553c-1924-47bd-a687-636c9ff8c9c8"^^xsd:anyURI ;
+  rdfs:label "The Promise" ;
 .
 :The_Red_Thread
   rdf:type mo:CD ;
@@ -14308,6 +14596,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a366bd57-44e6-30b6-8cbf-20cc5e419565"^^xsd:anyURI ;
   rdfs:label "Traneing In" ;
 .
+:Travelogue
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Joni_Mitchell ;
+  bibliographica:byArtist SoloMusicArtist:Joni_Mitchell ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d644ca21-3371-4519-beaf-b8cb505e0e3f"^^xsd:anyURI ;
+  rdfs:label "Travelogue" ;
+.
 :Tree
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -14375,6 +14673,20 @@
   bibliographica:byArtist SoloMusicArtist:Linda_Ronstadt ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/fcd5649e-c971-3c22-bd61-e1718da92b24"^^xsd:anyURI ;
   rdfs:label "Trio II" ;
+.
+:Trio_of_Doom
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:John_McLaughlin ;
+  bibliographica:byArtist SoloMusicArtist:John_McLaughlin ;
+  dcterms:creator SoloMusicArtist:Tony_Williams ;
+  bibliographica:byArtist SoloMusicArtist:Tony_Williams ;
+  dcterms:creator SoloMusicArtist:Jaco_Pastorius ;
+  bibliographica:byArtist SoloMusicArtist:Jaco_Pastorius ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/23cdf4bc-d149-4b11-bc83-7167b2d59d57"^^xsd:anyURI ;
+  rdfs:label "Trio of Doom" ;
 .
 :Trouble_Bound
   rdf:type mo:CD ;

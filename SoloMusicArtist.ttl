@@ -1661,6 +1661,13 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/88527d26-7496-47c5-8358-ebdb1868a90f"^^xsd:anyURI ;
   rdfs:label "Jackson Browne" ;
 .
+:Jaco_Pastorius
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Jaco_Pastorius.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/46a6fac0-2e14-4214-b08e-3bdb1cffa5aa"^^xsd:anyURI ;
+  rdfs:label "Jaco Pastorius" ;
+.
 :Jah_Wobble
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassWZ ;
@@ -4372,6 +4379,13 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/1e3bdbd0-f15b-4038-895f-d9a1f6571436"^^xsd:anyURI ;
   rdfs:label "Tony Rich" ;
   skos:altLabel "The Tony Rich Project" ;
+.
+:Tony_Williams
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassWZ ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Tony_Williams_(drummer).ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/b6a30b58-6b00-47c4-a031-c62a6981461f"^^xsd:anyURI ;
+  rdfs:label "Tony Williams" ;
 .
 :Tori_Amos
   rdf:type mo:SoloMusicArtist ;
