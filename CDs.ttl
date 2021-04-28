@@ -1564,6 +1564,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/9c1b8072-eb1d-33d2-af8c-984d46e40902"^^xsd:anyURI ;
   rdfs:label "Blood on the Tracks" ;
 .
+:Blood_on_Tracks_MLC
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Mary_Lees_Corvette ;
+  bibliographica:byArtist MusicGroup:Mary_Lees_Corvette ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/36c5608f-95b1-4235-b137-71821d5979aa"^^xsd:anyURI ;
+  rdfs:label "Blood on the Tracks" ;
+.
 :Blood_Red_Cherry
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2605,6 +2615,16 @@
   bibliographica:byArtist SoloMusicArtist:Bruce_Cockburn ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/3d92083e-0fb5-3196-bc5c-8caf855f5f24"^^xsd:anyURI ;
   rdfs:label "Christmas" ;
+.
+:Christmas_MS
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Mannheim_Steamroller ;
+  bibliographica:byArtist MusicGroup:Mannheim_Steamroller ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/6dd0e464-6c4d-4878-bc3f-7fe5b1e64b9c"^^xsd:anyURI ;
+  rdfs:label "Christmas'" ;
 .
 :Chooglin
   rdf:type mo:CD ;
@@ -4535,6 +4555,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/beba85a6-8a05-3bf8-99d6-2a5e9f38f12e"^^xsd:anyURI ;
   rdfs:label "Family Tree" ;
 .
+:Fanning_the_Flames
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Maria_Muldaur ;
+  bibliographica:byArtist SoloMusicArtist:Maria_Muldaur ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/39c60bf4-73ad-425c-ba86-0afc870f907d"^^xsd:anyURI ;
+  rdfs:label "Fanning the Flames" ;
+.
 :Fasiya
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4554,6 +4584,16 @@
   bibliographica:byArtist SoloMusicArtist:Shawn_Colvin ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/ca4634f5-6694-4bae-aac7-35df2c1c82db"^^xsd:anyURI ;
   rdfs:label "Fat City" ;
+.
+:Favorite_Ball_Chain
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Marlee_MacLeod ;
+  bibliographica:byArtist SoloMusicArtist:Marlee_MacLeod ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c2e4d802-7b1b-4162-b506-b2782c452f63"^^xsd:anyURI ;
+  rdfs:label "Favorite Ball and Chain" ;
 .
 :Feed_Us
   rdf:type mo:CD ;
@@ -5060,6 +5100,16 @@
   bibliographica:byArtist MusicGroup:Ravi_Harris_Prophets ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d797a165-8495-46f0-8a89-07df37eb3ed7"^^xsd:anyURI ;
   rdfs:label "Funky Sitar Man" ;
+.
+:Funny_Valentine
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Massacre ;
+  bibliographica:byArtist MusicGroup:Massacre ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/00055492-830d-4d2f-ae29-69cd09eeab23"^^xsd:anyURI ;
+  rdfs:label "Funny Valentine" ;
 .
 :Further_Adventures_Of
   rdf:type mo:CD ;
@@ -5740,6 +5790,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c77ce024-dcd1-4bbb-b1c1-18f1cd6a2961"^^xsd:anyURI ;
   rdfs:label "Hello Young Lovers" ;
 .
+:Helpless_Heart
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Maura_OConnell ;
+  bibliographica:byArtist SoloMusicArtist:Maura_OConnell ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/dec70e34-aa50-4d04-8daf-36a7eee2e16f"^^xsd:anyURI ;
+  rdfs:label "Helpless Heart" ;
+.
 :Helvetica_Bold
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5837,6 +5897,16 @@
   rdf:type schema:MusicAlbum ;
   dcterms:creator MusicGroup:Little_Beirut ;
   bibliographica:byArtist MusicGroup:Little_Beirut ;
+  rdfs:label "High Dive" ;
+.
+:High_Dive_MM
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Maria_McKee ;
+  bibliographica:byArtist SoloMusicArtist:Maria_McKee ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9ede9440-d062-4639-be30-3a293f92f1f6"^^xsd:anyURI ;
   rdfs:label "High Dive" ;
 .
 :High_Winds_White_Sky
@@ -6996,6 +7066,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/09452801-1dbd-4788-8fe6-9da91b62164f"^^xsd:anyURI ;
   rdfs:label "Kill Eugene" ;
 .
+:Killing_Time
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Massacre ;
+  bibliographica:byArtist MusicGroup:Massacre ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9e8c7f6a-86b3-426a-80c6-6b80bf3c3ef9"^^xsd:anyURI ;
+  rdfs:label "Killing Time" ;
+.
 :Kind_of_Blue
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7428,6 +7508,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b68bf54c-5e26-410e-984f-dc5b720b7526"^^xsd:anyURI ;
   rdfs:label "Liege & Lief" ;
 .
+:Life_Is_Sweet
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Maria_McKee ;
+  bibliographica:byArtist SoloMusicArtist:Maria_McKee ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e1e49fd5-1e81-4974-8135-df62bec22ace"^^xsd:anyURI ;
+  rdfs:label "Life Is Sweet" ;
+.
 :Life_On_Bottom
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7832,6 +7922,16 @@
   bibliographica:byArtist SoloMusicArtist:Charles_Mingus ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/5d2910f3-fb1e-4e82-b700-b06a4101683d"^^xsd:anyURI ;
   rdfs:label "Live In Chateauvallon, 1972" ;
+.
+:Live_in_Hamburg
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Maria_McKee ;
+  bibliographica:byArtist SoloMusicArtist:Maria_McKee ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e1d9d6e2-4994-4a66-a045-51b32ff3c840"^^xsd:anyURI ;
+  rdfs:label "Live in Hamburg" ;
 .
 :Live_in_Japan_HT
   rdf:type mo:CD ;
@@ -8473,6 +8573,15 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/9980ffe5-c5b5-3a83-8c1e-1ec6618f97ca"^^xsd:anyURI ;
   rdfs:label "Love and Theft" ;
 .
+:Love_Loss_Lunacy
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Mary_Lees_Corvette ;
+  bibliographica:byArtist MusicGroup:Mary_Lees_Corvette ;
+  rdfs:label "Love, Loss & Lunacy" ;
+.
 :Love_Over_Gold
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -8703,6 +8812,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/57df3412-99e4-479b-a8df-5bada7c48926"^^xsd:anyURI ;
   rdfs:label "Manifold" ;
 .
+:Maria_McKee_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Maria_McKee ;
+  bibliographica:byArtist SoloMusicArtist:Maria_McKee ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c124cf10-1a11-4f65-89cb-0799e3baeea6"^^xsd:anyURI ;
+  rdfs:label "Maria McKee" ;
+.
 :Marvin_Pontiac
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -8723,6 +8842,26 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/85acb6fb-8fc2-48b5-9ec5-d764c752d2ec"^^xsd:anyURI ;
   rdfs:label "Masked and Anonymous" ;
   skos:related SoloMusicArtist:Bob_Dylan ;
+.
+:Master_Drummers_Dagbon
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ahaji_Ibrahim_Abdulai ;
+  bibliographica:byArtist SoloMusicArtist:Ahaji_Ibrahim_Abdulai ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a3974583-0052-42e9-8706-d56062c15e68"^^xsd:anyURI ;
+  rdfs:label "Master Drummers of Dagbon, Volume 2" ;
+.
+:Material_Bill_Laswell
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bill_Laswell ;
+  bibliographica:byArtist SoloMusicArtist:Bill_Laswell ;
+  rdfs:label "Material with Bill Laswell" ;
+  rdfs:comment "Unspecified release in collection" ;
 .
 :Mazurka_Berserker
   rdf:type mo:CD ;
@@ -8772,6 +8911,16 @@
   bibliographica:byArtist SoloMusicArtist:Annie_Lennox ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/55229cad-2f4f-4b02-8530-7e9d199018fc"^^xsd:anyURI ;
   rdfs:label "Medusa" ;
+.
+:Meet_Me_Midnite
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Maria_Muldaur ;
+  bibliographica:byArtist SoloMusicArtist:Maria_Muldaur ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d008aebf-b341-49d8-ac65-54c8dc527990"^^xsd:anyURI ;
+  rdfs:label "Meet Me at Midnite" ;
 .
 :Moat_on_Ledge
   rdf:type mo:CD ;
@@ -10410,6 +10559,16 @@
   bibliographica:byArtist SoloMusicArtist:Leo_Kottke ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/4401db6d-6ea1-466a-81a1-4dd6af2c3b45"^^xsd:anyURI ;
   rdfs:label "Peculiaroso" ;
+.
+:Peddlin_Dreams
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Maria_McKee ;
+  bibliographica:byArtist SoloMusicArtist:Maria_McKee ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5e0f7487-78a6-4570-9171-627940a38e15"^^xsd:anyURI ;
+  rdfs:label "Peddlin' Dreams" ;
 .
 :People_in_Me
   rdf:type mo:CD ;
@@ -13699,6 +13858,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/01ab06a7-49f5-4cb7-9ff6-29b998c2d9c7"^^xsd:anyURI ;
   rdfs:label "The Legacy 1933-1958" ;
 .
+:The_Lion_Roars
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Mahlathini_Mahotella_Queens ;
+  bibliographica:byArtist MusicGroup:Mahlathini_Mahotella_Queens ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/72434d40-ba41-4672-89c7-0e8963691124"^^xsd:anyURI ;
+  rdfs:label "The Lion Roars" ;
+.
 :The_Live_One
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -13952,6 +14121,16 @@
   bibliographica:byArtist MusicGroup:Los_Lobos ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/4ae2fd95-f2db-406f-a375-a183716b286e"^^xsd:anyURI ;
   rdfs:label "The Town and the City" ;
+.
+:The_Ultimate_Collection
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Maria_McKee ;
+  bibliographica:byArtist SoloMusicArtist:Maria_McKee ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a48f89b1-602f-4c2e-a124-89a4df8110e3"^^xsd:anyURI ;
+  rdfs:label "The Ultimate Collection" ;
 .
 :The_Wheel
   rdf:type mo:CD ;
@@ -15365,6 +15544,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/4942576d-9f1a-467e-9b13-b710dc77e187"^^xsd:anyURI ;
   rdfs:label "Waltzie" ;
 .
+:Wandering_Home
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Maura_OConnell ;
+  bibliographica:byArtist SoloMusicArtist:Maura_OConnell ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/ce8ec74e-6228-42df-aa35-cb6fba7c352a"^^xsd:anyURI ;
+  rdfs:label "Wandering Home" ;
+.
 :War_Child
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -15845,6 +16034,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b1d4d1e7-9295-4391-a53b-1e36ac13c88e"^^xsd:anyURI ;
   rdfs:label "Universal Men" ;
 .
+:Women_of_World
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Mahotella_Queens ;
+  bibliographica:byArtist MusicGroup:Mahotella_Queens ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d5ee6fa8-c853-4ff4-b541-a47f0f7d08bb"^^xsd:anyURI ;
+  rdfs:label "Women of the World" ;
+.
 :Work_For_All
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -16050,6 +16249,16 @@
   bibliographica:byArtist SoloMusicArtist:Jimmy_Cliff ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/f7498b7e-c890-4948-9dcc-2a5289f528a5"^^xsd:anyURI ;
   rdfs:label "You Can Get It If You Really Want" ;
+.
+:You_Gotta_Sin_Saved
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Maria_McKee ;
+  bibliographica:byArtist SoloMusicArtist:Maria_McKee ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e72fedda-e371-45f6-9b33-4b14845b2c91"^^xsd:anyURI ;
+  rdfs:label "You Gotta Sin to Get Saved" ;
 .
 :You_Pay_Your_Money
   rdf:type mo:CD ;

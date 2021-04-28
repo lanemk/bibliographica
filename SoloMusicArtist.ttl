@@ -48,6 +48,12 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/73c3f499-60e2-44e1-81dd-7fe2191461fa"^^xsd:anyURI ;
   rdfs:label "Adrian Belew" ;
 .
+:Ahaji_Ibrahim_Abdulai
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/ec253150-7438-4403-bcb1-ff261ee3fe9e"^^xsd:anyURI ;
+  rdfs:label "Alhaji Ibrahim Abdulai" ;
+.
 :Ahmad_Jamal
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassIL ;
