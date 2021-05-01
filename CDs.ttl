@@ -1286,6 +1286,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/67269ee5-a963-4cca-bafc-31e3821d4e13"^^xsd:anyURI ;
   rdfs:label "The Best of What's Around" ;
 .
+:Best_of_Word_Jazz
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ken_Nordine ;
+  bibliographica:byArtist SoloMusicArtist:Ken_Nordine ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/7ec64128-e2a1-4a93-b30d-0208a56ddfbd"^^xsd:anyURI ;
+  rdfs:label "The Best of Word Jazz, Vol. 1" ;
+.
 :Between_Mountain_Moon
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1674,6 +1684,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b37ce1bf-5900-422f-a23e-fa93cfa94521"^^xsd:anyURI ;
   rdfs:label "Blue Moon Swamp" ;
 .
+:Blue_Pony
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Julie_Miller ;
+  bibliographica:byArtist SoloMusicArtist:Julie_Miller ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5c2103db-5dab-469f-9697-02c9e542ad4a"^^xsd:anyURI ;
+  rdfs:label "Blue Pony" ;
+.
 :Blue_Ridge
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2003,6 +2023,16 @@
   bibliographica:byArtist MusicGroup:Lowen_Navarro ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/41d97dba-8bf6-49af-a887-d1db4e5e1093"^^xsd:anyURI ;
   rdfs:label "Broken Moon" ;
+.
+:Broken_Things
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Julie_Miller ;
+  bibliographica:byArtist SoloMusicArtist:Julie_Miller ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/83609a0e-d26a-4bc7-9938-3b7775c978b1"^^xsd:anyURI ;
+  rdfs:label "Broken Things" ;
 .
 :Brothers_And_Sisters
   rdf:type mo:CD ;
@@ -3455,6 +3485,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a8821dcf-4e78-4291-a102-0606b79213a3"^^xsd:anyURI ;
   rdfs:label "Dead City Radio" ;
 .
+:Dead_Dogs_Eyeball
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:K_McCarty ;
+  bibliographica:byArtist SoloMusicArtist:K_McCarty ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/65eb363d-40a6-4dff-93c4-234eec4a67eb"^^xsd:anyURI ;
+  rdfs:label "Dead Dog's Eyeball" ;
+.
 :Dead_Men_Cant_Die
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3593,6 +3633,16 @@
   bibliographica:byArtist MusicGroup:Devo ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/519d76df-ef9f-42f6-97fe-f3f18d32ce85"^^xsd:anyURI ;
   rdfs:label "DEV‐O Live" ;
+.
+:Devout_Catlyst
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ken_Nordine ;
+  bibliographica:byArtist SoloMusicArtist:Ken_Nordine ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/61ec928e-123d-4bcd-b658-d007cc7c7a1d"^^xsd:anyURI ;
+  rdfs:label "Devout Catlyst" ;
 .
 :Diamond_Dogs
   rdf:type mo:CD ;
@@ -4605,6 +4655,15 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/bd1fac5e-e1d5-4d91-ba01-8ab0ff4430f0"^^xsd:anyURI ;
   rdfs:label "Feed-Us" ;
 .
+:Feed_Your_Dog
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Junis_Ponds ;
+  bibliographica:byArtist SoloMusicArtist:Junis_Ponds ;
+  rdfs:label "Feed Your Dog" ;
+.
 :Feel_The_Sun
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5597,6 +5656,15 @@
   bibliographica:byArtist SoloMusicArtist:George_Clinton ;
   rdfs:label "Greatest Hits Live 1972-1993" ;
 .
+:Greatest_Show_Earth
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Katy_Moffatt ;
+  bibliographica:byArtist SoloMusicArtist:Katy_Moffatt ;
+  rdfs:label "The Greatest Show On Earth" ;
+.
 :Greetings_From_LA
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5949,6 +6017,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/bdbe5b7d-6579-4ff6-832f-172b2e83fdb3"^^xsd:anyURI ;
   rdfs:label "Histoire de Melody Nelson" ;
 .
+:History_Mystery_Prophesy
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Lee_Scratch_Perry ;
+  bibliographica:byArtist SoloMusicArtist:Lee_Scratch_Perry ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/21f7bb22-add6-47f0-8f09-57ba1f425307"^^xsd:anyURI ;
+  rdfs:label "History, Mystery & Prophesy" ;
+.
 :Hits
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -6068,6 +6146,16 @@
   bibliographica:byArtist SoloMusicArtist:Greg_Brown ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/518b738b-a47c-48f9-ad66-b90df93c1c73"^^xsd:anyURI ;
   rdfs:label "Honey in the Lion's Head" ;
+.
+:Hoodoo_Moon
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Kenny_Neal ;
+  bibliographica:byArtist SoloMusicArtist:Kenny_Neal ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/73c651d4-1e58-411d-a32e-98c34f82f290"^^xsd:anyURI ;
+  rdfs:label "Hoodoo Moon" ;
 .
 :Hopeville
   rdf:type mo:CD ;
@@ -6298,6 +6386,16 @@
   bibliographica:byArtist MusicGroup:Everything_but_the_Girl ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/833e5d60-d082-4030-b072-5ec35bb8a3e3"^^xsd:anyURI ;
   rdfs:label "Idewild" ;
+.
+:In_Flight
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Linda_Perry ;
+  bibliographica:byArtist SoloMusicArtist:Linda_Perry ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/32ea2b63-848d-3bcb-9579-ad3ec0071569"^^xsd:anyURI ;
+  rdfs:label "In Flight" ;
 .
 :In_Person_On_Stage
   rdf:type mo:CD ;
@@ -8074,6 +8172,16 @@
   bibliographica:byArtist MusicGroup:Grateful_Dead ;
   rdfs:label "New York 2-21-71" ;
 .
+:Live_From_Around_World
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Kristina_Olsen ;
+  bibliographica:byArtist SoloMusicArtist:Kristina_Olsen ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e3a16d72-d579-46cf-a832-4b2f294962e4"^^xsd:anyURI ;
+  rdfs:label "Live From Around the World" ;
+.
 :Live_From_Left_Coast
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -8153,6 +8261,16 @@
   bibliographica:byArtist SoloMusicArtist:Dave_Matthews ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/f5b1582c-65aa-4df5-ab2f-9d8ad2953be3"^^xsd:anyURI ;
   rdfs:label "Live at Red Rocks 8.15.95" ;
+.
+:Live_at_VV_II
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Junko_Onishi ;
+  bibliographica:byArtist SoloMusicArtist:Junko_Onishi ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/8454bf86-0d78-48d0-9b72-dda8e92ecf23"^^xsd:anyURI ;
+  rdfs:label "Live At The Village Vanguard II" ;
 .
 :Live_Badu
   rdf:type mo:CD ;
@@ -8451,6 +8569,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a9ce011c-aad7-4b1f-9ba4-14f33a0b3258"^^xsd:anyURI ;
   rdfs:label "Lonesome Prison Blues" ;
 .
+:Lonesome_Standard_Time
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Kathy_Mattea ;
+  bibliographica:byArtist SoloMusicArtist:Kathy_Mattea ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/1e121095-85b1-45ca-9b32-b1878b809ccb"^^xsd:anyURI ;
+  rdfs:label "Lonesome Standard Time" ;
+.
 :Long_Journey_Home
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -8480,6 +8608,16 @@
   bibliographica:byArtist SoloMusicArtist:Adrian_Belew ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e92792f7-ed85-4e80-8e38-c06646222c03"^^xsd:anyURI ;
   rdfs:label "Lone Rhino" ;
+.
+:Look_at_Love
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Judy_Mowatt ;
+  bibliographica:byArtist SoloMusicArtist:Judy_Mowatt ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/4c95cc7b-23ff-48db-ac25-8e9276afaa09"^^xsd:anyURI ;
+  rdfs:label "Look at Love" ;
 .
 :Los_Lonely_Boys_CD
   rdf:type mo:CD ;
@@ -11579,6 +11717,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/f57b1695-bc7b-4e59-9301-512d69a4c4a5"^^xsd:anyURI ;
   rdfs:label "Rockets" ;
 .
+:Roll_Away_Stone
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Kelly_Joe_Phelps ;
+  bibliographica:byArtist SoloMusicArtist:Kelly_Joe_Phelps ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9f392a32-e85a-47f3-a0ea-d1d8335da62f"^^xsd:anyURI ;
+  rdfs:label "Roll Away the Stone" ;
+.
 :Rolling_Thunder
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -12814,6 +12962,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/147ecce2-d4ae-4a2f-99a7-7ea23e226054"^^xsd:anyURI ;
   rdfs:label "Spiritual Appliances" ;
 .
+:Spread_Your_Wings
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Laura_Nyro ;
+  bibliographica:byArtist SoloMusicArtist:Laura_Nyro ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/8b85e63c-0538-4807-8c3b-565f8d87aa9b"^^xsd:anyURI ;
+  rdfs:label "Spread Your Wings and Fly: Live at the Fillmore East May 30, 1971" ;
+.
 :Spyboy
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -12963,6 +13121,16 @@
   bibliographica:byArtist MusicGroup:Grateful_Dead ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e49d0df7-ce94-4e44-bb29-3bea02f49c45"^^xsd:anyURI ;
   rdfs:label "Stolen Roses: Songs of the Grateful Dead" ;
+.
+:Stoned_Soul_Picnic
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Laura_Nyro ;
+  bibliographica:byArtist SoloMusicArtist:Laura_Nyro ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b293737f-ef60-43d1-ae50-b05cd443a214"^^xsd:anyURI ;
+  rdfs:label "Stoned Soul Picnic: The Best of Laura Nyro" ;
 .
 :Stories_From_Bluebus
   rdf:type mo:CD ;
@@ -14272,6 +14440,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/38f40f0f-677a-40ce-ba2f-4da1c93cfa70"^^xsd:anyURI ;
   rdfs:label "Thin Wild Mercury Music" ;
 .
+:Things_That_Show
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Kris_McKay ;
+  bibliographica:byArtist SoloMusicArtist:Kris_McKay ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/7bc6591a-9557-4ace-a9e1-bdca4baae570"^^xsd:anyURI ;
+  rdfs:label "Things That Show" ;
+.
 :Third_Album_Plus_Vampire
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -14500,6 +14678,16 @@
   bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/dad1dada-1fda-3186-beb7-3bc80e90f9e0"^^xsd:anyURI ;
   rdfs:label "Time Out of Mind" ;
+.
+:Time_Passes_By
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Kathy_Mattea ;
+  bibliographica:byArtist SoloMusicArtist:Kathy_Mattea ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/0ac5302c-f924-4696-8d55-c50c20144b67"^^xsd:anyURI ;
+  rdfs:label "Time Passes By" ;
 .
 :Tiny_Voices
   rdf:type mo:CD ;
@@ -16063,6 +16251,16 @@
   bibliographica:byArtist SoloMusicArtist:Bob_Mould ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/1a547adc-c99e-4c55-87b1-5d7da769d743"^^xsd:anyURI ;
   rdfs:label "Workbook" ;
+.
+:Working_Wonders
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Judy_Mowatt ;
+  bibliographica:byArtist SoloMusicArtist:Judy_Mowatt ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/df939f67-612a-4b49-a438-9a818bd472a6"^^xsd:anyURI ;
+  rdfs:label "Working Wonders" ;
 .
 :Works
   rdf:type mo:CD ;
