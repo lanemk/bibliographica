@@ -2635,10 +2635,14 @@
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassMP ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Loreena_McKennitt.ttl"^^xsd:anyURI ;
-  bibliographica:dbpediaURI "http://dbpedia.org/data/Lori_McKenna.ttl"^^xsd:anyURI ;
-  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/886557b3-2fa6-494e-993d-b955e789dc57"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/c1e5344e-1bff-4727-9417-a4f55e41b5ff"^^xsd:anyURI ;
   rdfs:label "Loreena McKennitt" ;
+.
+:Lori_McKenna
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Lori_McKenna.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/886557b3-2fa6-494e-993d-b955e789dc57"^^xsd:anyURI ;
   rdfs:label "Lori McKenna" ;
 .
 :Loretta_Lynn

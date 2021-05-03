@@ -1796,6 +1796,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/60358613-5c21-4c60-bc55-2ba3c63a8e5d"^^xsd:anyURI ;
   rdfs:label "B’BOOM: Official Bootleg – Live in Argentina" ;
 .
+:Book_of_Secrets
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Loreena_McKennitt ;
+  bibliographica:byArtist SoloMusicArtist:Loreena_McKennitt ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/2856792c-10e9-43e2-94ca-ac05585113c6"^^xsd:anyURI ;
+  rdfs:label "The Book of Secrets" ;
+.
 :Boom_Boom
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4305,6 +4315,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a2e3ee0e-b3b4-3129-8fb6-89fbbb9b2b85"^^xsd:anyURI ;
   rdfs:label "Electric Ladyland" ;
 .
+:Elemental
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Loreena_McKennitt ;
+  bibliographica:byArtist SoloMusicArtist:Loreena_McKennitt ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5d55917a-40b3-341f-9262-069fc6b6d367"^^xsd:anyURI ;
+  rdfs:label "Elemental" ;
+.
 :Eleven_Tracks_Whack
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4672,6 +4692,16 @@
   dcterms:creator MusicGroup:Band_Du_Jour ;
   bibliographica:byArtist MusicGroup:Band_Du_Jour ;
   rdfs:label "Feel The Sun" ;
+.
+:Fictionary
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Lyle_Mays ;
+  bibliographica:byArtist SoloMusicArtist:Lyle_Mays ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/91cac4ea-4e6b-469e-a9d4-fc218e29b5eb"^^xsd:anyURI ;
+  rdfs:label "Fictionary" ;
 .
 :Fifth_of_Funk
   rdf:type mo:CD ;
@@ -6725,6 +6755,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/523af397-7eea-3b7b-8af9-72507fc6a811"^^xsd:anyURI ;
   rdfs:label "Inner City Front" ;
 .
+:Inner_Mounting_Flame
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Mahavishnu_Orchestra ;
+  bibliographica:byArtist MusicGroup:Mahavishnu_Orchestra ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/ed110c7b-6963-43d8-b353-646c164eb4e3"^^xsd:anyURI ;
+  rdfs:label "The Inner Mounting Flame" ;
+.
 :Interstate_City
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7133,6 +7173,16 @@
   bibliographica:byArtist MusicGroup:Camper_Van_Beethoven ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d826b19f-df20-4a9c-9a49-f10328c9b245"^^xsd:anyURI ;
   rdfs:label "Key Lime Pie" ;
+.
+:Kick_Out_Jams
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:MC5 ;
+  bibliographica:byArtist MusicGroup:MC5 ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9eebeb73-6d3f-48a9-b70d-97e91f42ae67"^^xsd:anyURI ;
+  rdfs:label "Kick Out the Jams" ;
 .
 :Kicking_Against_Pricks
   rdf:type mo:CD ;
@@ -7626,6 +7676,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/eb96cb63-6815-46d6-a3c8-beb1837527a9"^^xsd:anyURI ;
   rdfs:label "Life on the Bottom" ;
 .
+:Life_Planet_Groove
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Maceo_Parker ;
+  bibliographica:byArtist SoloMusicArtist:Maceo_Parker ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/ecdce2c1-3ed5-3347-8bcc-581df2f0a6ac"^^xsd:anyURI ;
+  rdfs:label "Life on Planet Groove" ;
+.
 :Life_Short_Call_Now
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -8050,6 +8110,16 @@
   bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/8f74470d-0504-483f-973d-24db67de6453"^^xsd:anyURI ;
   rdfs:label "Live in Japan" ;
+.
+:Live_in_Paris_Toronto
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Loreena_McKennitt ;
+  bibliographica:byArtist SoloMusicArtist:Loreena_McKennitt ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/44cc33da-547b-3406-afd0-a45270741ec6"^^xsd:anyURI ;
+  rdfs:label "Live in Paris and Toronto" ;
 .
 :Live_Japan
   rdf:type mo:CD ;
@@ -8639,6 +8709,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/1b5879b4-b093-45e0-9ac6-a63f24b965d3"^^xsd:anyURI ;
   rdfs:label "Lost In Space" ;
 .
+:Lost_Trident_Sessions
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Mahavishnu_Orchestra ;
+  bibliographica:byArtist MusicGroup:Mahavishnu_Orchestra ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a0928437-d1da-4451-b331-da43d97e2ac3"^^xsd:anyURI ;
+  rdfs:label "The Lost Trident Sessions" ;
+.
 :Lost_Songs
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -8799,6 +8879,15 @@
   bibliographica:byArtist SoloMusicArtist:Nick_Drake ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c1e3a0c5-fb34-47a8-83ca-4278aa47905d"^^xsd:anyURI ;
   rdfs:label "Made to Love Magic" ;
+.
+:Madeleine_Peyroux_album
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Madeleine_Peyroux ;
+  bibliographica:byArtist SoloMusicArtist:Madeleine_Peyroux ;
+  rdfs:label "Madeleine Peyroux (untitled)" ;
 .
 :Madman_Across_Water
   rdf:type mo:CD ;
@@ -8969,6 +9058,16 @@
   bibliographica:byArtist SoloMusicArtist:John_Lurie ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/4982f664-3584-4d86-a019-b080e1a3fdc7"^^xsd:anyURI ;
   rdfs:label "Greatest Hits of Marvin Pontiac" ;
+.
+:Mask_and_Mirror
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Loreena_McKennitt ;
+  bibliographica:byArtist SoloMusicArtist:Loreena_McKennitt ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/246344ba-959b-4e52-96ba-c31c23e74bdf"^^xsd:anyURI ;
+  rdfs:label "The Mask and Mirror" ;
 .
 :Masked_and_Anonymous
   rdf:type mo:CD ;
@@ -9866,6 +9965,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/095e2e2e-60c4-4f9f-a14a-2cc1b468bf66"^^xsd:anyURI ;
   rdfs:label "Nightclubbing" ;
 .
+:Night_in_Strange_Town
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Lynn_Miles ;
+  bibliographica:byArtist SoloMusicArtist:Lynn_Miles ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/359176c2-956e-4dba-a525-48132e067c39"^^xsd:anyURI ;
+  rdfs:label "Night in a Strange Town" ;
+.
 :Night_in_Tunisia
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -10605,6 +10714,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/9964568f-8da7-33cd-815a-eae1eef4d30b"^^xsd:anyURI ;
   rdfs:label "Paradise & Lunch" ;
 .
+:Parallel_Dreams
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Loreena_McKennitt ;
+  bibliographica:byArtist SoloMusicArtist:Loreena_McKennitt ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/fe67157b-e812-3228-8b3c-26ada5df48b6"^^xsd:anyURI ;
+  rdfs:label "Parallel Dreams" ;
+.
 :Paranoid
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -10809,13 +10928,23 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/533b6409-0f75-4eff-adc7-d49baedd32cf"^^xsd:anyURI ;
   rdfs:label "Pickin' on the Grateful Dead: A Tribute" ;
 .
-:Pieces_of_Sky
+:Pieces_of_Me
   rdf:type mo:CD ;
   rdf:type mo:Record ;
   rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
   dcterms:creator SoloMusicArtist:Emmylou_Harris ;
   bibliographica:byArtist SoloMusicArtist:Emmylou_Harris ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f1ec7bd9-94dc-48cb-9acb-094e2cbe0b17"^^xsd:anyURI ;
+  rdfs:label "Pieces of Me" ;
+.
+:Pieces_of_Sky
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Lori_McKenna ;
+  bibliographica:byArtist SoloMusicArtist:Lori_McKenna ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/6ec58426-57a5-4af3-8011-a4032d48211f"^^xsd:anyURI ;
   rdfs:label "Pieces of the Sky" ;
 .
@@ -11749,6 +11878,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/127fbd4a-f67a-4797-b360-75a9cf448bc5"^^xsd:anyURI ;
   rdfs:label "The Root of Steely Dan" ;
 .
+:Roots_Revisited
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Maceo_Parker ;
+  bibliographica:byArtist SoloMusicArtist:Maceo_Parker ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f479673d-6f8e-4ea7-a112-3b064084e307"^^xsd:anyURI ;
+  rdfs:label "Roots Revisited" ;
+.
 :Rough_Ready
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -12470,6 +12609,16 @@
   bibliographica:byArtist SoloMusicArtist:Joanna_Conner ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/9d1c3a91-2e35-4516-84a4-19a4233ffd48"^^xsd:anyURI ;
   rdfs:label "Slidetime" ;
+.
+:Slightly_Haunted
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Lynn_Miles ;
+  bibliographica:byArtist SoloMusicArtist:Lynn_Miles ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/8974385f-25fc-4baf-8395-01c0fa41877a"^^xsd:anyURI ;
+  rdfs:label "Slightly Haunted" ;
 .
 :Slow_Circle
   rdf:type mo:CD ;
@@ -14300,6 +14449,25 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a48f89b1-602f-4c2e-a124-89a4df8110e3"^^xsd:anyURI ;
   rdfs:label "The Ultimate Collection" ;
 .
+:The_Visit
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Loreena_McKennitt ;
+  bibliographica:byArtist SoloMusicArtist:Loreena_McKennitt ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/bdfec8a3-63fd-3a77-a724-7f783a64f0d6"^^xsd:anyURI ;
+  rdfs:label "The Visit" ;
+.
+:The_Visitor
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Loreena_McKennitt ;
+  bibliographica:byArtist SoloMusicArtist:Loreena_McKennitt ;
+  rdfs:label "The Visitor" ;
+.
 :The_Wheel
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -15430,6 +15598,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/90bfbec9-862c-4334-b235-43ff5111de03"^^xsd:anyURI ;
   rdfs:label "Unplugged" ;
 .
+:Unravel
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Lynn_Miles ;
+  bibliographica:byArtist SoloMusicArtist:Lynn_Miles ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/10f51d29-352d-30fb-a687-153a66dcb319"^^xsd:anyURI ;
+  rdfs:label "Unravel" ;
+.
 :Untold_Stories
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -15491,6 +15669,16 @@
   bibliographica:byArtist SoloMusicArtist:Loretta_Lynn ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/4df009ce-78de-4515-8499-19cc56d66eba"^^xsd:anyURI ;
   rdfs:label "Van Lear Rose" ;
+.
+:Venus_Kissed_Moon
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Loey_Nelson ;
+  bibliographica:byArtist SoloMusicArtist:Loey_Nelson ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/1957c8c1-2c1a-49a5-b6ab-39defa748787"^^xsd:anyURI ;
+  rdfs:label "Venus Kissed The Moon" ;
 .
 :Versions
   rdf:type mo:CD ;
@@ -16169,6 +16357,16 @@
   bibliographica:byArtist SoloMusicArtist:David_Lindley ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/6cc7d654-1334-3a01-9cc0-71e1f4b49b0a"^^xsd:anyURI ;
   rdfs:label "Win This Record!" ;
+.
+:Winter_Garden
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Loreena_McKennitt ;
+  bibliographica:byArtist SoloMusicArtist:Loreena_McKennitt ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/716b1f1c-9756-4258-8985-048bc6b5f886"^^xsd:anyURI ;
+  rdfs:label "A Winter Garden: Five Songs for the Season" ;
 .
 :Wired
   rdf:type mo:CD ;
