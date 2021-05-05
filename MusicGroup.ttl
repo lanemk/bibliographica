@@ -794,6 +794,14 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/b4375768-3c8b-46e7-b578-c920ccfe725f"^^xsd:anyURI ;
   rdfs:label "The Flying Burrito Brothers" ;
 .
+:Four_Bitchin_Babes
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassEH ;
+  rdf:type bibliographica:AlphaClassNUM ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Four_Bitchin'_Babes.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/c4990d62-84f0-468b-9283-e248de37ced7"^^xsd:anyURI ;
+  rdfs:label "Four Bitchin' Babes" ;
+.
 :Four_Non_Blondes
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassEH ;

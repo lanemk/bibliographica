@@ -165,6 +165,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/2734a2ba-5df6-4863-88f7-4aa86fc332a7"^^xsd:anyURI ;
   rdfs:label "Aerial Boundaries" ;
 .
+:Africa
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miriam_Makeba ;
+  bibliographica:byArtist SoloMusicArtist:Miriam_Makeba ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/766fa133-c9bc-467c-b965-84ba69b4768c"^^xsd:anyURI ;
+  rdfs:label "Africa" ;
+.
 :Africa_Brass
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1325,6 +1335,16 @@
   bibliographica:byArtist SoloMusicArtist:Monica_Augustine ;
   rdfs:label "Beyond Innocence" ;
 .
+:Big_Calm
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Morcheeba ;
+  bibliographica:byArtist MusicGroup:Morcheeba ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/0c0f9ff9-0b07-4d12-8978-6522601eca9d"^^xsd:anyURI ;
+  rdfs:label "Big Calm" ;
+.
 :Big_Circumstance
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1344,6 +1364,15 @@
   bibliographica:byArtist SoloMusicArtist:Sue_Foley ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/89d74f1b-acab-429b-8b6f-6faa022c5e4c"^^xsd:anyURI ;
   rdfs:label "Big City Blues" ;
+.
+:Big_Dirt
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:My_Sister_Kate ;
+  bibliographica:byArtist MusicGroup:My_Sister_Kate ;
+  rdfs:label "Big Dirt" ;
 .
 :Big_Fun
   rdf:type mo:CD ;
@@ -2174,6 +2203,16 @@
   bibliographica:byArtist SoloMusicArtist:David_Johansen ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/dc0553c3-3981-4195-a8a3-4f9b20d93328"^^xsd:anyURI ;
   rdfs:label "Buster’s Happy Hour" ;
+.
+:Buy_Me_Bring_Me_Take_Me
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Four_Bitchin_Babes ;
+  bibliographica:byArtist MusicGroup:Four_Bitchin_Babes ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/573e7d2c-a594-4506-bc88-3882836063a9"^^xsd:anyURI ;
+  rdfs:label "Buy Me Bring Me Take Me: Don't Mess My Hair!!!" ;
 .
 :By_The_Hand_Of_The_Father
   rdf:type mo:CD ;
@@ -3218,6 +3257,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a428807e-af55-42c6-a185-e6b35a2d571e"^^xsd:anyURI ;
   rdfs:label "Crazy Moon" ;
 .
+:Creation_Dream
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Michael_Occhipinti ;
+  bibliographica:byArtist SoloMusicArtist:Michael_Occhipinti ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/589520df-79b6-4e17-87e4-2c0395445a24"^^xsd:anyURI ;
+  rdfs:label "Creation Dream" ;
+.
 :Crescent
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3464,6 +3513,16 @@
   bibliographica:byArtist SoloMusicArtist:David_Bowie ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/1352a8a5-2494-3f02-bfa5-496d10e04c52"^^xsd:anyURI ;
   rdfs:label "David Live" ;
+.
+:Days_Future_Passed
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Moody_Blues ;
+  bibliographica:byArtist MusicGroup:Moody_Blues ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/11b50920-aef2-38a1-94e8-766157b6bed6"^^xsd:anyURI ;
+  rdfs:label "Days of Future Passed" ;
 .
 :Dawgnation
   rdf:type mo:CD ;
@@ -7616,6 +7675,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/5834e2a5-d1e8-4aab-adac-e5cc55d5143d"^^xsd:anyURI ;
   rdfs:label "Let My Children Hear Music" ;
 .
+:Let_Them_Say
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Montreux ;
+  bibliographica:byArtist MusicGroup:Montreux ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/d687f694-a209-4bc5-bca9-52833518681b"^^xsd:anyURI ;
+  rdfs:label "Let Them Say" ;
+.
 :Levellers_CD
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -8401,6 +8470,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/fa8b3217-3e89-45c4-a119-2ed8d71a64fa"^^xsd:anyURI ;
   rdfs:label "Live at Max’s Kansas City 11-15-77" ;
 .
+:Live_Modern_Lovers
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Modern_Lovers ;
+  bibliographica:byArtist MusicGroup:Modern_Lovers ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/aaadd03c-d5df-4155-8d91-18dbf637c0a1"^^xsd:anyURI ;
+  rdfs:label "Modern Lovers Live" ;
+.
 :Live_Mongoloid_Years
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -8460,6 +8539,18 @@
   bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/8cc94888-f0cf-4433-a6f5-0a8c1bbd860c"^^xsd:anyURI ;
   rdfs:label "Live In Seattle" ;
+.
+:Live_Too_Hot_Snakes
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Mick_Taylor ;
+  bibliographica:byArtist SoloMusicArtist:Mick_Taylor ;
+  dcterms:creator SoloMusicArtist:Carla_Olson ;
+  bibliographica:byArtist SoloMusicArtist:Carla_Olson ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/2c517f65-97f0-4546-91ac-d47ae9e64714"^^xsd:anyURI ;
+  rdfs:label "Too Hot For Snakes" ;
 .
 :Living_End
   rdf:type mo:CD ;
@@ -9622,6 +9713,15 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e651a61d-d955-49a4-89d1-37b3a81dc82e"^^xsd:anyURI ;
   rdfs:label "Momofuku" ;
 .
+:Monkey_Siren_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Monkey_Siren ;
+  bibliographica:byArtist MusicGroup:Monkey_Siren ;
+  rdfs:label "Monkey Siren" ;
+.
 :Moonpie_Dreams
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -9661,6 +9761,30 @@
   bibliographica:byArtist SoloMusicArtist:Clifford_Brown ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a21ea995-76a6-47c0-9ca8-5569642236c7"^^xsd:anyURI ;
   rdfs:label "More Study in Brown" ;
+.
+:Morris_On
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Richard_Thompson ;
+  bibliographica:byArtist SoloMusicArtist:Richard_Thompson ;
+  dcterms:creator SoloMusicArtist:Ashley_Hutchings ;
+  bibliographica:byArtist SoloMusicArtist:Ashley_Hutchings ;
+  dcterms:creator SoloMusicArtist:John_Kirkpatrick ;
+  bibliographica:byArtist SoloMusicArtist:John_Kirkpatrick ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/a6949ea3-e29c-3fa3-a21a-2c87b38c4e72"^^xsd:anyURI ;
+  rdfs:label "Morris On" ;
+.
+:Motherland
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Natalie_Merchant ;
+  bibliographica:byArtist SoloMusicArtist:Natalie_Merchant ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/2b04d52e-4560-40d6-820b-db47cdffea72"^^xsd:anyURI ;
+  rdfs:label "Motherland" ;
 .
 :Mothers_Nightmare
   rdf:type mo:CD ;
@@ -9874,6 +9998,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e182adf6-e2a8-444f-9b1f-43bec130ba82"^^xsd:anyURI ;
   rdfs:label "Neath Your Covers, Part 1" ;
 .
+:Never_The_Bride_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Never_The_Bride ;
+  bibliographica:byArtist MusicGroup:Never_The_Bride ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/31aca7f9-6d9b-4328-9b21-5f154558083f"^^xsd:anyURI ;
+  rdfs:label "Never The Bride" ;
+.
 :New_Album
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -10083,6 +10217,16 @@
   bibliographica:byArtist SoloMusicArtist:Steve_Goodman ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b433114f-3cb8-4b18-92ea-ada3b14e4003"^^xsd:anyURI ;
   rdfs:label "No Big Surprise" ;
+.
+:No_Boundaries
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Natalie_MacMaster ;
+  bibliographica:byArtist SoloMusicArtist:Natalie_MacMaster ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/2f5918e8-e367-4d9c-ad9f-b47df913619e"^^xsd:anyURI ;
+  rdfs:label "No Boundaries" ;
 .
 :No_Material
   rdf:type mo:CD ;
@@ -10595,6 +10739,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/2b766264-7cd9-408b-a73f-bc2b8d270a76"^^xsd:anyURI ;
   rdfs:label "Outbound" ;
 .
+:Outcry
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Mutabaruka ;
+  bibliographica:byArtist SoloMusicArtist:Mutabaruka ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/9433bb5a-3a7c-47ba-96d8-b0b60d5f6e0b"^^xsd:anyURI ;
+  rdfs:label "Outcry" ;
+.
 :Outward_Bound
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -10906,6 +11060,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/303f2eb3-bf48-49fb-93fa-e08699b358ac"^^xsd:anyURI ;
   rdfs:label "The Phosphorescent Rat" ;
 .
+:Peace_Beyond_Passion
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Meshell_Ndegeocello ;
+  bibliographica:byArtist SoloMusicArtist:Meshell_Ndegeocello ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/71d559e1-e986-3bd8-942a-d836b558bb91"^^xsd:anyURI ;
+  rdfs:label "Peace Beyond Passion" ;
+.
 :Pick_Up_On_This
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -11044,6 +11208,16 @@
   bibliographica:byArtist SoloMusicArtist:Bob_Dylan ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/aedd518d-d7e0-3595-80c7-54d2aad292f8"^^xsd:anyURI ;
   rdfs:label "Planet Waves" ;
+.
+:Plantation_Lullabies
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Meshell_Ndegeocello ;
+  bibliographica:byArtist SoloMusicArtist:Meshell_Ndegeocello ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9dcd1190-36ac-40ef-bb98-f4bfabe51e2a"^^xsd:anyURI ;
+  rdfs:label "Plantation Lullabies" ;
 .
 :Plasma
   rdf:type mo:CD ;
@@ -14247,6 +14421,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/cc5de41c-b952-47d2-9b87-62c7d5b87de0"^^xsd:anyURI ;
   rdfs:label "The Messenger" ;
 .
+:The_Modern_Lovers
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Modern_Lovers ;
+  bibliographica:byArtist MusicGroup:Modern_Lovers ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/caf21f2d-3bc5-4313-9126-902a2ae45851"^^xsd:anyURI ;
+  rdfs:label "The Modern Lovers" ;
+.
 :The_Mountain
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -15528,6 +15712,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/def57daf-3f7c-4614-a302-3bd8083d41a7"^^xsd:anyURI ;
   rdfs:label "Unhalfbricking" ;
 .
+:Uninvisible
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Medeski_Martin_Wood ;
+  bibliographica:byArtist MusicGroup:Medeski_Martin_Wood ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/933fe97b-1791-4a3a-a480-c6f406680dff"^^xsd:anyURI ;
+  rdfs:label "Uninvisible" ;
+.
 :Union
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -15659,6 +15853,16 @@
   bibliographica:byArtist MusicGroup:Bob_Marley_Wailers ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/f05b59f2-edc1-4c33-8dc9-795ace7f1c3e"^^xsd:anyURI ;
   rdfs:label "Uprising" ;
+.
+:Uptown_Rulers
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Meters ;
+  bibliographica:byArtist MusicGroup:Meters ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/0dfa9708-f10c-4eb1-acfe-b0c2e3292b48"^^xsd:anyURI ;
+  rdfs:label "Uptown Rulers!: The Meters Live on the Queen Mary" ;
 .
 :Van_Lear_Rose
   rdf:type mo:CD ;
@@ -16068,6 +16272,25 @@
   bibliographica:byArtist MusicGroup:Jerry_Garcia_Band ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c3cef3f1-f5e4-4a4f-94ea-d701248a3a11"^^xsd:anyURI ;
   rdfs:label "Welcome to Our World (For Members Only)" ;
+.
+:Welcome_To_My_World
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Mykel_Perkins ;
+  bibliographica:byArtist SoloMusicArtist:Mykel_Perkins ;
+  rdfs:label "Welcome to My World" ;
+.
+:Welela
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Miriam_Makeba ;
+  bibliographica:byArtist SoloMusicArtist:Miriam_Makeba ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/83b48a2f-4de3-442a-b5c1-a7dc61d010ba"^^xsd:anyURI ;
+  rdfs:label "Welela" ;
 .
 :Whale_Rider
   rdf:type mo:CD ;
