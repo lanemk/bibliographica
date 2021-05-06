@@ -594,6 +594,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/8179bb9b-1a37-4fdc-908c-a7b646cd1eb9"^^xsd:anyURI ;
   rdfs:label "Anthology" ;
 .
+:Anthology_New_Grass
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:New_Grass_Revival ;
+  bibliographica:byArtist MusicGroup:New_Grass_Revival ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/9b52467f-7594-4a23-a377-970eec293051"^^xsd:anyURI ;
+  rdfs:label "Anthology" ;
+.
 :Anything_Anytime_Anywhere
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2003,6 +2013,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/127fbc4c-b309-38bf-af91-624f03b134c4"^^xsd:anyURI ;
   rdfs:label "Boys for Pele" ;
 .
+:Breakdown
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Old_In_the_Way ;
+  bibliographica:byArtist MusicGroup:Old_In_the_Way ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/a70486be-b84d-48e0-8ef6-0dd66c9feb7b"^^xsd:anyURI ;
+  rdfs:label "Breakdown" ;
+.
 :Breakfast_In_Field
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2082,6 +2102,16 @@
   bibliographica:byArtist MusicGroup:Allman_Brothers ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d4766e51-f342-33c6-924c-f33f6180775f"^^xsd:anyURI ;
   rdfs:label "Brothers And Sisters" ;
+.
+:Brothers_Keeper
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Neville_Brothers ;
+  bibliographica:byArtist MusicGroup:Neville_Brothers ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/a081c797-b52f-4ef6-9657-d3c0fc704074"^^xsd:anyURI ;
+  rdfs:label "Brother's Keeper" ;
 .
 :Brothers_in_Arms
   rdf:type mo:CD ;
@@ -4664,6 +4694,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/2e3d3e30-5d78-438a-a669-38ac2bac1327"^^xsd:anyURI ;
   rdfs:label "The Family" ;
 .
+:Family_Groove
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Neville_Brothers ;
+  bibliographica:byArtist MusicGroup:Neville_Brothers ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/4ac44531-ffcb-4d1d-a68f-f7818db13d2b"^^xsd:anyURI ;
+  rdfs:label "Family Groove" ;
+.
 :Family_Man
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4950,6 +4990,16 @@
   bibliographica:byArtist SoloMusicArtist:Kris_Delmhorst ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/2fe3cba1-271a-4686-a9c4-9c53e3a9b782"^^xsd:anyURI ;
   rdfs:label "Five Stories" ;
+.
+:Fiyo_on_Bayou
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Neville_Brothers ;
+  bibliographica:byArtist MusicGroup:Neville_Brothers ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/e62f7f81-3068-4d20-ab3b-aacdcaa2a41a"^^xsd:anyURI ;
+  rdfs:label "Fiyo on the Bayou" ;
 .
 :Flesh_and_Bone
   rdf:type mo:CD ;
@@ -8130,6 +8180,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e6895acc-ed64-4ab7-8f5e-3035e926b170"^^xsd:anyURI ;
   rdfs:label "Live at Sweetwater II" ;
 .
+:Live_at_Tiptinas
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Neville_Brothers ;
+  bibliographica:byArtist MusicGroup:Neville_Brothers ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/be5e88fa-3a34-4c6d-8932-eff1d304a84a"^^xsd:anyURI ;
+  rdfs:label "Live At Tipitina's" ;
+.
 :Live_at_Village_Vanguard_Again
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -8490,6 +8550,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b3f76215-9179-4206-921a-aea6ffba6643"^^xsd:anyURI ;
   rdfs:label "Live: The Mongoloid Years" ;
 .
+:Live_on_Planet_Earth
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Neville_Brothers ;
+  bibliographica:byArtist MusicGroup:Neville_Brothers ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/c185f59d-a5fb-4bdb-a388-02a55b8eb230"^^xsd:anyURI ;
+  rdfs:label "Live on Planet Earth" ;
+.
 :Live_on_World_Cafe
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -8551,6 +8621,16 @@
   bibliographica:byArtist SoloMusicArtist:Carla_Olson ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/2c517f65-97f0-4546-91ac-d47ae9e64714"^^xsd:anyURI ;
   rdfs:label "Too Hot For Snakes" ;
+.
+:Live_Toulouse
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:New_Grass_Revival ;
+  bibliographica:byArtist MusicGroup:New_Grass_Revival ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/b6b86902-8881-4bea-9f81-b87853687921"^^xsd:anyURI ;
+  rdfs:label "Live (Toulouse Bluegrass Festival)" ;
 .
 :Living_End
   rdf:type mo:CD ;
@@ -9683,6 +9763,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e85bf538-9976-4d2e-9238-c32352a1a4d6"^^xsd:anyURI ;
   rdfs:label "Misty Eyed Adventures" ;
 .
+:Mitakuye_Oyasin
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Neville_Brothers ;
+  bibliographica:byArtist MusicGroup:Neville_Brothers ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/4caabff5-6a38-4002-9284-550c3d5c6d3a"^^xsd:anyURI ;
+  rdfs:label "Mitakuye Oyasin Oyasin (All My Relations)" ;
+.
 :Modern_Times
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -10471,6 +10561,26 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/10cef20d-30a9-432f-a839-b0d96776c8a7"^^xsd:anyURI ;
   rdfs:label "Old Boyfriends" ;
 .
+:Old_In_the_Way_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Old_In_the_Way ;
+  bibliographica:byArtist MusicGroup:Old_In_the_Way ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/7814430b-7fb3-4213-8d05-34c812d82deb"^^xsd:anyURI ;
+  rdfs:label "Old & In The Way" ;
+.
+:Old_In_the_Gray_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Old_In_the_Gray ;
+  bibliographica:byArtist MusicGroup:Old_In_the_Gray ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/825cba3f-e674-4082-b3d5-47dbd20a8507"^^xsd:anyURI ;
+  rdfs:label "Old & In The Gray" ;
+.
 :Old_Testaments
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -10490,6 +10600,16 @@
   bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/aad5ea8e-93d0-3010-8b01-80a14a0ef393"^^xsd:anyURI ;
   rdfs:label "Olé Coltrane" ;
+.
+:On_the_Blvd
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:New_Grass_Revival ;
+  bibliographica:byArtist MusicGroup:New_Grass_Revival ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/2f3828b5-e8b3-439b-aacd-39a3e47104c8"^^xsd:anyURI ;
+  rdfs:label "On the Boulevard" ;
 .
 :On_the_Corner
   rdf:type mo:CD ;
@@ -10980,6 +11100,16 @@
   bibliographica:byArtist SoloMusicArtist:Maria_McKee ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/5e0f7487-78a6-4570-9171-627940a38e15"^^xsd:anyURI ;
   rdfs:label "Peddlin' Dreams" ;
+.
+:Peek_A_Boo
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:NRBQ ;
+  bibliographica:byArtist MusicGroup:NRBQ ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/04e824df-e47b-4fab-9ddf-dea84a72c355"^^xsd:anyURI ;
+  rdfs:label "Peek-A-Boo: the Best of NRBQ 1969-1989" ;
 .
 :People_in_Me
   rdf:type mo:CD ;
@@ -12039,6 +12169,15 @@
   bibliographica:byArtist SoloMusicArtist:Mickey_Hart ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/182ca04f-6c88-4eff-aab5-1fe34c86df0c"^^xsd:anyURI ;
   rdfs:label "Rolling Thunder" ;
+.
+:Rolling_Turtle
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Old_School_String_Band ;
+  bibliographica:byArtist MusicGroup:Old_School_String_Band ;
+  rdfs:label "Rolling Turtle and the End of the Beginning" ;
 .
 :Root_of_Steely_Dan
   rdf:type mo:CD ;
@@ -14070,6 +14209,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/f87924fd-8725-4b3a-892c-2492456aea52"^^xsd:anyURI ;
   rdfs:label "Terrapin Station Live" ;
 .
+:That_High_Lonesome
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Old_In_the_Way ;
+  bibliographica:byArtist MusicGroup:Old_In_the_Way ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/0b9af56a-7aae-494e-bfcb-b4d2649d3cb8"^^xsd:anyURI ;
+  rdfs:label "That High Lonesome Sound" ;
+.
 :The_Art_of_Coltrane
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -14159,6 +14308,16 @@
   bibliographica:byArtist SoloMusicArtist:David_Byrne ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/98b1e961-bf84-4e4b-85c1-5de7161dfdef"^^xsd:anyURI ;
   rdfs:label "The Catherine Wheel" ;
+.
+:The_Classic_Years
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Nico ;
+  bibliographica:byArtist SoloMusicArtist:Nico ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/8d41f27e-b1c7-4b04-a118-0863628d812a"^^xsd:anyURI ;
+  rdfs:label "The Classic Years" ;
 .
 :The_Clown
   rdf:type mo:CD ;
@@ -15772,6 +15931,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b0b79978-f1c1-444f-b071-885be775450b"^^xsd:anyURI ;
   rdfs:label "Un-led-ed" ;
 .
+:Unplugged_Nirv
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Nirvana ;
+  bibliographica:byArtist MusicGroup:Nirvana ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/2ff3be28-f74f-40c9-bdde-c19b6e4384ee"^^xsd:anyURI ;
+  rdfs:label "Unplugged in New York" ;
+.
 :Unplugged_TB
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -15863,6 +16032,25 @@
   bibliographica:byArtist MusicGroup:Meters ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/0dfa9708-f10c-4eb1-acfe-b0c2e3292b48"^^xsd:anyURI ;
   rdfs:label "Uptown Rulers!: The Meters Live on the Queen Mary" ;
+.
+:Valence_Street
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Neville_Brothers ;
+  bibliographica:byArtist MusicGroup:Neville_Brothers ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/b3ea04ae-c833-47cb-814f-67418542c786"^^xsd:anyURI ;
+  rdfs:label "Valence Street" ;
+.
+:Validation_Music
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:New_Shining_Soul_Band ;
+  bibliographica:byArtist MusicGroup:New_Shining_Soul_Band ;
+  rdfs:label "Validation Music" ;
 .
 :Van_Lear_Rose
   rdf:type mo:CD ;
@@ -16093,6 +16281,25 @@
   bibliographica:byArtist SoloMusicArtist:Joan_Armatrading ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/dee917dc-6a8a-4164-b3ca-44f7761f9f8b"^^xsd:anyURI ;
   rdfs:label "Walk Under Ladders" ;
+.
+:Walkabout
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Nomad ;
+  bibliographica:byArtist MusicGroup:Nomad ;
+  rdfs:label "Walkabout" ;
+.
+:Walkin_in_Shadows
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Neville_Brothers ;
+  bibliographica:byArtist MusicGroup:Neville_Brothers ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/8fc0a126-5f09-4ebf-bda8-48118b8f291e"^^xsd:anyURI ;
+  rdfs:label "Walkin' in the Shadow of Life" ;
 .
 :Walking_Shadow_Big_Man
   rdf:type mo:CD ;
@@ -16848,6 +17055,16 @@
   bibliographica:byArtist MusicGroup:Hot_Tuna ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/2d612997-d5b8-4c00-8fbc-33ae8962eb36"^^xsd:anyURI ;
   rdfs:label "Yellow Fever" ;
+.
+:Yellow_Moon
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Neville_Brothers ;
+  bibliographica:byArtist MusicGroup:Neville_Brothers ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/de131056-0927-4875-82fb-725f2285e87c"^^xsd:anyURI ;
+  rdfs:label "Yellow Moon" ;
 .
 :Yola
   rdf:type mo:CD ;
