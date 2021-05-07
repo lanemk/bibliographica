@@ -445,6 +445,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/261de123-7315-4a2f-8c40-3dad9092313e"^^xsd:anyURI ;
   rdfs:label "American IV: The Man Comes Around" ;
 .
+:American_Garage
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Pat_Metheny_Group ;
+  bibliographica:byArtist MusicGroup:Pat_Metheny_Group ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/5119fe43-dfdc-3182-bfc5-0e8b87baf716"^^xsd:anyURI ;
+  rdfs:label "American Garage" ;
+.
 :American_Legends
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -692,6 +702,18 @@
   bibliographica:byArtist SoloMusicArtist:Rakoto_Frah ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/3a6bff5a-58eb-4a49-b166-b020597ef8c5"^^xsd:anyURI ;
   rdfs:label "The Art of Rakoto Frah & Randafison Sylvestre / Madagascar" ;
+.
+:As_Falls_Wichita
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Pat_Metheny ;
+  bibliographica:byArtist SoloMusicArtist:Pat_Metheny ;
+  dcterms:creator SoloMusicArtist:Lyle_Mays ;
+  bibliographica:byArtist SoloMusicArtist:Lyle_Mays ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/3f13728e-a143-4f2b-811a-cd8440176664"^^xsd:anyURI ;
+  rdfs:label "As Falls Wichita, So Falls Wichita Falls" ;
 .
 :Ask_The_Fish
   rdf:type mo:CD ;
@@ -2053,6 +2075,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/9dbf87e4-239f-4678-b18d-cf8732425490"^^xsd:anyURI ;
   rdfs:label "Bridges to Bert" ;
 .
+:Bright_Size_Life
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Pat_Metheny ;
+  bibliographica:byArtist SoloMusicArtist:Pat_Metheny ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/91e3f8f6-0c51-4c50-96ca-28bc1757297d"^^xsd:anyURI ;
+  rdfs:label "Bright Size Life" ;
+.
 :Bring_the_Family
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2174,6 +2206,16 @@
   bibliographica:byArtist SoloMusicArtist:Ibrahim_Ferrer ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/231dc0e9-bcfa-449f-b445-ae6835c09b2a"^^xsd:anyURI ;
   rdfs:label "Buena Vista Social Club Presents Ibrahim Ferrer" ;
+.
+:Buena_Vista_Social_Club_OP
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Omara_Portuondo ;
+  bibliographica:byArtist SoloMusicArtist:Omara_Portuondo ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/42d995d4-a13a-45e1-81e2-2f04694e8918"^^xsd:anyURI ;
+  rdfs:label "Buenas Vista Social Club Presents Omara Portuondo" ;
 .
 :Bug_Toast_CD
   rdf:type mo:CD ;
@@ -3693,6 +3735,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/31fce93f-44e1-46a5-98cb-6f8491f0d1b3"^^xsd:anyURI ;
   rdfs:label "Del And The Boys" ;
 .
+:Deserters
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Oysterband ;
+  bibliographica:byArtist MusicGroup:Oysterband ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/c88bc7af-6234-4dd0-a71c-bff78b9b5527"^^xsd:anyURI ;
+  rdfs:label "Deserters" ;
+.
 :Desire
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4901,6 +4953,16 @@
   bibliographica:byArtist SoloMusicArtist:Baaba_Maal ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/9ad488a3-03da-4958-a7bb-f4c2176bae5b"^^xsd:anyURI ;
   rdfs:label "Firin' in Fouta" ;
+.
+:First_Circle
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Pat_Metheny_Group ;
+  bibliographica:byArtist MusicGroup:Pat_Metheny_Group ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/1095fab2-8acf-40c1-9d30-dd955500d6d4"^^xsd:anyURI ;
+  rdfs:label "First Circle" ;
 .
 :First_Instrument
   rdf:type mo:CD ;
@@ -7735,6 +7797,16 @@
   bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/d687f694-a209-4bc5-bca9-52833518681b"^^xsd:anyURI ;
   rdfs:label "Let Them Say" ;
 .
+:Letter_From_Home
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Pat_Metheny_Group ;
+  bibliographica:byArtist MusicGroup:Pat_Metheny_Group ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/19721ca4-81da-4a29-bae6-97dc46334d4b"^^xsd:anyURI ;
+  rdfs:label "Letter From Home" ;
+.
 :Levellers_CD
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -8329,6 +8401,15 @@
   bibliographica:byArtist SoloMusicArtist:Elvis_Costello ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/5ecbf31e-bef2-48d9-ac2b-08188a811970"^^xsd:anyURI ;
   rdfs:label "Live at the El Mocambo" ;
+.
+:Live_At_Jaszczury_Club
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Pat_Metheny_Group ;
+  bibliographica:byArtist MusicGroup:Pat_Metheny_Group ;
+  rdfs:label "Live At Jaszczury Club" ;
 .
 :Live_at_Luther_College
   rdf:type mo:CD ;
@@ -9050,6 +9131,16 @@
   bibliographica:byArtist SoloMusicArtist:Nick_Drake ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c1e3a0c5-fb34-47a8-83ca-4278aa47905d"^^xsd:anyURI ;
   rdfs:label "Made to Love Magic" ;
+.
+:Made_in_Dakar
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Orchestra_Baobab ;
+  bibliographica:byArtist MusicGroup:Orchestra_Baobab ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/e6b2afe4-7244-4596-b80a-1bf48c09e003"^^xsd:anyURI ;
+  rdfs:label "Made In Dakar" ;
 .
 :Madeleine_Peyroux_album
   rdf:type mo:CD ;
@@ -9896,6 +9987,18 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/65ef3f04-39df-44b9-af20-d0046b4db403"^^xsd:anyURI ;
   rdfs:label "Motor City Moments" ;
 .
+:Move_To_Groove
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Pat_Metheny ;
+  bibliographica:byArtist SoloMusicArtist:Pat_Metheny ;
+  dcterms:creator MusicGroup:Heath_Brothers ;
+  bibliographica:byArtist MusicGroup:Heath_Brothers ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/7d299ae0-cba2-4ae1-9fa1-734ba982c5e4"^^xsd:anyURI ;
+  rdfs:label "The Move to the Groove Session" ;
+.
 :Mr_Lucky
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -10106,6 +10209,16 @@
   dcterms:creator MusicGroup:Janes_Addiction ;
   bibliographica:byArtist MusicGroup:Janes_Addiction ;
   rdfs:label "New Album" ;
+.
+:New_Chautauqua
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Pat_Metheny ;
+  bibliographica:byArtist SoloMusicArtist:Pat_Metheny ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/4936fc5d-db31-4a62-81db-9ebce3049b1e"^^xsd:anyURI ;
+  rdfs:label "New Chautauqua" ;
 .
 :New_Era
   rdf:type mo:CD ;
@@ -10521,6 +10634,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b73ab90d-0ce8-4801-8da3-0a331b9d9392"^^xsd:anyURI ;
   rdfs:label "Odù" ;
 .
+:Offramp
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Pat_Metheny_Group ;
+  bibliographica:byArtist MusicGroup:Pat_Metheny_Group ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/e9a6637a-9612-3cc4-88c9-50c7ac5d4330"^^xsd:anyURI ;
+  rdfs:label "Offramp" ;
+.
 :Oh_Mercy
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -10730,6 +10853,16 @@
   bibliographica:byArtist SoloMusicArtist:Clarence_Gatemouth_Brown ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/26c50e80-659f-4f51-ade7-0c8230b39274"^^xsd:anyURI ;
   rdfs:label "One More Mile" ;
+.
+:One_Quiet_Night
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Pat_Metheny ;
+  bibliographica:byArtist SoloMusicArtist:Pat_Metheny ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/afaf7f86-3ec9-3bce-b58b-48231c57ed89"^^xsd:anyURI ;
+  rdfs:label "One Quiet Night" ;
 .
 :One_Soul_Now
   rdf:type mo:CD ;
@@ -11080,6 +11213,16 @@
   bibliographica:byArtist SoloMusicArtist:Tori_Amos ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/93c840ab-7174-4799-9c6c-6b9051d0ff97"^^xsd:anyURI ;
   rdfs:label "Past The Mission" ;
+.
+:Pat_Metheny_Group_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Pat_Metheny_Group ;
+  bibliographica:byArtist MusicGroup:Pat_Metheny_Group ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/1f16df07-1c36-483d-b18a-b57b1e1d6cee"^^xsd:anyURI ;
+  rdfs:label "Pat Metheny Group" ;
 .
 :Peculiaroso
   rdf:type mo:CD ;
@@ -11442,6 +11585,15 @@
   bibliographica:byArtist SoloMusicArtist:Julia_Fordham ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b9af0f53-e47b-4292-b4fd-6750888b8d3d"^^xsd:anyURI ;
   rdfs:label "Porcelain" ;
+.
+:Portland_Youth_Orchestra
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Oregon_Composers ;
+  bibliographica:byArtist MusicGroup:Oregon_Composers ;
+  rdfs:label "Portland Youth Philharmonic" ;
 .
 :Post_Card
   rdf:type mo:CD ;
@@ -12458,6 +12610,16 @@
   bibliographica:byArtist SoloMusicArtist:Janis_Ian ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/79523269-1500-43e5-ace3-af8442cf1d31"^^xsd:anyURI ;
   rdfs:label "The Secret Life of J. Eddy Fink" ;
+.
+:Secret_Story
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Pat_Metheny ;
+  bibliographica:byArtist SoloMusicArtist:Pat_Metheny ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/a5e8cd65-ae9a-40de-bb84-cab40402d58b"^^xsd:anyURI ;
+  rdfs:label "Secret Story" ;
 .
 :Self_Portrait
   rdf:type mo:CD ;
@@ -13574,6 +13736,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/bdce4869-cd60-4a21-adab-74f3d85136eb"^^xsd:anyURI ;
   rdfs:label "Still in Hollywood" ;
 .
+:Still_Life_Talking
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Pat_Metheny_Group ;
+  bibliographica:byArtist MusicGroup:Pat_Metheny_Group ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/85a9a3d8-955c-451c-827a-74b6507fb91d"^^xsd:anyURI ;
+  rdfs:label "Still Life (Talking)" ;
+.
 :Stolen_Roses
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -14672,6 +14844,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/96c2def4-e840-443d-845a-5405f1d00fb0"^^xsd:anyURI ;
   rdfs:label "The Right Time" ;
 .
+:The_Road_To_You
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Pat_Metheny_Group ;
+  bibliographica:byArtist MusicGroup:Pat_Metheny_Group ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/564c1efa-e119-4137-8327-9dee46cccf48"^^xsd:anyURI ;
+  rdfs:label "The Road To You" ;
+.
 :The_Secret_Language_Birds
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -15483,6 +15665,16 @@
   bibliographica:byArtist SoloMusicArtist:Joni_Mitchell ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d644ca21-3371-4519-beaf-b8cb505e0e3f"^^xsd:anyURI ;
   rdfs:label "Travelogue" ;
+.
+:Travels
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Pat_Metheny_Group ;
+  bibliographica:byArtist MusicGroup:Pat_Metheny_Group ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/7c2b1fd2-d590-4052-b351-b73ad9b0aa52"^^xsd:anyURI ;
+  rdfs:label "Travels" ;
 .
 :Tree
   rdf:type mo:CD ;
@@ -16419,6 +16611,16 @@
   bibliographica:byArtist MusicGroup:Faith_No_More ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a239de83-d2dd-3792-a9d5-3a73cb0da71b"^^xsd:anyURI ;
   rdfs:label "We Care a Lot" ;
+.
+:We_Live_Here
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Pat_Metheny_Group ;
+  bibliographica:byArtist MusicGroup:Pat_Metheny_Group ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/7d6dfc9a-4d3f-3aa3-8827-55ffab3ea276"^^xsd:anyURI ;
+  rdfs:label "We Live Here" ;
 .
 :We_Want_Miles
   rdf:type mo:CD ;

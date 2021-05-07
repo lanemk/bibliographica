@@ -939,6 +939,13 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/bdbd48f5-abf3-4a4f-9a21-4551dbc3fde9"^^xsd:anyURI ;
   rdfs:label "Heart" ;
 .
+:Heath_Brothers
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassEH ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Heath_Brothers.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/artist/0357c427-d302-4d55-b726-6519505d4d10"^^xsd:anyURI ;
+  rdfs:label "Heath Brothers" ;
+.
 :Hem
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassEH ;
@@ -1510,6 +1517,13 @@
   bibliographica:dbpediaURI "http://dbpedia.org/data/Oysterband.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/c4be8a78-d4a8-4515-9759-5aa61162b197"^^xsd:anyURI ;
   rdfs:label "Oysterband" ;
+.
+:Pat_Metheny_Group
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassMP ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Pat_Metheny_Group.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/artist/66a7f1f8-0ad6-4e3a-9346-a643e2739a8c"^^xsd:anyURI ;
+  rdfs:label "Pat Metheny Group" ;
 .
 :Patrick_Street
   rdf:type mo:MusicGroup ;
