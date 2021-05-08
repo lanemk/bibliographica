@@ -534,6 +534,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/2f220c9c-9f5f-35dc-8c62-b9b48827032e"^^xsd:anyURI ;
   rdfs:label "Ani DiFranco" ;
 .
+:Animals
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Pink_Floyd ;
+  bibliographica:byArtist MusicGroup:Pink_Floyd ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/8ce2b094-cf95-4c99-a5ba-6ac03859f53b"^^xsd:anyURI ;
+  rdfs:label "Animals" ;
+.
 :Another_Green_World
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3556,6 +3566,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/26c06ad5-e1c3-44e5-b0e8-ca17c6a25e7c"^^xsd:anyURI ;
   rdfs:label "Dark Massive Disengage Ambient Compendium" ;
 .
+:Dark_Side_Moon
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Pink_Floyd ;
+  bibliographica:byArtist MusicGroup:Pink_Floyd ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/10600476-3b48-4709-a91d-3fdf6d2455e6"^^xsd:anyURI ;
+  rdfs:label "Dark Side Of The Moon" ;
+.
 :Dart_to_Heart
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4786,6 +4806,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/39c60bf4-73ad-425c-ba86-0afc870f907d"^^xsd:anyURI ;
   rdfs:label "Fanning the Flames" ;
 .
+:Farmhouse
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Phish ;
+  bibliographica:byArtist MusicGroup:Phish ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/6ccc7e75-4f0d-4794-b06b-057a7a6c9b21"^^xsd:anyURI ;
+  rdfs:label "Farmhouse" ;
+.
 :Fasiya
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5510,6 +5540,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b36a7186-8a86-47b1-ad97-f2278ef0da5f"^^xsd:anyURI ;
   rdfs:label "Getz/Gilberto" ;
 .
+:Ghost_in_Machine
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Police ;
+  bibliographica:byArtist MusicGroup:Police ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/8921b63d-64eb-4bbd-85af-2aeee0f75181"^^xsd:anyURI ;
+  rdfs:label "Ghost In The Machine" ;
+.
 :Ghostyhead
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5939,6 +5979,16 @@
   bibliographica:byArtist SoloMusicArtist:William_Aura ;
   rdfs:label "Half Moon Bay" ;
 .
+:Hampton_Comes_Alive
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Phish ;
+  bibliographica:byArtist MusicGroup:Phish ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/75382dc8-4b6e-4c7d-a62a-e9865139a794"^^xsd:anyURI ;
+  rdfs:label "Hampton Comes Alive" ;
+.
 :Hanging_Around_Observatory
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -6059,6 +6109,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c77ce024-dcd1-4bbb-b1c1-18f1cd6a2961"^^xsd:anyURI ;
   rdfs:label "Hello Young Lovers" ;
 .
+:Hells_Ditch
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Pogues ;
+  bibliographica:byArtist MusicGroup:Pogues ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/16d76ea5-fcfd-3e36-af70-c6d5cf26a0c7"^^xsd:anyURI ;
+  rdfs:label "Hell's Ditch" ;
+.
 :Helpless_Heart
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -6108,6 +6168,16 @@
   bibliographica:byArtist SoloMusicArtist:David_Bowie ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/8caa9a0e-9063-3497-b73e-3165ea2f75a6"^^xsd:anyURI ;
   rdfs:label "Heroes" ;
+.
+:Hey_Eugene
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Pink_Martini ;
+  bibliographica:byArtist MusicGroup:Pink_Martini ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/8ccfba1d-72f5-4614-90fd-3c5056106622"^^xsd:anyURI ;
+  rdfs:label "Hey Eugene!" ;
 .
 :Hey_Jupiter
   rdf:type mo:CD ;
@@ -6607,6 +6677,16 @@
   bibliographica:byArtist SoloMusicArtist:John_Prine ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/19709fd2-ac39-4184-973c-673e7db00472"^^xsd:anyURI ;
   rdfs:label "In Person & On Stage" ;
+.
+:In_The_Round
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Pentangle ;
+  bibliographica:byArtist MusicGroup:Pentangle ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/ee6d0adc-5745-4c8d-818f-5a3fb47eb399"^^xsd:anyURI ;
+  rdfs:label "Pentangle" ;
 .
 :Indigenous
   rdf:type mo:CD ;
@@ -11002,6 +11082,16 @@
   bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/9433bb5a-3a7c-47ba-96d8-b0b60d5f6e0b"^^xsd:anyURI ;
   rdfs:label "Outcry" ;
 .
+:Outlandos_dAmour
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Police ;
+  bibliographica:byArtist MusicGroup:Police ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/e92ffe25-ca8e-4a53-a68b-fee26f427280"^^xsd:anyURI ;
+  rdfs:label "Outlandos D'Amour" ;
+.
 :Outward_Bound
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -11223,6 +11313,36 @@
   bibliographica:byArtist MusicGroup:Pat_Metheny_Group ;
   bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/1f16df07-1c36-483d-b18a-b57b1e1d6cee"^^xsd:anyURI ;
   rdfs:label "Pat Metheny Group" ;
+.
+:Patrick_Street_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Patrick_Street ;
+  bibliographica:byArtist MusicGroup:Patrick_Street ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/510a7d28-bd98-45ab-a16f-8bb06b7517c6"^^xsd:anyURI ;
+  rdfs:label "Patrick Street" ;
+.
+:Peace_and_Love
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Pogues ;
+  bibliographica:byArtist MusicGroup:Pogues ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/a4c8eba1-5be1-3c22-9d52-658998abd5a5"^^xsd:anyURI ;
+  rdfs:label "Peace And Love" ;
+.
+:Peace_Orchestra_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Peace_Orchestra ;
+  bibliographica:byArtist MusicGroup:Peace_Orchestra ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/82c24fe2-36e7-40c2-8ece-55d6bfedd1cd"^^xsd:anyURI ;
+  rdfs:label "Peace Orchestra" ;
 .
 :Peculiaroso
   rdf:type mo:CD ;
@@ -11555,6 +11675,36 @@
   bibliographica:byArtist SoloMusicArtist:Peter_Gabriel ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/9d897884-ac56-4edf-97e7-8ee450cd57c3"^^xsd:anyURI ;
   rdfs:label "Plays Live" ;
+.
+:Po_Girl_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Po_Girl ;
+  bibliographica:byArtist MusicGroup:Po_Girl ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/e14ef630-eace-4058-8351-82e38a19cf0d"^^xsd:anyURI ;
+  rdfs:label "Po' Girl" ;
+.
+:Pogue_Mahone
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Pogues ;
+  bibliographica:byArtist MusicGroup:Pogues ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/5f9c3fa2-2086-4b7b-996f-aa5fe03b3c32"^^xsd:anyURI ;
+  rdfs:label "Pogue Mahone" ;
+.
+:Poi_Dog_Pondering_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Poi_Dog_Pondering ;
+  bibliographica:byArtist MusicGroup:Poi_Dog_Pondering ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/d3ce480c-fab9-4e1e-b741-13aceabc74f1"^^xsd:anyURI ;
+  rdfs:label "Poi Dog Pondering" ;
 .
 :Poison_Love
   rdf:type mo:CD ;
@@ -11991,6 +12141,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/9e14c789-02b3-4544-a0bf-fc6a0350fc03"^^xsd:anyURI ;
   rdfs:label "Reflections" ;
 .
+:Regatta_de_Blanc
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Police ;
+  bibliographica:byArtist MusicGroup:Police ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/e104844e-3ff4-3388-9d13-0e527a77cf3b"^^xsd:anyURI ;
+  rdfs:label "Regatta de Blanc" ;
+.
 :Regina_Carter_CD
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -12363,6 +12523,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/3fa5d226-7ecf-4751-99a5-4261d70136ea"^^xsd:anyURI ;
   rdfs:label "Rough and Ready" ;
 .
+:Round_Room
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Phish ;
+  bibliographica:byArtist MusicGroup:Phish ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/46c9f723-b188-49d6-9a29-971ae19198d7"^^xsd:anyURI ;
+  rdfs:label "Round Room" ;
+.
 :Rounder_CD
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -12392,6 +12562,16 @@
   bibliographica:byArtist SoloMusicArtist:Rosanne_Cash ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/0b2646a5-fe87-49e8-aaf5-b875e9cce57d"^^xsd:anyURI ;
   rdfs:label "Rules of Travel" ;
+.
+:Rum_Sodomy_Lash
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Pogues ;
+  bibliographica:byArtist MusicGroup:Pogues ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/83a9039a-8c6b-42fa-836e-a57c179e5fb7"^^xsd:anyURI ;
+  rdfs:label "Rum, Sodomy, & the Lash" ;
 .
 :Run_For_Roses
   rdf:type mo:CD ;
@@ -13786,6 +13966,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a227a9b1-59e1-43fd-93b5-ecdd85da190c"^^xsd:anyURI ;
   rdfs:label "Stories from the City, Stories from the Sea" ;
 .
+:Story_of_Ghost
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Phish ;
+  bibliographica:byArtist MusicGroup:Phish ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/e9a3f1cb-d336-421d-8305-4a7290993851"^^xsd:anyURI ;
+  rdfs:label "Story of the Ghost" ;
+.
 :Strange_Angels
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -14096,6 +14286,26 @@
   bibliographica:byArtist SoloMusicArtist:Annie_Gallup ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/445149b9-d4ba-4522-825e-035cd0bc2e4f"^^xsd:anyURI ;
   rdfs:label "Swerve" ;
+.
+:Sympathique
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Pink_Martini ;
+  bibliographica:byArtist MusicGroup:Pink_Martini ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/63fb25a0-14e1-4744-a556-847975ff733f"^^xsd:anyURI ;
+  rdfs:label "Sympathique" ;
+.
+:Synchronicity
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Police ;
+  bibliographica:byArtist MusicGroup:Police ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/53a7e6d5-077f-31a1-bd4d-9c4081dbd8f4"^^xsd:anyURI ;
+  rdfs:label "Synchronicity" ;
 .
 :TNT_Dynamite
   rdf:type mo:CD ;
@@ -16225,6 +16435,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/0dfa9708-f10c-4eb1-acfe-b0c2e3292b48"^^xsd:anyURI ;
   rdfs:label "Uptown Rulers!: The Meters Live on the Queen Mary" ;
 .
+:Vagabond_Lullabies
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Po_Girl ;
+  bibliographica:byArtist MusicGroup:Po_Girl ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/50eaecf5-a0e8-4065-82bc-1e29487c2afc"^^xsd:anyURI ;
+  rdfs:label "Vagabond Lullabies" ;
+.
 :Valence_Street
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -17010,6 +17230,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/1755f2a8-1581-43c8-a3f1-646302c0bb59"^^xsd:anyURI ;
   rdfs:label "Wired" ;
 .
+:Wish_You_Were_Here
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Pink_Floyd ;
+  bibliographica:byArtist MusicGroup:Pink_Floyd ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/d578454b-f725-33a0-afee-7bd82f33588f"^^xsd:anyURI ;
+  rdfs:label "Wish You Were Here" ;
+.
 :With_Enemies_Like_These
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -17367,6 +17597,16 @@
   bibliographica:byArtist SoloMusicArtist:Zakir_Hussain ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/ded265fc-db65-49ee-a417-ebd49be3b632"^^xsd:anyURI ;
   rdfs:label "Zakir Hussain & the Rhythm Experience" ;
+.
+:Zenyatta_Mondatta
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Police ;
+  bibliographica:byArtist MusicGroup:Police ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/56ad6149-5632-4d83-a0e9-689d00cecab9"^^xsd:anyURI ;
+  rdfs:label "Zenyattà Mondatta" ;
 .
 :Ziggy_Stardust
   rdf:type mo:CD ;
