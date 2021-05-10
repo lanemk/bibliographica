@@ -27,6 +27,16 @@
   owl:imports <http://www.connaissance.io/onto/biblio/bibliographica> ;
   owl:versionInfo "Developed by M Lane, Portland, Oregon" ;
 .
+:A_Bone_Crone_Drone
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sheila_Chandra ;
+  bibliographica:byArtist SoloMusicArtist:Sheila_Chandra ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d0511f81-348f-3778-aa3e-8d30221980d2"^^xsd:anyURI ;
+  rdfs:label "ABoneCroneDrone" ;
+.
 :A_Love_Supreme_Live
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -85,16 +95,6 @@
   bibliographica:byArtist SoloMusicArtist:KD_Lang ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b0522f34-7d72-45bb-bd64-58c1c0a6163e"^^xsd:anyURI ;
   rdfs:label "Absolute Torch And Twang" ;
-.
-:A_Bone_Crone_Drone
-  rdf:type mo:CD ;
-  rdf:type mo:Record ;
-  rdf:type mo:Release ;
-  rdf:type schema:MusicAlbum ;
-  dcterms:creator SoloMusicArtist:Sheila_Chandra ;
-  bibliographica:byArtist SoloMusicArtist:Sheila_Chandra ;
-  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d0511f81-348f-3778-aa3e-8d30221980d2"^^xsd:anyURI ;
-  rdfs:label "ABoneCroneDrone" ;
 .
 :Acadie
   rdf:type mo:CD ;
@@ -224,6 +224,26 @@
   bibliographica:byArtist MusicGroup:Jerry_Garcia_Band ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c3d62e65-367e-44fd-a760-c3d6dc955a99"^^xsd:anyURI ;
   rdfs:label "After Midnight" ;
+.
+:Afterglow
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sarah_McLachlan ;
+  bibliographica:byArtist SoloMusicArtist:Sarah_McLachlan ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/a6d1d2e4-dac8-3afa-9e3f-9c4a2019b51b"^^xsd:anyURI ;
+  rdfs:label "Afterglow" ;
+.
+:Afterglow_Live
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sarah_McLachlan ;
+  bibliographica:byArtist SoloMusicArtist:Sarah_McLachlan ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/3d410d1f-109a-46bb-96a3-496809e37f09"^^xsd:anyURI ;
+  rdfs:label "Afterglow Live" ;
 .
 :Age_of_Possibility
   rdf:type mo:CD ;
@@ -1897,6 +1917,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/05c82074-8425-4c24-a832-69bda422055b"^^xsd:anyURI ;
   rdfs:label "Boomer's Story" ;
 .
+:Boot_and_Shoe
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sam_Phillips ;
+  bibliographica:byArtist SoloMusicArtist:Sam_Phillips ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/bdea53a4-7fab-409b-b70f-6ec3f8a06029"^^xsd:anyURI ;
+  rdfs:label "A Boot and a Shoe" ;
+.
 :Bootleg_Series_Vol_1_3
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2787,6 +2817,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/6dd0e464-6c4d-4878-bc3f-7fe5b1e64b9c"^^xsd:anyURI ;
   rdfs:label "Christmas'" ;
 .
+:Chocolat
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Rachel_Portman ;
+  bibliographica:byArtist SoloMusicArtist:Rachel_Portman ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/c3b3ffba-f9f0-41a1-a113-9f25ace8c85f"^^xsd:anyURI ;
+  rdfs:label "Chocolat" ;
+.
 :Chooglin
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3328,6 +3368,16 @@
   dcterms:creator MusicGroup:Crash_of_Rhinos ;
   bibliographica:byArtist MusicGroup:Crash_of_Rhinos ;
   rdfs:label "Crash of Rhinos" ;
+.
+:Crawfish_Fiesta
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Professor_Longhair ;
+  bibliographica:byArtist SoloMusicArtist:Professor_Longhair ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/337b4885-265d-33e7-a252-816e2e0e66fc"^^xsd:anyURI ;
+  rdfs:label "Crawfish Fiesta" ;
 .
 :Crazy_Moon
   rdf:type mo:CD ;
@@ -4274,6 +4324,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/10af3ff8-cff8-4dfb-b30d-68c424034121"^^xsd:anyURI ;
   rdfs:label "Draw Them Near" ;
 .
+:Drawn_To_Rhythm
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sarah_McLachlan ;
+  bibliographica:byArtist SoloMusicArtist:Sarah_McLachlan ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/601eeacd-ea64-400c-aac6-cd6b857d5959"^^xsd:anyURI ;
+  rdfs:label "Drawn To The Rhythm" ;
+.
 :Dream_Cafe
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4303,6 +4363,16 @@
   bibliographica:byArtist SoloMusicArtist:Tim_Buckley ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/64faad1f-ecf1-41c8-8f74-d08bcf503966"^^xsd:anyURI ;
   rdfs:label "Dream Letter Live In London 1968" ;
+.
+:Dreamland
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Robert_Plant ;
+  bibliographica:byArtist SoloMusicArtist:Robert_Plant ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/8664cefa-06ef-4c10-b7c7-8c485c79c241"^^xsd:anyURI ;
+  rdfs:label "Dreamland" ;
 .
 :Drum_Call
   rdf:type mo:CD ;
@@ -4796,6 +4866,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/beba85a6-8a05-3bf8-99d6-2a5e9f38f12e"^^xsd:anyURI ;
   rdfs:label "Family Tree" ;
 .
+:Fan_Dance
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sam_Phillips ;
+  bibliographica:byArtist SoloMusicArtist:Sam_Phillips ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/f8456548-acd0-4599-8538-05d30c762530"^^xsd:anyURI ;
+  rdfs:label "Fan Dance" ;
+.
 :Fanning_the_Flames
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4835,6 +4915,26 @@
   bibliographica:byArtist SoloMusicArtist:Shawn_Colvin ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/ca4634f5-6694-4bae-aac7-35df2c1c82db"^^xsd:anyURI ;
   rdfs:label "Fat City" ;
+.
+:Fate_Nations
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Robert_Plant ;
+  bibliographica:byArtist SoloMusicArtist:Robert_Plant ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/c384c098-ce20-4e62-a417-3503d0748a66"^^xsd:anyURI ;
+  rdfs:label "Fate of Nations" ;
+.
+:Faust_RN
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Randy_Newman ;
+  bibliographica:byArtist SoloMusicArtist:Randy_Newman ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/af5dade3-3251-4a1c-bfb5-0533d56e3e3f"^^xsd:anyURI ;
+  rdfs:label "Randy Newman's Faust" ;
 .
 :Favorite_Ball_Chain
   rdf:type mo:CD ;
@@ -5213,6 +5313,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/977d7c01-a90c-4815-b01e-4b0fbb139a6c"^^xsd:anyURI ;
   rdfs:label "Freedom of Choice" ;
 .
+:Freedom_Sessions
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sarah_McLachlan ;
+  bibliographica:byArtist SoloMusicArtist:Sarah_McLachlan ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/e641afd0-098c-4153-9860-e29339f42716"^^xsd:anyURI ;
+  rdfs:label "Freedom Sessions" ;
+.
 :Fresh_Fruit_Rotting_Veg
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5311,6 +5421,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/61884327-44ec-3073-a5af-46fda9a81ebb"^^xsd:anyURI ;
   rdfs:label "From the Choirgirl Hotel" ;
 .
+:From_Clare_Here
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ralph_McTell ;
+  bibliographica:byArtist SoloMusicArtist:Ralph_McTell ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/43998c33-405c-4fc8-8c2a-e18a82bb569b"^^xsd:anyURI ;
+  rdfs:label "From Clare to Here: The Songs of Ralph McTell" ;
+.
 :From_Here_to_Eternity
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5360,6 +5480,16 @@
   bibliographica:byArtist MusicGroup:Jefferson_Airplane ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/007195e3-cc99-4408-a81b-82f4577f85ce"^^xsd:anyURI ;
   rdfs:label "2400 Fulton Street" ;
+.
+:Fumbling_Towards_Ecstasy
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sarah_McLachlan ;
+  bibliographica:byArtist SoloMusicArtist:Sarah_McLachlan ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/10f4de1d-7fed-47d2-8dd6-eff8aac0ec2d"^^xsd:anyURI ;
+  rdfs:label "Fumbling Towards Ecstasy" ;
 .
 :Funk_Inc_1971
   rdf:type mo:CD ;
@@ -8149,6 +8279,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/f9871a60-2d3b-45ca-a304-b5b40dc5ecbc"^^xsd:anyURI ;
   rdfs:label "Live!" ;
 .
+:Live_SM
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sarah_McLachlan ;
+  bibliographica:byArtist SoloMusicArtist:Sarah_McLachlan ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/3d696f34-7e48-4de9-8156-4d7b663326dc"^^xsd:anyURI ;
+  rdfs:label "Live (Limited Edition)" ;
+.
 :Live_Adventures
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -9311,6 +9451,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b3d7d898-c917-4431-b761-e79d71b6172e"^^xsd:anyURI ;
   rdfs:label "Mama’s Gun" ;
 .
+:Mambo_RO
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Remmy_Ongala ;
+  bibliographica:byArtist SoloMusicArtist:Remmy_Ongala ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/7430d37e-0ac5-4333-8142-1b27d865cd93"^^xsd:anyURI ;
+  rdfs:label "Mambo" ;
+.
 :Mambo_Sinuendo
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -9381,6 +9531,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/57df3412-99e4-479b-a8df-5bada7c48926"^^xsd:anyURI ;
   rdfs:label "Manifold" ;
 .
+:Mardi_Gras_Baton_Rouge
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Professor_Longhair ;
+  bibliographica:byArtist SoloMusicArtist:Professor_Longhair ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/462fc1a2-1d02-472b-9dd2-bc93c6dbc2c5"^^xsd:anyURI ;
+  rdfs:label "Mardi Gras in Baton Rouge" ;
+.
 :Maria_McKee_CD
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -9390,6 +9550,16 @@
   bibliographica:byArtist SoloMusicArtist:Maria_McKee ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c124cf10-1a11-4f65-89cb-0799e3baeea6"^^xsd:anyURI ;
   rdfs:label "Maria McKee" ;
+.
+:Martinis_Bikinis
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sam_Phillips ;
+  bibliographica:byArtist SoloMusicArtist:Sam_Phillips ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/322d784a-30ed-4402-8b16-8afdbb8c4e38"^^xsd:anyURI ;
+  rdfs:label "Martinis & Bikinis" ;
 .
 :Marvin_Pontiac
   rdf:type mo:CD ;
@@ -9851,6 +10021,26 @@
   bibliographica:byArtist MusicGroup:Jethro_Tull ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/99a89431-9b5d-4672-9e34-1d21384d43b3"^^xsd:anyURI ;
   rdfs:label "Minstrel in the Gallery" ;
+.
+:Mirror_Ball
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sarah_McLachlan ;
+  bibliographica:byArtist SoloMusicArtist:Sarah_McLachlan ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/4fc8612c-8660-4866-85c3-75b7bb226c81"^^xsd:anyURI ;
+  rdfs:label "Mirror Ball" ;
+.
+:Mirror_Ball_Concert
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sarah_McLachlan ;
+  bibliographica:byArtist SoloMusicArtist:Sarah_McLachlan ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/86d36529-98a4-35ca-8b84-a25103ffa3d2"^^xsd:anyURI ;
+  rdfs:label "Mirrorball: The Complete Concert" ;
 .
 :Mirror_Pool
   rdf:type mo:CD ;
@@ -11813,6 +12003,16 @@
   bibliographica:byArtist SoloMusicArtist:Robert_Hunter ;
   rdfs:label "Promontory Rider" ;
 .
+:Psychefunkapus_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Psychefunkapus ;
+  bibliographica:byArtist MusicGroup:Psychefunkapus ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/9ea09fdb-da0c-421f-af2e-29ac54cd5069"^^xsd:anyURI ;
+  rdfs:label "Psychefunkapus" ;
+.
 :Pulse_Where_Rhythm_Begins
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -12001,6 +12201,16 @@
   dcterms:creator MusicGroup:Grateful_Dead ;
   bibliographica:byArtist MusicGroup:Grateful_Dead ;
   rdfs:label "Rainforest Benefit Show" ;
+.
+:Rarities_B_Sides
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sarah_McLachlan ;
+  bibliographica:byArtist SoloMusicArtist:Sarah_McLachlan ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/afe931d6-8641-4538-a097-f229da68001d"^^xsd:anyURI ;
+  rdfs:label "Rarities, B-Sides, & Other Stuff" ;
 .
 :Rastaman_Vibration
   rdf:type mo:CD ;
@@ -12632,6 +12842,15 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/f13f7bb7-94bf-3630-8b3b-27cbe824da29"^^xsd:anyURI ;
   rdfs:label "Salt, Sun and Time" ;
 .
+:Sally_Mack_Originals
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sally_Mack ;
+  bibliographica:byArtist SoloMusicArtist:Sally_Mack ;
+  rdfs:label "Sally Mack: Originals" ;
+.
 :Sampler
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -12920,6 +13139,16 @@
   bibliographica:byArtist SoloMusicArtist:Nnenna_Freelon ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/074ee03c-5baa-462e-908a-34691ffa00f7"^^xsd:anyURI ;
   rdfs:label "Shaking Free" ;
+.
+:Shamans_Breath
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Professor_Trance ;
+  bibliographica:byArtist SoloMusicArtist:Professor_Trance ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/181c48c6-2547-446d-a0ef-9bc84eb5953c"^^xsd:anyURI ;
+  rdfs:label "Shaman's Breath" ;
 .
 :Sharing_the_Night_Together
   rdf:type mo:CD ;
@@ -13419,6 +13648,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/f03d1ee8-8cb9-45ba-b280-3bb6cbc24fda"^^xsd:anyURI ;
   rdfs:label "Society's Child" ;
 .
+:Solace
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sarah_McLachlan ;
+  bibliographica:byArtist SoloMusicArtist:Sarah_McLachlan ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/792f388f-78d3-4c87-8375-4b956251d7e9"^^xsd:anyURI ;
+  rdfs:label "Solace" ;
+.
 :Solo
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -13886,6 +14125,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/57fa6f1e-4a34-3bc5-9120-5afbbe1ae8a1"^^xsd:anyURI ;
   rdfs:label "Stealing Fire" ;
 .
+:Stepmother_City
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sainkho_Namtchylak ;
+  bibliographica:byArtist SoloMusicArtist:Sainkho_Namtchylak ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/ef9d4a11-ac71-46d1-9ab6-fc17b74a1aff"^^xsd:anyURI ;
+  rdfs:label "Stepmother City" ;
+.
 :Steppin_Out_England_72
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -14226,6 +14475,16 @@
   bibliographica:byArtist SoloMusicArtist:Coleman_Hawkins ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/415ae0d2-3608-43b3-8b70-d0764a177fe9"^^xsd:anyURI ;
   rdfs:label "Supreme" ;
+.
+:Surfacing
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sarah_McLachlan ;
+  bibliographica:byArtist SoloMusicArtist:Sarah_McLachlan ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/931cfa58-02a7-4a85-b042-bc8b321d0891"^^xsd:anyURI ;
+  rdfs:label "Surfacing" ;
 .
 :Swamped
   rdf:type mo:CD ;
@@ -15572,6 +15831,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/ce61b145-c954-4fd4-86a4-bb2617544e62"^^xsd:anyURI ;
   rdfs:label "Time Out" ;
 .
+:Time_Out_SN
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sainkho_Namtchylak ;
+  bibliographica:byArtist SoloMusicArtist:Sainkho_Namtchylak ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/b81ce43f-8bd4-476b-b386-9fde3c30b789"^^xsd:anyURI ;
+  rdfs:label "Time Out" ;
+.
 :Time_Out_of_Mind
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -15805,6 +16074,16 @@
   bibliographica:byArtist SoloMusicArtist:Sophie_B_Hawkins ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/0b6ffacd-0db8-33cb-952b-7a8f3fd9b8a9"^^xsd:anyURI ;
   rdfs:label "Tongues and Tails" ;
+.
+:Touch
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sarah_McLachlan ;
+  bibliographica:byArtist SoloMusicArtist:Sarah_McLachlan ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/2600414a-c91c-4265-8f3b-53de75bcc981"^^xsd:anyURI ;
+  rdfs:label "Touch" ;
 .
 :Traditional_Ties
   rdf:type mo:CD ;
@@ -17607,6 +17886,16 @@
   bibliographica:byArtist MusicGroup:Police ;
   bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/56ad6149-5632-4d83-a0e9-689d00cecab9"^^xsd:anyURI ;
   rdfs:label "Zenyattà Mondatta" ;
+.
+:Zero_Zero_Zero
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sam_Phillips ;
+  bibliographica:byArtist SoloMusicArtist:Sam_Phillips ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/19552deb-711e-4caa-a9e6-bdaad8b85af0"^^xsd:anyURI ;
+  rdfs:label "Zero Zero Zero" ;
 .
 :Ziggy_Stardust
   rdf:type mo:CD ;
