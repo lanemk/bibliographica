@@ -515,6 +515,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/91374080-46c3-41f5-8b0e-9ac998f79a8e"^^xsd:anyURI ;
   rdfs:label "An Equal Love" ;
 .
+:An_Evening_Acoustic_Music
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Taj_Mahal ;
+  bibliographica:byArtist SoloMusicArtist:Taj_Mahal ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/de99cef2-157c-4919-8ebf-123922fd9272"^^xsd:anyURI ;
+  rdfs:label "An Evening of Acoustic Music" ;
+.
 :Angel_Town
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1338,6 +1348,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/cbe190bc-8048-45cd-9b6d-8a0656c71a79"^^xsd:anyURI ;
   rdfs:label "The Best of Mary Black 1991-2001" ;
 .
+:Best_of_Shawn_Phillips
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Shawn_Phillips ;
+  bibliographica:byArtist SoloMusicArtist:Shawn_Phillips ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/fa235629-a98b-4d03-aee7-8489908bd9c2"^^xsd:anyURI ;
+  rdfs:label "The Best of Shawn Phillips" ;
+.
 :Best_of_Sidney_Bechet
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1634,6 +1654,16 @@
   bibliographica:byArtist SoloMusicArtist:Marianne_Faithfull ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e6d3ed16-b0c5-402a-88f2-7215a4163f5d"^^xsd:anyURI ;
   rdfs:label "Blazing Away" ;
+.
+:Blender
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Murmurs ;
+  bibliographica:byArtist MusicGroup:Murmurs ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/1161ac28-ed83-4a6c-8ee4-41d0577415a5"^^xsd:anyURI ;
+  rdfs:label "Blender" ;
 .
 :Blind_Faith_CD
   rdf:type mo:CD ;
@@ -3543,6 +3573,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/6118a545-4fc7-4cdb-b01c-4c50682c2317"^^xsd:anyURI ;
   rdfs:label "Dance Afro Beat" ;
 .
+:Dancing_Blues
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Taj_Mahal ;
+  bibliographica:byArtist SoloMusicArtist:Taj_Mahal ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/f2bd7c5d-efa5-4652-a1e7-9f8a89ef2ca1"^^xsd:anyURI ;
+  rdfs:label "Dancing the Blues" ;
+.
 :Dancing_Dragons_Jaws
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3804,6 +3844,16 @@
   bibliographica:byArtist MusicGroup:Del_McCoury_Band ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/31fce93f-44e1-46a5-98cb-6f8491f0d1b3"^^xsd:anyURI ;
   rdfs:label "Del And The Boys" ;
+.
+:Desert_Poems
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Stephan_Micus ;
+  bibliographica:byArtist SoloMusicArtist:Stephan_Micus ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/ef57c0cd-9ae6-4e7d-8b7c-25d558df324a"^^xsd:anyURI ;
+  rdfs:label "Desert Poems" ;
 .
 :Deserters
   rdf:type mo:CD ;
@@ -4826,6 +4876,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/512c8445-223f-4124-9c4a-edb346aa05a2"^^xsd:anyURI ;
   rdfs:label "Fairport Unconventional" ;
 .
+:Faith_Courage
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sinead_OConnor ;
+  bibliographica:byArtist SoloMusicArtist:Sinead_OConnor ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/d6ad238d-d759-4740-a39a-1bfb93d75409"^^xsd:anyURI ;
+  rdfs:label "Faith and Courage" ;
+.
 :Family
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5680,6 +5740,16 @@
   bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/8921b63d-64eb-4bbd-85af-2aeee0f75181"^^xsd:anyURI ;
   rdfs:label "Ghost In The Machine" ;
 .
+:Ghosts_Great_Highway
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Sun_Kil_Moon ;
+  bibliographica:byArtist MusicGroup:Sun_Kil_Moon ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/eab684fc-3c27-41c6-b4f1-c704bdd6edd9"^^xsd:anyURI ;
+  rdfs:label "Ghosts Of The Great Highway" ;
+.
 :Ghostyhead
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5689,6 +5759,16 @@
   bibliographica:byArtist SoloMusicArtist:Rickie_Lee_Jones ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/de20a560-2311-42b9-8445-60873be2f80f"^^xsd:anyURI ;
   rdfs:label "Ghostyhead" ;
+.
+:Giant_Step
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Taj_Mahal ;
+  bibliographica:byArtist SoloMusicArtist:Taj_Mahal ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/e046953a-895f-3ce2-a1db-10b99bf1a1c7"^^xsd:anyURI ;
+  rdfs:label "Giant Step / De Ole Folks at Home" ;
 .
 :Girl_From_Impanema
   rdf:type mo:CD ;
@@ -5867,6 +5947,16 @@
   bibliographica:byArtist SoloMusicArtist:Gordon_Lightfoot ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/1a833945-4192-4b25-8b75-e3fabde55eba"^^xsd:anyURI ;
   rdfs:label "Gord's Gold" ;
+.
+:Gospel_Oak
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sinead_OConnor ;
+  bibliographica:byArtist SoloMusicArtist:Sinead_OConnor ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/4c4b4d8c-3f54-4d3e-8a78-912b0fbf3b04"^^xsd:anyURI ;
+  rdfs:label "Gospel Oak" ;
 .
 :Got_Love_If_You_Want_It
   rdf:type mo:CD ;
@@ -6879,6 +6969,16 @@
   bibliographica:byArtist SoloMusicArtist:Eugene_Chadbourne ;
   rdfs:label "I've Been Everywhere" ;
 .
+:I_Do_Not_Want
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sinead_OConnor ;
+  bibliographica:byArtist SoloMusicArtist:Sinead_OConnor ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/92f17814-57bb-4c9b-8948-fee1f0677472"^^xsd:anyURI ;
+  rdfs:label "I Do Not Want What I Haven't Got" ;
+.
 :Ive_Got_Rock_Sock
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7145,6 +7245,16 @@
   bibliographica:byArtist MusicGroup:Mahavishnu_Orchestra ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/ed110c7b-6963-43d8-b353-646c164eb4e3"^^xsd:anyURI ;
   rdfs:label "The Inner Mounting Flame" ;
+.
+:Inspiration_Information
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Shuggie_Otis ;
+  bibliographica:byArtist SoloMusicArtist:Shuggie_Otis ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/a5fd58e5-feae-497e-95f0-63a940b0fd87"^^xsd:anyURI ;
+  rdfs:label "Inspiration Information" ;
 .
 :Interstate_City
   rdf:type mo:CD ;
@@ -8107,6 +8217,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a65c8000-6154-4168-a823-828b949f66a9"^^xsd:anyURI ;
   rdfs:label "Light My Fire" ;
 .
+:Like_Never_Before
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Taj_Mahal ;
+  bibliographica:byArtist SoloMusicArtist:Taj_Mahal ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/f88cf172-6372-4880-8399-5e004257c885"^^xsd:anyURI ;
+  rdfs:label "Like Never Before" ;
+.
 :Like_Sonny
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -8116,6 +8236,16 @@
   bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/32ad9d9e-7a30-4d59-b54e-da97dad7bb06"^^xsd:anyURI ;
   rdfs:label "Like Sonny" ;
+.
+:Lion_and_Cobra
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sinead_OConnor ;
+  bibliographica:byArtist SoloMusicArtist:Sinead_OConnor ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/d023fe20-ad38-313f-b09e-489155b9934e"^^xsd:anyURI ;
+  rdfs:label "The Lion And The Cobra" ;
 .
 :Listener_Supported
   rdf:type mo:CD ;
@@ -11653,6 +11783,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/71d559e1-e986-3bd8-942a-d836b558bb91"^^xsd:anyURI ;
   rdfs:label "Peace Beyond Passion" ;
 .
+:Phase_2
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Mahavishnu_Project ;
+  bibliographica:byArtist MusicGroup:Mahavishnu_Project ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/adf4206e-0200-4ce5-81af-d9c4f6a89c7d"^^xsd:anyURI ;
+  rdfs:label "Phase 2" ;
+.
 :Pick_Up_On_This
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -11856,6 +11996,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a52de013-9bba-4858-b58f-0178cc026f83"^^xsd:anyURI ;
   rdfs:label "Plays in Paris" ;
 .
+:Plays_Music_Zappa
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Ed_Palermo_Big_Band ;
+  bibliographica:byArtist MusicGroup:Ed_Palermo_Big_Band ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/8e4b4d1e-97c5-471b-a377-ef039d456115"^^xsd:anyURI ;
+  rdfs:label "Plays the Music of Frank Zappa" ;
+.
 :Plays_Live
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -11983,6 +12133,16 @@
   bibliographica:byArtist SoloMusicArtist:John_Fogerty ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/06234b1d-bd5a-483e-95f2-7b4c25e7dba2"^^xsd:anyURI ;
   rdfs:label "Premonition" ;
+.
+:Pristine_Smut
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Murmurs ;
+  bibliographica:byArtist MusicGroup:Murmurs ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/86095749-a188-47b9-bbdd-bb1ad5c24ded"^^xsd:anyURI ;
+  rdfs:label "Pristine Smut" ;
 .
 :Private_Eyes
   rdf:type mo:CD ;
@@ -13321,6 +13481,15 @@
   bibliographica:byArtist SoloMusicArtist:Joe_Henry ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/8a495034-5cf3-46cf-a2c3-668fb0125d56"^^xsd:anyURI ;
   rdfs:label "Shuffletown" ;
+.
+:Shuggie_Otis_mix
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Shuggie_Otis ;
+  bibliographica:byArtist SoloMusicArtist:Shuggie_Otis ;
+  rdfs:label "Shuggie Otis mix" ;
 .
 :Side_Four
   rdf:type mo:CD ;
@@ -15119,6 +15288,26 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/7f1e9aaf-ffc3-4f4b-a8c7-7619d57c0b38"^^xsd:anyURI ;
   rdfs:label "The Magazine" ;
 .
+:The_Moon_Seven_Times_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Moon_Seven_Times ;
+  bibliographica:byArtist MusicGroup:Moon_Seven_Times ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/3055aaf2-47f4-4da9-8f94-9be4dc194e07"^^xsd:anyURI ;
+  rdfs:label "The Moon Seven Times" ;
+.
+:The_Murmurs
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Murmurs ;
+  bibliographica:byArtist MusicGroup:Murmurs ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/5941dfb0-209a-4661-9301-ae665b30223d"^^xsd:anyURI ;
+  rdfs:label "The Murmurs" ;
+.
 :The_Last_Trane
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -15791,6 +15980,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/00eef7ce-64a2-455e-97c9-3adcfcb73669"^^xsd:anyURI ;
   rdfs:label "Through the Looking Glass" ;
 .
+:Throw_Down_Arms
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sinead_OConnor ;
+  bibliographica:byArtist SoloMusicArtist:Sinead_OConnor ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/fa033070-272e-3b88-8f11-876d90ec6c05"^^xsd:anyURI ;
+  rdfs:label "Throw Down Your Arms" ;
+.
 :Thundering_Herd
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -16257,6 +16456,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/ce0a5b20-7485-4074-85c8-bdb6a3668d12"^^xsd:anyURI ;
   rdfs:label "Trouble Bound" ;
 .
+:Trouble_Shangri_La
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Stevie_Nicks ;
+  bibliographica:byArtist SoloMusicArtist:Stevie_Nicks ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/99ca654a-f6d3-4385-afb5-ebee6d5e0ff5"^^xsd:anyURI ;
+  rdfs:label "Trouble in Shangri-La" ;
+.
 :Trouble_With_Normal
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -16551,6 +16760,16 @@
   bibliographica:byArtist MusicGroup:Fairport_Convention ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/def57daf-3f7c-4614-a302-3bd8083d41a7"^^xsd:anyURI ;
   rdfs:label "Unhalfbricking" ;
+.
+:Universal_Mother
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sinead_OConnor ;
+  bibliographica:byArtist SoloMusicArtist:Sinead_OConnor ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/312f5c6f-06eb-309d-aaca-a95a360bc5ed"^^xsd:anyURI ;
+  rdfs:label "Universal Mother" ;
 .
 :Uninvisible
   rdf:type mo:CD ;
@@ -17388,6 +17607,16 @@
   bibliographica:byArtist SoloMusicArtist:Natalie_Imbruglia ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/4ae2f4b3-b35d-3210-b955-b3ebecd2829d"^^xsd:anyURI ;
   rdfs:label "White Lilies Island" ;
+.
+:White_Rabbit
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Murmurs ;
+  bibliographica:byArtist MusicGroup:Murmurs ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/33d33f57-83cd-4b04-88e2-d66f2d08966b"^^xsd:anyURI ;
+  rdfs:label "White Rabbit" ;
 .
 :Who_Knows_Where_Time_Goes
   rdf:type mo:CD ;

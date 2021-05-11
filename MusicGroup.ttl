@@ -1410,7 +1410,7 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/067102ea-9519-4622-9077-57ca4164cfbb"^^xsd:anyURI ;
   rdfs:label "Morcheeba" ;
 .
-:Murmers
+:Murmurs
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassMP ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/The_Murmurs.ttl"^^xsd:anyURI ;
