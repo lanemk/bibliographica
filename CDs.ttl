@@ -2155,6 +2155,16 @@
   bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/91e3f8f6-0c51-4c50-96ca-28bc1757297d"^^xsd:anyURI ;
   rdfs:label "Bright Size Life" ;
 .
+:Brilliant_Corners
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Thelonious_Monk ;
+  bibliographica:byArtist SoloMusicArtist:Thelonious_Monk ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/f361d90f-99ff-4ad2-ac46-a5207a464261"^^xsd:anyURI ;
+  rdfs:label "Brilliant Corners" ;
+.
 :Bring_the_Family
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3310,6 +3320,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/f9964148-b49a-4567-83e2-8e27d3a069f7"^^xsd:anyURI ;
   rdfs:label "VH1 Presents The Corrs Live in Dublin" ;
 .
+:Corruption
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Thomas_Mapfumo ;
+  bibliographica:byArtist SoloMusicArtist:Thomas_Mapfumo ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/e204785e-d943-4cc6-bfe7-6e4974ac97b7"^^xsd:anyURI ;
+  rdfs:label "Corruption" ;
+.
 :Cosmic_Thing
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -3438,6 +3458,16 @@
   bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/bb4eb994-5863-47d2-b040-e2834110b667"^^xsd:anyURI ;
   rdfs:label "Crescent" ;
+.
+:Criss_Cross
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Thelonious_Monk ;
+  bibliographica:byArtist SoloMusicArtist:Thelonious_Monk ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/1c59f8d0-fbe3-4ffc-98e5-e64b69576708"^^xsd:anyURI ;
+  rdfs:label "Criss-Cross" ;
 .
 :Cropredy_2002
   rdf:type mo:CD ;
@@ -7345,6 +7375,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/3066d8ca-115c-4b05-bc9b-565d0af415f3"^^xsd:anyURI ;
   rdfs:label "It's Like This" ;
 .
+:Its_Monks_Time
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Thelonious_Monk ;
+  bibliographica:byArtist SoloMusicArtist:Thelonious_Monk ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/9d66e969-64c8-4444-a9c2-7a7c28a52da8"^^xsd:anyURI ;
+  rdfs:label "It's Monk's Time" ;
+.
 :Jack_Kerouac_Collection
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -8701,6 +8741,36 @@
   bibliographica:byArtist SoloMusicArtist:Ben_Harper ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/fdbc1df8-5572-4fd7-9812-8bc5f325dec1"^^xsd:anyURI ;
   rdfs:label "Live at the Hollywood Bowl (ep)" ;
+.
+:Live_At_It_Club
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Thelonious_Monk ;
+  bibliographica:byArtist SoloMusicArtist:Thelonious_Monk ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/4fd2baec-550d-43a3-a802-2180d2108203"^^xsd:anyURI ;
+  rdfs:label "Live at the It Club" ;
+.
+:Live_At_Jazz_Workshop
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Thelonious_Monk ;
+  bibliographica:byArtist SoloMusicArtist:Thelonious_Monk ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/3631d6af-40dc-423a-ae41-94eff3c4fc45"^^xsd:anyURI ;
+  rdfs:label "Live at the Jazz Workshop" ;
+.
+:Live_At_Newport_1963
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Thelonious_Monk ;
+  bibliographica:byArtist SoloMusicArtist:Thelonious_Monk ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/deeda71b-e4ab-4f1e-94bb-653b849bb7eb"^^xsd:anyURI ;
+  rdfs:label "Live at Newport 1963" ;
 .
 :Live_Black_Sheep
   rdf:type mo:CD ;
@@ -10303,6 +10373,16 @@
   bibliographica:byArtist MusicGroup:Monkey_Siren ;
   rdfs:label "Monkey Siren" ;
 .
+:Monks_Blues
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Thelonious_Monk ;
+  bibliographica:byArtist SoloMusicArtist:Thelonious_Monk ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/3e38dbee-ba5b-4686-9298-ffc256cf0cd2"^^xsd:anyURI ;
+  rdfs:label "Monk’s Blues" ;
+.
 :Moonpie_Dreams
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -10580,6 +10660,16 @@
   bibliographica:byArtist MusicGroup:Bob_Marley_Wailers ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d1007b74-c38a-4996-b13f-cd1c67a97814"^^xsd:anyURI ;
   rdfs:label "Natty Dread" ;
+.
+:Ndangariro
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Thomas_Mapfumo ;
+  bibliographica:byArtist SoloMusicArtist:Thomas_Mapfumo ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/88c93a98-6987-40a5-a4a4-ebb455e5dcab"^^xsd:anyURI ;
+  rdfs:label "Ndangariro" ;
 .
 :Neath_Your_Covers
   rdf:type mo:CD ;
@@ -11023,6 +11113,16 @@
   bibliographica:byArtist SoloMusicArtist:Laura_Love ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/9f575c47-264c-4921-abb2-49ba56a785e1"^^xsd:anyURI ;
   rdfs:label "Octoroon" ;
+.
+:Odd_Man_In
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Tim_OBrien ;
+  bibliographica:byArtist SoloMusicArtist:Tim_OBrien ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/4e5b86e2-8bf3-40b3-8e8c-74dab84fb691"^^xsd:anyURI ;
+  rdfs:label "Odd Man In" ;
 .
 :Odu
   rdf:type mo:CD ;
@@ -11603,6 +11703,18 @@
   dcterms:creator SoloMusicArtist:Peter_Gabriel ;
   bibliographica:byArtist SoloMusicArtist:Peter_Gabriel ;
   rdfs:label "Passion Sources" ;
+.
+:Past_Didnt_Go_Anywhere
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Utah_Phillips ;
+  bibliographica:byArtist SoloMusicArtist:Utah_Phillips ;
+  dcterms:creator SoloMusicArtist:Ani_DiFranco ;
+  bibliographica:byArtist SoloMusicArtist:Ani_DiFranco ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/92915da0-5f7a-42e0-8f27-e667dc35e779"^^xsd:anyURI ;
+  rdfs:label "The Past Didn't Go Anywhere" ;
 .
 :Past_Light
   rdf:type mo:CD ;
@@ -12490,6 +12602,16 @@
   dcterms:creator SoloMusicArtist:Michael_Fracasso ;
   bibliographica:byArtist SoloMusicArtist:Michael_Fracasso ;
   rdfs:label "Red Dog Blues" ;
+.
+:Red_on_Blonde
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Tim_OBrien ;
+  bibliographica:byArtist SoloMusicArtist:Tim_OBrien ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/6bac6493-b839-45bc-a8ec-65e0cfa7d5ff"^^xsd:anyURI ;
+  rdfs:label "Red On Blonde" ;
 .
 :Red_Rocks_78
   rdf:type mo:CD ;
@@ -14234,6 +14356,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/3b9bfc68-b38c-47c2-8337-51977b224708"^^xsd:anyURI ;
   rdfs:label "Standard Coltrane" ;
 .
+:Standards_Monk
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Thelonious_Monk ;
+  bibliographica:byArtist SoloMusicArtist:Thelonious_Monk ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/316e1316-6437-4810-a32a-c0d506ce01d6"^^xsd:anyURI ;
+  rdfs:label "Standards" ;
+.
 :Standing_In_Shoes
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -15720,6 +15852,60 @@
   bibliographica:byArtist MusicGroup:Eagles ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/bfea3a29-e5bd-36c4-9feb-f13dd6cbbb69"^^xsd:anyURI ;
   rdfs:label "Their Greatest Hits 1971–1975" ;
+.
+:Thelonius_Himself
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Thelonious_Monk ;
+  bibliographica:byArtist SoloMusicArtist:Thelonious_Monk ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/ed69ed54-0130-422c-af13-d3edf74344a2"^^xsd:anyURI ;
+  rdfs:label "Thelonious Himself" ;
+.
+:Thelonius_in_Italy
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Thelonious_Monk ;
+  bibliographica:byArtist SoloMusicArtist:Thelonious_Monk ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/b0f80bc3-0bb9-4bdf-8449-5324e316a3f0"^^xsd:anyURI ;
+  rdfs:label "Thelonius Monk in Italy" ;
+.
+:Thelonius_Plays_Duke
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Thelonious_Monk ;
+  bibliographica:byArtist SoloMusicArtist:Thelonious_Monk ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/902af2fa-f8b7-49c0-9c77-767fa2ae2354"^^xsd:anyURI ;
+  rdfs:label "Thelonious Monk Plays Duke Ellington" ;
+.
+:Thelonius_With_Coltrane
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Thelonious_Monk ;
+  bibliographica:byArtist SoloMusicArtist:Thelonious_Monk ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/dbd2be34-6a00-4f1d-8010-ae910ec7dde5"^^xsd:anyURI ;
+  rdfs:label "Thelonious Monk with John Coltrane" ;
+.
+:Thelonius_With_Coltrane_Five
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Thelonious_Monk ;
+  bibliographica:byArtist SoloMusicArtist:Thelonious_Monk ;
+  dcterms:creator SoloMusicArtist:John_Coltrane ;
+  bibliographica:byArtist SoloMusicArtist:John_Coltrane ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/3e0755b6-6746-438a-873c-53e45baeaebe"^^xsd:anyURI ;
+  rdfs:label "Live at the Five Spot Discovery!" ;
 .
 :Theme_Time_Radio_Hour
   rdf:type mo:CD ;
@@ -17530,6 +17716,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d20eecae-2fd1-45e9-895b-8a8089a02461"^^xsd:anyURI ;
   rdfs:label "When There is Love" ;
 .
+:When_Theres_No_One
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Tim_OBrien ;
+  bibliographica:byArtist SoloMusicArtist:Tim_OBrien ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/63d25d19-9112-46f7-ae69-6dab49311fb1"^^xsd:anyURI ;
+  rdfs:label "When No One's Around" ;
+.
 :When_Words_Disappear
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -17677,6 +17873,16 @@
   bibliographica:byArtist MusicGroup:B_Fifty_Twos ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/34c9f3a8-898a-3d33-92bc-64a46ad75928"^^xsd:anyURI ;
   rdfs:label "Wild Planet" ;
+.
+:Wildflowers
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Tom_Petty ;
+  bibliographica:byArtist SoloMusicArtist:Tom_Petty ;
+  bibliographica:musicbrainzURI "https://beta.musicbrainz.org/release/4b5e44fd-018b-4fc7-9729-c9d9b011e459"^^xsd:anyURI ;
+  rdfs:label "Wildflowers" ;
 .
 :Will_to_Live
   rdf:type mo:CD ;
