@@ -1215,6 +1215,13 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/7c8c72f5-01ed-4a55-89d1-ced1a6b3fb0d"^^xsd:anyURI ;
   rdfs:label "Levellers" ;
 .
+:Lincoln_Center_Jazz_Orchestra
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassIL ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Jazz_at_Lincoln_Center_Orchestra.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/6e420511-4beb-4205-8b66-74a29ed87e4a"^^xsd:anyURI ;
+  rdfs:label "The Lincoln Center Jazz Orchestra" ;
+.
 :Little_Beirut
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassIL ;
@@ -2379,6 +2386,12 @@
   bibliographica:dbpediaURI "http://dbpedia.org/data/Widespread_Panic.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/3797a6d0-7700-44bf-96fb-f44386bc9ab2"^^xsd:anyURI ;
   rdfs:label "Widespread Panic" ;
+.
+:Willie_Nelson_Friends
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassWZ ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/668fd73c-bf54-4310-a139-305517f05311"^^xsd:anyURI ;
+  rdfs:label "Willie Nelson & Friends" ;
 .
 :Windham_Hill
   rdf:type mo:MusicGroup ;
