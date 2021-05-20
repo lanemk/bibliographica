@@ -1949,6 +1949,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/60358613-5c21-4c60-bc55-2ba3c63a8e5d"^^xsd:anyURI ;
   rdfs:label "B’BOOM: Official Bootleg – Live in Argentina" ;
 .
+:Bonnie_Raitt_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bonnie_Raitt ;
+  bibliographica:byArtist SoloMusicArtist:Bonnie_Raitt ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a5eb8446-d37a-35cf-8e06-cc3968bd0f8e"^^xsd:anyURI ;
+  rdfs:label "Bonnie Raitt" ;
+.
 :Book_of_Secrets
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5693,6 +5703,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/10f4de1d-7fed-47d2-8dd6-eff8aac0ec2d"^^xsd:anyURI ;
   rdfs:label "Fumbling Towards Ecstasy" ;
 .
+:Fundamental
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bonnie_Raitt ;
+  bibliographica:byArtist SoloMusicArtist:Bonnie_Raitt ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/02bbe911-91b7-41ea-8222-99e44e85617f"^^xsd:anyURI ;
+  rdfs:label "Fundamental" ;
+.
 :Funk_Inc_1971
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5930,6 +5950,16 @@
   dcterms:creator SoloMusicArtist:KJ_Denhert ;
   bibliographica:byArtist SoloMusicArtist:KJ_Denhert ;
   rdfs:label "Girl Like Me" ;
+.
+:Give_It_Up
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bonnie_Raitt ;
+  bibliographica:byArtist SoloMusicArtist:Bonnie_Raitt ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/aaeb3a56-00c3-3fb2-b183-f65e6355af33"^^xsd:anyURI ;
+  rdfs:label "Give It Up" ;
 .
 :Glad_n_Greasy
   rdf:type mo:CD ;
@@ -6277,6 +6307,16 @@
   bibliographica:byArtist SoloMusicArtist:Tim_Buckley ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e3a1953f-0e09-4b8d-adcf-708947bf5685"^^xsd:anyURI ;
   rdfs:label "Greetings From LA" ;
+.
+:Green_Light
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bonnie_Raitt ;
+  bibliographica:byArtist SoloMusicArtist:Bonnie_Raitt ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/589af027-6f93-4be3-b49f-ad0e8c22148c"^^xsd:anyURI ;
+  rdfs:label "Green Light" ;
 .
 :Groovegrass_101
   rdf:type mo:CD ;
@@ -6750,6 +6790,16 @@
   bibliographica:byArtist SoloMusicArtist:Laurie_Anderson ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/4458273b-9450-45fe-9ada-fa9e49e43b2b"^^xsd:anyURI ;
   rdfs:label "Home of the Brave" ;
+.
+:Home_Plate
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bonnie_Raitt ;
+  bibliographica:byArtist SoloMusicArtist:Bonnie_Raitt ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/dbbdfc5e-940d-4721-a86f-7179e7c27c46"^^xsd:anyURI ;
+  rdfs:label "Home Plate" ;
 .
 :Homecoming_Village
   rdf:type mo:CD ;
@@ -7447,6 +7497,16 @@
   bibliographica:byArtist MusicGroup:Dave_Alvin_Guilty_Men ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/aaf69fd9-e60c-495e-ad54-f50b50bec59f"^^xsd:anyURI ;
   rdfs:label "Interstate City" ;
+.
+:Intimate_Barrios
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Berta_Rojas ;
+  bibliographica:byArtist SoloMusicArtist:Berta_Rojas ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/96cd9411-8899-4866-8189-841848f6f7dd"^^xsd:anyURI ;
+  rdfs:label "Intimate Barrios" ;
 .
 :Into_the_Light
   rdf:type mo:CD ;
@@ -9483,6 +9543,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/31e96b19-43f4-41b2-95b7-872a0103d353"^^xsd:anyURI ;
   rdfs:label "Lone Justice" ;
 .
+:Lone_Rhino
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Adrian_Belew ;
+  bibliographica:byArtist SoloMusicArtist:Adrian_Belew ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e92792f7-ed85-4e80-8e38-c06646222c03"^^xsd:anyURI ;
+  rdfs:label "Lone Rhino" ;
+.
 :Lonesome_Prison_Blues
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -9523,15 +9593,15 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/8bb890e0-dbc1-4c65-a725-b6e686c40729"^^xsd:anyURI ;
   rdfs:label "Long Way Home" ;
 .
-:Lone_Rhino
+:Longing_In_Hearts
   rdf:type mo:CD ;
   rdf:type mo:Record ;
   rdf:type mo:Release ;
   rdf:type schema:MusicAlbum ;
-  dcterms:creator SoloMusicArtist:Adrian_Belew ;
-  bibliographica:byArtist SoloMusicArtist:Adrian_Belew ;
-  bibliographica:musicbrainzURI "https://musicbrainz.org/release/e92792f7-ed85-4e80-8e38-c06646222c03"^^xsd:anyURI ;
-  rdfs:label "Lone Rhino" ;
+  dcterms:creator SoloMusicArtist:Bonnie_Raitt ;
+  bibliographica:byArtist SoloMusicArtist:Bonnie_Raitt ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c7be2f58-5816-43fa-8c62-89f83a2c9efd"^^xsd:anyURI ;
+  rdfs:label "Longing In Their Hearts" ;
 .
 :Look_at_Love
   rdf:type mo:CD ;
@@ -9683,6 +9753,26 @@
   bibliographica:byArtist SoloMusicArtist:David_Bowie ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/02e2a2f6-0da2-34cb-8e65-a05447ed1994"^^xsd:anyURI ;
   rdfs:label "Low" ;
+.
+:Lucidity
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Beth_Quist ;
+  bibliographica:byArtist SoloMusicArtist:Beth_Quist ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/344c8b8f-b04f-4927-a27a-708f601d2638"^^xsd:anyURI ;
+  rdfs:label "Lucidity" ;
+.
+:Luck_Of_The_Draw
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bonnie_Raitt ;
+  bibliographica:byArtist SoloMusicArtist:Bonnie_Raitt ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/2316a494-0176-426d-abcb-508a420372d3"^^xsd:anyURI ;
+  rdfs:label "Luck of the Draw" ;
 .
 :Luxury_Liner
   rdf:type mo:CD ;
@@ -11013,6 +11103,16 @@
   bibliographica:byArtist SoloMusicArtist:Curtis_Mayfield ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c6169099-94aa-46f2-b722-29db8fcf8690"^^xsd:anyURI ;
   rdfs:label "New World Order" ;
+.
+:Nick_of_Time
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bonnie_Raitt ;
+  bibliographica:byArtist SoloMusicArtist:Bonnie_Raitt ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/32fdca94-c832-4f04-96b2-701d17223853"^^xsd:anyURI ;
+  rdfs:label "Nick of Time" ;
 .
 :Nightclubbing
   rdf:type mo:CD ;
@@ -12856,6 +12956,15 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/1964e201-9b62-4a61-91a6-7be9494e8be8"^^xsd:anyURI ;
   rdfs:label "Recorded Live Electric" ;
 .
+:Recorded_Live_Prelude
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Billy_Taylor ;
+  bibliographica:byArtist SoloMusicArtist:Billy_Taylor ;
+  rdfs:label "Recorded Live at the Prelude (1960)" ;
+.
 :Red_and_Black
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -13004,6 +13113,15 @@
   bibliographica:byArtist SoloMusicArtist:Robert_Fripp ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/0fcc1d02-9575-49eb-99c8-4abacdb5a224"^^xsd:anyURI ;
   rdfs:label "The Repercussions of Angelic Behavior" ;
+.
+:Reservation_Blues
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ben_Stevens ;
+  bibliographica:byArtist SoloMusicArtist:Ben_Stevens ;
+  rdfs:label "Reservation Blues" ;
 .
 :ReTurning
   rdf:type mo:CD ;
@@ -13235,6 +13353,16 @@
   bibliographica:byArtist SoloMusicArtist:Luka_Bloom ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/7da06982-bbeb-4033-a6b6-a7161f19c518"^^xsd:anyURI ;
   rdfs:label "Riverside" ;
+.
+:Road_Tested
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bonnie_Raitt ;
+  bibliographica:byArtist SoloMusicArtist:Bonnie_Raitt ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f1f2b219-6224-426c-9742-c75010e68fb4"^^xsd:anyURI ;
+  rdfs:label "Road Tested" ;
 .
 :Rock_Of_Ages
   rdf:type mo:CD ;
@@ -13744,6 +13872,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/074ee03c-5baa-462e-908a-34691ffa00f7"^^xsd:anyURI ;
   rdfs:label "Shaking Free" ;
 .
+:Shall_We_Dance
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Beth_Quist ;
+  bibliographica:byArtist SoloMusicArtist:Beth_Quist ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c0abb484-98cb-44dc-8631-3107af68fcc5"^^xsd:anyURI ;
+  rdfs:label "Shall We Dance" ;
+.
 :Shamans_Breath
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -13976,6 +14114,16 @@
   bibliographica:byArtist SoloMusicArtist:Kitaro ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/17140502-4918-335a-9b19-c97ec75952ac"^^xsd:anyURI ;
   rdfs:label "Silver Cloud" ;
+.
+:Silver_Lining
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bonnie_Raitt ;
+  bibliographica:byArtist SoloMusicArtist:Bonnie_Raitt ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/28a9bfa4-c397-49aa-914e-68c6df75bfbd"^^xsd:anyURI ;
+  rdfs:label "Silver Lining" ;
 .
 :Simmer_Reduce_Garnish_Serve
   rdf:type mo:CD ;
@@ -14965,6 +15113,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/be965971-b73d-417d-b950-a002b4400e21"^^xsd:anyURI ;
   rdfs:label "Strawberry Lover" ;
 .
+:Streetlights
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bonnie_Raitt ;
+  bibliographica:byArtist SoloMusicArtist:Bonnie_Raitt ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/21233587-1796-32b2-8f79-aedfb6395496"^^xsd:anyURI ;
+  rdfs:label "Streetlights" ;
+.
 :Strikes_Twice
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -15178,6 +15336,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/4999fb78-a139-4b34-963f-e2deebbc6a58"^^xsd:anyURI ;
   rdfs:label "Sweet Dreams: The Anthology" ;
 .
+:Sweet_Forgiveness
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bonnie_Raitt ;
+  bibliographica:byArtist SoloMusicArtist:Bonnie_Raitt ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/ce55d23a-d234-3791-82c4-3b046c988b80"^^xsd:anyURI ;
+  rdfs:label "Sweet Forgiveness" ;
+.
 :Swept
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -15251,6 +15419,16 @@
   bibliographica:byArtist MusicGroup:Hot_Rize ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/1f70105a-92ec-467c-81fa-809d4d5ce5ff"^^xsd:anyURI ;
   rdfs:label "Take It Home" ;
+.
+:Taking_My_Time
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bonnie_Raitt ;
+  bibliographica:byArtist SoloMusicArtist:Bonnie_Raitt ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/2b0b8715-6052-3384-aa1c-4d81b7e727c4"^^xsd:anyURI ;
+  rdfs:label "Takin' My Time" ;
 .
 :Tales_From_the_Hudson
   rdf:type mo:CD ;
@@ -15602,6 +15780,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b9a7a401-5fb7-4697-bac0-78aa685bb9e5"^^xsd:anyURI ;
   rdfs:label "The Big Time" ;
 .
+:The_Bonnie_Raitt_Collection
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bonnie_Raitt ;
+  bibliographica:byArtist SoloMusicArtist:Bonnie_Raitt ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/3905e1fc-9b1c-4c98-a7ca-174265c73c9c"^^xsd:anyURI ;
+  rdfs:label "The Bonnie Raitt Collection" ;
+.
 :The_Captain
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -15641,6 +15829,16 @@
   bibliographica:byArtist SoloMusicArtist:Charles_Mingus ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/910c0ae4-e0f6-35da-a9fd-786390756c5a"^^xsd:anyURI ;
   rdfs:label "The Clown" ;
+.
+:The_Collection
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bessie_Smith ;
+  bibliographica:byArtist SoloMusicArtist:Bessie_Smith ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/6d005c05-2c56-48ad-a660-fd66657c5160"^^xsd:anyURI ;
+  rdfs:label "The Collection" ;
 .
 :The_Complete_1961_VV
   rdf:type mo:CD ;
@@ -15721,6 +15919,16 @@
   bibliographica:byArtist SoloMusicArtist:David_Byrne ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a737d458-40b3-4860-8cfb-661f6eaf6eb1"^^xsd:anyURI ;
   rdfs:label "The Forest" ;
+.
+:The_Glow
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bonnie_Raitt ;
+  bibliographica:byArtist SoloMusicArtist:Bonnie_Raitt ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/60b0a161-5a4c-33c0-80ec-2c5b92d6d100"^^xsd:anyURI ;
+  rdfs:label "The Glow" ;
 .
 :The_Govnor
   rdf:type mo:CD ;
