@@ -599,6 +599,7 @@
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassAD ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Bruce_Cockburn.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/254b70d3-4aec-4c64-ac95-b13a1dbb30cb"^^xsd:anyURI ;
   rdfs:label "Bruce Cockburn" ;
 .
 :Bruce_Hornsby

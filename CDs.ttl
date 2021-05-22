@@ -3768,6 +3768,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/10600476-3b48-4709-a91d-3fdf6d2455e6"^^xsd:anyURI ;
   rdfs:label "Dark Side Of The Moon" ;
 .
+:Darkness_Edge_Town
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bruce_Springsteen ;
+  bibliographica:byArtist SoloMusicArtist:Bruce_Springsteen ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/c4b01581-df6a-492d-bf98-31d36affb9b1"^^xsd:anyURI ;
+  rdfs:label "Darkness On The Edge Of Town" ;
+.
 :Dart_to_Heart
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -8578,6 +8588,16 @@
   bibliographica:byArtist SoloMusicArtist:Gram_Parsons ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/ad696dc8-afec-432c-a7a0-3ec91a299560"^^xsd:anyURI ;
   rdfs:label "Live 1973" ;
+.
+:Live_75_85
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Bruce_Springsteen ;
+  bibliographica:byArtist SoloMusicArtist:Bruce_Springsteen ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/75553328-91a7-492e-a04f-baf72dbc1aaf"^^xsd:anyURI ;
+  rdfs:label "Live 1975-1985" ;
 .
 :Live_88
   rdf:type mo:CD ;
