@@ -385,6 +385,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/0375a849-d8b1-4851-9faf-2ea75e78173b"^^xsd:anyURI ;
   rdfs:label "Amanda Marshall" ;
 .
+:Amazonas
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Cal_Tjader ;
+  bibliographica:byArtist SoloMusicArtist:Cal_Tjader ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/74805ee7-3a48-4619-9590-e4bc56c0d298"^^xsd:anyURI ;
+  rdfs:label "Amazonas" ;
+.
 :Amazulu
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4728,6 +4738,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b4ad9372-324a-4aa4-b141-1b5191daa837"^^xsd:anyURI ;
   rdfs:label "El Ruiseñor Yucateco" ;
 .
+:El_Sonida_Nuevo
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Cal_Tjader ;
+  bibliographica:byArtist SoloMusicArtist:Cal_Tjader ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/3fd45eb0-b51a-4f54-98cd-89891c5a124f"^^xsd:anyURI ;
+  rdfs:label "El Sonido Nuevo" ;
+.
 :Electric_Ladyland
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7657,6 +7677,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/8dc73edb-dcaf-45f0-9a95-35b81755f205"^^xsd:anyURI ;
   rdfs:label "Jazz" ;
 .
+:Jazz_Masters_39
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Cal_Tjader ;
+  bibliographica:byArtist SoloMusicArtist:Cal_Tjader ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a03d77cf-9606-44ba-bc9b-4b98a768e740"^^xsd:anyURI ;
+  rdfs:label "Verve Jazz Masters 39" ;
+.
 :Jazz_Profile
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -8206,6 +8236,16 @@
   bibliographica:byArtist SoloMusicArtist:Christine_Collister ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/342c2233-f551-49bc-8148-cc0dcce065a7"^^xsd:anyURI ;
   rdfs:label "The Last Word" ;
+.
+:Latin_Kick
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Cal_Tjader ;
+  bibliographica:byArtist SoloMusicArtist:Cal_Tjader ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5e2f49bb-3e91-32f4-ae3f-f16cf543d255"^^xsd:anyURI ;
+  rdfs:label "Latin Kick" ;
 .
 :Latin_Playboys_CD
   rdf:type mo:CD ;
@@ -14635,6 +14675,16 @@
   bibliographica:byArtist SoloMusicArtist:Miles_Davis ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/30562d07-82e7-4cec-a16f-b407550210ff"^^xsd:anyURI ;
   rdfs:label "Sorcerer" ;
+.
+:Soul_Sauce
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Cal_Tjader ;
+  bibliographica:byArtist SoloMusicArtist:Cal_Tjader ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5d568366-e2fa-4c84-b4b0-e8b7e98b1773"^^xsd:anyURI ;
+  rdfs:label "Soul Sauce" ;
 .
 :Soultrane
   rdf:type mo:CD ;
