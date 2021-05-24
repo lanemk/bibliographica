@@ -1561,6 +1561,13 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/27613b78-1b9d-4ec3-9db5-fa0743465fdd"^^xsd:anyURI ;
   rdfs:label "Herbie Hancock" ;
 .
+:Holger_Czukay
+  rdf:type mo:SoloMusicArtist ;
+  rdf:type bibliographica:AlphaClassAD ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Holger_Czukay.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/a48cce8c-8632-4e6f-b46f-40139be33ba0"^^xsd:anyURI ;
+  rdfs:label "Holger Czukay" ;
+.
 :Holladay_Cole
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassAD ;

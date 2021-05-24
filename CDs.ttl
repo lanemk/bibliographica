@@ -624,6 +624,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a4fe9bb1-1790-4d5f-93b1-aabe513ec6ff"^^xsd:anyURI ;
   rdfs:label "Anthem" ;
 .
+:Anthymn
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Cosy_Sheridan ;
+  bibliographica:byArtist SoloMusicArtist:Cosy_Sheridan ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9e872443-aaae-4f4c-9eb1-8e63a09905df"^^xsd:anyURI ;
+  rdfs:label "Anthymn" ;
+.
 :Anthology_Bad_Company
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -752,6 +762,16 @@
   bibliographica:byArtist SoloMusicArtist:Rakoto_Frah ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/3a6bff5a-58eb-4a49-b166-b020597ef8c5"^^xsd:anyURI ;
   rdfs:label "The Art of Rakoto Frah & Randafison Sylvestre / Madagascar" ;
+.
+:Art_Survival
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Dianne_Reeves ;
+  bibliographica:byArtist SoloMusicArtist:Dianne_Reeves ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/1541c381-0780-4a7c-97f2-0d520c74a20e"^^xsd:anyURI ;
+  rdfs:label "Art And Survival" ;
 .
 :As_Falls_Wichita
   rdf:type mo:CD ;
@@ -2187,6 +2207,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/08bc0277-fcb2-3a52-8bbc-f7411d76d6df"^^xsd:anyURI ;
   rdfs:label "Breakfast in New Orleans, Dinner in Timbuktu" ;
 .
+:Bridges
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Dianne_Reeves ;
+  bibliographica:byArtist SoloMusicArtist:Dianne_Reeves ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/4598715f-8d54-478b-90bb-a613bb739a59"^^xsd:anyURI ;
+  rdfs:label "Bridges" ;
+.
 :Bridges_To_Bert
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2216,6 +2246,16 @@
   bibliographica:byArtist SoloMusicArtist:Thelonious_Monk ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/f361d90f-99ff-4ad2-ac46-a5207a464261"^^xsd:anyURI ;
   rdfs:label "Brilliant Corners" ;
+.
+:Brilliant_Trees_Shaman
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:David_Sylvian ;
+  bibliographica:byArtist SoloMusicArtist:David_Sylvian ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/bcf17be7-bb8d-4622-8b2c-df59a6424a8d"^^xsd:anyURI ;
+  rdfs:label "Brilliant Trees/Words with the Shaman" ;
 .
 :Bring_the_Family
   rdf:type mo:CD ;
@@ -2627,6 +2667,16 @@
   bibliographica:byArtist MusicGroup:Bob_Marley_Wailers ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/776a48b4-2e3a-440d-9b62-dfac8a3e40a8"^^xsd:anyURI ;
   rdfs:label "Catch a Fire" ;
+.
+:Catch_Bull_Four
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Cat_Stevens ;
+  bibliographica:byArtist SoloMusicArtist:Cat_Stevens ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/91c192d5-f097-3036-9aec-bc3ac148efd3"^^xsd:anyURI ;
+  rdfs:label "Catch Bull at Four" ;
 .
 :Catfish_Rising
   rdf:type mo:CD ;
@@ -3070,6 +3120,16 @@
   bibliographica:byArtist MusicGroup:Del_McCoury_Band ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e428c96d-26e5-4458-a85b-ad4c45e18445"^^xsd:anyURI ;
   rdfs:label "The Cold Hard Facts" ;
+.
+:Collection_CS
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Cat_Stevens ;
+  bibliographica:byArtist SoloMusicArtist:Cat_Stevens ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/cd1bc0a3-6732-4813-a509-a02cb6582d69"^^xsd:anyURI ;
+  rdfs:label "The Collection" ;
 .
 :Collectors_Items
   rdf:type mo:CD ;
@@ -3858,6 +3918,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/aa0d7d7e-1d78-4f78-ba03-7a32c200f660"^^xsd:anyURI ;
   rdfs:label "Dead at Cornell 5.8.77" ;
 .
+:Dead_Bees
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:David_Sylvian ;
+  bibliographica:byArtist SoloMusicArtist:David_Sylvian ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/94e8d28b-7563-4d8a-9112-aebdff755c42"^^xsd:anyURI ;
+  rdfs:label "Dead Bees on a Cake" ;
+.
 :Dead_City_Radio
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4066,6 +4136,16 @@
   bibliographica:byArtist SoloMusicArtist:Joan_Baez ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/3a9a3cd7-0274-4025-b467-44cbd174f1ba"^^xsd:anyURI ;
   rdfs:label "Diamonds & Rust" ;
+.
+:Dianne_Reeves_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Dianne_Reeves ;
+  bibliographica:byArtist SoloMusicArtist:Dianne_Reeves ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/27c1cb41-1eff-4417-a75f-21ccc361eec3"^^xsd:anyURI ;
+  rdfs:label "Dianne Reeves" ;
 .
 :Dicks_Picks_Vol_1
   rdf:type mo:CD ;
@@ -4988,6 +5068,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/bdc3145c-b84f-4d07-a4e4-d3f52a0ee5aa"^^xsd:anyURI ;
   rdfs:label "Everybody Loves You" ;
 .
+:Everything_Nothing
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:David_Sylvian ;
+  bibliographica:byArtist SoloMusicArtist:David_Sylvian ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/f1b6219e-6953-31ed-9502-d6c2f3a25af1"^^xsd:anyURI ;
+  rdfs:label "Everything And Nothing" ;
+.
 :Excerpts_Love_Circus
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5445,6 +5535,18 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d59cee98-ab1a-4a00-a629-2bbc7b25f4e7"^^xsd:anyURI ;
   rdfs:label "Flood" ;
 .
+:Flux_Mutability
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:David_Sylvian ;
+  bibliographica:byArtist SoloMusicArtist:David_Sylvian ;
+  dcterms:creator SoloMusicArtist:Holger_Czukay ;
+  bibliographica:byArtist SoloMusicArtist:Holger_Czukay ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/7f23c936-a112-3417-9c0d-499d22e403c0"^^xsd:anyURI ;
+  rdfs:label "Flux + Mutability" ;
+.
 :Flying_Cowboys
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5454,6 +5556,16 @@
   bibliographica:byArtist SoloMusicArtist:Rickie_Lee_Jones ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/fd595b60-e4cf-4dc5-8a14-06d457a7bbfd"^^xsd:anyURI ;
   rdfs:label "Flying Cowboys" ;
+.
+:Footsteps_Dark
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Cat_Stevens ;
+  bibliographica:byArtist SoloMusicArtist:Cat_Stevens ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/139f1eef-f3c9-4fed-b492-f406fcade9d8"^^xsd:anyURI ;
+  rdfs:label "Footsteps in the Dark" ;
 .
 :For_All_Seasons_Mind
   rdf:type mo:CD ;
@@ -6139,6 +6251,16 @@
   dcterms:creator SoloMusicArtist:Libby_Kirkpatrick ;
   bibliographica:byArtist SoloMusicArtist:Libby_Kirkpatrick ;
   rdfs:label "Goodnight Venus" ;
+.
+:Gone_To_Earth
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:David_Sylvian ;
+  bibliographica:byArtist SoloMusicArtist:David_Sylvian ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/1e72db0b-fbff-3eeb-b466-aa07bc3ab2cf"^^xsd:anyURI ;
+  rdfs:label "Gone To Earth" ;
 .
 :Gords_Gold
   rdf:type mo:CD ;
@@ -7100,6 +7222,26 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/bb62a753-cf14-47d2-8431-405c924db045"^^xsd:anyURI ;
   rdfs:label "Hymns to the Silence" ;
 .
+:I_Do_Not_Want
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Sinead_OConnor ;
+  bibliographica:byArtist SoloMusicArtist:Sinead_OConnor ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/92f17814-57bb-4c9b-8948-fee1f0677472"^^xsd:anyURI ;
+  rdfs:label "I Do Not Want What I Haven't Got" ;
+.
+:I_Remember
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Dianne_Reeves ;
+  bibliographica:byArtist SoloMusicArtist:Dianne_Reeves ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b2cd4ed5-7931-4cfc-ac38-8afea50f762b"^^xsd:anyURI ;
+  rdfs:label "I Remember" ;
+.
 :Ice_Caps_Peaks_Telluride
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7149,6 +7291,16 @@
   bibliographica:byArtist SoloMusicArtist:John_Prine ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/19709fd2-ac39-4184-973c-673e7db00472"^^xsd:anyURI ;
   rdfs:label "In Person & On Stage" ;
+.
+:In_the_Moment
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Dianne_Reeves ;
+  bibliographica:byArtist SoloMusicArtist:Dianne_Reeves ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/8a759e23-76e4-4a97-88f6-20c8cd78f6c8"^^xsd:anyURI ;
+  rdfs:label "In the Moment" ;
 .
 :In_The_Round
   rdf:type mo:CD ;
@@ -7230,16 +7382,6 @@
   dcterms:creator SoloMusicArtist:Eugene_Chadbourne ;
   bibliographica:byArtist SoloMusicArtist:Eugene_Chadbourne ;
   rdfs:label "I've Been Everywhere" ;
-.
-:I_Do_Not_Want
-  rdf:type mo:CD ;
-  rdf:type mo:Record ;
-  rdf:type mo:Release ;
-  rdf:type schema:MusicAlbum ;
-  dcterms:creator SoloMusicArtist:Sinead_OConnor ;
-  bibliographica:byArtist SoloMusicArtist:Sinead_OConnor ;
-  bibliographica:musicbrainzURI "https://musicbrainz.org/release/92f17814-57bb-4c9b-8948-fee1f0677472"^^xsd:anyURI ;
-  rdfs:label "I Do Not Want What I Haven't Got" ;
 .
 :Ive_Got_Rock_Sock
   rdf:type mo:CD ;
@@ -8104,6 +8246,16 @@
   bibliographica:byArtist MusicGroup:BeauSoleil ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/5311e9f9-fe6d-4d1c-ba21-46d4b8e0bd71"^^xsd:anyURI ;
   rdfs:label "L'Amour ou la Folie" ;
+.
+:La_Mejor_Vida
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Compay_Segundo ;
+  bibliographica:byArtist SoloMusicArtist:Compay_Segundo ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/bcfd6306-a3bf-43e0-9316-930fb50a869c"^^xsd:anyURI ;
+  rdfs:label "La Mejor de la Vida" ;
 .
 :Labour_of_Lust
   rdf:type mo:CD ;
@@ -9942,6 +10094,16 @@
   bibliographica:byArtist SoloMusicArtist:Maire_Brennan ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/4b0978a6-d511-339d-8ffe-e62deda4eb48"^^xsd:anyURI ;
   rdfs:label "Máire" ;
+.
+:Majikat
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Cat_Stevens ;
+  bibliographica:byArtist SoloMusicArtist:Cat_Stevens ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/8e9bd451-1017-4f70-8d31-f7bb8e61b95f"^^xsd:anyURI ;
+  rdfs:label "Majikat: Earth Tour 1976" ;
 .
 :Make_City_Ours
   rdf:type mo:CD ;
@@ -12817,6 +12979,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e117f547-7248-461d-bfdb-f24e0d67efea"^^xsd:anyURI ;
   rdfs:label "Queen of All Ears" ;
 .
+:Quiet_After_Storm
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Dianne_Reeves ;
+  bibliographica:byArtist SoloMusicArtist:Dianne_Reeves ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/92916f94-7fc4-48fa-94b3-ec6331a82f3c"^^xsd:anyURI ;
+  rdfs:label "Quiet After The Storm" ;
+.
 :Quiet_Nights
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -13791,6 +13963,16 @@
   bibliographica:byArtist SoloMusicArtist:Pat_Metheny ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a5e8cd65-ae9a-40de-bb84-cab40402d58b"^^xsd:anyURI ;
   rdfs:label "Secret Story" ;
+.
+:Secrets_Beehive
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:David_Sylvian ;
+  bibliographica:byArtist SoloMusicArtist:David_Sylvian ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/05ace6c9-6453-325d-9eff-f5975c842e59"^^xsd:anyURI ;
+  rdfs:label "Secrets of the Beehive" ;
 .
 :Self_Portrait
   rdf:type mo:CD ;
@@ -15660,6 +15842,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/42919bed-aeda-398a-9501-0ae088ec7c66"^^xsd:anyURI ;
   rdfs:label "Teaser" ;
 .
+:Teaser_Firecat
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Cat_Stevens ;
+  bibliographica:byArtist SoloMusicArtist:Cat_Stevens ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/168326ee-a04d-426f-9f9e-229a8c8095c3"^^xsd:anyURI ;
+  rdfs:label "Teaser And The Firecat" ;
+.
 :Telephone_Free_Landslide
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -15969,6 +16161,18 @@
   bibliographica:byArtist SoloMusicArtist:Rickie_Lee_Jones ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/38105434-2eef-4cd9-a216-ad7bcf441ac7"^^xsd:anyURI ;
   rdfs:label "The Evening of My Best Day" ;
+.
+:The_First_Day
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:David_Sylvian ;
+  bibliographica:byArtist SoloMusicArtist:David_Sylvian ;
+  dcterms:creator SoloMusicArtist:Robert_Fripp ;
+  bibliographica:byArtist SoloMusicArtist:Robert_Fripp ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/995790b4-6ed3-41d9-aa05-5a68b06bbfa0"^^xsd:anyURI ;
+  rdfs:label "The First Day" ;
 .
 :The_First_Ten_Years
   rdf:type mo:CD ;
