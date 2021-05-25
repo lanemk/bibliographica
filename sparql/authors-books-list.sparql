@@ -1,10 +1,11 @@
-## List all the authors as resources and related book titles (cataloged to date).
+## List all authors and their book titles.
  
  
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
 
-SELECT DISTINCT ?author ?title
+SELECT DISTINCT ?name ?title
 
 FROM <http://www.connaissance.io/onto/biblio/books.ttl>
 FROM <http://www.connaissance.io/onto/biblio/authors.ttl>
@@ -12,4 +13,7 @@ FROM <http://www.connaissance.io/onto/biblio/authors.ttl>
 WHERE
 { ?s dcterms:title ?title ;
      dcterms:creator ?author .
+  ?author rdfs:label ?name .
 }
+
+ORDER BY ?name

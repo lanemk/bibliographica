@@ -2,6 +2,7 @@
  
 PREFIX dct: <http://purl.org/dc/terms/>
 PREFIX bibliographica: <http://www.connaissance.io/onto/biblio/bibliographica>
+PREFIX schema: <http://schema.org/>
 
 SELECT (COUNT(?author) AS ?authors_count) (COUNT(?book) AS ?books_count)
 
