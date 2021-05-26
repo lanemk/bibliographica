@@ -1,0 +1,504 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| label                                 | title                                                                                                                                    |
+====================================================================================================================================================================================
+| "A. A. Milne"                         | "The House at Pooh Corner"                                                                                                               |
+| "A. A. Milne"                         | "Winnie the Pooh"                                                                                                                        |
+| "A.C. Bhaktivedanta Swami Prabhupāda" | "The Higher Taste : a guide to gourmet vegetarian cooking and a karma-free diet"                                                         |
+| "A.J. Verdelle"                       | "The Good Negress"                                                                                                                       |
+| "A.S. Byatt"                          | "Possession : a romance"                                                                                                                 |
+| "A.S. Byatt"                          | "Still Life"                                                                                                                             |
+| "A.S. Byatt"                          | "The Virgin in the Garden"                                                                                                               |
+| "Alfred Vogel"                        | "Nature - Your Guide to Healthy Living"                                                                                                  |
+| "Adelle Davis"                        | "Let's Cook It Right"                                                                                                                    |
+| "Adriana Trigiani"                    | "Big Stone Gap : a novel"                                                                                                                |
+| "Al Di Meola"                         | "Guide to Chords, Scales, & Arpeggios"                                                                                                   |
+| "Alan Duff"                           | "Once Were Warriors"                                                                                                                     |
+| "Alan Watts"                          | "Cloud-hidden, whereabouts unknown; a mountain journal"                                                                                  |
+| "Alan Watts"                          | "Nature, man, and woman"                                                                                                                 |
+| "Alan Watts"                          | "The Way of Zen"                                                                                                                         |
+| "Alan Watts"                          | "The book; on the taboo against knowing who you are"                                                                                     |
+| "Albert Einstein"                     | "The World As I See It: Out of My Later Years"                                                                                           |
+| "Alice Hoffman"                       | "Practical Magic"                                                                                                                        |
+| "Alice Walker"                        | "I love myself when I am laughing : and then again when I am looking mean : a Zora Neale Hurston reader"                                 |
+| "Alifair Burke"                       | "Close Case"                                                                                                                             |
+| "Ana Castillo"                        | "So Far From God"                                                                                                                        |
+| "Andre Dubus"                         | "Bluesman"                                                                                                                               |
+| "Andre Dubus"                         | "House of Sand and Fog"                                                                                                                  |
+| "Andrea Barrett"                      | "The Forms of Water"                                                                                                                     |
+| "Andrea Dodi"                         | "Cucina leggera : light & healthy recipes from northern Italy"                                                                           |
+| "Angelo Pellegrini"                   | "Vintage Pellegrini : the collected wisdom of an American buongustaio : writings"                                                        |
+| "Anita Shreve"                        | "The Pilot's Wife"                                                                                                                       |
+| "Ann Dunnigan"                        | "Anton Chekhov selected stories"                                                                                                         |
+| "Ann Patchett"                        | "The Magician's Assistant"                                                                                                               |
+| "Anna Thomas"                         | "The Vegetarian Epicure"                                                                                                                 |
+| "Anna Thomas"                         | "The Vegetarian Epicure: Book Two"                                                                                                       |
+| "Anne Cameron"                        | "Child of Her People"                                                                                                                    |
+| "Anne Cameron"                        | "Escape to Beulah"                                                                                                                       |
+| "Anne Kent Rush"                      | "The Basic Back Book"                                                                                                                    |
+| "Anthony Bourdain"                    | "Bone in the Throat"                                                                                                                     |
+| "Anthony Bourdain"                    | "A Cook's Tour: In Search of a Perfect Meal"                                                                                             |
+| "Anthony Doerr"                       | "The shell collector : stories"                                                                                                          |
+| "Anton Chekhov"                       | "Anton Chekhov selected stories"                                                                                                         |
+| "April Sinclair"                      | "Coffee Will Make You Black"                                                                                                             |
+| "Ardythe Ashley"                      | "In the Country of the Great King"                                                                                                       |
+| "Arthur Winfield Knight"              | "The Beat Vision"                                                                                                                        |
+| "Arturo Pérez-Reverte"               | "Purity of Blood"                                                                                                                        |
+| "Arturo Pérez-Reverte"               | "The Flanders Panel"                                                                                                                     |
+| "Arundhati Roy"                       | "The God of Small Things"                                                                                                                |
+| "Audrey Niffenegger"                  | "The Time Traveler's Wife"                                                                                                               |
+| "Austin Sicard"                       | "Mel Bay's Complete Book of Blues Guitar Licks & Phrases"                                                                                |
+| "Aveline Kushi"                       | "The Changing Seasons Macrobiotic Cookbook"                                                                                              |
+| "Ayya Khema"                          | "Being Nobody, Going Nowhere"                                                                                                            |
+| "Barry Galbraith"                     | "Daily exercises : in the melodic and harmonic minor modes"                                                                              |
+| "Barry Galbraith"                     | "The fingerbook workbook: concepts in logical fingering"                                                                                 |
+| "Barry Gifford"                       | "Jack's Book : an Oral Biography of Jack Kerouac"                                                                                        |
+| "Barry Lopez"                         | "Arctic Dreams: imagination and desire in a northern landscape "                                                                         |
+| "Becky Ohlsen"                        | "Seattle : city guide"                                                                                                                   |
+| "Betty Wason"                         | "Encyclopedia of Cheese Cookery: a Salute to Cheese"                                                                                     |
+| "Bill Griffith"                       | "Zippy : nation of pinheads "                                                                                                            |
+| "Bill Morris"                         | "All Souls' Day : a novel"                                                                                                               |
+| "Bob Dylan"                           | "Chronicles, Volume One"                                                                                                                 |
+| "Bob Dylan"                           | "The Concise Bob Dylan"                                                                                                                  |
+| "Bob Dylan"                           | "The Superhuman Crew"                                                                                                                    |
+| "Bob Marley"                          | "Legend : the Best of Bob Marley and the Wailers"                                                                                        |
+| "Brad Leithauser"                     | "The friends of Freeland : a novel"                                                                                                      |
+| "Bradford Morrow"                     | "Trinity Fields"                                                                                                                         |
+| "Brett Helquist"                      | "The Austere Academy"                                                                                                                    |
+| "Brett Helquist"                      | "The Ersatz Elevator"                                                                                                                    |
+| "Brett Helquist"                      | "The Miserable Mill"                                                                                                                     |
+| "Brian Moore"                         | "The Magician's Wife"                                                                                                                    |
+| "Brooks Hansen"                       | "The chess garden, or, The twilight letters of Gustav Uyterhoeven"                                                                       |
+| "Bruce Shlain"                        | "Acid dreams : the CIA, LSD, and the sixties rebellion"                                                                                  |
+| "Bruno Nettl"                         | "The study of ethnomusicology : thirty-one issues and concepts"                                                                          |
+| "Bryan Thomas"                        | "Trails of the Gila: a guide to the recreational trails of the Silver City area"                                                         |
+| "C.S. Lewis"                          | "Mere Christianity"                                                                                                                      |
+| "Camilla Läckberg"                    | "The Ice Princess"                                                                                                                       |
+| "Carl Bode"                           | "Selected Journals of Henry David Thoreau"                                                                                               |
+| "Carl Forest"                         | "The Physics of Caribou Creek : a story of love"                                                                                         |
+| "Carl Hiaasen"                        | "Basket Case"                                                                                                                            |
+| "Carol Brightman"                     | "Sweet chaos : the Grateful Dead's American adventure"                                                                                   |
+| "Cathleen Schine"                     | "The evolution of Jane"                                                                                                                  |
+| "Cerridwen Fallingstar"               | "The Heart of the Fire"                                                                                                                  |
+| "Charles H. Baker Jr."                | "The Esquire culinary companion, being an exotic cookery book; or, Around Europe with knife, fork, and spoon"                            |
+| "Charles Bukowski"                    | "Notes of a Dirty Old Man"                                                                                                               |
+| "Charles Bukowski"                    | "Tales of Ordinary Madness"                                                                                                              |
+| "Charles Frazier"                     | "Cold Mountain"                                                                                                                          |
+| "Charlie Smith"                       | "Shine Hawk : a novel"                                                                                                                   |
+| "Chris Bohjalian"                     | "Midwives"                                                                                                                               |
+| "Chris Bohjalian"                     | "The Law of Similars"                                                                                                                    |
+| "Chris Bohjalian"                     | "Water Witches"                                                                                                                          |
+| "Christopher Moore"                   | "Bite Me"                                                                                                                                |
+| "Clarence Major"                      | "Dirty bird blues : a novel"                                                                                                             |
+| "Clive Cussler"                       | "Atlantis Found"                                                                                                                         |
+| "Clive Cussler"                       | "Blue Gold"                                                                                                                              |
+| "Clive Cussler"                       | "Crescent Dawn"                                                                                                                          |
+| "Clive Cussler"                       | "Cyclops"                                                                                                                                |
+| "Clive Cussler"                       | "Skeleton Coast"                                                                                                                         |
+| "Clive Cussler"                       | "Spartan Gold"                                                                                                                           |
+| "Clive Cussler"                       | "The Chase"                                                                                                                              |
+| "Clive Cussler"                       | "The Race"                                                                                                                               |
+| "Clive Cussler"                       | "White Death"                                                                                                                            |
+| "Connie May Fowler"                   | "Sugar Cane"                                                                                                                             |
+| "Cormac McCarthy"                     | "All the Pretty Horses"                                                                                                                  |
+| "Crab Searl"                          | "Knots, ties and splices : a handbook for seafarers, travellers and all who use cordage, with special notes "                            |
+| "Craig Claiborne"                     | "The New York Times Cookbook"                                                                                                            |
+| "Craig Johnson"                       | "The Cold Dish"                                                                                                                          |
+| "Dan Haerle"                          | "Jazz Tunes for Improvisation, Vol. 1"                                                                                                   |
+| "Dan O'Brien"                         | "Equinox: life, love, and birds of prey"                                                                                                 |
+| "Daniel Mathews"                      | "Cascade-Olympic Natural History"                                                                                                        |
+| "Daniel Quinn"                        | "Ishmael"                                                                                                                                |
+| "Danny Elfman"                        | "Theme From The Simpsons"                                                                                                                |
+| "Dany Laferrière"                     | "An Aroma of Coffee"                                                                                                                     |
+| "Dashka Slater"                       | "The Wishing Box"                                                                                                                        |
+| "Dave DeWitt"                         | "Peppers of the world : an identification guide"                                                                                         |
+| "David Gans"                          | "Playing in the band : an oral and visual portrait of the Grateful Dead"                                                                 |
+| "David Guterson"                      | "Snow Falling on Cedars"                                                                                                                 |
+| "David James Duncan"                  | "The River Why"                                                                                                                          |
+| "David Rains Wallace"                 | "The Turquoise Dragon : a mystery"                                                                                                       |
+| "David Seals"                         | "The Powwow Highway : a novel"                                                                                                           |
+| "David Sibley"                        | "The Sibley field guide to birds of western North America"                                                                               |
+| "David Stanley"                       | "Cuba"                                                                                                                                   |
+| "DeLorme Mapping Company"             | "Oregon Atlas & Gazetteer"                                                                                                               |
+| "DeLorme Mapping Company"             | "Washington Atlas & Gazetteer"                                                                                                           |
+| "Deepak Chopra"                       | "The seven spiritual laws of success"                                                                                                    |
+| "Derek Hansen"                        | "Sole Survivor"                                                                                                                          |
+| "Dermot Bolger"                       | "Finbar's Hotel"                                                                                                                         |
+| "Dick Francis"                        | "Break In"                                                                                                                               |
+| "Donald C. Peattie"                   | "An Almanac for Moderns "                                                                                                                |
+| "Dorothy Dunnett"                     | "The Game of Kings"                                                                                                                      |
+| "Dr. Seuss"                           | "The Lorax"                                                                                                                              |
+| "E.R. LaChapelle"                     | "Avalanche Safety"                                                                                                                       |
+| "Earl Shorris"                        | "Under the Fifth Sun"                                                                                                                    |
+| "Edward Abbey"                        | "Down the River"                                                                                                                         |
+| "Edward Abbey"                        | "The journey home : some words in defense of the American West"                                                                          |
+| "Edward Rice"                         | "Captain Sir Richard Francis Burton. A biography"                                                                                        |
+| "Edwidge Danticat"                    | "Breath, Eyes, Memory"                                                                                                                   |
+| "Edwidge Danticat"                    | "The Farming of Bones"                                                                                                                   |
+| "Eliot Asinof"                        | "Man on Spikes"                                                                                                                          |
+| "Elisabeth Hyde"                      | "Her Native Colors"                                                                                                                      |
+| "Elisabeth Hyde"                      | "Monoosook Valley"                                                                                                                       |
+| "Elizabeth Arthur"                    | "Antarctic navigation : a novel"                                                                                                         |
+| "Elizabeth Berg"                      | "Range of Motion"                                                                                                                        |
+| "Elliot Perlman"                      | "Seven Types of Ambiguity"                                                                                                               |
+| "Elmore Leonard"                      | "Cat Chaser"                                                                                                                             |
+| "Elmore Leonard"                      | "Pagan Babies"                                                                                                                           |
+| "Elmore Leonard"                      | "Road Dogs"                                                                                                                              |
+| "Elmore Leonard"                      | "Rum Punch"                                                                                                                              |
+| "Elmore Leonard"                      | "Tishomingo Blues"                                                                                                                       |
+| "Elsbeth S. Woody"                    | "Pottery on the Wheel"                                                                                                                   |
+| "Elson Haas"                          | "The Detox Diet"                                                                                                                         |
+| "Emily Dodi"                          | "Cucina leggera : light & healthy recipes from northern Italy"                                                                           |
+| "Emmett Grogan"                       | "Ringolevio"                                                                                                                             |
+| "Eoin Colfer"                         | "Artemis Fowl"                                                                                                                           |
+| "Eoin Colfer"                         | "The Eternity Code"                                                                                                                      |
+| "Ernest Callenbach"                   | "Ecotopia"                                                                                                                               |
+| "Evan S. Connell"                     | "Notes from a bottle found on the beach at Carmel"                                                                                       |
+| "Floyd Stephen Shuttleworth"          | "Non-Flowering Plants"                                                                                                                   |
+| "Forrest Carter"                      | "The Education of Little Tree"                                                                                                           |
+| "Frances Moore Lappé"                 | "Diet for a Small Planet"                                                                                                                |
+| "Franco Ferrero"                      | "Sea Kayak Navigation"                                                                                                                   |
+| "Frank MacEowen"                      | "The Celtic way of seeing: meditations on the Irish spirit wheel"                                                                        |
+| "Fred Darvill"                        | "Mountaineering Medicine: (a wilderness medical guide)"                                                                                  |
+| "Frederick Copleston, S.J."           | "A History of Philosophy"                                                                                                                |
+| "Frederick Forsyth"                   | "The Deceiver"                                                                                                                           |
+| "Gail Anderson-Dargatz"               | "A Recipe for Bees"                                                                                                                      |
+| "Garrsion Keillor"                    | "WLT, A Radio Romance"                                                                                                                   |
+| "Gary Snyder"                         | "Axe Handles: poems by Gary Snyder"                                                                                                      |
+| "Gary Snyder"                         | "Regarding Wave"                                                                                                                         |
+| "Gary Snyder"                         | "The Back Country"                                                                                                                       |
+| "Gary Snyder"                         | "Turtle Island"                                                                                                                          |
+| "Gilbert Shelton"                     | "Freak Brothers Issue 4"                                                                                                                 |
+| "Ginny Callan"                        | "Horn of the Moon Cookbook"                                                                                                              |
+| "Gino Sky"                            | "Coyote Silk"                                                                                                                            |
+| "Gloria Naylor"                       | "Bailey's Café"                                                                                                                          |
+| "Gloria Naylor"                       | "Linden Hills"                                                                                                                           |
+| "Graeme Base"                         | "Animalia"                                                                                                                               |
+| "Graeme Base"                         | "The Discovery of Dragons"                                                                                                               |
+| "Graeme Base"                         | "The Eleventh hour"                                                                                                                      |
+| "Graeme Base"                         | "My Grandma Lived in Gooligulch"                                                                                                         |
+| "Graeme Base"                         | "Jabberwocky"                                                                                                                            |
+| "Graeme Base"                         | "The Sign of the Seahorse"                                                                                                               |
+| "Graeme Base"                         | "The Worst Band in the Universe"                                                                                                         |
+| "Gwen Diehn"                          | "Simple printmaking : a beginner's guide to making relief prints with linoleum blocks, wood blocks, rubber stamps, found objects & more" |
+| "Günter Grass"                        | "The Flounder"                                                                                                                           |
+| "Hannah Hinchman"                     | "A Life in Hand"                                                                                                                         |
+| "Hannah Hinchman"                     | "A trail through leaves : the journal as a path to place"                                                                                |
+| "Harold McGee"                        | "On Food and Cooking: the Science and Lore of the Kitchen"                                                                               |
+| "Heather Cheney"                      | "Rock n Roll Comics Grateful Dead Issue 46"                                                                                              |
+| "Heather Cheney"                      | "Rock n Roll Comics Grateful Dead Issue 45"                                                                                              |
+| "Helen Campbell"                      | "Turnip Blues"                                                                                                                           |
+| "Helen DeWitt"                        | "The Last Samurai"                                                                                                                       |
+| "Helene Tursten"                      | "Detective Inspector Huss"                                                                                                               |
+| "Henry David Thoreau"                 | "Walden"                                                                                                                                 |
+| "Henry David Thoreau"                 | "A Week on the Concord and Merrimack Rivers"                                                                                             |
+| "Howard R. Wallach"                   | "50 classical guitar solos in tablature"                                                                                                 |
+| "Irma S. Rombauer"                    | "Joy of Cooking"                                                                                                                         |
+| "Isabel Allende"                      | "Eva Luna"                                                                                                                               |
+| "Isabel Allende"                      | "The Infinite Plan"                                                                                                                      |
+| "Ivan Doig"                           | "The sea runners"                                                                                                                        |
+| "J.D. Salinger"                       | "Nine Stories"                                                                                                                           |
+| "J.K. Rowling"                        | "Harry Potter and the Chamber of Secrets"                                                                                                |
+| "J.K. Rowling"                        | "Harry Potter and the Order of the Phoenix"                                                                                              |
+| "J. R. H. Andrews"                    | "The southern ark : zoological discovery in New Zealand, 1769-1900"                                                                      |
+| "J. Robert Lennon"                    | "The Funnies"                                                                                                                            |
+| "J Tom Burgess"                       | "Knots, ties and splices : a handbook for seafarers, travellers and all who use cordage, with special notes "                            |
+| "Jabari Asim"                         | "The N Word"                                                                                                                             |
+| "Jack Kerouac"                        | "Book of Dreams"                                                                                                                         |
+| "Jack Kerouac"                        | "The Island Within"                                                                                                                      |
+| "Jack Kerouac"                        | "On the Road"                                                                                                                            |
+| "Jack Kerouac"                        | "Tristessa"                                                                                                                              |
+| "Jack Kerouac"                        | "Vanity of Duluoz"                                                                                                                       |
+| "Jack Kerouac"                        | "Visions of Cody"                                                                                                                        |
+| "James Crumley"                       | "The Last Good Kiss : a novel"                                                                                                           |
+| "James Ellroy"                        | "White jazz : a novel"                                                                                                                   |
+| "James Ensor"                         | "The Superhuman Crew"                                                                                                                    |
+| "James Kelman"                        | "How Late It Was, How Late"                                                                                                              |
+| "James Lee Burke"                     | "Purple Cane Road"                                                                                                                       |
+| "James McBride"                       | "The Color of Water"                                                                                                                     |
+| "James Patterson"                     | "Beach Road"                                                                                                                             |
+| "James Patterson"                     | "Cross Country"                                                                                                                          |
+| "James Patterson"                     | "The 8th Confession"                                                                                                                     |
+| "James Patterson"                     | "Tick Tock"                                                                                                                              |
+| "Jana Fayne Kolpen"                   | "The Secrets of Pistoulet : a Fable of Food, Magic, & Love"                                                                              |
+| "Jane Rule"                           | "The Young in One Another's Arms"                                                                                                        |
+| "Jane Urquhart"                       | "The Underpainter"                                                                                                                       |
+| "Jean Hewitt"                         | "The New York Times New Natural Foods Cookbook"                                                                                          |
+| "Jean Smith"                          | "365 Zen"                                                                                                                                |
+| "Jean Vaysse"                         | "Toward awakening : an approach to the teaching left by Gurdjieff"                                                                       |
+| "Jean Zallinger"                      | "Botany"                                                                                                                                 |
+| "Jennifer Egan"                       | "The Invisible Circus"                                                                                                                   |
+| "Jerry Garcia"                        | "Grateful Dead : Authentic Guitar Classics, Vol. 2"                                                                                      |
+| "Jerry Garcia"                        | "Harrington Street"                                                                                                                      |
+| "Jessica Maxwell"                     | "Femme d'adventure : travel tales from Inner Montana to Outer Mongolia"                                                                  |
+| "Jiawei Han"                          | "Data mining : concepts and techniques"                                                                                                  |
+| "Jill Ker Conway"                     | "The Road from Coorain"                                                                                                                  |
+| "Jim Dodge"                           | "Stone junction : an alchemical potboiler"                                                                                               |
+| "Jim DuFresne"                        | "Tramping in New Zealand"                                                                                                                |
+| "Jim Harrison"                        | "A good day to die; a novel"                                                                                                             |
+| "Jim Harrison"                        | "Farmer"                                                                                                                                 |
+| "Jim Harrison"                        | "Julip"                                                                                                                                  |
+| "Jim Harrison"                        | "Legends of the Fall"                                                                                                                    |
+| "Jim Harrison"                        | "The Raw and the Cooked"                                                                                                                 |
+| "Jim Harrison"                        | "Sundog"                                                                                                                                 |
+| "Jim Harrison"                        | "The Road Home"                                                                                                                          |
+| "Jim Harrison"                        | "The beast God forgot to invent"                                                                                                         |
+| "Jim Harrison"                        | "Warlock"                                                                                                                                |
+| "Jim Harrison"                        | "Wolf"                                                                                                                                   |
+| "Jingxiong Wu"                        | "Tao Te Ching"                                                                                                                           |
+| "Jo-Ann Mapson"                       | "Shadow Ranch : a novel"                                                                                                                 |
+| "Joanna Rose"                         | "Little Miss Strange"                                                                                                                    |
+| "Joanne Harris"                       | "Chocolat : a novel"                                                                                                                     |
+| "Joanne Harris"                       | "Holy Fools"                                                                                                                             |
+| "John Barth"                          | "The Last Voyage of Somebody the Sailor"                                                                                                 |
+| "John Barth"                          | "The Tidewater tales : a novel"                                                                                                          |
+| "John Brimhall"                       | "The Best of the Best of Brimhall Jazz Standards"                                                                                        |
+| "John Clellon Holmes"                 | "Get Home Free"                                                                                                                          |
+| "John Clellon Holmes"                 | "The Horn"                                                                                                                               |
+| "John Crowley"                        | "Love & Sleep"                                                                                                                           |
+| "John Kennedy Toole"                  | "A Confederacy of Dunces"                                                                                                                |
+| "John Kennedy Toole"                  | "The Neon Bible"                                                                                                                         |
+| "John Klemmer"                        | "The Jazz Styles of John Klemmer"                                                                                                        |
+| "John Lescroart"                      | "Hard Evidence"                                                                                                                          |
+| "John McPhee"                         | "Encounters with the Archdruid"                                                                                                          |
+| "John McPhee"                         | "Irons in the Fire"                                                                                                                      |
+| "John McPhee"                         | "Looking for a Ship"                                                                                                                     |
+| "John McPhee"                         | "The Control of Nature"                                                                                                                  |
+| "John Steinbeck"                      | "Travels with Charley : in search of America"                                                                                            |
+| "John Straley"                        | "The Woman Who Married a Bear"                                                                                                           |
+| "John Watkinson"                      | "The Art of Digital Video"                                                                                                               |
+| "Jon Hassler"                         | "Rookery Blues"                                                                                                                          |
+| "Jorge Amado"                         | "The War of the Saints"                                                                                                                  |
+| "Jostein Gaarder"                     | "Sophie's world : a novel about the history of philosophy"                                                                               |
+| "Judy Fong Bates"                     | "Midnight at the Dragon Café"                                                                                                           |
+| "Julee Rosso"                         | "The Silver Palate Cookbook"                                                                                                             |
+| "Julee Rosso"                         | "The Silver Palate good times cookbook"                                                                                                  |
+| "Julia Alvarez"                       | "In the Time of the Butterflies"                                                                                                         |
+| "Jun'ichirō Tanizaki"                 | "A Cat, a Man, and Two Women : stories"                                                                                                  |
+| "Karl Marlantes"                      | "Matterhorn : a novel of the Vietnam War"                                                                                                |
+| "Kate Atkinson"                       | "Case histories"                                                                                                                         |
+| "Kate Atkinson"                       | "Emotionally Weird"                                                                                                                      |
+| "Kathleen Tyau"                       | "A Little Too Much is Enough"                                                                                                            |
+| "Kathy Eldon"                         | "The journey is the destination : the journals of Dan Eldon"                                                                             |
+| "Kazuo Ishiguro"                      | "The Remains of the Day"                                                                                                                 |
+| "Keith Jack"                          | "Video demystified : a handbook for the digital engineer"                                                                                |
+| "Ken Follett"                         | "Night Over Water"                                                                                                                       |
+| "Ken Kesey"                           | "Demon Box"                                                                                                                              |
+| "Ken Kesey"                           | "Sailor Song"                                                                                                                            |
+| "Kenneth Patchen"                     | "The Journal of Albion Moonlight"                                                                                                        |
+| "Kent Anderson"                       | "Sympathy for the Devil"                                                                                                                 |
+| "Keri Hulme"                          | "The Bone People : a Novel"                                                                                                              |
+| "Keri Hulme"                          | "The Windeater"                                                                                                                          |
+| "Kerstin Ekman"                       | "Blackwater"                                                                                                                             |
+| "Kiana Davenport"                     | "Shark dialogues"                                                                                                                        |
+| "Kiran Desai"                         | "Hullabaloo in the Guava Orchard"                                                                                                        |
+| "Kit Knight"                          | "The Beat Vision"                                                                                                                        |
+| "Krystyna Pomorska"                   | "Fifty Years of Russian Prose"                                                                                                           |
+| "Krystyna Pomorska"                   | "Fifty Years of Russian Prose v.2"                                                                                                       |
+| "Kwadwo Agymah Kamau"                 | "Flickering Shadows"                                                                                                                     |
+| "Ladies' Union Circle"                | "From the Galleys of Nantucket"                                                                                                          |
+| "Larry Brown"                         | "Fay: a novel"                                                                                                                           |
+| "Laurel Robertson"                    | "Laurel's kitchen : a handbook for vegetarian cookery & nutrition"                                                                       |
+| "Lawrence Lee"                        | "Jack's Book : an Oral Biography of Jack Kerouac"                                                                                        |
+| "Lee Child"                           | "Bad Luck and Trouble"                                                                                                                   |
+| "Lee Child"                           | "Gone Tomorrow"                                                                                                                          |
+| "Lee Child"                           | "The Hard Way"                                                                                                                           |
+| "Leo Tolstoy"                         | "Anna Karenina. Book 1"                                                                                                                  |
+| "Leo Tolstoy"                         | "Anna Karenina. Book 2"                                                                                                                  |
+| "Leo Tolstoy"                         | "Childhood Adolescence Youth"                                                                                                            |
+| "Lewis Carroll"                       | "Alice in Wonderland"                                                                                                                    |
+| "Lewis Porter"                        | "John Coltrane : his life and music"                                                                                                     |
+| "Lindsey Davis"                       | "One Virgin Too Many"                                                                                                                    |
+| "Lorraine Anderson"                   | "Sisters of the Earth: Women's Prose and Poetry about Nature"                                                                            |
+| "Louise Erdrich"                      | "Tracks : a novel"                                                                                                                       |
+| "Madeleine L'Engle"                   | "A Wrinkle in Time"                                                                                                                      |
+| "Madhur Jaffrey"                      | "World-of-the-East Vegetarian Cooking"                                                                                                   |
+| "Malcolm Cowley"                      | "The Portable Faulkner"                                                                                                                  |
+| "Malcolm Gladwell"                    | "The Tipping Point: how little things can make a big difference"                                                                         |
+| "Marianne Fredriksson"                | "Hanna's Daughters"                                                                                                                      |
+| "Marita Conlon-McKenna"               | "The Magdalen"                                                                                                                           |
+| "Mark Bego"                           | "Joni Mitchell"                                                                                                                          |
+| "Mark Jacobs"                         | "Stone Cowboy"                                                                                                                           |
+| "Mark Jacobson"                       | "The KGB Bar Nonfiction Reader"                                                                                                          |
+| "Martin A. Lee"                       | "Acid dreams : the CIA, LSD, and the sixties rebellion"                                                                                  |
+| "Mary Monroe"                         | "The Upper Room"                                                                                                                         |
+| "Mary Oliver"                         | "American Primitive : poems"                                                                                                             |
+| "Maryse Condé"                        | "Crossing the Mangrove"                                                                                                                  |
+| "Maryse Condé"                        | "Tree of Life"                                                                                                                           |
+| "Maxine Hong Kingston"                | "Tripmaster Monkey"                                                                                                                      |
+| "Maya Angelou"                        | "Singin' and swingin' and gettin' merry like Christmas "                                                                                 |
+| "Meg Cabot"                           | "Boy Meets Girl"                                                                                                                         |
+| "Mel Bay"                             | "Guitar Chord Chart"                                                                                                                     |
+| "Merrill Gilfillan"                   | "Burnt House to Paw Paw"                                                                                                                 |
+| "Michael Connelly"                    | "The Lincoln Lawyer : a novel"                                                                                                           |
+| "Michael Connelly"                    | "The Scarecrow : a novel"                                                                                                                |
+| "Michael Crichton"                    | "Eaters of the Dead"                                                                                                                     |
+| "Michael Dibdin"                      | "Dead Lagoon"                                                                                                                            |
+| "Michael Kernan"                      | "The lost diaries of Frans Hals : a novel"                                                                                               |
+| "Michael Ondaatje"                    | "The English patient : a novel"                                                                                                          |
+| "Michael Palin"                       | "Hemingway's Chair"                                                                                                                      |
+| "Michael Scott"                       | "The Sorceress"                                                                                                                          |
+| "Mick Goodrick"                       | "The Advancing Guitarist"                                                                                                                |
+| "Mickey Hart"                         | "Planet Drum"                                                                                                                            |
+| "Mickey Spillane"                     | "I, the Jury, My Gun is Quick, Vengeance is Mine"                                                                                        |
+| "Mil Millington"                      | "Things my girlfriend and I have argued about : a novel"                                                                                 |
+| "Moosewood Collective"                | "New Recipes from Moosewood Restaurant"                                                                                                  |
+| "Moosewood Collective"                | "Sundays at Moosewood Restaurant"                                                                                                        |
+| "Mort Rosenblum"                      | "Olives"                                                                                                                                 |
+| "Muriel Sweet"                        | "Common Edible and Useful Plants of the West"                                                                                            |
+| "Neal Cassady"                        | "The first third & other writings"                                                                                                       |
+| "Nel King"                            | "Beneath the underdog: his world as composed by Mingus"                                                                                  |
+| "Nicholas Mosley"                     | "The Hesperides Tree"                                                                                                                    |
+| "Nicholas Rinaldi"                    | "The Jukebox Queen of Malta"                                                                                                             |
+| "Nick Bantock"                        | "Griffin & Sabine : an extraordinary correspondence"                                                                                     |
+| "Norman Rush"                         | "Mating"                                                                                                                                 |
+| "Octavia E. Butler"                   | "Parable of the Talents"                                                                                                                 |
+| "Ottmar Liebert"                      | "Nouveau Flamenco"                                                                                                                       |
+| "Otto Werner"                         | "The Origin and Development of Jazz"                                                                                                     |
+| "P. D. James"                         | "An Unsuitable Job for a Woman"                                                                                                          |
+| "P.J. O'Rourke"                       | "Parliament of Whores"                                                                                                                   |
+| "P. Statford"                         | "The Portable Graham Greene"                                                                                                             |
+| "Pablo Neruda"                        | "Full Woman, Fleshy Apple, Hot Moon: Selected Poems of Pablo Neruda"                                                                     |
+| "Patricia Cornwell"                   | "Isle of Dogs"                                                                                                                           |
+| "Patricia Grace"                      | "Baby No-Eyes"                                                                                                                           |
+| "Patricia Henley"                     | "Hummingbird House"                                                                                                                      |
+| "Patricia Schechter"                  | "Remembering the power of words: the life of an Oregon activist, legislator, and community leader"                                       |
+| "Paul Auster"                         | "The book of illusions : a novel"                                                                                                        |
+| "Paul W. Bosland"                     | "Peppers of the world : an identification guide"                                                                                         |
+| "Paul Bowles"                         | "The Sheltering Sky"                                                                                                                     |
+| "Paul Reps"                           | "Zen flesh, Zen bones"                                                                                                                   |
+| "Paulette Jiles"                      | "Enemy Women"                                                                                                                            |
+| "Paulo Coelho"                        | "The Alchemist"                                                                                                                          |
+| "Pavel Kohout"                        | "I Am Snowing"                                                                                                                           |
+| "Pearl Luke"                          | "Burning Ground"                                                                                                                         |
+| "Per Amann"                           | "Vincent van Gogh "                                                                                                                      |
+| "Peter Adamson"                       | "The Tuscan Master"                                                                                                                      |
+| "Peter Carey"                         | "Illywhacker"                                                                                                                            |
+| "Peter Høeg"                          | "Borderliners"                                                                                                                           |
+| "Peter Høeg"                          | "Miss Smilla's feeling for snow"                                                                                                         |
+| "Peter Høeg"                          | "Tales of the Night"                                                                                                                     |
+| "Peter Høeg"                          | "The History of Danish Dreams"                                                                                                           |
+| "Peter Mayle"                         | "Hotel Pastis : a novel of Provence "                                                                                                    |
+| "Phil Baguley"                        | "Teach Yourself Project Management"                                                                                                      |
+| "Phil Lesh"                           | "Searching for the Sound"                                                                                                                |
+| "Philip Kapleau"                      | "The three pillars of Zen: teaching, practice, and enlightenment"                                                                        |
+| "Quincy Troupe"                       | "Miles: the autobiography"                                                                                                               |
+| "Rachel Cusk"                         | "The Country Life"                                                                                                                       |
+| "Ralph Steadman"                      | "The Grapes of Ralph"                                                                                                                    |
+| "Randy Wayne White"                   | "The Heat Islands"                                                                                                                       |
+| "Relix Magazine"                      | "Relix Vol. 16 No. 1"                                                                                                                    |
+| "Relix Magazine"                      | "Relix Vol. 16 No. 2"                                                                                                                    |
+| "Relix Magazine"                      | "Relix Vol. 16 No. 4"                                                                                                                    |
+| "Relix Magazine"                      | "Relix Vol. 16 No. 6"                                                                                                                    |
+| "Rex Pickett"                         | "Sideways"                                                                                                                               |
+| "Richard Adams"                       | "Watership Down"                                                                                                                         |
+| "Richard Brautigan"                   | "Trout fishing in America, the Pill versus the Springhill mine disasterk, and In watermelon sugar"                                       |
+| "Richard Flanagan"                    | "The Sound of One Hand Clapping"                                                                                                         |
+| "Richard Kluger"                      | "The Sheriff of Nottingham"                                                                                                              |
+| "Richard Nelson"                      | "The Island Within"                                                                                                                      |
+| "Richard Powers"                      | "The Gold Bug Variations"                                                                                                                |
+| "Robert Boswell"                      | "Mystery Ride : a novel"                                                                                                                 |
+| "Robert M. Gagné"                     | "Learner's Guide to Accompany Principles of Instructional Design"                                                                        |
+| "Robert Kay"                          | "Fiji : a travel survival kit"                                                                                                           |
+| "Robert Ludlum"                       | "The Bourne Identity"                                                                                                                    |
+| "Robert Ludlum"                       | "The Bourne Supremacy"                                                                                                                   |
+| "Robert Michael Pyle"                 | "Wintergreen: rambles in a ravaged land"                                                                                                 |
+| "Robert Olen Butler"                  | "Sun Dogs : a novel"                                                                                                                     |
+| "Robert Olen Butler"                  | "The Deuce : a novel"                                                                                                                    |
+| "Robertson Davies"                    | "What's bred in the bone"                                                                                                                |
+| "Roddy Doyle"                         | "The Barrytown Trilogy"                                                                                                                  |
+| "Roddy Doyle"                         | "The woman who walked into doors"                                                                                                        |
+| "Rolling Stone"                       | "Rolling Stone: 1000th Issue"                                                                                                            |
+| "Rolling Stone"                       | "The Rolling Stone Interviews"                                                                                                           |
+| "Rolling Stone"                       | "Rolling Stone: Jerry Garcia Issue 1"                                                                                                    |
+| "Rolling Stone"                       | "Rolling Stone: Jerry Garcia Issue 2"                                                                                                    |
+| "Rolling Stone"                       | "Rolling Stone: Jerry Garcia Issue 3"                                                                                                    |
+| "Ron Hansen"                          | "Mariette in Ecstasy"                                                                                                                    |
+| "Rosario Ferré"                       | "The House on the Lagoon"                                                                                                                |
+| "Rotraud Michael-Degner"              | "The Cheeses of Italy"                                                                                                                   |
+| "Royal Robbins"                       | "Basic Rockcraft"                                                                                                                        |
+| "Rudolfo Anaya"                       | "Zia Summer"                                                                                                                             |
+| "Russell Banks"                       | "Continental Drift"                                                                                                                      |
+| "Ruth Reichl"                         | "Comfort me with apples : more adventures at the table"                                                                                  |
+| "Ruth Reichl"                         | "Tender at the Bone"                                                                                                                     |
+| "Ruth Rendell"                        | "The Rottweiler"                                                                                                                         |
+| "S. E. Hinton"                        | "That was then, this is now"                                                                                                             |
+| "Sandra Benitez"                      | "Bitter Grounds"                                                                                                                         |
+| "Sarah Bird"                          | "The mommy club : a novel"                                                                                                               |
+| "Sarah Graves"                        | "Repair to Her Grave"                                                                                                                    |
+| "Schuyler Ingle"                      | "Vintage Pellegrini : the collected wisdom of an American buongustaio : writings"                                                        |
+| "Scott Meyer"                         | "Deadhead Forever : Property of Haze"                                                                                                    |
+| "Scott Simon"                         | "Pretty Birds"                                                                                                                           |
+| "Seamus Heaney"                       | "Selected poems, 1966-1987"                                                                                                              |
+| "Sebastian Faulks"                    | "On Green Dolphin Street : a novel"                                                                                                      |
+| "Sharon Pape"                         | "Sketch me if you can"                                                                                                                   |
+| "Sheila Lukins"                       | "The Silver Palate Cookbook"                                                                                                             |
+| "Sheila Lukins"                       | "The Silver Palate good times cookbook"                                                                                                  |
+| "Shuntō Aoyama"                       | "Zen seeds : reflections of a female priest"                                                                                             |
+| "Somerville, E. Œ."                   | "The Irish R.M."                                                                                                                         |
+| "Sonja Maria Dahl"                    | "Too Many Tears"                                                                                                                         |
+| "Stephen Dobyns"                      | "Saratoga Haunting"                                                                                                                      |
+| "Stephen Hunt"                        | "The kingdom beyond the waves"                                                                                                           |
+| "Stephen Mitchell"                    | "Full Woman, Fleshy Apple, Hot Moon: Selected Poems of Pablo Neruda"                                                                     |
+| "Stephen Myhre"                       | "Bone carving : a skillbase of techniques and concepts"                                                                                  |
+| "Steven Jenkins"                      | "Cheese Primer"                                                                                                                          |
+| "Steven Nightingale"                  | "The Lost Coast"                                                                                                                         |
+| "Steven Rinella"                      | "The Scavenger's Guide to Haute Cuisine"                                                                                                 |
+| "Stieg Larsson"                       | "The Girl Who Played with Fire"                                                                                                          |
+| "Stuart Woods"                        | "Chiefs"                                                                                                                                 |
+| "Stuart Woods"                        | "Dead in the Water"                                                                                                                      |
+| "Stuart Woods"                        | "Hot Mahogany"                                                                                                                           |
+| "Stuart Woods"                        | "Lucid Intervals"                                                                                                                        |
+| "Stuart Woods"                        | "Orchard Beach"                                                                                                                          |
+| "Sunetra Gupta"                       | "Memories of Rain"                                                                                                                       |
+| "Susan Fox Rogers"                    | "Two in the Wild"                                                                                                                        |
+| "Susan Straight"                      | "I Been in Sorrow's Kitchen and Licked Out All the Pots"                                                                                 |
+| "Swain Wolfe"                         | "The Woman Who Lives in the Earth"                                                                                                       |
+| "T.S. Eliot"                          | "Old Possum's Book of Practical Cats"                                                                                                    |
+| "T Coraghessan Boyle"                 | "Budding Prospects"                                                                                                                      |
+| "T Coraghessan Boyle"                 | "Greasy Lake & other stories"                                                                                                            |
+| "T Coraghessan Boyle"                 | "The Tortilla Curtain"                                                                                                                   |
+| "T Coraghessan Boyle"                 | "Water Music: a novel"                                                                                                                   |
+| "T Coraghessan Boyle"                 | "World's End: a novel"                                                                                                                   |
+| "Tananarive Due"                      | "The good house : a novel"                                                                                                               |
+| "Ted Ringer"                          | "Get Outta Town : a Tale of the Grateful Dead, the IRS, and Coffee"                                                                      |
+| "Terry Farish"                        | "A House in Earnest : a novel"                                                                                                           |
+| "Thomas McGuane"                      | "Keep the Change"                                                                                                                        |
+| "Thomas McGuane"                      | "Panama"                                                                                                                                 |
+| "Thomas Pynchon"                      | "Gravity's Rainbow"                                                                                                                      |
+| "Thomas Sanchez"                      | "Mile Zero"                                                                                                                              |
+| "Thomas Wharton"                      | "Icefields"                                                                                                                              |
+| "Thomas Wharton"                      | "Salamander"                                                                                                                             |
+| "Thích. Nhất Hạnh"                    | "Peace is every step : the path of mindfulness in everyday life"                                                                         |
+| "Tim Cahill"                          | "A Wolverine is Eating My Leg"                                                                                                           |
+| "Tim Dorsey"                          | "Florida Roadkill: a novel"                                                                                                              |
+| "Tim Dorsey"                          | "Hammerhead Ranch Motel"                                                                                                                 |
+| "Tim O'Brien"                         | "Going After Cacciato : a novel"                                                                                                         |
+| "Tim O'Brien"                         | "If I die in a combat zone, box me up and ship me home"                                                                                  |
+| "Tim O'Brien"                         | "In the Lake of the Woods"                                                                                                               |
+| "Tim O'Brien"                         | "The Things They Carried : a work of fiction"                                                                                            |
+| "Tim Sandlin"                         | "Sex and Sunsets"                                                                                                                        |
+| "Tina McElroy Ansa"                   | "Baby of the Family"                                                                                                                     |
+| "Tina McElroy Ansa"                   | "The Hand I Fan With"                                                                                                                    |
+| "Tom Robbins"                         | "Villa Incognito"                                                                                                                        |
+| "Tom Watts"                           | "Rocky Mountain Tree Finder: a pocket manual for identifying Rocky Mountain trees"                                                       |
+| "Tom Wolfe"                           | "The electric kool-aid acid test"                                                                                                        |
+| "Toni Morrison"                       | "Jazz"                                                                                                                                   |
+| "Toni Morrison"                       | "Song of Solomon"                                                                                                                        |
+| "Toyoaki Kawai"                       | "Creative Origami"                                                                                                                       |
+| "Troy Soos"                           | "Hunting a Detroit Tiger"                                                                                                                |
+| "Van Reid"                            | "Cordelia Underwood"                                                                                                                     |
+| "Victor Sodsook"                      | "True Thai : the modern art of Thai cooking"                                                                                             |
+| "Vincent Kohler"                      | "Banjo Boy"                                                                                                                              |
+| "W. P. Kinsella"                      | "Red Wolf, Red Wolf"                                                                                                                     |
+| "Walter W. Wager"                     | "Learner's Guide to Accompany Principles of Instructional Design"                                                                        |
+| "Wayne Johnson"                       | "Don't think twice : a novel"                                                                                                            |
+| "Wendy Esko"                          | "The Changing Seasons Macrobiotic Cookbook"                                                                                              |
+| "Wendy Holden"                        | "Bad Heir Day"                                                                                                                           |
+| "William Carpenter"                   | "A Keeper of Sheep"                                                                                                                      |
+| "William S. Burroughs"                | "Junky"                                                                                                                                  |
+| "William Trevor"                      | "Ireland : selected stories"                                                                                                             |
+| "Woody Mann"                          | "The Blues Fakebook"                                                                                                                     |
+| "Yamaha"                              | "Yamaha Song Book"                                                                                                                       |
+| "Zoe Weil"                            | "Most Good, Least Harm"                                                                                                                  |
+| "Zora Neale Hurston"                  | "I love myself when I am laughing : and then again when I am looking mean : a Zora Neale Hurston reader"                                 |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
