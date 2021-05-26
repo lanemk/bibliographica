@@ -1,0 +1,13 @@
+## Count the number of CDs.
+ 
+PREFIX schema: <http://schema.org/>
+PREFIX mo: <http://purl.org/ontology/mo/>
+
+SELECT  (COUNT(?cd) AS ?cd_count)
+
+## FROM <http://www.connaissance.io/onto/biblio/CDs.ttl>
+
+WHERE
+{ 
+  ?cd a mo:CD  .
+}
