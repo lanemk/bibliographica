@@ -1,0 +1,21 @@
+## List all artists, their CDs and MusicBrainz URI.  
+ 
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+PREFIX SoloMusicArtist: <http://www.connaissance.io/onto/biblio/SoloMusicArtist#>
+PREFIX mo: <http://purl.org/ontology/mo/> 
+PREFIX bibliographica: <http://www.connaissance.io/onto/biblio/bibliographica#>
+
+SELECT ?name ?title ?url
+
+## FROM <http://www.connaissance.io/onto/biblio/CDs.ttl>
+ 
+WHERE
+{ 
+  ?cd a mo:CD ;
+      bibliographica:byArtist ?artist ;
+      rdfs:label ?title ;
+      bibliographica:musicbrainzURI ?url.
+  ?artist rdfs:label ?name . 
+} 
+ORDER BY ?name
