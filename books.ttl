@@ -4166,14 +4166,6 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/422748699.ttl"^^xsd:anyURI ;
   rdfs:label "In the Time of the Butterflies" ;
 .
-:In_the_country_of_the_great_king
-  rdf:type schema:Book ;
-  dcterms:creator authors:Ardythe_Ashley ;
-  dcterms:title "In the Country of the Great King" ;
-  schema:author authors:Ardythe_Ashley ;
-  bibliographica:worldcatURI "http://www.worldcat.org/oclc/27980135.ttl"^^xsd:anyURI ;
-  rdfs:label "In the Country of the Great King" ;
-.
 :Incredible_Chord_Finder
   rdf:type schema:Book ;
   dcterms:creator authors:Hal_Leonard_Corp ;
