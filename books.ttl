@@ -9408,6 +9408,16 @@
   bibliographica:worldcatURI "http://www.worldcat.org/oclc/671722733.ttl"^^xsd:anyURI ;
   rdfs:label "Things My Girlfriend and I Have Argued About" ;
 .
+:Thinking_With_Pencil
+  rdf:type schema:Book ;
+  dcterms:creator authors:Henning_Nelms ;
+  dcterms:title "Thinking With A Pencil" ;
+  schema:author authors:Henning_Nelms ;
+  schema:isbn "0898150523" ;
+  bibliographica:binNumber 16 ;
+  bibliographica:numberOfitems 1 ;
+  rdfs:label "Thinking With A Pencil" ;
+.
 :ThreeSixtyFive_Zen
   rdf:type schema:Book ;
   dcterms:creator authors:Jean_Smith ;

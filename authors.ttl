@@ -1770,6 +1770,14 @@
   rdfs:label "Henning Mankell" ;
   foaf:name "Henning Mankell" ;
 .
+:Henning_Nelms
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Hake_Talbot.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/40619770/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Henning Nelms" ;
+  foaf:name "Henning Nelms" ;
+  rdfs:comment "Pen name: Hake Talbot" ;
+.
 :Henry_David_Thoreau
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "https://dbpedia.org/data/Henry_David_Thoreau.ttl"^^xsd:anyURI ;
