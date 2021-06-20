@@ -1,0 +1,13 @@
+## Number of items per book title.
+
+PREFIX schema: <http://schema.org/>
+PREFIX authors: <http://www.connaissance.io/onto/biblio/authors#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX dcterms: <http://purl.org/dc/terms/>
+
+SELECT ?author ?title (count(*) as ?items) 
+WHERE { ?x schema:author ?author ; dcterms:title ?title . }
+
+GROUP BY ?author ?title
+ORDER BY desc (?items)
