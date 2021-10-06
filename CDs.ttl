@@ -564,6 +564,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/1d70f325-3145-4927-8cff-d3094a5b74e0"^^xsd:anyURI ;
   rdfs:label "Angels & Cigarettes" ;
 .
+:Angels_Electricity
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Eddi_Reader ;
+  bibliographica:byArtist SoloMusicArtist:Eddi_Reader ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/6e0c65f5-a609-494f-acca-49ceb03e6aee"^^xsd:anyURI ;
+  rdfs:label "Angels & Electricity" ;
+.
 :AniDiFranco_CD
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1327,6 +1337,26 @@
   bibliographica:byArtist SoloMusicArtist:Freddie_Hubbard ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/f9b1745a-e2f4-4a22-b2c9-68b0b51d3e3d"^^xsd:anyURI ;
   rdfs:label "The Best of Freddie Hubbard" ;
+.
+:Best_of_Horace_Silver
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Horace_Silver ;
+  bibliographica:byArtist SoloMusicArtist:Horace_Silver ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a2376094-1070-47ae-8fef-5aff84c95031"^^xsd:anyURI ;
+  rdfs:label "The Best of Horace Silver" ;
+.
+:Best_of_Horace_Silver_Vol2
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Horace_Silver ;
+  bibliographica:byArtist SoloMusicArtist:Horace_Silver ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9a5a41e9-9bdb-445a-af99-693a8584b4ba"^^xsd:anyURI ;
+  rdfs:label "The Best of Horace Silver, Vol. 2" ;
 .
 :Best_of_Isaac_Hayes
   rdf:type mo:CD ;
@@ -2517,6 +2547,16 @@
   bibliographica:byArtist MusicGroup:Caberet_Diosa ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/d0bda965-b993-4a69-a128-f246531287f6"^^xsd:anyURI ;
   rdfs:label "Cajun Conja" ;
+.
+:Candyfloss_Medicine
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Eddi_Reader ;
+  bibliographica:byArtist SoloMusicArtist:Eddi_Reader ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/01c3e6a4-8f6f-4c08-8595-3dc467480b31"^^xsd:anyURI ;
+  rdfs:label "Candyfloss and Medicine" ;
 .
 :Candyland
   rdf:type mo:CD ;
@@ -4769,6 +4809,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/c69cdb18-5195-4a43-9e26-9d66622fd926"^^xsd:anyURI ;
   rdfs:label "Echoes of Brazil" ;
 .
+:Eddi_Reader_CD
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Eddi_Reader ;
+  bibliographica:byArtist SoloMusicArtist:Eddi_Reader ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/1dd8235c-a6c9-4559-bd7f-7aaf40be136e"^^xsd:anyURI ;
+  rdfs:label "Eddi Reader" ;
+.
 :Edge_of_City
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -4797,6 +4847,16 @@
   dcterms:creator SoloMusicArtist:Edie_Brickell ;
   bibliographica:byArtist SoloMusicArtist:Edie_Brickell ;
   rdfs:label "Edie Brickell Mix" ;
+.
+:Either_Or
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Elliott_Smith ;
+  bibliographica:byArtist SoloMusicArtist:Elliott_Smith ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/0a5aa565-8158-4e81-9776-af8044f6cc1e"^^xsd:anyURI ;
+  rdfs:label "Either/Or" ;
 .
 :El_Rayo_X_Live
   rdf:type mo:CD ;
@@ -5794,6 +5854,16 @@
   bibliographica:byArtist MusicGroup:Clash ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/23b1c9f4-4e89-4c20-b497-517a51953e7b"^^xsd:anyURI ;
   rdfs:label "From Here to Eternity: Live" ;
+.
+:From_SAfrica_SCarolina
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Gil_Scott_Heron ;
+  bibliographica:byArtist SoloMusicArtist:Gil_Scott_Heron ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/d47aa95f-15f7-43e2-91da-61753a8b9f15"^^xsd:anyURI ;
+  rdfs:label "From South Africa to South Carolina" ;
 .
 :Fugitives
   rdf:type mo:CD ;
@@ -7291,6 +7361,16 @@
   bibliographica:byArtist SoloMusicArtist:John_Prine ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/19709fd2-ac39-4184-973c-673e7db00472"^^xsd:anyURI ;
   rdfs:label "In Person & On Stage" ;
+.
+:In_Search_Lost_Riddim
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ernest_Ranglin ;
+  bibliographica:byArtist SoloMusicArtist:Ernest_Ranglin ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9bbaaa58-f1bd-4673-99c2-8a6ee48faf02"^^xsd:anyURI ;
+  rdfs:label "In Search of the Lost Riddim" ;
 .
 :In_the_Moment
   rdf:type mo:CD ;
@@ -11013,6 +11093,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/7d299ae0-cba2-4ae1-9fa1-734ba982c5e4"^^xsd:anyURI ;
   rdfs:label "The Move to the Groove Session" ;
 .
+:Moving_Target
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Gil_Scott_Heron ;
+  bibliographica:byArtist SoloMusicArtist:Gil_Scott_Heron ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/fd9bcc76-a65f-3bd5-95db-4371bfcf7a0c"^^xsd:anyURI ;
+  rdfs:label "Moving Target" ;
+.
 :Mr_Lucky
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -13266,6 +13356,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/933ad42b-7d73-491e-92c4-a056803e697f"^^xsd:anyURI ;
   rdfs:label "Red Rocks 7-8-78" ;
 .
+:ReEntry
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Horace_Silver ;
+  bibliographica:byArtist SoloMusicArtist:Horace_Silver ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a61ffb05-9ebc-4079-b302-4dba349415fc"^^xsd:anyURI ;
+  rdfs:label "Re-Entry" ;
+.
 :Reflections
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -13435,6 +13535,16 @@
   dcterms:creator SoloMusicArtist:Robbie_Laws ;
   bibliographica:byArtist SoloMusicArtist:Robbie_Laws ;
   rdfs:label "Revisited" ;
+.
+:Revolution_Not_Televised
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Gil_Scott_Heron ;
+  bibliographica:byArtist SoloMusicArtist:Gil_Scott_Heron ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5e15d8b8-bd80-3c0b-be2f-b66c68620435"^^xsd:anyURI ;
+  rdfs:label "The Revolution Will Not Be Televised" ;
 .
 :Revolution_Starts_Now
   rdf:type mo:CD ;
@@ -14377,6 +14487,26 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/4aa03b59-ca8e-4281-9038-e092a903adbc"^^xsd:anyURI ;
   rdfs:label "Simmer, Reduce, Garnish, & Serve" ;
 .
+:Simple_Soul
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Eddi_Reader ;
+  bibliographica:byArtist SoloMusicArtist:Eddi_Reader ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/837d172e-153b-4fae-8930-2e8e563fe440"^^xsd:anyURI ;
+  rdfs:label "Simple Soul" ;
+.
+:Sings_Songs_Robert_Burns
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Eddi_Reader ;
+  bibliographica:byArtist SoloMusicArtist:Eddi_Reader ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/476d4d29-460c-4441-a952-022584d77763"^^xsd:anyURI ;
+  rdfs:label "Sings The Songs Of Robert Burns" ;
+.
 :Sings_Cole_Porter
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -14566,6 +14696,16 @@
   bibliographica:byArtist SoloMusicArtist:Shawn_Colvin ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/64e8c9e5-3f0a-4b85-9a8b-1c4521563c5d"^^xsd:anyURI ;
   rdfs:label "A Few Small Repairs" ;
+.
+:Small_Talk_125th_Lenox
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Gil_Scott_Heron ;
+  bibliographica:byArtist SoloMusicArtist:Gil_Scott_Heron ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5cfa6373-1e6a-4a59-bd54-e9ed53a446a4"^^xsd:anyURI ;
+  rdfs:label "Small Talk at 125th and Lenox" ;
 .
 :Smash_Scatteration
   rdf:type mo:CD ;
@@ -14987,6 +15127,16 @@
   dcterms:creator SoloMusicArtist:Darrell_Grant ;
   bibliographica:byArtist SoloMusicArtist:Darrell_Grant ;
   rdfs:label "Spirit" ;
+.
+:Spirits
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Gil_Scott_Heron ;
+  bibliographica:byArtist SoloMusicArtist:Gil_Scott_Heron ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/64b8cc26-0ca3-47d7-bee7-759a04511bcd"^^xsd:anyURI ;
+  rdfs:label "Spirits" ;
 .
 :Spirit_in_the_Sky
   rdf:type mo:CD ;
@@ -15618,6 +15768,18 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/445149b9-d4ba-4522-825e-035cd0bc2e4f"^^xsd:anyURI ;
   rdfs:label "Swerve" ;
 .
+:Swing_39
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Django_Reinhardt ;
+  dcterms:creator SoloMusicArtist:Stephane_Grapelli ;
+  bibliographica:byArtist SoloMusicArtist:Django_Reinhardt ;
+  bibliographica:byArtist SoloMusicArtist:Stephane_Grapelli ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/589dc3a0-c61e-3aa7-a160-6d3bba1d7b82"^^xsd:anyURI ;
+  rdfs:label "Swing 39 (Jazz in Paris)" ;
+.
 :Sympathique
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -15691,6 +15853,16 @@
   bibliographica:byArtist SoloMusicArtist:Michael_Brecker ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/7a3d2ee5-e885-458e-88ca-f434c127ca9c"^^xsd:anyURI ;
   rdfs:label "Tales From the Hudson" ;
+.
+:Tales_Gil_Scott_Heron
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Gil_Scott_Heron ;
+  bibliographica:byArtist SoloMusicArtist:Gil_Scott_Heron ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/edae5047-b350-43e8-b75e-44469458c746"^^xsd:anyURI ;
+  rdfs:label "Tales of Gil Scott-Heron" ;
 .
 :Talk_on_Corners
   rdf:type mo:CD ;
@@ -17215,6 +17387,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release-group/2202f7cc-6ce1-3aea-85b0-163347528402"^^xsd:anyURI ;
   rdfs:label "Together Through Life" ;
 .
+:Tokyo_Blues
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Horace_Silver ;
+  bibliographica:byArtist SoloMusicArtist:Horace_Silver ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/774d05ea-d579-3745-a3fb-365ac561f7e2"^^xsd:anyURI ;
+  rdfs:label "The Tokyo Blues" ;
+.
 :Tomorrow_Knows
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -18081,6 +18263,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/0aa514bf-5be2-475a-ac1b-0222f9d4c881"^^xsd:anyURI ;
   rdfs:label "Verve Jazz Masters 8: Stan Getz" ;
 .
+:Verve_Jazz_Masters_38
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Django_Reinhardt ;
+  bibliographica:byArtist SoloMusicArtist:Django_Reinhardt ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/dc739d14-2583-4a8a-89a0-f8852051792c"^^xsd:anyURI ;
+  rdfs:label "Verve Jazz Masters 38" ;
+.
 :Verve_Silver_Collection
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -18856,6 +19048,16 @@
   bibliographica:byArtist SoloMusicArtist:Loreena_McKennitt ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/716b1f1c-9756-4258-8985-048bc6b5f886"^^xsd:anyURI ;
   rdfs:label "A Winter Garden: Five Songs for the Season" ;
+.
+:Winter_In_America
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Gil_Scott_Heron ;
+  bibliographica:byArtist SoloMusicArtist:Gil_Scott_Heron ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/299533ea-deef-4f3a-b245-913661e5ba97"^^xsd:anyURI ;
+  rdfs:label "Winter in America" ;
 .
 :Wired
   rdf:type mo:CD ;

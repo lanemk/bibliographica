@@ -1409,7 +1409,7 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/febbd7db-56c2-42ed-b059-0b13a58db3ea"^^xsd:anyURI ;
   rdfs:label "Georges Kazazian" ;
 .
-:Gil_Scott-Heron
+:Gil_Scott_Heron
   rdf:type mo:SoloMusicArtist ;
   rdf:type bibliographica:AlphaClassQT ;
   bibliographica:dbpediaURI "http://dbpedia.org/data/Gil_Scott-Heron.ttl"^^xsd:anyURI ;
