@@ -980,6 +980,13 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/5c4c90a4-539f-4101-83cf-301bc6a94e06"^^xsd:anyURI ;
   rdfs:label "Hüsker Dü" ;
 .
+:Ike_Tina_Turner
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Ike_&_Tina_Turner.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/1c7b3786-b99a-40ab-81e4-f3056da19e13"^^xsd:anyURI ;
+  rdfs:label "Ike & Tina Turner" ;
+.
 :Illinois_Jacquet_Ben_Webster
   rdf:type mo:MusicGroup ;
   rdf:type bibliographica:AlphaClassIL ;
@@ -1070,6 +1077,13 @@
   bibliographica:dbpediaURI "http://dbpedia.org/data/Jerry_Garcia_Band.ttl"^^xsd:anyURI ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/artist/3f7a73e5-cb7f-4488-bd7e-f5e26c87fe1b"^^xsd:anyURI ;
   rdfs:label "Jerry Garcia Band" ;
+.
+:Jesse_Sykes_Sweet_Hereafter
+  rdf:type mo:MusicGroup ;
+  rdf:type bibliographica:AlphaClassQT ;
+  bibliographica:dbpediaURI "http://dbpedia.org/data/Jesse_Sykes.ttl"^^xsd:anyURI ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/artist/254b5419-1819-49c9-abcf-6e9b8210ebf4"^^xsd:anyURI ;
+  rdfs:label "Jesse Sykes & The Sweet Hereafter" ;
 .
 :Jethro_Tull
   rdf:type mo:MusicGroup ;

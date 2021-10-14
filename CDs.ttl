@@ -724,6 +724,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/978ce480-cf4b-468d-985b-daee3976e7e7"^^xsd:anyURI ;
   rdfs:label "Apollo: Atmospheres & Soundtracks" ;
 .
+:Apostrophe_Overnite_Sensation
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Frank_Zappa ;
+  bibliographica:byArtist SoloMusicArtist:Frank_Zappa ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/865af106-5b21-4fb3-aaea-c6ee35197178"^^xsd:anyURI ;
+  rdfs:label "Apostrophe/Over-Nite Sensation" ;
+.
 :April_Fools_Day
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -1249,6 +1259,16 @@
   bibliographica:byArtist MusicGroup:Glass_Eye ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/579dc43c-bad4-40ff-a277-37c874906865"^^xsd:anyURI ;
   rdfs:label "Bent By Nature" ;
+.
+:Best_Band_You_Never_Heard
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Frank_Zappa ;
+  bibliographica:byArtist SoloMusicArtist:Frank_Zappa ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/4edce4cf-a3ea-41fb-8690-db4a1a13430c"^^xsd:anyURI ;
+  rdfs:label "The Best Band You Never Heard In Your Life" ;
 .
 :Best_Kept_Secret
   rdf:type mo:CD ;
@@ -2009,6 +2029,18 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/60358613-5c21-4c60-bc55-2ba3c63a8e5d"^^xsd:anyURI ;
   rdfs:label "B’BOOM: Official Bootleg – Live in Argentina" ;
 .
+:Bongo_Fury
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Frank_Zappa ;
+  bibliographica:byArtist SoloMusicArtist:Frank_Zappa ;
+  dcterms:creator MusicGroup:Captain_Beefheart_Magic_Band ;
+  bibliographica:byArtist MusicGroup:Captain_Beefheart_Magic_Band ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/abe5e4e8-2daf-36c7-826d-a5ce0dddceba"^^xsd:anyURI ;
+  rdfs:label "Bongo Fury" ;
+.
 :Bonnie_Raitt_CD
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -2296,6 +2328,16 @@
   bibliographica:byArtist SoloMusicArtist:John_Hiatt ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/4f77c160-baf5-40bb-9e16-d62d9cce1870"^^xsd:anyURI ;
   rdfs:label "Bring the Family" ;
+.
+:Broadway_Hard_Way
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Frank_Zappa ;
+  bibliographica:byArtist SoloMusicArtist:Frank_Zappa ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b0e634eb-8a6c-4f85-92ef-57f892b099e7"^^xsd:anyURI ;
+  rdfs:label "Broadway The Hard Way" ;
 .
 :Broken_English
   rdf:type mo:CD ;
@@ -3140,6 +3182,16 @@
   bibliographica:byArtist SoloMusicArtist:Sheryl_Crow ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/ac4e672f-0d31-47d4-ad3b-32bbbb1c2ffb"^^xsd:anyURI ;
   rdfs:label "C’mon, C’mon" ;
+.
+:Cockamamie
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Jen_Trynin ;
+  bibliographica:byArtist SoloMusicArtist:Jen_Trynin ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/4c8f264e-fc91-4799-9b74-7b7eaf1f67bd"^^xsd:anyURI ;
+  rdfs:label "Cockamamie" ;
 .
 :Cohen_Live
   rdf:type mo:CD ;
@@ -4466,6 +4518,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/288ebe0d-ec8c-47fd-971b-448fbb32c8ec"^^xsd:anyURI ;
   rdfs:label "Do What You Like" ;
 .
+:Does_Humor_Belong_Music
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Frank_Zappa ;
+  bibliographica:byArtist SoloMusicArtist:Frank_Zappa ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/0a614485-b62c-4d7f-b083-7c603efb2b1c"^^xsd:anyURI ;
+  rdfs:label "Does Humor Belong in Music?" ;
+.
 :Dog_Eat_Dog
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -5697,6 +5759,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/0adb00ae-d2f6-4e33-8394-aff5d89c9adb"^^xsd:anyURI ;
   rdfs:label "4 Way Street" ;
 .
+:Freak_Out
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Frank_Zappa ;
+  bibliographica:byArtist SoloMusicArtist:Frank_Zappa ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/10c866e8-cfbf-49bc-8857-27f46c74e422"^^xsd:anyURI ;
+  rdfs:label "Freak Out" ;
+.
 :Free_Jazz
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -6053,6 +6125,16 @@
   bibliographica:byArtist SoloMusicArtist:Herbie_Hancock ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/43f62d3f-65ff-3432-af96-e1898340b7a8"^^xsd:anyURI ;
   rdfs:label "Gershwin's World" ;
+.
+:Get_Back
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Ike_Tina_Turner ;
+  bibliographica:byArtist MusicGroup:Ike_Tina_Turner ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/9883dc4e-7ea0-4da3-b2ad-2ff824aae591"^^xsd:anyURI ;
+  rdfs:label "Ghost In The Machine" ;
 .
 :Get_Inside
   rdf:type mo:CD ;
@@ -7132,6 +7214,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/fbd2ef1b-c9d9-4fc9-a05c-b456ea5ddefb"^^xsd:anyURI ;
   rdfs:label "Hot Pants" ;
 .
+:Hot_Rats
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Frank_Zappa ;
+  bibliographica:byArtist SoloMusicArtist:Frank_Zappa ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/bd527306-0dd8-4d99-93c4-4267ff649776"^^xsd:anyURI ;
+  rdfs:label "Hot Rats" ;
+.
 :Hot_Rize_CD
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -7899,6 +7991,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/8dc73edb-dcaf-45f0-9a95-35b81755f205"^^xsd:anyURI ;
   rdfs:label "Jazz" ;
 .
+:Jazz_From_Hell
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Frank_Zappa ;
+  bibliographica:byArtist SoloMusicArtist:Frank_Zappa ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/8455513b-aed5-3d30-a510-0f7754e71378"^^xsd:anyURI ;
+  rdfs:label "Jazz From Hell" ;
+.
 :Jazz_Masters_39
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -8008,6 +8110,16 @@
   bibliographica:byArtist SoloMusicArtist:Joan_Armatrading ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/bd79f706-0743-398a-976f-761e35c128e6"^^xsd:anyURI ;
   rdfs:label "Joan Armatrading" ;
+.
+:Joes_Garage
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Frank_Zappa ;
+  bibliographica:byArtist SoloMusicArtist:Frank_Zappa ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/5b53d319-3f9c-47eb-9a96-8341d7be58f7"^^xsd:anyURI ;
+  rdfs:label "Joe's Garage - Acts I, II, & III" ;
 .
 :John_Fahey_Anthology
   rdf:type mo:CD ;
@@ -8947,6 +9059,16 @@
   dcterms:creator SoloMusicArtist:Jean_Luc_Ponty ;
   bibliographica:byArtist SoloMusicArtist:Jean_Luc_Ponty ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/6194b1ec-a230-4e61-85fc-93d20abe987c"^^xsd:anyURI ;
+  rdfs:label "Live" ;
+.
+:Live_JT
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:James_Taylor ;
+  bibliographica:byArtist SoloMusicArtist:James_Taylor ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/6fc02e86-7cb5-452c-99eb-46fa6c226879"^^xsd:anyURI ;
   rdfs:label "Live" ;
 .
 :Live_SG_DG
@@ -9914,6 +10036,16 @@
   bibliographica:byArtist MusicGroup:Los_Lonely_Boys ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/6e4df799-c739-4a05-8783-af9dc3fe40ef"^^xsd:anyURI ;
   rdfs:label "Los Lonely Boys" ;
+.
+:Lost_Episodes
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Frank_Zappa ;
+  bibliographica:byArtist SoloMusicArtist:Frank_Zappa ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/203df859-5128-46e5-93ee-f0b650614167"^^xsd:anyURI ;
+  rdfs:label "The Lost Episodes" ;
 .
 :Lost_In_Space
   rdf:type mo:CD ;
@@ -11828,6 +11960,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/e4f20302-1951-42ab-bacd-fd3b6f4cc6f1"^^xsd:anyURI ;
   rdfs:label "Oh Moscow" ;
 .
+:Oh_My_Girl
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator MusicGroup:Jesse_Sykes_Sweet_Hereafter ;
+  bibliographica:byArtist MusicGroup:Jesse_Sykes_Sweet_Hereafter ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/006ab8c7-e9f5-4aa3-9ebb-d5c9baaa3107"^^xsd:anyURI ;
+  rdfs:label "Oh, My Girl" ;
+.
 :Oh_Yeah
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -12608,6 +12750,16 @@
   bibliographica:byArtist MusicGroup:Mahavishnu_Project ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/adf4206e-0200-4ce5-81af-d9c4f6a89c7d"^^xsd:anyURI ;
   rdfs:label "Phase 2" ;
+.
+:Philadelphia
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Howard_Shore ;
+  bibliographica:byArtist SoloMusicArtist:Howard_Shore ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/7c4e522e-2349-4383-b4c1-eda73c5a02e3"^^xsd:anyURI ;
+  rdfs:label "Philadelphia: Original Motion Picture Score" ;
 .
 :Pick_Up_On_This
   rdf:type mo:CD ;
@@ -17012,6 +17164,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/38f40f0f-677a-40ce-ba2f-4da1c93cfa70"^^xsd:anyURI ;
   rdfs:label "Thin Wild Mercury Music" ;
 .
+:Thing_Fish
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Frank_Zappa ;
+  bibliographica:byArtist SoloMusicArtist:Frank_Zappa ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a7b02d0c-71f7-4405-9d3a-27296e1356df"^^xsd:anyURI ;
+  rdfs:label "Thing Fish" ;
+.
 :Things_That_Show
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -17575,6 +17737,18 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b09571d4-8b90-4b6e-b698-087d7cf9957a"^^xsd:anyURI ;
   rdfs:label "Transcendental Blues" ;
 .
+:Transit
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Ira_Stein ;
+  dcterms:creator SoloMusicArtist:Russel_Walder ;
+  bibliographica:byArtist SoloMusicArtist:Ira_Stein ;
+  bibliographica:byArtist SoloMusicArtist:Russel_Walder ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/763c51a6-56bb-4015-9697-b632ed64b18e"^^xsd:anyURI ;
+  rdfs:label "Transit" ;
+.
 :Transition
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -18091,6 +18265,16 @@
   bibliographica:byArtist MusicGroup:Dread_Zeppelin ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/b0b79978-f1c1-444f-b071-885be775450b"^^xsd:anyURI ;
   rdfs:label "Un-led-ed" ;
+.
+:Unmitigated_Audacity
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Frank_Zappa ;
+  bibliographica:byArtist SoloMusicArtist:Frank_Zappa ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/94be3266-5998-40bf-a62c-996dd89c2a23"^^xsd:anyURI ;
+  rdfs:label "Unmitigated Audacity" ;
 .
 :Unplugged_Nirv
   rdf:type mo:CD ;
@@ -19347,6 +19531,16 @@
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/a6df9ecc-a746-4bcc-9ca6-91a18c777e06"^^xsd:anyURI ;
   rdfs:label "Yola" ;
 .
+:You_Are_What_You_Is
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Frank_Zappa ;
+  bibliographica:byArtist SoloMusicArtist:Frank_Zappa ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/6915f5d4-f5c2-49dc-bb41-61f0e2ff70be"^^xsd:anyURI ;
+  rdfs:label "You Are What You Is" ;
+.
 :You_Can_Get_It
   rdf:type mo:CD ;
   rdf:type mo:Record ;
@@ -19356,6 +19550,66 @@
   bibliographica:byArtist SoloMusicArtist:Jimmy_Cliff ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/f7498b7e-c890-4948-9dcc-2a5289f528a5"^^xsd:anyURI ;
   rdfs:label "You Can Get It If You Really Want" ;
+.
+:You_Cant_Do_That_On_Stage_v1
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Frank_Zappa ;
+  bibliographica:byArtist SoloMusicArtist:Frank_Zappa ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/1a352e30-05e4-45f8-aee7-f7a8835c2633"^^xsd:anyURI ;
+  rdfs:label "You Can't Do That On Stage Anymore, Vol. 1" ;
+.
+:You_Cant_Do_That_On_Stage_v2
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Frank_Zappa ;
+  bibliographica:byArtist SoloMusicArtist:Frank_Zappa ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b4a1408f-eb94-41db-a8d1-745da0e41faf"^^xsd:anyURI ;
+  rdfs:label "You Can't Do That On Stage Anymore, Vol. 2" ;
+.
+:You_Cant_Do_That_On_Stage_v3
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Frank_Zappa ;
+  bibliographica:byArtist SoloMusicArtist:Frank_Zappa ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/ac2b8315-ffac-4513-bafb-2fd9e453a981"^^xsd:anyURI ;
+  rdfs:label "You Can't Do That On Stage Anymore, Vol. 3" ;
+.
+:You_Cant_Do_That_On_Stage_v4
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Frank_Zappa ;
+  bibliographica:byArtist SoloMusicArtist:Frank_Zappa ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/a26fd9fe-1c50-4dbc-98dd-e4f6d95fd4ab"^^xsd:anyURI ;
+  rdfs:label "You Can't Do That On Stage Anymore, Vol. 4" ;
+.
+:You_Cant_Do_That_On_Stage_v5
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Frank_Zappa ;
+  bibliographica:byArtist SoloMusicArtist:Frank_Zappa ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/f5f9e6c1-e42d-4a39-820f-43e64b58c29b"^^xsd:anyURI ;
+  rdfs:label "You Can't Do That On Stage Anymore, Vol. 5" ;
+.
+:You_Cant_Do_That_On_Stage_v6
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Frank_Zappa ;
+  bibliographica:byArtist SoloMusicArtist:Frank_Zappa ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/441adb31-93d3-4e44-88ae-0f53f5fb4acb"^^xsd:anyURI ;
+  rdfs:label "You Can't Do That On Stage Anymore, Vol. 6" ;
 .
 :You_Gotta_Sin_Saved
   rdf:type mo:CD ;
@@ -19446,6 +19700,16 @@
   bibliographica:byArtist SoloMusicArtist:Zakir_Hussain ;
   bibliographica:musicbrainzURI "https://musicbrainz.org/release/ded265fc-db65-49ee-a417-ebd49be3b632"^^xsd:anyURI ;
   rdfs:label "Zakir Hussain & the Rhythm Experience" ;
+.
+:Zappas_Universe
+  rdf:type mo:CD ;
+  rdf:type mo:Record ;
+  rdf:type mo:Release ;
+  rdf:type schema:MusicAlbum ;
+  dcterms:creator SoloMusicArtist:Frank_Zappa ;
+  bibliographica:byArtist SoloMusicArtist:Frank_Zappa ;
+  bibliographica:musicbrainzURI "https://musicbrainz.org/release/b1e44c17-9317-4a97-a300-596c999af268"^^xsd:anyURI ;
+  rdfs:label "Zappa's Universe" ;
 .
 :Zenyatta_Mondatta
   rdf:type mo:CD ;
