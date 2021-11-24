@@ -1,4 +1,4 @@
-author_last_first,rdfs:label,dcterms:title,resource,schema:bookFormat
+author_last_first,rdfs:label,dcterms:title,rdfs:Resource,schema:bookFormat
 "Abagnale, Frank W.",Frank W. Abagnale,Catch Me If You Can,Catch_Me_If_You_Can,mobi
 "Abbot, Edwin",Edwin Abbot,Flatland,Flatland,mobi
 "Abercrombie, Joe",Joe Abercrombie,Before They Are Hanged,Before_They_Are_Hanged,mobi
@@ -32,6 +32,7 @@ Aesop,Aesop,Aesop's Fables,Aesops_Fables,mobi
 "Asmiov, Isaac",Isaac Asmiov,Foundation 02 - Foundation and Empire,Foundation_02,mobi
 "Asmiov, Isaac",Isaac Asmiov,Foundation 03 - Second Foundation,Foundation_03,mobi
 "Asmiov, Isaac",Isaac Asmiov,Foundation 04 - Foundation's Edge,Foundation_04,mobi
+"Asmiov, Isaac",Isaac Asmiov,Foundation 05 - Foundation and Earth,Foundation_05,mobi
 "Asmiov, Isaac",Isaac Asmiov,Foundation 06 - Prelude to Foundation,Foundation_06,mobi
 "Asmiov, Isaac",Isaac Asmiov,Foundation 07 - Forward the Foundation,Foundation_07,mobi
 "Atwood, Margaret",Margaret Atwood,Oryx and Crake,Oryx_and_Crake,mobi
@@ -83,23 +84,24 @@ Aesop,Aesop,Aesop's Fables,Aesops_Fables,mobi
 "Barbery, Muriel",Muriel Barbery,The Elegance of the Hedgehog,Elegance_of_Hedgehog,mobi
 "Barker, Clive",Clive Barker,Imajica,Imajica,mobi
 "Barker, Clive",Clive Barker,The Damnation Game,Damnation_Game,mobi
-"Barker, Clive",Clive Barker,Books Of The Art 02 - Everville,Books_Of_Art_02,mobi
-"Barker, Clive",Clive Barker,Coldheart Canyon,Coldheart_Canyon,mobi
-"Barker, Clive",Clive Barker,Galilee,Galilee,mobi
-"Barker, Clive",Clive Barker,Imajica 01 - Fifth Dominion,Imajica_01,mobi
-"Barker, Clive",Clive Barker,Imajica 02 - The Reconciliator,Imajica_02,mobi
-"Barker, Clive",Clive Barker,Sacrament,Sacrament,mobi
-"Barker, Clive",Clive Barker,The Great and Secret Show,Great_and_Secret_Show,mobi
-"Barker, Clive",Clive Barker,The Thief of Always,Thief_of_Always,mobi
+"Barker, Clive",Clive Barker,Books Of The Art 02 - Everville,Books_Of_Art_02,prc
+"Barker, Clive",Clive Barker,Coldheart Canyon,Coldheart_Canyon,prc
+"Barker, Clive",Clive Barker,Galilee,Galilee,prc
+"Barker, Clive",Clive Barker,Imajica 01 - Fifth Dominion,Imajica_01,prc
+"Barker, Clive",Clive Barker,Imajica 02 - The Reconciliator,Imajica_02,prc
+"Barker, Clive",Clive Barker,Sacrament,Sacrament,prc
+"Barker, Clive",Clive Barker,The Great and Secret Show,Great_and_Secret_Show,prc
+"Barker, Clive",Clive Barker,The Thief of Always,Thief_of_Always,prc
+"Barker, Clive",Clive Barker,Weaveworld,Weaveworld,prc
 "Barry, Dave",Dave Barry,Big Trouble,Big_Trouble,mobi
 "Barry, Max",Max Barry,Jennifer Government,Jennifer_Government,mobi
 "Baum, L. Frank",L. Frank Baum,The Wonderful Wizard of Oz,Wonderful_Wizard_of_Oz,mobi
 "Benchley, Peter",Peter Benchley,Jaws,Jaws,mobi
-"Berry, Steve",Steve Berry,The Alexandria Link,Alexandria_Link,mobi
-"Berry, Steve",Steve Berry,The Amber Room,Amber_Room,mobi
-"Berry, Steve",Steve Berry,The Romanov Prophecy,Romanov_Prophecy,mobi
-"Berry, Steve",Steve Berry,The Third Secret,Third_Secret,mobi
-"Berry, Steve",Steve Berry,The Venetian Betrayal,Venetian_Betrayal,mobi
+"Berry, Steve",Steve Berry,The Alexandria Link,Alexandria_Link,prc
+"Berry, Steve",Steve Berry,The Amber Room,Amber_Room,prc
+"Berry, Steve",Steve Berry,The Romanov Prophecy,Romanov_Prophecy,prc
+"Berry, Steve",Steve Berry,The Third Secret,Third_Secret,prc
+"Berry, Steve",Steve Berry,The Venetian Betrayal,Venetian_Betrayal,prc
 "Bester, Alfred",Alfred Bester,The Demolished Man,Demolished_Man,mobi
 "Bester, Alfred",Alfred Bester,The Stars My Destination,Stars_My_Destination,mobi
 "Binchy, Maeve",Maeve Binchy,Circle of Friends,Circle_of_Friends,mobi
@@ -130,10 +132,15 @@ Aesop,Aesop,Aesop's Fables,Aesops_Fables,mobi
 "Brooks, Max",Max Brooks,World War Z,World_War_Z,mobi
 "Brooks, Terry",Terry Brooks,The Sword of Shannara,Sword_of_Shannara,mobi
 "Brown, Dan",Dan Brown,Angels and Demons,Angels_and_Demons,mobi
+"Brown, Dan",Dan Brown,Angels and Demons,Angels_and_Demons2,prc
 "Brown, Dan",Dan Brown,Deception Point,Deception_Point,mobi
+"Brown, Dan",Dan Brown,Deception Point,Deception_Point2,prc
 "Brown, Dan",Dan Brown,Digital Fortress,Digital_Fortress,mobi
-"Brown, Dan",Dan Brown,The Da Vinci Code,Da_Vinci_Code,mobi
+"Brown, Dan",Dan Brown,Digital Fortress,Digital_Fortress2,prc
+"Brown, Dan",Dan Brown,The Da Vinci Code,Da_Vinci_Code,prc
+"Brown, Dan",Dan Brown,The Da Vinci Code,Da_Vinci_Code2,mobi
 "Brown, Dan",Dan Brown,The Lost Symbol,Lost_Symbol,mobi
+"Brown, Dan",Dan Brown,The Lost Symbol,Lost_Symbol2,prc
 "Bryson, Bill",Bill Bryson,A Short History of Nearly Everything,Short_History_of_Everything,mobi
 "Bryson, Bill",Bill Bryson,A Walk in the Woods,Walk_in_Woods,mobi
 "Bryson, Bill",Bill Bryson,I'm a Stranger Here Myself,Stranger_Here_Myself,mobi
@@ -149,7 +156,7 @@ Aesop,Aesop,Aesop's Fables,Aesops_Fables,mobi
 "Butcher, Jim",Jim Butcher,Codex Alera 04 - Captain's Fury,Codex_Alera_04,mobi
 "Butcher, Jim",Jim Butcher,Codex Alera 05 - Princeps' Fury,Codex_Alera_05,mobi
 "Butcher, Jim",Jim Butcher,Codex Alera 06 - First Lord's Fury,Codex_Alera_06,mobi
-"Butcher, Jim",Jim Butcher,Day Off,Day_Off,mobi
+"Butcher, Jim",Jim Butcher,Day Off,Day_Off,prc
 "Butcher, Jim",Jim Butcher,Harry Dresden 01 - Storm Front,Harry_Dresden_01,mobi
 "Butcher, Jim",Jim Butcher,Harry Dresden 02 - Fool Moon,Harry_Dresden_02,mobi
 "Butcher, Jim",Jim Butcher,Harry Dresden 03 - Grave Peril,Harry_Dresden_03,mobi
@@ -215,14 +222,14 @@ Aesop,Aesop,Aesop's Fables,Aesops_Fables,mobi
 "Child, Lee",Lee Child,Jack Reacher 13 - Gone Tomorrow,Jack_Reacher_13,mobi
 "Child, Lee",Lee Child,Jack Reacher 14 - 61 Hours,Jack_Reacher_14,mobi
 "Child, Lee",Lee Child,Jack Reacher 15 - Worth Dying For,Jack_Reacher_15,mobi
-"Child, Lincoln",Lincoln Child,Terminal Freeze,Terminal_Freeze,mobi
+"Child, Lincoln",Lincoln Child,Terminal Freeze,Terminal_Freeze,prc
 "Chomsky, Noam",Noam Chomsky,The Chomsky Reader,Chomsky_Reader,mobi
 "Christie, Agatha","Christie, Agatha",And Then There Were None,Then_There_Were_None,mobi
 "Christie, Agatha","Christie, Agatha",Murder on the Orient Express,Murder_on_Orient_Express,mobi
-"Christopher, Paul",Paul Christopher,Finn Ryan 01 - Michelangelo's Notebook,Finn_Ryan_01,mobi
-"Christopher, Paul",Paul Christopher,Finn Ryan 02 - The Lucifer Gospel,Finn_Ryan_02,mobi
-"Christopher, Paul",Paul Christopher,Finn Ryan 03 - Rembrandts Ghost,Finn_Ryan_03,mobi
-"Christopher, Paul",Paul Christopher,Finn Ryan 04 - The Aztec Heresy,Finn_Ryan_04,mobi
+"Christopher, Paul",Paul Christopher,Finn Ryan 01 - Michelangelo's Notebook,Finn_Ryan_01,prc
+"Christopher, Paul",Paul Christopher,Finn Ryan 02 - The Lucifer Gospel,Finn_Ryan_02,prc
+"Christopher, Paul",Paul Christopher,Finn Ryan 03 - Rembrandts Ghost,Finn_Ryan_03,prc
+"Christopher, Paul",Paul Christopher,Finn Ryan 04 - The Aztec Heresy,Finn_Ryan_04,prc
 "Clancy, Tom",Tom Clancy,Clear and Present Danger,Clear_Present_Danger,mobi
 "Clancy, Tom",Tom Clancy,Executive Orders,Executive_Orders,mobi
 "Clancy, Tom",Tom Clancy,Patriot Games,Patriot_Games,mobi
@@ -266,7 +273,7 @@ Aesop,Aesop,Aesop's Fables,Aesops_Fables,mobi
 "Conrad, Joseph",Joseph Conrad,Heart Of Darkness,Heart_Of_Darkness,mobi
 "Cook, Glen",Glen Cook,The Black Company,Black_Company,mobi
 "Cooper, James Fennimore",James Fennimore Cooper,The Last of the Mohicans,Last_of_Mohicans,mobi
-"Cornwell, Patricia",Patricia Cornwell,Hammer 02 - Southern Cross,Hammer_02,mobi
+"Cornwell, Patricia",Patricia Cornwell,Hammer 02 - Southern Cross,Hammer_02,prc
 "Cornwell, Patricia",Patricia Cornwell,Scarpetta 01 - Postmortem,Scarpetta_01,mobi
 "Cornwell, Patricia",Patricia Cornwell,Scarpetta 02 - Body of Evidence,Scarpetta_02,mobi
 "Cornwell, Patricia",Patricia Cornwell,Scarpetta 03 - All That Remains,Scarpetta_03,mobi
@@ -283,10 +290,10 @@ Aesop,Aesop,Aesop's Fables,Aesops_Fables,mobi
 "Cornwell, Patricia",Patricia Cornwell,Scarpetta 14 - Predator,Scarpetta_14,mobi
 "Cornwell, Patricia",Patricia Cornwell,Scarpetta 15 - Book of the Dead,Scarpetta_15,mobi
 "Cornwell, Patricia",Patricia Cornwell,Scarpetta 16 - Scarpetta,Scarpetta_1,mobi
-"Cornwell, Patricia",Patricia Cornwell,Scarpettas Winter Table,Scarpettas_Winter_Table,mobi
-"Cornwell, Patricia",Patricia Cornwell,Isle Of Dogs,Isle_Of_Dogs,mobi
-"Cornwell, Patricia",Patricia Cornwell,Southern Cross,Southern_Cross,mobi
-"Cornwell, Patricia",Patricia Cornwell,The Hornets Nest,Hornets_Nest,mobi
+"Cornwell, Patricia",Patricia Cornwell,Scarpettas Winter Table,Scarpettas_Winter_Table,prc
+"Cornwell, Patricia",Patricia Cornwell,Isle Of Dogs,Isle_Of_Dogs,prc
+"Cornwell, Patricia",Patricia Cornwell,Southern Cross,Southern_Cross,prc
+"Cornwell, Patricia",Patricia Cornwell,The Hornets Nest,Hornets_Nest,prc
 "Covey, Stephen R.",Stephen R. Covey,Seven Habits of Highly Effective People,Seven_Habits_Effective_People,mobi
 Cracked.com,Cracked.com,You Might Be a Zombie and Other Bad News,You_Might_Be_a_Zombie,mobi
 "Crais, Robert",Robert Crais,Demolition Angel,Demolition_Angel,mobi
@@ -324,7 +331,7 @@ Cracked.com,Cracked.com,You Might Be a Zombie and Other Bad News,You_Might_Be_a_
 "Cussler, Clive",Clive Cussler,Flood Tide,Flood_Tide,mobi
 "Cussler, Clive",Clive Cussler,Inca Gold,Inca_Gold,mobi
 "Cussler, Clive",Clive Cussler,Shock Wave,Shock_Wave,mobi
-"D'Ammassa, Don ",Don D'Ammassa,Encyclopedia Of Fantasy And Horror Fiction,Encyclopedia_Of_Fantasy,mobi
+"D'Ammassa, Don ",Don D'Ammassa,Encyclopedia Of Fantasy And Horror Fiction,Encyclopedia_Of_Fantasy,prc
 "Dahl, Roald",Roald Dahl,Charlie and the Chocolate Factory,Charlie_Chocolate_Factory,mobi
 "Dalton, C.H.",C.H. Dalton,A Practical Guide to Racism,Practical_Guide_to_Racism,mobi
 "Darwin, Charles",Charles Darwin,The Origin of Species,Origin_of_Species,mobi
@@ -434,7 +441,7 @@ Cracked.com,Cracked.com,You Might Be a Zombie and Other Bad News,You_Might_Be_a_
 "Evanovich, Janet",Janet Evanovich,Visions of Sugar Plums,Visions_of_Sugar_Plums,mobi
 "Evans, Richard J.",Richard J. Evans,The Coming of the Third Reich,Coming_of_Third_Reich,mobi
 "Fabiano, Laurie",Laurie Fabiano,Elizabeth Street,Elizabeth_Street,mobi
-"Fahy, Warren",Warren Fahy,Fragment ,Fragment_,mobi
+"Fahy, Warren",Warren Fahy,Fragment ,Fragment_,prc
 "Feist, Raymond E.",Raymond E. Feist,A Kingdom Besieged,Kingdom_Besieged,mobi
 "Feist, Raymond E.",Raymond E. Feist,"Magician, Apprentice",Magician_Apprentice,mobi
 "Ferguson, Craig",Craig Ferguson,American on Purpose,American_on_Purpose,mobi
@@ -473,17 +480,17 @@ Cracked.com,Cracked.com,You Might Be a Zombie and Other Bad News,You_Might_Be_a_
 "Gaiman, Neil",Neil Gaiman,American Gods,American_Gods,mobi
 "Gaiman, Neil",Neil Gaiman,Anansi Boys,Anansi_Boys,mobi
 "Gaiman, Neil",Neil Gaiman,Coraline,Coraline,mobi
-"Gaiman, Neil",Neil Gaiman,Dont Panic - The Official Guide to the Hitchikers Guide to the Galaxy,Dont_Panic,mobi
+"Gaiman, Neil",Neil Gaiman,Don't Panic - The Official Guide to the Hitchikers Guide to the Galaxy,Dont_Panic,prc
 "Gaiman, Neil",Neil Gaiman,Fragile Things,Fragile_Things,mobi
 "Gaiman, Neil",Neil Gaiman,Good Omens,Good_Omens,mobi
 "Gaiman, Neil",Neil Gaiman,Neverwhere,Neverwhere,mobi
 "Gaiman, Neil",Neil Gaiman,Stardust,Stardust,mobi
 "Gaiman, Neil",Neil Gaiman,The Graveyard Book,Graveyard_Book,mobi
-"Gaiman, Neil",Neil Gaiman,Dream Hunter,Dream_Hunter,mobi
-"Gaiman, Neil",Neil Gaiman,Harlequin Valentine,Harlequin_Valentine,mobi
-"Gaiman, Neil",Neil Gaiman,Murder Mysteries,Murder_Mysteries,mobi
-"Gaiman, Neil",Neil Gaiman,Snow Glass Apples,Snow_Glass_Apples,mobi
-"Gaiman, Neil",Neil Gaiman,Tales in the Sand,Tales_in_Sand,mobi
+"Gaiman, Neil",Neil Gaiman,Dream Hunter,Dream_Hunter,prc
+"Gaiman, Neil",Neil Gaiman,Harlequin Valentine,Harlequin_Valentine,prc
+"Gaiman, Neil",Neil Gaiman,Murder Mysteries,Murder_Mysteries,prc
+"Gaiman, Neil",Neil Gaiman,Snow Glass Apples,Snow_Glass_Apples,prc
+"Gaiman, Neil",Neil Gaiman,Tales in the Sand,Tales_in_Sand,prc
 "Gibson, William",William Gibson,Burning Chrome,Burning_Chrome,mobi
 "Gibson, William",William Gibson,Count Zero,Count_Zero,mobi
 "Gibson, William",William Gibson,Johnny Mnemonic,Johnny_Mnemonic,mobi
@@ -700,7 +707,7 @@ Homer,Homer,The Odyssey,Odyssey,mobi
 "James, Henry",Henry James,Daisy Miller and Other Stories,Daisy_Miller_Other_Stories,mobi
 Jay-Z,Jay-Z,Decoded,Decoded,mobi
 "Jeremy, Ron",Ron Jeremy,The Hardest (Working) Man in Showbiz,Hardest_Working_Man_in_Showbiz,mobi
-"Johnstone, William W.",William W. Johnstone,The Devils Heart,Devils_Heart,mobi
+"Johnstone, William W.",William W. Johnstone,The Devils Heart,Devils_Heart,prc
 "Johnstone, William W.",William W. Johnstone,The Devil's Kiss,Devils_Kiss,mobi
 "Jordan, Robert",Robert Jordan,Wheel of Time 00 - New Spring,Wheel_of_Time_00,mobi
 "Jordan, Robert",Robert Jordan,Wheel of Time 01 - The Eye of the World,Wheel_of_Time_01,mobi
