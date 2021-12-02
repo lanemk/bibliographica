@@ -126,6 +126,13 @@
   rdfs:label "Aesop" ;
   foaf:name "Aesop" ;
 .
+:Agatha_Christie
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Agatha_Christie.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/71388952/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Agatha Christie" ;
+  foaf:name "Agatha Christie" ;
+.
 :Al_Di_Meola
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "https://dbpedia.org/data/Al_Di_Meola.ttl"^^xsd:anyURI ;
@@ -402,6 +409,13 @@
   rdfs:label "Ariel Dorfman" ;
   foaf:name "Ariel Dorfman" ;
 .
+:Arthur_C_Clarke
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Arthur_C._Clarke.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/27062571/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Arthur C. Clarke" ;
+  foaf:name "Arthur C. Clarke" ;
+.
 :Arthur_Jacobs
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "https://dbpedia.org/data/Arthur_Jacobs.ttl"^^xsd:anyURI ;
@@ -581,6 +595,13 @@
   rdfs:label "Bill Bryson" ;
   foaf:name "Bill Bryson" ;
 .
+:Bill_Clinton
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Bill_Clinton.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/102338519/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Bill Clinton" ;
+  foaf:name "Bill Clinton" ;
+.
 :Bill_Griffith
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "https://dbpedia.org/data/Bill_Griffith.ttl"^^xsd:anyURI ;
@@ -676,6 +697,14 @@
   bibliographica:viafURI "https://viaf.org/viaf/97844400/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Brewster Ghiselin" ;
   foaf:name "Brewster Ghiselin" ;
+.
+:Brian_Coffey
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Brian_Coffey.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/22360530/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Brian Coffey" ;
+  foaf:name "Brian Coffey" ;
+  skos:altLabel "Dean Koontz" ;
 .
 :Brian_Moore
   rdf:type schema:Person ;
@@ -925,6 +954,12 @@
   rdfs:label "Christopher Parkening" ;
   foaf:name "Christopher Parkening" ;
 .
+:Christopher_Paul
+  rdf:type schema:Person ;
+  bibliographica:viafURI "https://viaf.org/viaf/25219011/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Christopher Paul" ;
+  foaf:name "Christopher Paul" ;
+.
 :Clarence_Major
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "https://dbpedia.org/data/Clarence_Major.ttl"^^xsd:anyURI ;
@@ -991,6 +1026,13 @@
   bibliographica:viafURI "https://viaf.org/viaf/104023755/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Crab Searl" ;
   foaf:name "Crab Searl" ;
+.
+:Cracked
+  rdf:type schema:Organization ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Cracked.com.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/129245915/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Cracked.com" ;
+  foaf:name "Cracked.com" ;
 .
 :Craig_Claiborne
   rdf:type schema:Person ;
@@ -1787,6 +1829,13 @@
   rdfs:label "Gino Sky" ;
   foaf:name "Gino Sky" ;
 .
+:Glen_Cook
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Glen_Cook.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/64149024/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Glen Cook" ;
+  foaf:name "Glen Cook" ;
+.
 :Glenn_Day
   rdf:type schema:Person ;
   bibliographica:viafURI "https://viaf.org/viaf/112991023/rdf.xml"^^xsd:anyURI ;
@@ -2086,6 +2135,13 @@
   rdfs:label "J. L. Bourne" ;
   foaf:name "J. L. Bourne" ;
 .
+:JM_Coetzee
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/J._M._Coetzee.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/101839018/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "J. M. Coetzee" ;
+  foaf:name "J. M. Coetzee" ;
+.
 :JRH_Andrews
   rdf:type schema:Person ;
   bibliographica:viafURI "https://viaf.org/viaf/32033380/rdf.xml"^^xsd:anyURI ;
@@ -2167,6 +2223,13 @@
   bibliographica:viafURI "https://viaf.org/viaf/88625859/rdf.xml"^^xsd:anyURI ;
   rdfs:label "James Ensor" ;
   foaf:name "James Ensor" ;
+.
+:James_Fenimore_Cooper
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/James_Fenimore_Cooper.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/27062769/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "James Fenimore Cooper" ;
+  foaf:name "James Fenimore Cooper" ;
 .
 :James_Kelman
   rdf:type schema:Person ;
@@ -2777,6 +2840,13 @@
   rdfs:label "Jun'ichirō Tanizaki" ;
   foaf:name "Jun'ichirō Tanizaki" ;
 .
+:Justin_Cronin
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Justin_Cronin.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/305869306/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Justin Cronin" ;
+  foaf:name "Justin Cronin" ;
+.
 :Kahlil_Gibran
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "https://dbpedia.org/data/Kahlil_Gibran.ttl"^^xsd:anyURI ;
@@ -3102,6 +3172,13 @@
   bibliographica:viafURI "https://viaf.org/viaf/41860973/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Lillian Breslow Rubin" ;
   foaf:name "Lillian Breslow Rubin" ;
+
+:Lincoln_Child
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Lincoln_Child.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/76450949/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Lincoln Child" ;
+  foaf:name "Lincoln Child" ;
 .
 :Lindsey_Davis
   rdf:type schema:Person ;
@@ -3451,6 +3528,13 @@
   rdfs:label "Michael Connelly" ;
   foaf:name "Michael Connelly" ;
 .
+:Michael_Chabon
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Michael_Chabon.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/49255278/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Michael Chabon" ;
+  foaf:name "Michael Chabon" ;
+.
 :Michael_Crichton
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "https://dbpedia.org/data/Michael_Crichton.ttl"^^xsd:anyURI ;
@@ -3718,6 +3802,13 @@
   bibliographica:viafURI "https://viaf.org/viaf/54148306/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Nikolai Vasilevich Gogol" ;
   foaf:name "Nikolai Vasilevich Gogol" ;
+.
+:Noam_Chomsky
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Noam_Chomsky.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/89803084/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Noam Chomsky" ;
+  foaf:name "Noam Chomsky" ;
 .
 :Norman_Rush
   rdf:type schema:Person ;
@@ -4168,6 +4259,13 @@
   bibliographica:viafURI "https://viaf.org/viaf/12305881/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Ray Bradbury" ;
   foaf:name "Ray Bradbury" ;
+.
+:Raymond_Chandler
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Raymond_Chandler.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/39374901/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Raymond Chandler" ;
+  foaf:name "Raymond Chandler" ;
 .
 :Rebecca_Wood
   rdf:type schema:Organization ;
@@ -4658,12 +4756,33 @@
   rdfs:label "Stephen E. Ambrose" ;
   foaf:name "Stephen E. Ambrose" ;
 .
+:Stephen_Colbert
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Stephen_Colbert.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/1829775/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Stephen Colbert" ;
+  foaf:name "Stephen Colbert" ;
+.
+:Stephen_Covey
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Stephen_Covey.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/19730461/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Stephen Covey" ;
+  foaf:name "Stephen Covey" ;
+.
 :Stephen_Coonts
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "https://dbpedia.org/data/Stephen_Coonts.ttl"^^xsd:anyURI ;
   bibliographica:viafURI "https://viaf.org/viaf/9870690/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Stephen Coonts" ;
   foaf:name "Stephen Coonts" ;
+.
+:Stephen_Crane
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Stephen_Crane.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/100175928/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Stephen Crane" ;
+  foaf:name "Stephen Crane" ;
 .
 :Stephen_Dobyns
   rdf:type schema:Person ;
@@ -4804,6 +4923,13 @@
   bibliographica:viafURI "https://viaf.org/viaf/109902730/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Susanna Moore" ;
   foaf:name "Susanna Moore" ;
+.
+:Suzanne_Collins
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Suzanne_Collins.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/150638554/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Suzanne Collins" ;
+  foaf:name "Suzanne Collins" ;
 .
 :Swain_Wolfe
   rdf:type schema:Person ;
@@ -4985,6 +5111,13 @@
   bibliographica:viafURI "https://viaf.org/viaf/52387993/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Tina McElroy Ansa" ;
   foaf:name "Tina McElroy Ansa" ;
+.
+:Tom_Clancy
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Tom_Clancy.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/108842694/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Tom Clancy" ;
+  foaf:name "Tom Clancy" ;
 .
 :Tom_Manoff
   rdf:type schema:Person ;
@@ -5183,6 +5316,13 @@
   bibliographica:viafURI "https://viaf.org/viaf/163020838/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Wendy Holden" ;
   foaf:name "Wendy Holden" ;
+.
+:Wilkie_Collins
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Wilkie_Collins.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/95173526/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Wilkie Collins" ;
+  foaf:name "Wilkie Collins" ;
 .
 :Willa_Cather
   rdf:type schema:Person ;
