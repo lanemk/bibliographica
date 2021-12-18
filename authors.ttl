@@ -346,6 +346,13 @@
   rdfs:label "Anne Cameron" ;
   foaf:name "Anne Cameron" ;
 .
+:Anne_Frank
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Anne_Frank.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/27064673/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Anne Frank" ;
+  foaf:name "Anne Frank" ;
+.
 :Anne_Kent_Rush
   rdf:type schema:Person ;
   bibliographica:viafURI "https://viaf.org/viaf/113030470/rdf.xml"^^xsd:anyURI ;
@@ -2379,6 +2386,13 @@
   rdfs:label "James Fenimore Cooper" ;
   foaf:name "James Fenimore Cooper" ;
 .
+:James_Frey
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/James_Frey.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/85723317/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "James Frey" ;
+  foaf:name "James Frey" ;
+.
 :James_Kelman
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "https://dbpedia.org/data/James_Kelman.ttl"^^xsd:anyURI ;
@@ -2909,12 +2923,26 @@
   rdfs:label "Jonathan Cott" ;
   foaf:name "Jonathan Cott" ;
 .
+:Jonathan_Franzen
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Jonathan_Franzen.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/84489381/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Jonathan Franzen" ;
+  foaf:name "Jonathan Franzen" ;
+.
 :Jonathan_Raban
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "https://dbpedia.org/data/Jonathan_Raban.ttl"^^xsd:anyURI ;
   bibliographica:viafURI "https://viaf.org/viaf/66503699/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Jonathan Raban" ;
   foaf:name "Jonathan Raban" ;
+.
+:Jonathan_Safran_Foer
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Jonathan_Safran_Foer.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/85500702/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Jonathan Safran Foer" ;
+  foaf:name "Jonathan Safran Foer" ;
 .
 :Joni_Rodgers
   rdf:type schema:Person ;
@@ -2974,6 +3002,13 @@
   bibliographica:viafURI "https://viaf.org/viaf/54345762/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Jostein Gaarder" ;
   foaf:name "Jostein Gaarder" ;
+.
+:Judah_Friedlander
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Judah_Friedlander.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/19149105995668490125/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Judah Friedlander" ;
+  foaf:name "Judah Friedlander" ;
 .
 :Judy_Fong_Bates
   rdf:type schema:Person ;
@@ -3710,6 +3745,13 @@
   rdfs:label "Merrill Gilfillan" ;
   foaf:name "Merrill Gilfillan" ;
 .
+:Michael_J_Fox
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Michael_J._Fox.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/85083574/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Michael J. Fox" ;
+  foaf:name "Michael J. Fox" ;
+.
 :Michael_Baigent
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "https://dbpedia.org/data/Michael_Baigent.ttl"^^xsd:anyURI ;
@@ -3945,6 +3987,13 @@
   rdfs:label "Neal Stephenson" ;
   foaf:name "Neal Stephenson" ;
 .
+:Neil_Gaiman
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Neil_Gaiman.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/103859257/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Neil Gaiman" ;
+  foaf:name "Neil Gaiman" ;
+.
 :Nel_King
   rdf:type schema:Person ;
   bibliographica:viafURI "https://viaf.org/viaf/67761281/rdf.xml"^^xsd:anyURI ;
@@ -4136,6 +4185,13 @@
   bibliographica:viafURI "https://viaf.org/viaf/75127263/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Parker J. Palmer" ;
   foaf:name "Parker J. Palmer" ;
+.
+:Pat_Frank
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Pat_Frank.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/163817953/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Pat Frank" ;
+  foaf:name "Pat Frank" ;
 .
 :Patricia_Briggs
   rdf:type schema:Person ;
@@ -4686,6 +4742,13 @@
   rdfs:label "Robert Dessaix" ;
   foaf:name "Adelle Davis" ;
 .
+:Robert_Frost
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Robert_Frost.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/32010055/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Robert Frost" ;
+  foaf:name "Robert Frost" ;
+.
 :Robert_Gagne
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "https://dbpedia.org/data/Robert_M._Gagn%C3%A9.ttl"^^xsd:anyURI ;
@@ -5228,6 +5291,13 @@
   bibliographica:viafURI "https://viaf.org/viaf/67753107/rdf.xml"^^xsd:anyURI ;
   rdfs:label "T. Jeff Williams" ;
   foaf:name "T. Jeff Williams" ;
+.
+:Tana_French
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Tana_French.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/149427877/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Tana French" ;
+  foaf:name "Tana French" ;
 .
 :Tananarive_Due
   rdf:type schema:Person ;
