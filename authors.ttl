@@ -741,6 +741,13 @@
   foaf:name "Brian Coffey" ;
   skos:altLabel "Dean Koontz" ;
 .
+:Brian_Greene
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Brian_Greene.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/97865728/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Brian Greene" ;
+  foaf:name "Brian Greene" ;
+.
 :Brian_Moore
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "https://dbpedia.org/data/Brian_Moore_(novelist).ttl"^^xsd:anyURI ;
@@ -1511,6 +1518,13 @@
   rdfs:label "Donna Andrews" ;
   foaf:name "Donna Andrews" ;
 .
+:Doris_Kearns_Goodwin
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Doris_Kearns_Goodwin.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/93479825/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Doris Kearns Goodwin" ;
+  foaf:name "Doris Kearns Goodwin" ;
+.
 :Dorothy_Dunnett
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "https://dbpedia.org/data/Dorothy_Dunnett.ttl"^^xsd:anyURI ;
@@ -1645,6 +1659,13 @@
   bibliographica:viafURI "https://viaf.org/viaf/112933568/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Elizabeth David" ;
   foaf:name "Elizabeth David" ;
+.
+:Elizabeth_Gilbert
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Elizabeth_Gilbert.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/7713013/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Elizabeth Gilbert" ;
+  foaf:name "Elizabeth Gilbert" ;
 .
 :Ellen_Ewald
   rdf:type schema:Person ;
@@ -2393,6 +2414,20 @@
   rdfs:label "James Frey" ;
   foaf:name "James Frey" ;
 .
+:James_Gleick
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/James_Gleick.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/51721740/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "James Gleick" ;
+  foaf:name "James Gleick" ;
+.
+:James_Grippando
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/James_Grippando.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/114862/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "James Grippando" ;
+  foaf:name "James Grippando" ;
+.
 :James_Kelman
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "https://dbpedia.org/data/James_Kelman.ttl"^^xsd:anyURI ;
@@ -2776,6 +2811,27 @@
   rdfs:label "John Dufresne" ;
   foaf:name "John Dufresne" ;
 .
+:John_Green
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/John_Green_(author).ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/41229323/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "John Green" ;
+  foaf:name "John Green" ;
+.
+:John_Grisham
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/John_Grisham.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/7449742/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "John Grisham" ;
+  foaf:name "John Grisham" ;
+.
+:John_Grogan
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/John_Grogan.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/12620571/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "John Grogan" ;
+  foaf:name "John Grogan" ;
+.
 :John_Joseph_Adams
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "https://dbpedia.org/data/John_Joseph_Adams.ttl"^^xsd:anyURI ;
@@ -3136,6 +3192,13 @@
   rdfs:label "Kathy Eldon" ;
   foaf:name "Kathy Eldon" ;
 .
+:Kathy_Griffin
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Kathy_Griffin.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/100950362/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Kathy Griffin" ;
+  foaf:name "Kathy Griffin" ;
+.
 :Kazuko_Masui
   rdf:type schema:Person ;
   bibliographica:viafURI "https://viaf.org/viaf/98494120/rdf.xml"^^xsd:anyURI ;
@@ -3341,6 +3404,7 @@
   bibliographica:viafURI "https://viaf.org/viaf/100304282/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Lee Child" ;
   foaf:name "Lee Child" ;
+  skos:altLabel "Jim Gorant" ;
 .
 :Leigh_Riker
   rdf:type schema:Person ;
@@ -3384,6 +3448,13 @@
   rdfs:label "Lester Bangs" ;
   foaf:name "Lester Bangs" ;
 .
+:Lev_Grossman
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Lev_Grossman.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/15904503/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Lev Grossman" ;
+  foaf:name "Lev Grossman" ;
+.
 :Lewis_Carroll
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "https://dbpedia.org/data/Lewis_Carroll.ttl"^^xsd:anyURI ;
@@ -3403,7 +3474,7 @@
   bibliographica:viafURI "https://viaf.org/viaf/41860973/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Lillian Breslow Rubin" ;
   foaf:name "Lillian Breslow Rubin" ;
-
+.
 :Lincoln_Child
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "https://dbpedia.org/data/Lincoln_Child.ttl"^^xsd:anyURI ;
@@ -3423,6 +3494,13 @@
   bibliographica:viafURI "https://viaf.org/viaf/51027140/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Lisa Bach" ;
   foaf:name "Lisa Bach" ;
+.
+:Lisa_Grunwald
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Lisa_Grunwald.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/93194297/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Lisa Grunwald" ;
+  foaf:name "Lisa Grunwald" ;
 .
 :Lois_Ann_Yamanaka
   rdf:type schema:Person ;
@@ -3918,6 +3996,14 @@
   bibliographica:viafURI "https://viaf.org/viaf/22309506/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Miles Krassen" ;
   foaf:name "Miles Krassen" ;
+.
+:Mira_Grant
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Seanan_McGuire.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/97615503/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Mira Grant" ;
+  foaf:name "Mira Grant" ;
+  skos:altLabel "Seanan McGuire" ;
 .
 :Mitch_Albom
   rdf:type schema:Person ;
@@ -4459,6 +4545,13 @@
   rdfs:label "Philip J. Pratt" ;
   foaf:name "Philip J. Pratt" ;
 .
+:Philippa_Gregory
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Philippa_Gregory.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/19698456/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Philippa Gregory" ;
+  foaf:name "Philippa Gregory" ;
+.
 :Phillip_Allen
   rdf:type schema:Person ;
   rdfs:label "Phillip Wayne Allen" ;
@@ -4953,6 +5046,13 @@
   rdfs:label "Sandra Benitez" ;
   foaf:name "Sandra Benitez" ;
 .
+:Sara_Gruen
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Sara_Gruen.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/56867365/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Sara Gruen" ;
+  foaf:name "Sara Gruen" ;
+.
 :Sara_Midda
   rdf:type schema:Person ;
   bibliographica:viafURI "https://viaf.org/viaf/302449407/rdf.xml"^^xsd:anyURI ;
@@ -5011,6 +5111,13 @@
   bibliographica:viafURI "https://viaf.org/viaf/106994448/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Sebastian Faulks" ;
   foaf:name "Sebastian Faulks" ;
+.
+:Seth_Grahame_Smith
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Seth_Grahame-Smith.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/102429602/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Seth Grahame-Smith" ;
+  foaf:name "Seth Grahame-Smith" ;
 .
 :Sharon_Pape
   rdf:type schema:Person ;
@@ -5200,6 +5307,13 @@
   rdfs:label "Studs Terkel" ;
   foaf:name "Studs Terkel" ;
 .
+:Sue_Grafton
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Sue_Grafton.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/113386374/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Sue Grafton" ;
+  foaf:name "Sue Grafton" ;
+.
 :Sue_Silverman
   rdf:type schema:Person ;
   bibliographica:viafURI "https://viaf.org/viaf/68191561/rdf.xml"^^xsd:anyURI ;
@@ -5330,6 +5444,13 @@
   bibliographica:viafURI "https://viaf.org/viaf/92807646/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Terry Farish" ;
   foaf:name "Terry Farish" ;
+.
+:Terry_Goodkind
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Terry_Goodkind.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/67399498/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Terry Goodkind" ;
+  foaf:name "Terry Goodkind" ;
 .
 :Terry_McMillan
   rdf:type schema:Person ;
@@ -5680,6 +5801,13 @@
   rdfs:label "Wilkie Collins" ;
   foaf:name "Wilkie Collins" ;
 .
+:Wilhelm_Grimm
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/Wilhelm_Grimm.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/14770699/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "Wilhelm Grimm" ;
+  foaf:name "Wilhelm Grimm" ;
+.
 :Willa_Cather
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "https://dbpedia.org/data/Willa_Cather.ttl"^^xsd:anyURI ;
@@ -5700,12 +5828,26 @@
   rdfs:label "William Carpenter" ;
   foaf:name "William Carpenter" ;
 .
+:William_Gibson
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/William_Gibson.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/109517110/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "William Gibson" ;
+  foaf:name "William Gibson" ;
+.
 :William_Glasser
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "https://dbpedia.org/data/William_Glasser.ttl"^^xsd:anyURI ;
   bibliographica:viafURI "https://viaf.org/viaf/2558195/rdf.xml"^^xsd:anyURI ;
   rdfs:label "William Glasser" ;
   foaf:name "William Glasser" ;
+.
+:William_Golding
+  rdf:type schema:Person ;
+  bibliographica:dbpediaURI "https://dbpedia.org/data/William_Golding.ttl"^^xsd:anyURI ;
+  bibliographica:viafURI "https://viaf.org/viaf/89500102/rdf.xml"^^xsd:anyURI ;
+  rdfs:label "William Golding" ;
+  foaf:name "William Golding" ;
 .
 :William_Leavitt
   rdf:type schema:Person ;
