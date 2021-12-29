@@ -25,7 +25,7 @@
   owl:imports <http://www.connaissance.io/onto/biblio/MusicGroup> ;
   owl:imports <http://www.connaissance.io/onto/biblio/SoloMusicArtist> ;
   owl:imports <http://www.connaissance.io/onto/biblio/bibliographica> ;
-  owl:versionInfo "Developed by M Lane, Portland, Oregon" ;
+  owl:versionInfo "Developed by M Lane" ;
 .
 :A_Bone_Crone_Drone
   rdf:type mo:CD ;
