@@ -1095,23 +1095,23 @@ Carlton_Mellick,"Mellick III, Carlton",Carlton Mellick III,Haunted Vagina,Haunte
 Carlton_Mellick,"Mellick III, Carlton",Carlton Mellick III,Sausagey Santa,Sausagey_Santa,mobi
 Carlton_Mellick,"Mellick III, Carlton",Carlton Mellick III,Warslut,Warslut,mobi
 Herman_Melville,"Melville, Herman",Herman Melville,Moby Dick,Moby_Dick,mobi
-,"Meyer, Stephanie",Stephanie Meyer,The Host,Host,mobi
-,"Meyer, Stephanie",Stephanie Meyer,The Short Second Life of Bree Tanner,Short_Second_Life_Bree_Tanner,mobi
-,"Meyer, Stephanie",Stephanie Meyer,Twilight 01 - Twilight,Twilight_01,mobi
-,"Meyer, Stephanie",Stephanie Meyer,Twilight 02 - New Moon,Twilight_02,mobi
-,"Meyer, Stephanie",Stephanie Meyer,Twilight 03 - Eclipse,Twilight_03,mobi
-,"Meyer, Stephanie",Stephanie Meyer,Twilight 04 - Breaking Dawn,Twilight_04,mobi
-,"Mieville, China",China Mieville,Iron Council,Iron_Council,mobi
-,"Mieville, China",China Mieville,Kraken,Kraken,mobi
-,"Mieville, China",China Mieville,Perdido Street Station,Perdido_Street_Station,mobi
-,"Mieville, China",China Mieville,The City & The City,City_City,mobi
-,"Mieville, China",China Mieville,The Scar,Scar,mobi
-,"Miller, Arthur",Arthur Miller,The Crucible,Crucible,mobi
-,"Miller, Henry",Henry Miller,Tropic of Cancer,Tropic_of_Cancer,mobi
-,"Miller, Walter M.",Walter M. Miller,A Canticle for Leibowitz,Canticle_for_Leibowitz,mobi
-,Misc.,Misc.,Machine of Death,Machine_of_Death,mobi
-,"Mitchell, David",David Mitchell,Cloud Atlas,Cloud_Atlas,mobi
-,"Mitchell, David",David Mitchell,The Thousand Autumns of Jacob de Zoet,Thousand_Autumns_Jacob_de_Zoet,mobi
+Stephenie_Meyer,"Meyer, Stephanie",Stephanie Meyer,The Host,Host,mobi
+Stephenie_Meyer,"Meyer, Stephanie",Stephanie Meyer,The Short Second Life of Bree Tanner,Short_Second_Life_Bree_Tanner,mobi
+Stephenie_Meyer,"Meyer, Stephanie",Stephanie Meyer,Twilight 01 - Twilight,Twilight_01,mobi
+Stephenie_Meyer,"Meyer, Stephanie",Stephanie Meyer,Twilight 02 - New Moon,Twilight_02,mobi
+Stephenie_Meyer,"Meyer, Stephanie",Stephanie Meyer,Twilight 03 - Eclipse,Twilight_03,mobi
+Stephenie_Meyer,"Meyer, Stephanie",Stephanie Meyer,Twilight 04 - Breaking Dawn,Twilight_04,mobi
+China_Mieville,"Mieville, China",China Mieville,Iron Council,Iron_Council,mobi
+China_Mieville,"Mieville, China",China Mieville,Kraken,Kraken,mobi
+China_Mieville,"Mieville, China",China Mieville,Perdido Street Station,Perdido_Street_Station,mobi
+China_Mieville,"Mieville, China",China Mieville,The City & The City,City_City,mobi
+China_Mieville,"Mieville, China",China Mieville,The Scar,Scar,mobi
+Arthur_Miller,"Miller, Arthur",Arthur Miller,The Crucible,Crucible,mobi
+Henry_Miller,"Miller, Henry",Henry Miller,Tropic of Cancer,Tropic_of_Cancer,mobi
+Walter_Miller,"Miller, Walter M.",Walter M. Miller,A Canticle for Leibowitz,Canticle_for_Leibowitz,mobi
+Misc,Misc.,Misc.,Machine of Death,Machine_of_Death,mobi
+David_Mitchell,"Mitchell, David",David Mitchell,Cloud Atlas,Cloud_Atlas,mobi
+David_Mitchell,"Mitchell, David",David Mitchell,The Thousand Autumns of Jacob de Zoet,Thousand_Autumns_Jacob_de_Zoet,mobi
 Margaret_Mitchell,"Mitchell, Margaret",Margaret Mitchell,Gone with the Wind,Gone_with_Wind,mobi
 Christopher_Moore,"Moore, Christopher",Christopher Moore,A Dirty Job,Dirty_Job,mobi
 Christopher_Moore,"Moore, Christopher",Christopher Moore,Bite Me,Bite_Me,mobi
@@ -1119,14 +1119,14 @@ Christopher_Moore,"Moore, Christopher",Christopher Moore,Bloodsucking Fiends,Blo
 Christopher_Moore,"Moore, Christopher",Christopher Moore,Fool,Fool,mobi
 Christopher_Moore,"Moore, Christopher",Christopher Moore,The Lust Lizard of Melancholy Cove,Lust_Lizard_Melancholy_Cove,mobi
 Christopher_Moore,"Moore, Christopher",Christopher Moore,You Suck,You_Suck,mobi
-,"Moore, Michael",Michael Moore,"Dude, Where's My Country",Dude_Wheres_My_Country,mobi
-,"Morgan, Richard",Richard Morgan,Takeshi Kovacs 01 - Altered Carbon,Takeshi_Kovacs_01,mobi
-,"Morgan, Richard",Richard Morgan,Takeshi Kovacs 02 - Broken Angels,Takeshi_Kovacs_02,mobi
-,"Morgan, Richard",Richard Morgan,Takeshi Kovacs 03 - Woken Furies,Takeshi_Kovacs_03,mobi
-,"Morris, Edmund",Edmund Morris,Colonel Roosevelt,Colonel_Roosevelt,mobi
-,"Morris, Edmund",Edmund Morris,The Rise of Theodore Roosevelt,Rise_Theodore_Roosevelt,mobi
-,"Morris, Edmund",Edmund Morris,Theodore Rex,Theodore_Rex,mobi
-,"Munn, Olivia",Olivia Munn,"Suck It, Wonder Woman!",Suck_It_Wonder_Woman,mobi
+Michael_Moore,"Moore, Michael",Michael Moore,"Dude, Where's My Country",Dude_Wheres_My_Country,mobi
+Richard_Morgan,"Morgan, Richard",Richard Morgan,Takeshi Kovacs 01 - Altered Carbon,Takeshi_Kovacs_01,mobi
+Richard_Morgan,"Morgan, Richard",Richard Morgan,Takeshi Kovacs 02 - Broken Angels,Takeshi_Kovacs_02,mobi
+Richard_Morgan,"Morgan, Richard",Richard Morgan,Takeshi Kovacs 03 - Woken Furies,Takeshi_Kovacs_03,mobi
+Edmund_Morris,"Morris, Edmund",Edmund Morris,Colonel Roosevelt,Colonel_Roosevelt,mobi
+Edmund_Morris,"Morris, Edmund",Edmund Morris,The Rise of Theodore Roosevelt,Rise_Theodore_Roosevelt,mobi
+Edmund_Morris,"Morris, Edmund",Edmund Morris,Theodore Rex,Theodore_Rex,mobi
+Olivia_Munn,"Munn, Olivia",Olivia Munn,"Suck It, Wonder Woman!",Suck_It_Wonder_Woman,mobi
 Warren_Murphy,"Murphy, Warren",Warren Murphy,A Pound of Prevention,Pound_of_Prevention,mobi
 Warren_Murphy,"Murphy, Warren",Warren Murphy,Air Raid,Air_Raid,mobi
 Warren_Murphy,"Murphy, Warren",Warren Murphy,American Obsession,American_Obsession,mobi
@@ -1204,11 +1204,11 @@ Warren_Murphy,"Murphy, Warren",Warren Murphy,Walking Wounded,Walking_Wounded,mob
 Warren_Murphy,"Murphy, Warren",Warren Murphy,"Waste Not, Want Not",Waste_Not_Want_Not,mobi
 Warren_Murphy,"Murphy, Warren",Warren Murphy,White Water,White_Water,mobi
 Warren_Murphy,"Murphy, Warren",Warren Murphy,Wolf's Bain,Wolfs_Bain,mobi
-,"Nabokov, Vladimir",Vladimir Nabokov,Lolita,Lolita,mobi
-,"Nietzsche, Friedrich",Friedrich Nietzsche,Basic Writing of Nietzsche,Basic_Writing_of_Nietzsche,mobi
-,"Nietzsche, Friedrich",Friedrich Nietzsche,Beyond Good and Evil,Beyond_Good_and_Evil,mobi
+Vladimir_Nabokov,"Nabokov, Vladimir",Vladimir Nabokov,Lolita,Lolita,mobi
+Friedrick_Nietzsche,"Nietzsche, Friedrich",Friedrich Nietzsche,Basic Writing of Nietzsche,Basic_Writing_of_Nietzsche,mobi
+Friedrick_Nietzsche,"Nietzsche, Friedrich",Friedrich Nietzsche,Beyond Good and Evil,Beyond_Good_and_Evil,mobi
 Audrey_Niffenegger,"Niffenegger, Audrey",Audrey Niffenegger,The Time Traveler's Wife,Time_Travelers_Wife,mobi
-,"Niven, Larry",Larry Niven,Ringworld,Ringworld,mobi
+Larry_Niven,"Niven, Larry",Larry Niven,Ringworld,Ringworld,mobi
 Patrick_OBrian,"O'Brian, Patrick",Patrick O'Brian,Aubrey Maturin 01 - Master and Commander,Aubrey_Maturin_01,mobi
 Patrick_OBrian,"O'Brian, Patrick",Patrick O'Brian,Aubrey Maturin 02 - Post Captain,Aubrey_Maturin_02,mobi
 Patrick_OBrian,"O'Brian, Patrick",Patrick O'Brian,Aubrey Maturin 03 - H.M.S. Surprise,Aubrey_Maturin_03,mobi
@@ -1229,14 +1229,14 @@ Patrick_OBrian,"O'Brian, Patrick",Patrick O'Brian,Aubrey Maturin 17 - The Commod
 Patrick_OBrian,"O'Brian, Patrick",Patrick O'Brian,Aubrey Maturin 18 - The Yellow Admiral,Aubrey_Maturin_18,mobi
 Patrick_OBrian,"O'Brian, Patrick",Patrick O'Brian,Aubrey Maturin 19 - The Hundred Days,Aubrey_Maturin_19,mobi
 Patrick_OBrian,"O'Brian, Patrick",Patrick O'Brian,Aubrey Maturin 20 - Blue at the Mizzen,Aubrey_Maturin_20,mobi
-,"O'Connor, Flannery",Flannery O'Connor,Everything That Rises Must Converge,Everything_That_Rises_Must_Converge,mobi
-,"O'Connor, Flannery",Flannery O'Connor,Wise Blood,Wise_Blood,mobi
-,"O'Neill, Joseph",Joseph O'Neill,Netherland,Netherland,mobi
-,"Obama, Barack",Barack Obama,The Audacity of Hope,Audacity_of_Hope,mobi
-,"Orwell, George",George Orwell,1984,NineteenEightyFour,mobi
-,"Orwell, George",George Orwell,Animal Farm,Animal_Farm,mobi
-,"Osbourne, Ozzy",Ozzy Osbourne,I Am Ozzy,I_Am_Ozzy,mobi
-,"Paine, Thomas",Thomas Paine,Common Sense and The Rights of Man,Common_Sense_and_Rights_of_Man,mobi
+Flannery_OConnor,"O'Connor, Flannery",Flannery O'Connor,Everything That Rises Must Converge,Everything_That_Rises_Must_Converge,mobi
+Flannery_OConnor,"O'Connor, Flannery",Flannery O'Connor,Wise Blood,Wise_Blood,mobi
+Joseph_ONeill,"O'Neill, Joseph",Joseph O'Neill,Netherland,Netherland,mobi
+Barack_Obama,"Obama, Barack",Barack Obama,The Audacity of Hope,Audacity_of_Hope,mobi
+George_Orwell,"Orwell, George",George Orwell,1984,NineteenEightyFour,mobi
+George_Orwell,"Orwell, George",George Orwell,Animal Farm,Animal_Farm,mobi
+Ozzy_Osbourne,"Osbourne, Ozzy",Ozzy Osbourne,I Am Ozzy,I_Am_Ozzy,mobi
+Thomas_Paine,"Paine, Thomas",Thomas Paine,Common Sense and The Rights of Man,Common_Sense_and_Rights_of_Man,mobi
 Chuck_Palahniuk,"Palahniuk, Chuck",Chuck Palahniuk,Choke,Choke,mobi
 Chuck_Palahniuk,"Palahniuk, Chuck",Chuck Palahniuk,Diary,Diary,mobi
 Chuck_Palahniuk,"Palahniuk, Chuck",Chuck Palahniuk,Fight Club,Fight_Club,mobi
@@ -1249,10 +1249,10 @@ Chuck_Palahniuk,"Palahniuk, Chuck",Chuck Palahniuk,Rant,Rant,mobi
 Chuck_Palahniuk,"Palahniuk, Chuck",Chuck Palahniuk,Snuff,Snuff,mobi
 Chuck_Palahniuk,"Palahniuk, Chuck",Chuck Palahniuk,Survivor,Survivor,mobi
 Chuck_Palahniuk,"Palahniuk, Chuck",Chuck Palahniuk,Tell-All,Tell-All,mobi
-,"Palin, Sarah",Sarah Palin,Going Rogue,Going_Rogue,mobi
-,"Paolini, Christopher",Christopher Paolini,The Inheritance Cycle 01 - Eragon,Inheritance_Cycle_01,mobi
-,"Paolini, Christopher",Christopher Paolini,The Inheritance Cycle 02 - Eldest,Inheritance_Cycle_02,mobi
-,"Paolini, Christopher",Christopher Paolini,The Inheritance Cycle 03 - Brisingr,Inheritance_Cycle_03,mobi
+Sarah_Palin,"Palin, Sarah",Sarah Palin,Going Rogue,Going_Rogue,mobi
+Christopher_Paolini,"Paolini, Christopher",Christopher Paolini,The Inheritance Cycle 01 - Eragon,Inheritance_Cycle_01,mobi
+Christopher_Paolini,"Paolini, Christopher",Christopher Paolini,The Inheritance Cycle 02 - Eldest,Inheritance_Cycle_02,mobi
+Christopher_Paolini,"Paolini, Christopher",Christopher Paolini,The Inheritance Cycle 03 - Brisingr,Inheritance_Cycle_03,mobi
 Robert_B_Parker,"Parker, Robert B.",Robert B. Parker,Spenser 01 - The Godwulf Manuscript,Spenser_01,mobi
 Robert_B_Parker,"Parker, Robert B.",Robert B. Parker,Spenser 02 - God Save the Child,Spenser_02,mobi
 Robert_B_Parker,"Parker, Robert B.",Robert B. Parker,Spenser 03 - Mortal Stakes,Spenser_03,mobi
@@ -1325,187 +1325,187 @@ James_Patterson,"Patterson, James",James Patterson,The Lake House,Lake_House,mob
 James_Patterson,"Patterson, James",James Patterson,Violets Are Blue,Violets_Are_Blue,mobi
 James_Patterson,"Patterson, James",James Patterson,When the Wind Blows,When_Wind_Blows,mobi
 James_Patterson,"Patterson, James",James Patterson,Witch and Wizard,Witch_and_Wizard,mobi
-,"Paul, Ron",Ron Paul,End the Fed,End_Fed,mobi
-,"Paul, Ron",Ron Paul,The Revolution,Revolution,mobi
-,"Pausch, Randy",Randy Pausch,The Last Lecture,Last_Lecture,mobi
-,"Pelecanos, George",George Pelecanos,Drama City,Drama_City,mobi
-,"Pelecanos, George",George Pelecanos,Shame the Devil,Shame_Devil,mobi
-,"Pepper, Adam",Adam Pepper,Super Fetus,Super_Fetus,prc
-,"Perry, S. D.",S. D. Perry,Resident Evil 03 - City Of The Dead,Resident_Evil_03,prc
-,"Perry, S. D.",S. D. Perry,Resident Evil 04 - Underworld,Resident_Evil_04,prc
-,"Perry, S. D.",S. D. Perry,Resident Evil 05 - Nemesis,Resident_Evil_05,prc
-,"Perry, S. D.",S. D. Perry,Resident Evil 06 - Code Veronica,Resident_Evil_06,prc
+Ron_Paul,"Paul, Ron",Ron Paul,End the Fed,End_Fed,mobi
+Ron_Paul,"Paul, Ron",Ron Paul,The Revolution,Revolution,mobi
+Randy_Pausch,"Pausch, Randy",Randy Pausch,The Last Lecture,Last_Lecture,mobi
+George_Pelecanos,"Pelecanos, George",George Pelecanos,Drama City,Drama_City,mobi
+George_Pelecanos,"Pelecanos, George",George Pelecanos,Shame the Devil,Shame_Devil,mobi
+Adam_Pepper,"Pepper, Adam",Adam Pepper,Super Fetus,Super_Fetus,prc
+SD_Perry,"Perry, S. D.",S. D. Perry,Resident Evil 03 - City Of The Dead,Resident_Evil_03,prc
+SD_Perry,"Perry, S. D.",S. D. Perry,Resident Evil 04 - Underworld,Resident_Evil_04,prc
+SD_Perry,"Perry, S. D.",S. D. Perry,Resident Evil 05 - Nemesis,Resident_Evil_05,prc
+SD_Perry,"Perry, S. D.",S. D. Perry,Resident Evil 06 - Code Veronica,Resident_Evil_06,prc
 Jodi_Picoult,"Picoult, Jodi",Jodi Picoult,My Sister's Keeper,My_Sisters_Keeper,mobi
 Jodi_Picoult,"Picoult, Jodi",Jodi Picoult,Nineteen Minutes,Nineteen_Minutes,mobi
 Jodi_Picoult,"Picoult, Jodi",Jodi Picoult,The Pact,Pact,mobi
-,"Pirsig, Robert M.",Robert M. Pirsig,Zen and the Art of Motorcycle Maintenance,Zen_Art_Motorcycle_Maintenance,mobi
-,"Plath, Sylvia",Sylvia Plath,The Bell Jar,Bell_Jar,mobi
-,Plato,Plato,The Republic,Republic,mobi
-,"Poe, Edgar Allan",Edgar Allan Poe,Essential Tales and Poems,Essential_Tales_and_Poems,mobi
-,"Pollan, Michael",Michael Pollan,In Defense of Food,In_Defense_of_Food,mobi
-,"Pollan, Michael",Michael Pollan,The Botany of Desire,Botany_of_Desire,mobi
-,"Pollan, Michael",Michael Pollan,The Omnivore's Dilemma,Omnivores_Dilemma,mobi
-,"Pratchett, Terry",Terry Pratchett,Discworld 01 - The Colour of Magic,Discworld_01,mobi
-,"Pratchett, Terry",Terry Pratchett,Discworld 02 - The Light Fantastic,Discworld_02,mobi
-,"Pratchett, Terry",Terry Pratchett,Discworld 03 - Equal Rites,Discworld_03,mobi
-,"Pratchett, Terry",Terry Pratchett,Discworld 04 - Mort,Discworld_04,mobi
-,"Pratchett, Terry",Terry Pratchett,Discworld 05 - Sourcery,Discworld_05,mobi
-,"Pratchett, Terry",Terry Pratchett,Discworld 06 - Wyrd Sisters,Discworld_06,mobi
-,"Pratchett, Terry",Terry Pratchett,Discworld 07 - Pyramids,Discworld_07,mobi
-,"Pratchett, Terry",Terry Pratchett,Discworld 08 - Guards! Guards!,Discworld_08,mobi
-,"Pratchett, Terry",Terry Pratchett,Discworld 09 - Eric,Discworld_09,mobi
-,"Pratchett, Terry",Terry Pratchett,Discworld 10 - Moving Pictures,Discworld_10,mobi
-,"Pratchett, Terry",Terry Pratchett,Discworld 11 - Reaper Man,Discworld_11,mobi
-,"Pratchett, Terry",Terry Pratchett,Discworld 12 - Witches Abroad,Discworld_12,mobi
-,"Pratchett, Terry",Terry Pratchett,Discworld 13 - Small Gods,Discworld_13,mobi
-,"Pratchett, Terry",Terry Pratchett,Discworld 14 - Lords and Ladies,Discworld_14,mobi
-,"Pratchett, Terry",Terry Pratchett,Discworld 15 - Men at Arms,Discworld_15,mobi
-,"Pratchett, Terry",Terry Pratchett,Discworld 16 - Soul Music,Discworld_16,mobi
-,"Pratchett, Terry",Terry Pratchett,Discworld 17 - Interesting Times,Discworld_17,mobi
-,"Pratchett, Terry",Terry Pratchett,Discworld 18 - Maskerade,Discworld_18,mobi
-,"Pratchett, Terry",Terry Pratchett,Discworld 19 - Feet of Clay,Discworld_19,mobi
-,"Pratchett, Terry",Terry Pratchett,Discworld 20 - Hogfather,Discworld_20,mobi
-,"Pratchett, Terry",Terry Pratchett,Discworld 21 - Jingo,Discworld_21,mobi
-,"Pratchett, Terry",Terry Pratchett,Discworld 22 - The Last Continent,Discworld_22,mobi
-,"Pratchett, Terry",Terry Pratchett,Discworld 23 - Carpe Jugulum,Discworld_23,mobi
-,"Pratchett, Terry",Terry Pratchett,Discworld 24 - The Fifth Elephant,Discworld_24,mobi
-,"Pratchett, Terry",Terry Pratchett,Discworld 25 - The Truth,Discworld_25,mobi
-,"Pratchett, Terry",Terry Pratchett,Discworld 26 - Thief of Time,Discworld_26,mobi
-,"Pratchett, Terry",Terry Pratchett,Discworld 27 - The Last Hero,Discworld_27,mobi
-,"Pratchett, Terry",Terry Pratchett,Discworld 28 - The Amazing Maurice and His Educated Rodents,Discworld_28,mobi
-,"Pratchett, Terry",Terry Pratchett,Discworld 29 - Night Watch,Discworld_29,mobi
-,"Pratchett, Terry",Terry Pratchett,Discworld 30 - The Wee Free Men,Discworld_30,mobi
-,"Pratchett, Terry",Terry Pratchett,Discworld 31 - Monstrous Regiment,Discworld_31,mobi
-,"Pratchett, Terry",Terry Pratchett,Discworld 32 - A Hat Full Of Sky,Discworld_32,mobi
-,"Pratchett, Terry",Terry Pratchett,Discworld 33 - Going Postal,Discworld_33,mobi
-,"Pratchett, Terry",Terry Pratchett,Discworld 34 - Thud!,Discworld_34,mobi
-,"Pratchett, Terry",Terry Pratchett,Discworld 35 - Wintersmith,Discworld_35,mobi
-,"Pratchett, Terry",Terry Pratchett,Discworld 36 - Making Money,Discworld_36,mobi
-,"Pratchett, Terry",Terry Pratchett,Discworld 37 - Unseen Academicals,Discworld_37,mobi
-,"Pratchett, Terry",Terry Pratchett,Discworld 38 - I Shall Wear Midnight,Discworld_38,mobi
-,"Preston, Douglas",Douglas Preston,Pendergast 01 - Relic,Pendergast_01,mobi
-,"Preston, Douglas",Douglas Preston,Pendergast 02 - Reliquary,Pendergast_02,mobi
-,"Preston, Douglas",Douglas Preston,Pendergast 03 - The Cabinent of Curiosities,Pendergast_03,prc
-,"Preston, Douglas",Douglas Preston,Pendergast 04 - Still Life With Crows,Pendergast_04,prc
-,"Preston, Douglas",Douglas Preston,Pendergast 05 - Brimstone,Pendergast_05,prc
-,"Preston, Douglas",Douglas Preston,Pendergast 06 - Dance of Death,Pendergast_06,prc
-,"Preston, Douglas",Douglas Preston,Pendergast 07 - The Book of the Dead,Pendergast_07,prc
-,"Preston, Douglas",Douglas Preston,Pendergast 08 - The Wheel of Darkness,Pendergast_08,prc
-,"Preston, Douglas",Douglas Preston,Pendergast 09 - Cemetery Dance,Pendergast_09,prc
-,"Preston, Douglas",Douglas Preston,Pendergast 10 - Fever Dream,Pendergast_10,mobi
-,"Preston, Douglas",Douglas Preston,Tyrannosaur Canyon,Tyrannosaur_Canyon,mobi
-,"Preston, Douglas",Douglas Preston,Blasphemy,Blasphemy,mobi
-,"Preston, Douglas",Douglas Preston,Impact,Impact,mobi
-,"Preston, Douglas",Douglas Preston,Mount Dragon,Mount_Dragon,prc
-,"Preston, Douglas",Douglas Preston,Riptide,Riptide,prc
-,"Preston, Douglas",Douglas Preston,The Codex,Codex,mobi
-,"Preston, Douglas",Douglas Preston,The Monster of Florence,Monster_of_Florence,mobi
-,"Preston, Douglas",Douglas Preston,Thunderhead,Thunderhead,mobi
-,"Preston, Richard",Richard Preston,The Cobra Event,Cobra_Event,mobi
-,"Preston, Richard",Richard Preston,The Hot Zone,Hot_Zone,mobi
-,"Priest, Cherie",Cherie Priest,Boneshaker,Boneshaker,mobi
-,"Prose, Francine",Francine Prose,Reading Like a Writer,Reading_Like_a_Writer,mobi
-,"Pullman, Philip",Philip Pullman,His Dark Materials 01 - The Golden Compass,His_Dark_Materials_01,mobi
-,"Pullman, Philip",Philip Pullman,His Dark Materials 02 - The Subtle Knife,His_Dark_Materials_02,mobi
-,"Pullman, Philip",Philip Pullman,His Dark Materials 03 - The Amber Spyglass,His_Dark_Materials_03,mobi
-,"Puzo, Mario",Mario Puzo,The Godfather,Godfather,mobi
+Robert_Pirsig,"Pirsig, Robert M.",Robert M. Pirsig,Zen and the Art of Motorcycle Maintenance,Zen_Art_Motorcycle_Maintenance,mobi
+Sylvia_Plath,"Plath, Sylvia",Sylvia Plath,The Bell Jar,Bell_Jar,mobi
+Plato,Plato,Plato,The Republic,Republic,mobi
+Edgar_Allan_Poe,"Poe, Edgar Allan",Edgar Allan Poe,Essential Tales and Poems,Essential_Tales_and_Poems,mobi
+Michael_Pollan,"Pollan, Michael",Michael Pollan,In Defense of Food,In_Defense_of_Food,mobi
+Michael_Pollan,"Pollan, Michael",Michael Pollan,The Botany of Desire,Botany_of_Desire,mobi
+Michael_Pollan,"Pollan, Michael",Michael Pollan,The Omnivore's Dilemma,Omnivores_Dilemma,mobi
+Terry_Pratchett,"Pratchett, Terry",Terry Pratchett,Discworld 01 - The Colour of Magic,Discworld_01,mobi
+Terry_Pratchett,"Pratchett, Terry",Terry Pratchett,Discworld 02 - The Light Fantastic,Discworld_02,mobi
+Terry_Pratchett,"Pratchett, Terry",Terry Pratchett,Discworld 03 - Equal Rites,Discworld_03,mobi
+Terry_Pratchett,"Pratchett, Terry",Terry Pratchett,Discworld 04 - Mort,Discworld_04,mobi
+Terry_Pratchett,"Pratchett, Terry",Terry Pratchett,Discworld 05 - Sourcery,Discworld_05,mobi
+Terry_Pratchett,"Pratchett, Terry",Terry Pratchett,Discworld 06 - Wyrd Sisters,Discworld_06,mobi
+Terry_Pratchett,"Pratchett, Terry",Terry Pratchett,Discworld 07 - Pyramids,Discworld_07,mobi
+Terry_Pratchett,"Pratchett, Terry",Terry Pratchett,Discworld 08 - Guards! Guards!,Discworld_08,mobi
+Terry_Pratchett,"Pratchett, Terry",Terry Pratchett,Discworld 09 - Eric,Discworld_09,mobi
+Terry_Pratchett,"Pratchett, Terry",Terry Pratchett,Discworld 10 - Moving Pictures,Discworld_10,mobi
+Terry_Pratchett,"Pratchett, Terry",Terry Pratchett,Discworld 11 - Reaper Man,Discworld_11,mobi
+Terry_Pratchett,"Pratchett, Terry",Terry Pratchett,Discworld 12 - Witches Abroad,Discworld_12,mobi
+Terry_Pratchett,"Pratchett, Terry",Terry Pratchett,Discworld 13 - Small Gods,Discworld_13,mobi
+Terry_Pratchett,"Pratchett, Terry",Terry Pratchett,Discworld 14 - Lords and Ladies,Discworld_14,mobi
+Terry_Pratchett,"Pratchett, Terry",Terry Pratchett,Discworld 15 - Men at Arms,Discworld_15,mobi
+Terry_Pratchett,"Pratchett, Terry",Terry Pratchett,Discworld 16 - Soul Music,Discworld_16,mobi
+Terry_Pratchett,"Pratchett, Terry",Terry Pratchett,Discworld 17 - Interesting Times,Discworld_17,mobi
+Terry_Pratchett,"Pratchett, Terry",Terry Pratchett,Discworld 18 - Maskerade,Discworld_18,mobi
+Terry_Pratchett,"Pratchett, Terry",Terry Pratchett,Discworld 19 - Feet of Clay,Discworld_19,mobi
+Terry_Pratchett,"Pratchett, Terry",Terry Pratchett,Discworld 20 - Hogfather,Discworld_20,mobi
+Terry_Pratchett,"Pratchett, Terry",Terry Pratchett,Discworld 21 - Jingo,Discworld_21,mobi
+Terry_Pratchett,"Pratchett, Terry",Terry Pratchett,Discworld 22 - The Last Continent,Discworld_22,mobi
+Terry_Pratchett,"Pratchett, Terry",Terry Pratchett,Discworld 23 - Carpe Jugulum,Discworld_23,mobi
+Terry_Pratchett,"Pratchett, Terry",Terry Pratchett,Discworld 24 - The Fifth Elephant,Discworld_24,mobi
+Terry_Pratchett,"Pratchett, Terry",Terry Pratchett,Discworld 25 - The Truth,Discworld_25,mobi
+Terry_Pratchett,"Pratchett, Terry",Terry Pratchett,Discworld 26 - Thief of Time,Discworld_26,mobi
+Terry_Pratchett,"Pratchett, Terry",Terry Pratchett,Discworld 27 - The Last Hero,Discworld_27,mobi
+Terry_Pratchett,"Pratchett, Terry",Terry Pratchett,Discworld 28 - The Amazing Maurice and His Educated Rodents,Discworld_28,mobi
+Terry_Pratchett,"Pratchett, Terry",Terry Pratchett,Discworld 29 - Night Watch,Discworld_29,mobi
+Terry_Pratchett,"Pratchett, Terry",Terry Pratchett,Discworld 30 - The Wee Free Men,Discworld_30,mobi
+Terry_Pratchett,"Pratchett, Terry",Terry Pratchett,Discworld 31 - Monstrous Regiment,Discworld_31,mobi
+Terry_Pratchett,"Pratchett, Terry",Terry Pratchett,Discworld 32 - A Hat Full Of Sky,Discworld_32,mobi
+Terry_Pratchett,"Pratchett, Terry",Terry Pratchett,Discworld 33 - Going Postal,Discworld_33,mobi
+Terry_Pratchett,"Pratchett, Terry",Terry Pratchett,Discworld 34 - Thud!,Discworld_34,mobi
+Terry_Pratchett,"Pratchett, Terry",Terry Pratchett,Discworld 35 - Wintersmith,Discworld_35,mobi
+Terry_Pratchett,"Pratchett, Terry",Terry Pratchett,Discworld 36 - Making Money,Discworld_36,mobi
+Terry_Pratchett,"Pratchett, Terry",Terry Pratchett,Discworld 37 - Unseen Academicals,Discworld_37,mobi
+Terry_Pratchett,"Pratchett, Terry",Terry Pratchett,Discworld 38 - I Shall Wear Midnight,Discworld_38,mobi
+Douglas_Preston,"Preston, Douglas",Douglas Preston,Pendergast 01 - Relic,Pendergast_01,mobi
+Douglas_Preston,"Preston, Douglas",Douglas Preston,Pendergast 02 - Reliquary,Pendergast_02,mobi
+Douglas_Preston,"Preston, Douglas",Douglas Preston,Pendergast 03 - The Cabinent of Curiosities,Pendergast_03,prc
+Douglas_Preston,"Preston, Douglas",Douglas Preston,Pendergast 04 - Still Life With Crows,Pendergast_04,prc
+Douglas_Preston,"Preston, Douglas",Douglas Preston,Pendergast 05 - Brimstone,Pendergast_05,prc
+Douglas_Preston,"Preston, Douglas",Douglas Preston,Pendergast 06 - Dance of Death,Pendergast_06,prc
+Douglas_Preston,"Preston, Douglas",Douglas Preston,Pendergast 07 - The Book of the Dead,Pendergast_07,prc
+Douglas_Preston,"Preston, Douglas",Douglas Preston,Pendergast 08 - The Wheel of Darkness,Pendergast_08,prc
+Douglas_Preston,"Preston, Douglas",Douglas Preston,Pendergast 09 - Cemetery Dance,Pendergast_09,prc
+Douglas_Preston,"Preston, Douglas",Douglas Preston,Pendergast 10 - Fever Dream,Pendergast_10,mobi
+Douglas_Preston,"Preston, Douglas",Douglas Preston,Tyrannosaur Canyon,Tyrannosaur_Canyon,mobi
+Douglas_Preston,"Preston, Douglas",Douglas Preston,Blasphemy,Blasphemy,mobi
+Douglas_Preston,"Preston, Douglas",Douglas Preston,Impact,Impact,mobi
+Douglas_Preston,"Preston, Douglas",Douglas Preston,Mount Dragon,Mount_Dragon,prc
+Douglas_Preston,"Preston, Douglas",Douglas Preston,Riptide,Riptide,prc
+Douglas_Preston,"Preston, Douglas",Douglas Preston,The Codex,Codex,mobi
+Douglas_Preston,"Preston, Douglas",Douglas Preston,The Monster of Florence,Monster_of_Florence,mobi
+Douglas_Preston,"Preston, Douglas",Douglas Preston,Thunderhead,Thunderhead,mobi
+Douglas_Preston,"Preston, Richard",Richard Preston,The Cobra Event,Cobra_Event,mobi
+Douglas_Preston,"Preston, Richard",Richard Preston,The Hot Zone,Hot_Zone,mobi
+Cherie_Priest,"Priest, Cherie",Cherie Priest,Boneshaker,Boneshaker,mobi
+Francine_Prose,"Prose, Francine",Francine Prose,Reading Like a Writer,Reading_Like_a_Writer,mobi
+Philip_Pullman,"Pullman, Philip",Philip Pullman,His Dark Materials 01 - The Golden Compass,His_Dark_Materials_01,mobi
+Philip_Pullman,"Pullman, Philip",Philip Pullman,His Dark Materials 02 - The Subtle Knife,His_Dark_Materials_02,mobi
+Philip_Pullman,"Pullman, Philip",Philip Pullman,His Dark Materials 03 - The Amber Spyglass,His_Dark_Materials_03,mobi
+Mario_Puzo,"Puzo, Mario",Mario Puzo,The Godfather,Godfather,mobi
 Thomas_Pynchon,"Pynchon, Thomas",Thomas Pynchon,Gravity's Rainbow,Gravitys_Rainbow,mobi
 Thomas_Pynchon,"Pynchon, Thomas",Thomas Pynchon,The Crying of Lot 49,Crying_of_Lot_49,mobi
 Thomas_Pynchon,"Pynchon, Thomas",Thomas Pynchon,V,V,mobi
 Daniel_Quinn,"Quinn, Daniel",Daniel Quinn,Ishmael,Ishmael,mobi
-,"Rachman, Tom",Tom Rachman,The Imperfectionists,Imperfectionists,mobi
+Tom_Rachman,"Rachman, Tom",Tom Rachman,The Imperfectionists,Imperfectionists,mobi
 Ayn_Rand,"Rand, Ayn",Ayn Rand,Anthem,Anthem,mobi
 Ayn_Rand,"Rand, Ayn",Ayn Rand,Atlas Shrugged,Atlas_Shrugged,mobi
 Ayn_Rand,"Rand, Ayn",Ayn Rand,The Fountainhead,Fountainhead,mobi
 Ayn_Rand,"Rand, Ayn",Ayn Rand,The Virtue of Selfishness,Virtue_of_Selfishness,mobi
 Ayn_Rand,"Rand, Ayn",Ayn Rand,We the Living,We_Living,mobi
-,"Rawles, James Wesley",James Wesley Rawles,How to Survive the End of the World as We Know It,How_to_Survive_End_of_World,mobi
-,"Reilly, Matthew",Matthew Reilly,Jack West 01 - Seven Ancient Wonders,Jack_West_01,prc
-,"Reilly, Matthew",Matthew Reilly,Jack West 02 - The Six Sacred Stones,Jack_West_02,prc
-,"Reilly, Matthew",Matthew Reilly,Jack West 03 - The Five Greatest Warriors,Jack_West_03,prc
-,"Reilly, Matthew",Matthew Reilly,Shane Schofield 01 - Ice Station,Shane_Schofield_01,prc
-,"Reilly, Matthew",Matthew Reilly,Shane Schofield 02 - Area 7,Shane_Schofield_02,prc
-,"Reilly, Matthew",Matthew Reilly,Shane Schofield 03 - Scarecrow,Shane_Schofield_03,prc
-,"Reilly, Matthew",Matthew Reilly,Shane Schofield 04 - Hell Island,Shane_Schofield_04,prc
-,"Reilly, Matthew",Matthew Reilly,Contest,Contest,prc
-,"Reilly, Matthew",Matthew Reilly,Temple,Temple,prc
-,"Remarque, Erich Maria",Erich Maria Remarque,All Quiet on the Western Front,All_Quiet_on_Western_Front,mobi
-,"Rice, Anne",Anne Rice,The Vampire Chronicles 01 - Interview with the Vampire,Vampire_Chronicles_01,mobi
-,"Rice, Anne",Anne Rice,The Vampire Chronicles 02 - The Vampire Lestat,Vampire_Chronicles_02,mobi
-,"Rice, Anne",Anne Rice,The Vampire Chronicles 03 - The Queen of the Damned,Vampire_Chronicles_03,mobi
-,"Rice, Anne",Anne Rice,The Vampire Chronicles 04 - The Tale of the Body Thief,Vampire_Chronicles_04,mobi
-,"Rice, Anne",Anne Rice,The Vampire Chronicles 05 - Memnoch the Devil,Vampire_Chronicles_05,mobi
-,"Rice, Anne",Anne Rice,The Vampire Chronicles 06 - The Vampire Armand,Vampire_Chronicles_06,mobi
-,"Rice, Anne",Anne Rice,The Vampire Chronicles 07 - Merrick,Vampire_Chronicles_07,mobi
-,"Rice, Anne",Anne Rice,The Vampire Chronicles 08 - Blood and Gold,Vampire_Chronicles_08,mobi
-,"Rice, Anne",Anne Rice,The Vampire Chronicles 09 - Blackwood Farm,Vampire_Chronicles_09,mobi
-,"Rice, Anne",Anne Rice,The Vampire Chronicles 10 - Blood Canticle,Vampire_Chronicles_10,mobi
-,"Richards, Keith",Keith Richards,Life,Life,mobi
-,"Richardson, Kat",Kat Richardson,Greywalker 01 - Greywalker,Greywalker_01,prc
-,"Richardson, Kat",Kat Richardson,Greywalker 02 - Poltergeist,Greywalker_02,prc
-,"Richardson, Kat",Kat Richardson,Greywalker 03 - Underground,Greywalker_03,prc
-,"Richardson, Kat",Kat Richardson,Greywalker 04 - Vanished,Greywalker_04,prc
-,"Ricks, Thomas",Thomas Ricks,"Fiasco, The American Military Adventure in Iraq",Fiasco,mobi
-,"Riordan, Rick",Rick Riordan,Percy Jackson 1 - The Lightning Thief,Percy_Jackson_1,mobi
-,"Riordan, Rick",Rick Riordan,Percy Jackson 2 - The Sea of Monsters,Percy_Jackson_2,mobi
-,"Riordan, Rick",Rick Riordan,Percy Jackson 3 - The Titan's Curse,Percy_Jackson_3,mobi
-,"Riordan, Rick",Rick Riordan,Percy Jackson 4 - The Battle of the Labyrinth,Percy_Jackson_4,mobi
-,"Riordan, Rick",Rick Riordan,Percy Jackson 5 - The Last Olympian,Percy_Jackson_5,mobi
-,"Riordan, Rick",Rick Riordan,The Lost Hero,Lost_Hero,mobi
-,"Riordan, Rick",Rick Riordan,The Red Pyramid,Red_Pyramid,mobi
-,"Roach, Mary",Mary Roach,Packing for Mars,Packing_for_Mars,mobi
-,"Roach, Mary",Mary Roach,"Stiff, The Curious Lives of Human Cadavers",Stiff_Curious_Lives,mobi
-,"Robb, J.D.",J.D. Robb,In Death 01 - Naked in Death,In_Death_01,mobi
-,"Robb, J.D.",J.D. Robb,In Death 02 - Glory in Death,In_Death_02,mobi
-,"Robb, J.D.",J.D. Robb,In Death 03 - Immortal in Death,In_Death_03,mobi
-,"Robb, J.D.",J.D. Robb,In Death 04 - Rapture in Death,In_Death_04,mobi
-,"Robb, J.D.",J.D. Robb,In Death 05 - Ceremony in Death,In_Death_05,mobi
-,"Robb, J.D.",J.D. Robb,In Death 06 - Vengeance in Death,In_Death_06,mobi
-,"Robb, J.D.",J.D. Robb,In Death 07 - Holiday in Death,In_Death_07,mobi
-,"Robb, J.D.",J.D. Robb,In Death 08 - Conspiracy in Death,In_Death_08,mobi
-,"Robb, J.D.",J.D. Robb, In Death 09 - Loyalty in Death,In_Death_09,mobi
-,"Robb, J.D.",J.D. Robb,In Death 10 - Witness in Death,In_Death_10,mobi
-,"Robb, J.D.",J.D. Robb,In Death 11 - Judgment in Death,In_Death_11,mobi
-,"Robb, J.D.",J.D. Robb,In Death 12 - Betrayal in Death,In_Death_12,mobi
-,"Robb, J.D.",J.D. Robb,In Death 13 - Seduction in Death,In_Death_13,mobi
-,"Robb, J.D.",J.D. Robb,In Death 14 - Reunion in Death,In_Death_14,mobi
-,"Robb, J.D.",J.D. Robb,In Death 15 - Purity in Death,In_Death_15,mobi
-,"Robb, J.D.",J.D. Robb,In Death 16 - Portrait in Death,In_Death_16,mobi
-,"Robb, J.D.",J.D. Robb,In Death 17 - Imitation in Death,In_Death_17,mobi
-,"Robb, J.D.",J.D. Robb,In Death 18 - Divided in Death,In_Death_18,mobi
-,"Robb, J.D.",J.D. Robb,In Death 19 - Visions in Death,In_Death_19,mobi
-,"Robb, J.D.",J.D. Robb,In Death 20 - Survivor in Death,In_Death_20,mobi
-,"Robb, J.D.",J.D. Robb,In Death 21 - Origin in Death,In_Death_21,mobi
-,"Robb, J.D.",J.D. Robb,In Death 22 - Memory in Death,In_Death_22,mobi
-,"Robb, J.D.",J.D. Robb,In Death 23 - Born in Death,In_Death_23,mobi
-,"Robb, J.D.",J.D. Robb,In Death 24 - Innocent in Death,In_Death_24,mobi
-,"Robb, J.D.",J.D. Robb,In Death 25 - Creation in Death,In_Death_25,mobi
-,"Robb, J.D.",J.D. Robb,In Death 26 - Strangers in Death,In_Death_26,mobi
-,"Robb, J.D.",J.D. Robb,In Death 27 - Salvation in Death,In_Death_27,mobi
-,"Robb, J.D.",J.D. Robb,In Death 28 - Promises in Death,In_Death_28,mobi
-,"Robb, J.D.",J.D. Robb,In Death 29 - Kindred in Death,In_Death_29,mobi
-,"Robb, J.D.",J.D. Robb,In Death 30 - Fantasy in Death,In_Death_30,mobi
-,"Robb, J.D.",J.D. Robb,In Death 31 - Indulgence in Death,In_Death_31,mobi
-,"Robb, J.D.",J.D. Robb,In Death 32 - Treachery in Death,In_Death_32,mobi
-,"Rollins, James",James Rollins,Altar of Eden,Altar_of_Eden,prc
-,"Rollins, James",James Rollins,Amazonia,Amazonia,prc
-,"Rollins, James",James Rollins,Deep Fathom,Deep_Fathom,prc
-,"Rollins, James",James Rollins,Excavation,Excavation,prc
-,"Rollins, James",James Rollins,Ice Hunt,Ice_Hunt,prc
-,"Rollins, James",James Rollins,Sigma Force 01 - Sandstorm,Sigma_Force_01,prc
-,"Rollins, James",James Rollins,Sigma Force 02 - Map Of Bones,Sigma_Force_02,prc
-,"Rollins, James",James Rollins,Sigma Force 03 - Black Order,Sigma_Force_03,prc
-,"Rollins, James",James Rollins,Sigma Force 04 - Judas Strain,Sigma_Force_04,prc
-,"Rollins, James",James Rollins,Sigma Force 05 - The Last Oracle,Sigma_Force_05,prc
-,"Rollins, James",James Rollins,Sigma Force 06 - The Doomsday Key,Sigma_Force_06,prc
-,"Rollins, James",James Rollins,Subterranean,Subterranean,prc
-,"Rollo, Gord",Gord Rollo,The Jigsaw Man,Jigsaw_Man,prc
-,"Rosnay, Tatiana",Tatiana Rosnay,Sarah's Key,Sarahs_Key,mobi
-,"Rossi, Portia de",Portia de Rossi,"Unbearable Lightness, A Story of Loss and Gain",Unbearable_Lightness,mobi
-,"Roth, Philip",Philip Roth,American Pastoral,American_Pastoral,mobi
-,"Roth, Philip",Philip Roth,Portnoy's Complaint,Portnoys_Complaint,mobi
-,"Roth, Philip",Philip Roth,The Human Stain,Human_Stain,mobi
-,"Rothfuss, Patrick",Patrick Rothfuss,The Name of the Wind,Name_of_Wind,mobi
+James_Wesley_Rawles,"Rawles, James Wesley",James Wesley Rawles,How to Survive the End of the World as We Know It,How_to_Survive_End_of_World,mobi
+Matthew_Reilly,"Reilly, Matthew",Matthew Reilly,Jack West 01 - Seven Ancient Wonders,Jack_West_01,prc
+Matthew_Reilly,"Reilly, Matthew",Matthew Reilly,Jack West 02 - The Six Sacred Stones,Jack_West_02,prc
+Matthew_Reilly,"Reilly, Matthew",Matthew Reilly,Jack West 03 - The Five Greatest Warriors,Jack_West_03,prc
+Matthew_Reilly,"Reilly, Matthew",Matthew Reilly,Shane Schofield 01 - Ice Station,Shane_Schofield_01,prc
+Matthew_Reilly,"Reilly, Matthew",Matthew Reilly,Shane Schofield 02 - Area 7,Shane_Schofield_02,prc
+Matthew_Reilly,"Reilly, Matthew",Matthew Reilly,Shane Schofield 03 - Scarecrow,Shane_Schofield_03,prc
+Matthew_Reilly,"Reilly, Matthew",Matthew Reilly,Shane Schofield 04 - Hell Island,Shane_Schofield_04,prc
+Matthew_Reilly,"Reilly, Matthew",Matthew Reilly,Contest,Contest,prc
+Matthew_Reilly,"Reilly, Matthew",Matthew Reilly,Temple,Temple,prc
+Erich_Maria_Remarque,"Remarque, Erich Maria",Erich Maria Remarque,All Quiet on the Western Front,All_Quiet_on_Western_Front,mobi
+Anne_Rice,"Rice, Anne",Anne Rice,The Vampire Chronicles 01 - Interview with the Vampire,Vampire_Chronicles_01,mobi
+Anne_Rice,"Rice, Anne",Anne Rice,The Vampire Chronicles 02 - The Vampire Lestat,Vampire_Chronicles_02,mobi
+Anne_Rice,"Rice, Anne",Anne Rice,The Vampire Chronicles 03 - The Queen of the Damned,Vampire_Chronicles_03,mobi
+Anne_Rice,"Rice, Anne",Anne Rice,The Vampire Chronicles 04 - The Tale of the Body Thief,Vampire_Chronicles_04,mobi
+Anne_Rice,"Rice, Anne",Anne Rice,The Vampire Chronicles 05 - Memnoch the Devil,Vampire_Chronicles_05,mobi
+Anne_Rice,"Rice, Anne",Anne Rice,The Vampire Chronicles 06 - The Vampire Armand,Vampire_Chronicles_06,mobi
+Anne_Rice,"Rice, Anne",Anne Rice,The Vampire Chronicles 07 - Merrick,Vampire_Chronicles_07,mobi
+Anne_Rice,"Rice, Anne",Anne Rice,The Vampire Chronicles 08 - Blood and Gold,Vampire_Chronicles_08,mobi
+Anne_Rice,"Rice, Anne",Anne Rice,The Vampire Chronicles 09 - Blackwood Farm,Vampire_Chronicles_09,mobi
+Anne_Rice,"Rice, Anne",Anne Rice,The Vampire Chronicles 10 - Blood Canticle,Vampire_Chronicles_10,mobi
+Keith_Richards,"Richards, Keith",Keith Richards,Life,Life,mobi
+Kat_Richardson,"Richardson, Kat",Kat Richardson,Greywalker 01 - Greywalker,Greywalker_01,prc
+Kat_Richardson,"Richardson, Kat",Kat Richardson,Greywalker 02 - Poltergeist,Greywalker_02,prc
+Kat_Richardson,"Richardson, Kat",Kat Richardson,Greywalker 03 - Underground,Greywalker_03,prc
+Kat_Richardson,"Richardson, Kat",Kat Richardson,Greywalker 04 - Vanished,Greywalker_04,prc
+Thomas_Ricks,"Ricks, Thomas",Thomas Ricks,"Fiasco, The American Military Adventure in Iraq",Fiasco,mobi
+Rick_Riordan,"Riordan, Rick",Rick Riordan,Percy Jackson 1 - The Lightning Thief,Percy_Jackson_1,mobi
+Rick_Riordan,"Riordan, Rick",Rick Riordan,Percy Jackson 2 - The Sea of Monsters,Percy_Jackson_2,mobi
+Rick_Riordan,"Riordan, Rick",Rick Riordan,Percy Jackson 3 - The Titan's Curse,Percy_Jackson_3,mobi
+Rick_Riordan,"Riordan, Rick",Rick Riordan,Percy Jackson 4 - The Battle of the Labyrinth,Percy_Jackson_4,mobi
+Rick_Riordan,"Riordan, Rick",Rick Riordan,Percy Jackson 5 - The Last Olympian,Percy_Jackson_5,mobi
+Rick_Riordan,"Riordan, Rick",Rick Riordan,The Lost Hero,Lost_Hero,mobi
+Rick_Riordan,"Riordan, Rick",Rick Riordan,The Red Pyramid,Red_Pyramid,mobi
+Mary_Roach,"Roach, Mary",Mary Roach,Packing for Mars,Packing_for_Mars,mobi
+Mary_Roach,"Roach, Mary",Mary Roach,"Stiff, The Curious Lives of Human Cadavers",Stiff_Curious_Lives,mobi
+Nora_Roberts,"Robb, J.D.",J.D. Robb,In Death 01 - Naked in Death,In_Death_01,mobi
+Nora_Roberts,"Robb, J.D.",J.D. Robb,In Death 02 - Glory in Death,In_Death_02,mobi
+Nora_Roberts,"Robb, J.D.",J.D. Robb,In Death 03 - Immortal in Death,In_Death_03,mobi
+Nora_Roberts,"Robb, J.D.",J.D. Robb,In Death 04 - Rapture in Death,In_Death_04,mobi
+Nora_Roberts,"Robb, J.D.",J.D. Robb,In Death 05 - Ceremony in Death,In_Death_05,mobi
+Nora_Roberts,"Robb, J.D.",J.D. Robb,In Death 06 - Vengeance in Death,In_Death_06,mobi
+Nora_Roberts,"Robb, J.D.",J.D. Robb,In Death 07 - Holiday in Death,In_Death_07,mobi
+Nora_Roberts,"Robb, J.D.",J.D. Robb,In Death 08 - Conspiracy in Death,In_Death_08,mobi
+Nora_Roberts,"Robb, J.D.",J.D. Robb, In Death 09 - Loyalty in Death,In_Death_09,mobi
+Nora_Roberts,"Robb, J.D.",J.D. Robb,In Death 10 - Witness in Death,In_Death_10,mobi
+Nora_Roberts,"Robb, J.D.",J.D. Robb,In Death 11 - Judgment in Death,In_Death_11,mobi
+Nora_Roberts,"Robb, J.D.",J.D. Robb,In Death 12 - Betrayal in Death,In_Death_12,mobi
+Nora_Roberts,"Robb, J.D.",J.D. Robb,In Death 13 - Seduction in Death,In_Death_13,mobi
+Nora_Roberts,"Robb, J.D.",J.D. Robb,In Death 14 - Reunion in Death,In_Death_14,mobi
+Nora_Roberts,"Robb, J.D.",J.D. Robb,In Death 15 - Purity in Death,In_Death_15,mobi
+Nora_Roberts,"Robb, J.D.",J.D. Robb,In Death 16 - Portrait in Death,In_Death_16,mobi
+Nora_Roberts,"Robb, J.D.",J.D. Robb,In Death 17 - Imitation in Death,In_Death_17,mobi
+Nora_Roberts,"Robb, J.D.",J.D. Robb,In Death 18 - Divided in Death,In_Death_18,mobi
+Nora_Roberts,"Robb, J.D.",J.D. Robb,In Death 19 - Visions in Death,In_Death_19,mobi
+Nora_Roberts,"Robb, J.D.",J.D. Robb,In Death 20 - Survivor in Death,In_Death_20,mobi
+Nora_Roberts,"Robb, J.D.",J.D. Robb,In Death 21 - Origin in Death,In_Death_21,mobi
+Nora_Roberts,"Robb, J.D.",J.D. Robb,In Death 22 - Memory in Death,In_Death_22,mobi
+Nora_Roberts,"Robb, J.D.",J.D. Robb,In Death 23 - Born in Death,In_Death_23,mobi
+Nora_Roberts,"Robb, J.D.",J.D. Robb,In Death 24 - Innocent in Death,In_Death_24,mobi
+Nora_Roberts,"Robb, J.D.",J.D. Robb,In Death 25 - Creation in Death,In_Death_25,mobi
+Nora_Roberts,"Robb, J.D.",J.D. Robb,In Death 26 - Strangers in Death,In_Death_26,mobi
+Nora_Roberts,"Robb, J.D.",J.D. Robb,In Death 27 - Salvation in Death,In_Death_27,mobi
+Nora_Roberts,"Robb, J.D.",J.D. Robb,In Death 28 - Promises in Death,In_Death_28,mobi
+Nora_Roberts,"Robb, J.D.",J.D. Robb,In Death 29 - Kindred in Death,In_Death_29,mobi
+Nora_Roberts,"Robb, J.D.",J.D. Robb,In Death 30 - Fantasy in Death,In_Death_30,mobi
+Nora_Roberts,"Robb, J.D.",J.D. Robb,In Death 31 - Indulgence in Death,In_Death_31,mobi
+Nora_Roberts,"Robb, J.D.",J.D. Robb,In Death 32 - Treachery in Death,In_Death_32,mobi
+James_Rollins,"Rollins, James",James Rollins,Altar of Eden,Altar_of_Eden,prc
+James_Rollins,"Rollins, James",James Rollins,Amazonia,Amazonia,prc
+James_Rollins,"Rollins, James",James Rollins,Deep Fathom,Deep_Fathom,prc
+James_Rollins,"Rollins, James",James Rollins,Excavation,Excavation,prc
+James_Rollins,"Rollins, James",James Rollins,Ice Hunt,Ice_Hunt,prc
+James_Rollins,"Rollins, James",James Rollins,Sigma Force 01 - Sandstorm,Sigma_Force_01,prc
+James_Rollins,"Rollins, James",James Rollins,Sigma Force 02 - Map Of Bones,Sigma_Force_02,prc
+James_Rollins,"Rollins, James",James Rollins,Sigma Force 03 - Black Order,Sigma_Force_03,prc
+James_Rollins,"Rollins, James",James Rollins,Sigma Force 04 - Judas Strain,Sigma_Force_04,prc
+James_Rollins,"Rollins, James",James Rollins,Sigma Force 05 - The Last Oracle,Sigma_Force_05,prc
+James_Rollins,"Rollins, James",James Rollins,Sigma Force 06 - The Doomsday Key,Sigma_Force_06,prc
+James_Rollins,"Rollins, James",James Rollins,Subterranean,Subterranean,prc
+Gord_Rollo,"Rollo, Gord",Gord Rollo,The Jigsaw Man,Jigsaw_Man,prc
+Tatiana_de_Rosnay,"Rosnay, Tatiana",Tatiana Rosnay,Sarah's Key,Sarahs_Key,mobi
+Portia_de_Rossi,"Rossi, Portia de",Portia de Rossi,"Unbearable Lightness, A Story of Loss and Gain",Unbearable_Lightness,mobi
+Philip_Roth,"Roth, Philip",Philip Roth,American Pastoral,American_Pastoral,mobi
+Philip_Roth,"Roth, Philip",Philip Roth,Portnoy's Complaint,Portnoys_Complaint,mobi
+Philip_Roth,"Roth, Philip",Philip Roth,The Human Stain,Human_Stain,mobi
+Philip_Roth,"Rothfuss, Patrick",Patrick Rothfuss,The Name of the Wind,Name_of_Wind,mobi
 JK_Rowling,"Rowling, J.K.",J.K. Rowling,Harry Potter 01 - Harry Potter and the Sorcerer's Stone,Harry_Potter_01,mobi
 JK_Rowling,"Rowling, J.K.",J.K. Rowling,Harry Potter 02 - Harry Potter and the Chamber of Secrets,Harry_Potter_02,mobi
 JK_Rowling,"Rowling, J.K.",J.K. Rowling,Harry Potter 03 - Harry Potter and the Prisoner of Azkaban,Harry_Potter_03,mobi
@@ -1514,75 +1514,75 @@ JK_Rowling,"Rowling, J.K.",J.K. Rowling,Harry Potter 05 - Harry Potter and the O
 JK_Rowling,"Rowling, J.K.",J.K. Rowling,Harry Potter 06 - Harry Potter and the Half-Blood Prince,Harry_Potter_06,mobi
 JK_Rowling,"Rowling, J.K.",J.K. Rowling,Harry Potter 07 - Harry Potter and the Deathly Hallows,Harry_Potter_07,mobi
 JK_Rowling,"Rowling, J.K.",J.K. Rowling,The Tales of Beedle the Bard,Tales_of_Beedle_Bard,mobi
-,"Rumsfeld, Donald",Donald Rumsfeld,Known and Unknown,Known_and_Unknown,mobi
-,"Rushdie, Salman",Salman Rushdie,The Satanic Verses,Satanic_Verses,mobi
-,"Rutherfurd, Edward",Edward Rutherfurd,New York,New_York,mobi
-,"Saberhagen, Fred",Fred Saberhagen,Dracula 01 - The Dracula Tape,Dracula_01,prc
-,"Saberhagen, Fred",Fred Saberhagen,Dracula 02 - The Holmes-Dracula File,Dracula_02,prc
-,"Saberhagen, Fred",Fred Saberhagen,Dracula 03 - The Vlad Tapes,Dracula_03,prc
-,"Saberhagen, Fred",Fred Saberhagen,Dracula 04 - Thorn,Dracula_04,prc
-,"Saberhagen, Fred",Fred Saberhagen,Dracula 05 - Dominion,Dracula_05,prc
-,"Saberhagen, Fred",Fred Saberhagen,Dracula 06 - A Matter of Taste,Dracula_06,prc
-,"Saberhagen, Fred",Fred Saberhagen,Dracula 07 - A Question of Time,Dracula_07,prc
-,"Saberhagen, Fred",Fred Saberhagen,Dracula 08 - Seance for a Vampire,Dracula_08,prc
-,"Saberhagen, Fred",Fred Saberhagen,Dracula 09 - A Sharpness on the Neck,Dracula_09,prc
-,"Sagan, Carl",Carl Sagan,Contact,Contact,mobi
-,"Sagan, Carl",Carl Sagan,Cosmos,Cosmos,mobi
-,"Sagan, Carl",Carl Sagan,Pale Blue Dot,Pale_Blue_Dot,mobi
-,"Sagan, Carl",Carl Sagan,The Demon Haunted World,Demon_Haunted_World,mobi
+Donald_Rumsfeld,"Rumsfeld, Donald",Donald Rumsfeld,Known and Unknown,Known_and_Unknown,mobi
+Salman_Rushdie,"Rushdie, Salman",Salman Rushdie,The Satanic Verses,Satanic_Verses,mobi
+Edward_Rutherfurd,"Rutherfurd, Edward",Edward Rutherfurd,New York,New_York,mobi
+Fred_Saberhagen,"Saberhagen, Fred",Fred Saberhagen,Dracula 01 - The Dracula Tape,Dracula_01,prc
+Fred_Saberhagen,"Saberhagen, Fred",Fred Saberhagen,Dracula 02 - The Holmes-Dracula File,Dracula_02,prc
+Fred_Saberhagen,"Saberhagen, Fred",Fred Saberhagen,Dracula 03 - The Vlad Tapes,Dracula_03,prc
+Fred_Saberhagen,"Saberhagen, Fred",Fred Saberhagen,Dracula 04 - Thorn,Dracula_04,prc
+Fred_Saberhagen,"Saberhagen, Fred",Fred Saberhagen,Dracula 05 - Dominion,Dracula_05,prc
+Fred_Saberhagen,"Saberhagen, Fred",Fred Saberhagen,Dracula 06 - A Matter of Taste,Dracula_06,prc
+Fred_Saberhagen,"Saberhagen, Fred",Fred Saberhagen,Dracula 07 - A Question of Time,Dracula_07,prc
+Fred_Saberhagen,"Saberhagen, Fred",Fred Saberhagen,Dracula 08 - Seance for a Vampire,Dracula_08,prc
+Fred_Saberhagen,"Saberhagen, Fred",Fred Saberhagen,Dracula 09 - A Sharpness on the Neck,Dracula_09,prc
+Carl_Sagan,"Sagan, Carl",Carl Sagan,Contact,Contact,mobi
+Carl_Sagan,"Sagan, Carl",Carl Sagan,Cosmos,Cosmos,mobi
+Carl_Sagan,"Sagan, Carl",Carl Sagan,Pale Blue Dot,Pale_Blue_Dot,mobi
+Carl_Sagan,"Sagan, Carl",Carl Sagan,The Demon Haunted World,Demon_Haunted_World,mobi
 JD_Salinger,"Salinger, J.D.",J.D. Salinger,The Catcher in the Rye,Catcher_in_Rye,mobi
-,"Sanderson, Brandon",Brandon Sanderson,Mistborn 01 - Mistborn,Mistborn_01,mobi
-,"Sanderson, Brandon",Brandon Sanderson,Mistborn 02 - The Well of Ascension,Mistborn_02,mobi
-,"Sanderson, Brandon",Brandon Sanderson,Mistborn 03 - The Hero of Ages,Mistborn_03,mobi
-,"Sanderson, Brandon",Brandon Sanderson,The Way of Kings,Way_of_Kings,mobi
-,"Sandford, John",John Sandford,Kidd 1 - The Fool's Run,Kidd_1,mobi
-,"Sandford, John",John Sandford,Kidd 2 - The Empress File,Kidd_2,mobi
-,"Sandford, John",John Sandford,Kidd 3 - The Devils Code,Kidd_3,mobi
-,"Sandford, John",John Sandford,Kidd 4 - Hanged Man's Song,Kidd_4,mobi
-,"Sandford, John",John Sandford,Prey 1 - Rules of Prey,Prey_1,mobi
-,"Sandford, John",John Sandford,Prey 2 - Shadow Prey,Prey_2,mobi
-,"Sandford, John",John Sandford,Prey 3 - Eyes of Prey,Prey_3,mobi
-,"Sandford, John",John Sandford,Prey 4 - Silent Prey,Prey_4,mobi
-,"Sandford, John",John Sandford,Prey 5 - Winter Prey,Prey_5,mobi
-,"Sandford, John",John Sandford,Prey 6 - Night Prey,Prey_6,mobi
-,"Sandford, John",John Sandford,Prey 7 - Mind Prey,Prey_7,mobi
-,"Sandford, John",John Sandford,Prey 8 - Sudden Prey,Prey_8,mobi
-,"Sandford, John",John Sandford,Prey 9 - Secret Prey,Prey_9,mobi
-,"Sandford, John",John Sandford,Prey 10 - Certain Prey,Prey_10,mobi
-,"Sandford, John",John Sandford,Prey 11 - Easy Prey,Prey_11,mobi
-,"Sandford, John",John Sandford,Prey 12 - Chosen Prey,Prey_12,mobi
-,"Sandford, John",John Sandford,Prey 13 - Mortal Prey,Prey_13,mobi
-,"Sandford, John",John Sandford,Prey 14 - Naked Prey,Prey_14,mobi
-,"Sandford, John",John Sandford,Prey 15 - Hidden Prey,Prey_15,mobi
-,"Sandford, John",John Sandford,Prey 16 - Invisible Prey,Prey_16,mobi
-,"Sandford, John",John Sandford,Prey 18 - Phantom Prey,Prey_18,mobi
-,"Sandford, John",John Sandford,Prey 19 - Wicked Prey,Prey_19,mobi
-,"Sandford, John",John Sandford,Prey 20 - Storm Prey,Prey_20,mobi
-,"Sandford, John",John Sandford,Virgil Flowers1 - Dark of the Moon,Virgil_Flowers1,mobi
-,"Sandford, John",John Sandford,Virgil Flowers2 - Heat Lightning,Virgil_Flowers2,mobi
-,Sapphire,Sapphire,Push,Push,mobi
-,"Saramago, Jose",Jose Saramago,Blindness,Blindness,mobi
-,"Saul, John",John Saul,Black Lightning,Black_Lightning,prc
-,"Saul, John",John Saul,Comes The Blind Fury,Comes_Blind_Fury,prc
-,"Saul, John",John Saul,Cry for the Strangers,Cry_for_Strangers,prc
-,"Saul, John",John Saul,Darkness,Darkness,prc
-,"Saul, John",John Saul,God Project,God_Project,prc
-,"Saul, John",John Saul,Hellfire,Hellfire,prc
-,"Saul, John",John Saul,Nathaniel,Nathaniel,prc
-,"Saul, John",John Saul,Nightshade,Nightshade,prc
-,"Saul, John",John Saul,Second Child,Second_Child,prc
-,"Saul, John",John Saul,Sleepwalk,Sleepwalk,prc
-,"Saul, John",John Saul,Suffer The Children,Suffer_Children,prc
-,"Saul, John",John Saul,The Blackstone Chronicles,Blackstone_Chronicles,prc
-,"Saul, John",John Saul,The Guardian,Guardian,prc
-,"Saul, John",John Saul,The Homing,Homing,prc
-,"Saul, John",John Saul,The Right Hand of Evil,Right_Hand_of_Evil,prc
-,"Saul, John",John Saul,The Unloved,Unloved,prc
-,"Saul, John",John Saul,The Unwanted,Unwanted,prc
-,"Sawyer, Robert J.",Robert J. Sawyer,Calculating God,Calculating_God,mobi
-,"Sawyer, Robert J.",Robert J. Sawyer,Factoring Humanity,Factoring_Humanity,mobi
-,"Sawyer, Robert J.",Robert J. Sawyer,Flashforward,Flashforward,mobi
-,"Schiff, Stacy",Stacy Schiff,Cleopatra,Cleopatra,mobi
+Brandon_Sanderson,"Sanderson, Brandon",Brandon Sanderson,Mistborn 01 - Mistborn,Mistborn_01,mobi
+Brandon_Sanderson,"Sanderson, Brandon",Brandon Sanderson,Mistborn 02 - The Well of Ascension,Mistborn_02,mobi
+Brandon_Sanderson,"Sanderson, Brandon",Brandon Sanderson,Mistborn 03 - The Hero of Ages,Mistborn_03,mobi
+Brandon_Sanderson,"Sanderson, Brandon",Brandon Sanderson,The Way of Kings,Way_of_Kings,mobi
+John_Sandford,"Sandford, John",John Sandford,Kidd 1 - The Fool's Run,Kidd_1,mobi
+John_Sandford,"Sandford, John",John Sandford,Kidd 2 - The Empress File,Kidd_2,mobi
+John_Sandford,"Sandford, John",John Sandford,Kidd 3 - The Devils Code,Kidd_3,mobi
+John_Sandford,"Sandford, John",John Sandford,Kidd 4 - Hanged Man's Song,Kidd_4,mobi
+John_Sandford,"Sandford, John",John Sandford,Prey 1 - Rules of Prey,Prey_1,mobi
+John_Sandford,"Sandford, John",John Sandford,Prey 2 - Shadow Prey,Prey_2,mobi
+John_Sandford,"Sandford, John",John Sandford,Prey 3 - Eyes of Prey,Prey_3,mobi
+John_Sandford,"Sandford, John",John Sandford,Prey 4 - Silent Prey,Prey_4,mobi
+John_Sandford,"Sandford, John",John Sandford,Prey 5 - Winter Prey,Prey_5,mobi
+John_Sandford,"Sandford, John",John Sandford,Prey 6 - Night Prey,Prey_6,mobi
+John_Sandford,"Sandford, John",John Sandford,Prey 7 - Mind Prey,Prey_7,mobi
+John_Sandford,"Sandford, John",John Sandford,Prey 8 - Sudden Prey,Prey_8,mobi
+John_Sandford,"Sandford, John",John Sandford,Prey 9 - Secret Prey,Prey_9,mobi
+John_Sandford,"Sandford, John",John Sandford,Prey 10 - Certain Prey,Prey_10,mobi
+John_Sandford,"Sandford, John",John Sandford,Prey 11 - Easy Prey,Prey_11,mobi
+John_Sandford,"Sandford, John",John Sandford,Prey 12 - Chosen Prey,Prey_12,mobi
+John_Sandford,"Sandford, John",John Sandford,Prey 13 - Mortal Prey,Prey_13,mobi
+John_Sandford,"Sandford, John",John Sandford,Prey 14 - Naked Prey,Prey_14,mobi
+John_Sandford,"Sandford, John",John Sandford,Prey 15 - Hidden Prey,Prey_15,mobi
+John_Sandford,"Sandford, John",John Sandford,Prey 16 - Invisible Prey,Prey_16,mobi
+John_Sandford,"Sandford, John",John Sandford,Prey 18 - Phantom Prey,Prey_18,mobi
+John_Sandford,"Sandford, John",John Sandford,Prey 19 - Wicked Prey,Prey_19,mobi
+John_Sandford,"Sandford, John",John Sandford,Prey 20 - Storm Prey,Prey_20,mobi
+John_Sandford,"Sandford, John",John Sandford,Virgil Flowers1 - Dark of the Moon,Virgil_Flowers1,mobi
+John_Sandford,"Sandford, John",John Sandford,Virgil Flowers2 - Heat Lightning,Virgil_Flowers2,mobi
+Sapphire,Sapphire,Sapphire,Push,Push,mobi
+Jose_Saramago,"Saramago, Jose",Jose Saramago,Blindness,Blindness,mobi
+John_Saul,"Saul, John",John Saul,Black Lightning,Black_Lightning,prc
+John_Saul,"Saul, John",John Saul,Comes The Blind Fury,Comes_Blind_Fury,prc
+John_Saul,"Saul, John",John Saul,Cry for the Strangers,Cry_for_Strangers,prc
+John_Saul,"Saul, John",John Saul,Darkness,Darkness,prc
+John_Saul,"Saul, John",John Saul,God Project,God_Project,prc
+John_Saul,"Saul, John",John Saul,Hellfire,Hellfire,prc
+John_Saul,"Saul, John",John Saul,Nathaniel,Nathaniel,prc
+John_Saul,"Saul, John",John Saul,Nightshade,Nightshade,prc
+John_Saul,"Saul, John",John Saul,Second Child,Second_Child,prc
+John_Saul,"Saul, John",John Saul,Sleepwalk,Sleepwalk,prc
+John_Saul,"Saul, John",John Saul,Suffer The Children,Suffer_Children,prc
+John_Saul,"Saul, John",John Saul,The Blackstone Chronicles,Blackstone_Chronicles,prc
+John_Saul,"Saul, John",John Saul,The Guardian,Guardian,prc
+John_Saul,"Saul, John",John Saul,The Homing,Homing,prc
+John_Saul,"Saul, John",John Saul,The Right Hand of Evil,Right_Hand_of_Evil,prc
+John_Saul,"Saul, John",John Saul,The Unloved,Unloved,prc
+John_Saul,"Saul, John",John Saul,The Unwanted,Unwanted,prc
+Robert_J_Sawyer,"Sawyer, Robert J.",Robert J. Sawyer,Calculating God,Calculating_God,mobi
+Robert_J_Sawyer,"Sawyer, Robert J.",Robert J. Sawyer,Factoring Humanity,Factoring_Humanity,mobi
+Robert_J_Sawyer,"Sawyer, Robert J.",Robert J. Sawyer,Flashforward,Flashforward,mobi
+Stacy_Schiff,"Schiff, Stacy",Stacy Schiff,Cleopatra,Cleopatra,mobi
 ,"Scott, Walter",Walter Scott,Ivanhoe,Ivanhoe,mobi
 ,"Sebold, Alice",Alice Sebold,The Lovely Bones,Lovely_Bones,mobi
 ,"Sedaris, David",David Sedaris,Dress Your Family in Corduroy and Denim,Dress_Your_Family,mobi
