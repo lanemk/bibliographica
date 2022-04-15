@@ -239,6 +239,12 @@ mo:MusicGroup
   rdfs:comment "A recording derived from digital satellite broadcast." ;
   rdfs:label "Digital satellite recording" ;
 .
+.
+:ebook_format
+  rdf:type owl:DatatypeProperty ;
+  rdfs:comment "The type of digital format for an ebook." ;
+  rdfs:label "has ebook format" ;
+.
 :fm
   rdf:type :RecordingType ;
   rdfs:comment "A recording derived from FM radio broadcast." ;
@@ -247,7 +253,7 @@ mo:MusicGroup
 :infoFileURL
   rdf:type owl:DatatypeProperty ;
   rdfs:comment "URL where an info file can be accessed for a Live Music Release." ;
-  rdfs:label "Info file URL" ;
+  rdfs:label "has info file URL" ;
   rdfs:range xsd:anyURI ;
 .
 :locationVenue

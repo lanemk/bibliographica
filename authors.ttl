@@ -909,7 +909,7 @@
 :Bruce_Chatwin
   rdf:type schema:Person ;
   bibliographica:dbpediaURI "https://dbpedia.org/data/Bruce_Chatwin.ttl"^^xsd:anyURI ;
-  bibliographica:viafURI "https://viaf.org/viaf/110567910/rdf.xml"^^xsd:anyURI ;Cherie_Priest
+  bibliographica:viafURI "https://viaf.org/viaf/110567910/rdf.xml"^^xsd:anyURI ;
   rdfs:label "Bruce Chatwin" ;
   foaf:name "Bruce Chatwin" ;
 .
