@@ -22,7 +22,7 @@
   dcterms:modified "2019-09-12" ;
   schema:license "https://creativecommons.org/licenses/by-nc-sa/4.0/"^^xsd:anyURI ;
   schema:license "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode"^^xsd:anyURI ;
-  rdfs:comment "Typically, video on DVD, though not always." ;
+  dcterms:description "Video collection, cataloged and serialized in RDF." ;
   owl:imports <http://www.connaissance.io/onto/biblio/MusicGroup> ;
   owl:imports <http://www.connaissance.io/onto/biblio/SoloMusicArtist> ;
   owl:imports <http://www.connaissance.io/onto/biblio/authors> ;

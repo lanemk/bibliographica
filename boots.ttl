@@ -1066,8 +1066,8 @@ bibliographica:Zappa_Petit_Wazoo_Portland_72
   dcterms:modified "2019-09-12" ;
   schema:license "https://creativecommons.org/licenses/by-nc-sa/4.0/"^^xsd:anyURI ;
   schema:license "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode"^^xsd:anyURI ;
-  rdfs:comment "Creators of live music, classified by (last) name or group name." ;
-  rdfs:comment "Event dates are intermittantly expressed as xxxx-01-01 (xsd:date), or the first day of the year. As such, the resource (event title) lacks a more specific date, (i.e., 1988-08-04). May also be the case with month/year, but no day, so then the first day of the month." ;
+  dcterms:description "Live music event records, cataloged and serialized in RDF." ;
+  rdfs:comment "Event dates are at times expressed as xxxx-01-01 (xsd:date), or the first day of the year when no known event date is recorded in files."
   owl:imports <http://www.connaissance.io/onto/biblio/MusicGroup> ;
   owl:imports <http://www.connaissance.io/onto/biblio/SoloMusicArtist> ;
   owl:imports <http://www.connaissance.io/onto/biblio/bibliographica> ;

@@ -21,7 +21,7 @@
   dcterms:modified "2020-12-24"^^xsd:date ;
   schema:license "https://creativecommons.org/licenses/by-nc-sa/4.0/"^^xsd:anyURI ;
   schema:license "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode"^^xsd:anyURI ;
-  rdfs:comment "Solo music artists, though any one person could also be in a band." ;
+  dcterms:description "Solo music artists, cataloged and serialized in RDF. Links to DBpedia and Musibrainz." ;
   owl:imports <http://www.connaissance.io/onto/biblio/MusicGroup> ;
   owl:imports <http://www.connaissance.io/onto/biblio/authors> ;
   owl:imports <http://www.connaissance.io/onto/biblio/bibliographica> ;

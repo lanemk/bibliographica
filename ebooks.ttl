@@ -5,12 +5,13 @@
 @prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix bibliographica: <http://www.connaissance.io/onto/biblio/bibliographica#> .
 @prefix authors: <http://www.connaissance.io/onto/biblio/authors#> .
 
 
 <http://www.connaissance.io/onto/biblio/ebooks>
         a                 owl:Ontology ;
-        rdfs:comment      "eBooks classified by title and author." ;
+        dcterms:description      "eBook collection, cataloged and serialized in RDF. Links to WorldCat." ;
         dcterms:modified  "2022-04-15" ;
         schema:license    "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode"^^xsd:anyURI , "https://creativecommons.org/licenses/by-nc-sa/4.0/"^^xsd:anyURI ;
         owl:imports       <http://www.connaissance.io/onto/biblio/bibliographica> , <http://www.connaissance.io/onto/biblio/authors> ;
@@ -18,60 +19,82 @@
 
 #######################################################
 
-:Great_House  dcterms:creator  authors:Nicole_Krauss ;
+:Great_House  a schema:Book ;
+        dcterms:creator  authors:Nicole_Krauss ;
         dcterms:title          "Great House" ;
+        bibliographica:worldcatURI "http://www.worldcat.org/oclc/1052654323.ttl"^^xsd:anyURI ;
+        schema:isbn "9781461814580" ;
         schema:bookFormat      schema:Ebook ;
         schema:encodingFormat  "mobi" .
 
-:Spenser_31  dcterms:creator   authors:Robert_B_Parker ;
+:Spenser_31  a schema:Book ;
+        dcterms:creator   authors:Robert_B_Parker ;
         dcterms:title          "Spenser 31 - Bad Business" ;
+        bibliographica:worldcatURI "http://www.worldcat.org/oclc/651627779.ttl"^^xsd:anyURI ;
+        schema:isbn "9781101204801" ;
         schema:bookFormat      schema:Ebook ;
         schema:encodingFormat  "mobi" .
 
-:Dream_Hunter  dcterms:creator  authors:Neil_Gaiman ;
-        dcterms:title          "Dream Hunter" ;
+:Dream_Hunter  a schema:Book ;
+        dcterms:creator  authors:Neil_Gaiman ;
+        dcterms:title          "The Dream Hunters" ;
+        bibliographica:worldcatURI "http://www.worldcat.org/oclc/1126079844.ttl"^^xsd:anyURI ;
+        schema:isbn "9781779503350" ;
         schema:bookFormat      schema:Ebook ;
         schema:encodingFormat  "prc" .
 
-:Lottery  dcterms:creator      authors:Shirley_Jackson ;
+:Lottery    a schema:Book ;
+        dcterms:creator      authors:Shirley_Jackson ;
         dcterms:title          "The Lottery" ;
+        bibliographica:worldcatURI "http://www.worldcat.org/oclc/1127549199.ttl"^^xsd:anyURI ;
+        schema:isbn "9781479419579" ;
         schema:bookFormat      schema:Ebook ;
         schema:encodingFormat  "mobi" .
 
-:Meredith_Gentry_03  dcterms:creator  authors:Laurell_K_Hamilton ;
+:Seduced_by_Moonlight    a schema:Book ;
+        dcterms:creator  authors:Laurell_K_Hamilton ;
         dcterms:title          "Meredith Gentry 03 - Seduced by Moonlight" ;
+        bibliographica:worldcatURI "http://www.worldcat.org/oclc/234177749.ttl"^^xsd:anyURI ;
+        schema:isbn "9780345472069" ;
         schema:bookFormat      schema:Ebook ;
         schema:encodingFormat  "mobi" .
 
-:Bridget_Joness_Diary
+:Bridget_Joness_Diary   a schema:Book ;
         dcterms:creator        authors:Helen_Fielding ;
         dcterms:title          "Bridget Jones's Diary" ;
+        bibliographica:worldcatURI "http://www.worldcat.org/oclc/1162180053.ttl"^^xsd:anyURI ;
+        schema:isbn "9782806281166" ;
         schema:bookFormat      schema:Ebook ;
         schema:encodingFormat  "mobi" .
 
-:Rain_Wilds_Chronicles_02
+:Rain_Wilds_Chronicles_02  a schema:Book ;
         dcterms:creator        authors:Robin_Hobb ;
         dcterms:title          "Rain Wilds Chronicles 02 - Dragon Haven" ;
+        bibliographica:worldcatURI "http://www.worldcat.org/oclc/871347788.ttl"^^xsd:anyURI ;
+        schema:isbn "9780061993480" ;
         schema:bookFormat      schema:Ebook ;
         schema:encodingFormat  "mobi" .
 
-:Vampire_Chronicles_02
+:Vampire_Chronicles_02  a schema:Book ;
         dcterms:creator        authors:Anne_Rice ;
         dcterms:title          "The Vampire Chronicles 02 - The Vampire Lestat" ;
         schema:bookFormat      schema:Ebook ;
         schema:encodingFormat  "mobi" .
 
-:Eat_Pray_Love  dcterms:creator  authors:Elizabeth_Gilbert ;
+:Eat_Pray_Love    a schema:Book ;
+        dcterms:creator  authors:Elizabeth_Gilbert ;
         dcterms:title          "Eat, Pray, Love" ;
         schema:bookFormat      schema:Ebook ;
         schema:encodingFormat  "mobi" .
 
-:Scarpetta_11  dcterms:creator  authors:Patricia_Cornwell ;
+:Scarpetta_11    a schema:Book ;
+        dcterms:creator  authors:Patricia_Cornwell ;
         dcterms:title          "Scarpetta 11 - Last Precinct" ;
         schema:bookFormat      schema:Ebook ;
         schema:encodingFormat  "mobi" .
 
-:Anita_Blake_13  dcterms:creator  authors:Laurell_K_Hamilton ;
+:Anita_Blake_13    a schema:Book ;
+        dcterms:creator  authors:Laurell_K_Hamilton ;
         dcterms:title          "Anita Blake 13 - Micah" ;
         schema:bookFormat      schema:Ebook ;
         schema:encodingFormat  "mobi" .
