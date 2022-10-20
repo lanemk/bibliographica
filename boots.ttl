@@ -3,9 +3,10 @@
 # imports: http://www.connaissance.io/onto/biblio/SoloMusicArtist
 # imports: http://www.connaissance.io/onto/biblio/bibliographica
 
-@prefix : <http://www.connaissance.io/onto/biblio/boots#> .
+@prefix boots: <http://www.connaissance.io/onto/biblio/boots#> .
 @prefix bibliographica: <http://www.connaissance.io/onto/biblio/bibliographica#> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix dctype: <http://purl.org/dc/dcmitype/> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
 @prefix mo: <http://purl.org/ontology/mo/> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
@@ -15,1061 +16,1175 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-<http://www.connaissance.io/onto/biblio/bibliographica#AbdullahIbrahim_Montreux_7.15.88>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Abdullah_Ibrahim ;
-  dcterms:date "1988-07-15"^^xsd:date ;
-  dcterms:title "Abdullah Ibrahim Montreux 7.15.88 FM" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/Abdullah_Ibrahim_Montreux_7.15.88.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Casino" ;
-  bibliographica:locationVenue "Montreux Jazz Festival" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "4"^^xsd:int ;
-  rdfs:label "Abdullah Ibrahim Montreux 7.15.88 FM" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#AcousticAllstars_Alexandria_1.23.88>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Acoustic_Allstars ;
-  dcterms:date "1988-01-23"^^xsd:date ;
-  dcterms:title "Acoustic Allstars Alexandria, VA 1.23.88" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/AcousticAllstars_Alexandria.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Alexandria, VA" ;
-  bibliographica:locationVenue "The Birchmere" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "5"^^xsd:int ;
-  rdfs:label "Acoustic Allstars Alexandria, VA 1.23.88" ;
-  skos:prefLabel "Acoustic Allstars Alexandria, VA 1.23.88" ;
-.
-bibliographica:Adalberto_Alvarez_Y_Su_Son
-  dcterms:creator bibliographica:Adalberto_Alvarez_Y_Su_Son ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#AdrianBelew_Boston_7.18.89>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Adrian_Belew ;
-  dcterms:creator "Adrian Belew" ;
-  dcterms:date "1989-07-18"^^xsd:date ;
-  dcterms:title "Adrian Belew Boston 7.18.89" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/AdrianBelew_Boston_7.18.89.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Boston" ;
-  bibliographica:locationVenue "Paradise Theatre" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "4"^^xsd:int ;
-  rdfs:label "Adrian Belew Boston 7.18.89" ;
-  skos:prefLabel "Adrian Belew Boston 7.18.89" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#AdrianBelew_Buffalo_6.17.05>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Adrian_Belew ;
-  dcterms:date "2005-06-17"^^xsd:date ;
-  dcterms:title "Adrian Belew Buffalo 6.17.05" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/AdrianBelew_Buffalo_6.17.05.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Buffalo" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "4"^^xsd:int ;
-  rdfs:label "Adrian Belew Buffalo 6.17.05" ;
-  skos:prefLabel "Adrian Belew Buffalo 6.17.05" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#AdrianBelew_Buffalo_8.11.06>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Adrian_Belew ;
-  dcterms:date "2006-08-11"^^xsd:date ;
-  dcterms:title "Adrian Belew Buffalo 8.11.06" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/AdrianBelew_Buffalo_8.11.06.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Buffalo" ;
-  bibliographica:locationVenue "The Buffalo Icon" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "5"^^xsd:int ;
-  rdfs:label "Adrian Belew Buffalo 8.11.06" ;
-  skos:prefLabel "Adrian Belew Buffalo 8.11.06" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#AdrianBelew_Carrboro_06.05.08>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Adrian_Belew ;
-  dcterms:date "2008-06-05"^^xsd:date ;
-  dcterms:title "Adrian Belew Power Trio Carrboro NC 06.05.08" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/AdrianBelew_Carrboro_06.05.08.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Carrboro" ;
-  bibliographica:locationVenue "The Cat's Cradle" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "3"^^xsd:int ;
-  rdfs:label "Adrian Belew Power Trio Carrboro NC 06.05.08" ;
-  skos:prefLabel "Adrian Belew Power Trio Carrboro NC 06.05.08" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#AdrianBelew_Cotuit_9.3.09>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Adrian_Belew ;
-  dcterms:date "2009-09-03"^^xsd:date ;
-  dcterms:title "Adrian Belew Power Trio, Cotuit MA 9.3.09" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/AdrianBelew_Cotuit_9.3.09.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Cotuit Center For The Arts" ;
-  bibliographica:locationVenue "Cotuit, MA" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "3"^^xsd:int ;
-  rdfs:label "Adrian Belew Power Trio; Cotuit, MA 9.3.09" ;
-  skos:prefLabel "Adrian Belew Power Trio; Cotuit, MA 9.3.09" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#AdrianBelew_Farmington_7.19.05>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Adrian_Belew ;
-  dcterms:creator "Adrian_Belew" ;
-  dcterms:date "2005-07-19"^^xsd:date ;
-  dcterms:title "Adrian Belew Farmington NY 7.19.05" ;
-  bibliographica:locationVenue "Farmington, NY" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "4"^^xsd:int ;
-  rdfs:label "Adrian Belew Farmington, NY 7.19.05" ;
-  skos:prefLabel "Adrian Belew Farmington NY 7.19.05" ;
-.
-bibliographica:AdrianBelew_LoneRhino_Outtakes
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Adrian_Belew ;
-  dcterms:title "Adrian Belew Lone Rhino Outtakes" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/AdrianBelew_LoneRhino_Outtakes.txt"^^xsd:anyURI ;
-  bibliographica:performanceRating 3 ;
-  bibliographica:soundQualityValue "3"^^xsd:int ;
-  rdfs:label "Adrian Belew Lone Rhino Outtakes" ;
-  skos:prefLabel "Adrian Belew Lone Rhino Outtakes" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#AdrianBelew_Lugano_10.18.08>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Adrian_Belew ;
-  dcterms:date "2008-10-18"^^xsd:date ;
-  dcterms:title "Adrian Belew Power Trio Lugano 10.18.08" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/AdrianBelew_Lugano_10.18.08.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Besso RSI Auditorio SM" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "5"^^xsd:int ;
-  rdfs:label "Adrian Belew Power Trio Lugano 10.18.08" ;
-  skos:prefLabel "Adrian Belew Power Trio Lugano 10.18.08" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#AdrianBelew_Milwaukee_10.23.93>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Adrian_Belew ;
-  dcterms:date "1993-10-23"^^xsd:date ;
-  dcterms:title "Adrian Belew (solo acoustic) Milwaukee 10.23.93" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/AdrianBelew_Milwaukee_10.23.93.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Shank Hall" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "4"^^xsd:int ;
-  rdfs:label "Adrian Belew (solo acoustic) Milwaukee 10.23.93" ;
-  skos:prefLabel "Adrian Belew (solo acoustic) Milwaukee 10.23.93" ;
-.
-bibliographica:AdrianBelew_School_Of_Rock
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Adrian_Belew ;
-  dcterms:date "2006-02-10"^^xsd:date ;
-  dcterms:title "Adrian Belew School Of Rock Falls Church VA 02.10.06" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/AdrianBelew_School_Of_Rock.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "The State Theatre" ;
-  bibliographica:performanceRating 4 ;
-  bibliographica:soundQualityValue "4"^^xsd:int ;
-  rdfs:label "Adrian Belew School Of Rock Falls Church VA 02.10.06" ;
-  skos:prefLabel "Adrian Belew School Of Rock Falls Church VA 02.10.06" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#AdrianBelew_TheBears_Philadelphia_5.5.88>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Adrian_Belew ;
-  dcterms:creator bibliographica:The_Bears ;
-  dcterms:date "1988-05-05"^^xsd:date ;
-  dcterms:title "Adrian Belew & The Bears Philadelphia 5.5.88" ;
-  bibliographica:byArtist bibliographica:The_Bears ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/AdrianBelewBears_Philadelphia_5.5.88.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Chestnut Cabaret" ;
-  bibliographica:locationVenue "Philadelphia" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "4"^^xsd:int ;
-  rdfs:label "Adrian Belew & The Bears Philadelphia 5.5.88" ;
-  skos:prefLabel "Adrian Belew & The Bears Philadelphia 5.5.88" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#AdrianBelew_Vienna_VA_3.15.08>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Adrian_Belew ;
-  dcterms:date "2008-03-15"^^xsd:date ;
-  dcterms:title "Adrian Belew Vienna VA 3.15.08" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/AdrianBelew_Vienna_3.15.08.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Jammin' Java" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "4"^^xsd:int ;
-  rdfs:label "Adrian Belew Vienna VA 3.15.08" ;
-  skos:prefLabel "Adrian Belew Vienna VA 3.15.08" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#AdrianBelew_WorldCafe_8.14.06>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Adrian_Belew ;
-  dcterms:date "2006-08-14"^^xsd:date ;
-  dcterms:title "Adrian Belew Power Trio World Cafe 8.14.06" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/AdrianBelew_WorldCafe_8.14.06.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "World Cafe" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "4"^^xsd:int ;
-  rdfs:label "Adrian Belew Power Trio World Cafe 8.14.06" ;
-  skos:prefLabel "Adrian Belew Power Trio World Cafe 8.14.06" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#Ahmad_Jamal_Ramatuelle_8.16.04>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Ahmad_Jamal ;
-  dcterms:date "2004-08-16"^^xsd:date ;
-  dcterms:title "Ahmad Jamal - Ramatuelle 8.16.04" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/Ahmad_Jamal_Ramatuelle_8.16.04.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Ramatuelle Jazz Festival" ;
-  bibliographica:locationVenue "Ramatuelle, France" ;
-  bibliographica:locationVenue "Théâtre de Verdure" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "5"^^xsd:int ;
-  rdfs:label "Ahmad Jamal - Ramatuelle 8.16.04 fm" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#Al_DiMeola_Denver_9.29.80>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Al_DiMeola ;
-  dcterms:date "1980-09-29"^^xsd:date ;
-  dcterms:title "Al DiMeola Denver 9.29.80" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/Al_DiMeola_Denver_9.29.80.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Netherlands" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "5"^^xsd:int ;
-  rdfs:label "Al Dimeola Netherlands 1987" ;
-  skos:prefLabel "Al Dimeola Netherlands 1987" ;
-.
-bibliographica:Al_DiMeola_Montreal_1988
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Al_DiMeola ;
-  dcterms:date "1988-07-01"^^xsd:date ;
-  dcterms:title "Al DiMeola Project - Montreal 7.88 fm" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/Al_DiMeola_Montreal_1988.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Jazzfest Montreal" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "5"^^xsd:int ;
-  rdfs:label "Al DiMeola Project - Montreal 7.88 fm" ;
-  skos:prefLabel "Al DiMeola Project - Montreal 7.88 fm" ;
-.
-bibliographica:Al_Dimeola_Netherlands_1987
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Al_DiMeola ;
-  dcterms:date "1987-01-01"^^xsd:date ;
-  dcterms:title "Al Dimeola Netherlands 1987" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/Al_Dimeola_Netherlands_1987.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Netherlands" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "5"^^xsd:int ;
-  rdfs:label "Al Dimeola Netherlands 1987" ;
-  skos:prefLabel "Al Dimeola Netherlands 1987" ;
-.
-bibliographica:Al_Dimeola_World_Sinfonia_Tucson_2010
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Al_DiMeola ;
-  dcterms:date "2010-02-18"^^xsd:date ;
-  dcterms:title "Al DiMeola - Tucson 2.18.10" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/Al_Dimeola_Tucson_2010.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Rialto Theater" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "3"^^xsd:int ;
-  rdfs:label "Al Dimeola & World Sinfonia Tucson 2.18.10" ;
-  skos:prefLabel "Al Dimeola & World Sinfonia Tucson 2.18.10" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#AlbertCollins_Hollywood_5.10.87>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Albert_Collins ;
-  dcterms:date "1987-05-10"^^xsd:date ;
-  dcterms:title "Albert Collins Hollywood 5.10.87" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/AlbertCollins_Hollywood_5.10.87.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Ford Theatre" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "4"^^xsd:int ;
-  rdfs:label "Albert Collins Hollywood 5.10.87" ;
-  skos:prefLabel "Albert Collins Hollywood 5.10.87" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#Albion_Country_Band_w_Richard_Linda_London_12.29.72>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Albion_Country_Band ;
-  dcterms:creator bibliographica:Linda_Thompson ;
-  dcterms:creator bibliographica:Richard_Thompson ;
-  dcterms:date "1972-12-29"^^xsd:date ;
-  dcterms:title "Albion Country Band w Richard & Linda - London 12.29.72" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/Albion_Country_Band_w_Richard_Linda_London_12.29.72.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "London" ;
-  bibliographica:locationVenue "The Howff, Chalk Farm" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "3"^^xsd:int ;
-  rdfs:label "Albion Country Band w Richard & Linda - London 12.29.72" ;
-  skos:prefLabel "Albion Country Band w Richard & Linda - London 12.29.72" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#AlejandroEscovedo_6.24.06>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Alejandro_Escovedo ;
-  dcterms:date "2006-06-24"^^xsd:date ;
-  dcterms:title "Alejandro Escovedo 6.24.06" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/AlejandroEscovedo_6.24.06.txt"^^xsd:anyURI ;
-  bibliographica:performanceRating 4 ;
-  bibliographica:soundQualityValue "4"^^xsd:int ;
-  rdfs:label "Alejandro Escovedo 6.24.06" ;
-  skos:prefLabel "Alejandro Escovedo 6.24.06" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#Alejandro_Escovedo_Austin_3.18.10>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Alejandro_Escovedo ;
-  dcterms:date "2010-03-18"^^xsd:date ;
-  dcterms:title "Alejandro Escovedo - Austin 3.18.10" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/AlejandroEscovedo_Austin_3.18.10.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Austin" ;
-  bibliographica:locationVenue "Gibson Room at Maggie Maes" ;
-  bibliographica:performanceRating 4 ;
-  bibliographica:soundQualityValue "4"^^xsd:int ;
-  rdfs:label "Alejandro Escovedo - Austin 3.18.10" ;
-  skos:prefLabel "Alejandro Escovedo - Austin 3.18.10" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#AlexChilton_Dornbirn_2.14.88>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Alex_Chilton ;
-  dcterms:date "1988-02-14"^^xsd:date ;
-  dcterms:title "Alex Chilton Dornbirn, Austria (fm) 2.14.88" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/AlexChilton_Dornbirn_2.14.88.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Dornbirn, Austria" ;
-  bibliographica:locationVenue "Spielboden" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "5"^^xsd:int ;
-  rdfs:label "Alex Chilton Dornbirn, Austria (fm) 2.14.88" ;
-  skos:prefLabel "Alex Chilton Dornbirn, Austria (fm) 2.14.88" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#Alison_Krauss_Palo_Alto_8.29.90>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Alison_Krauss ;
-  dcterms:date "1990-08-29"^^xsd:date ;
-  dcterms:title "Alison Krauss - Palo Alto 8.29.90" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/Alison_Krauss_Palo_Alto_8.29.90.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Palo Alto Unitarian Church" ;
-  bibliographica:locationVenue "Palo Alto" ;
-  bibliographica:performanceRating 4 ;
-  bibliographica:soundQualityValue "3"^^xsd:int ;
-  rdfs:label "Alison Krauss - Palo Alto 8.29.90" ;
-.
-bibliographica:AllanHoldsworth_Miami
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Allan_Holdsworth ;
-  dcterms:date "1989-01-01"^^xsd:date ;
-  dcterms:title "Allan Holdsworth - Miami 89 sbd" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/AllanHoldsworth_Miami.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Miami" ;
-  bibliographica:performanceRating 4 ;
-  bibliographica:soundQualityValue "4"^^xsd:int ;
-  rdfs:label "Allan Holdsworth - Miami 89 sbd" ;
-  skos:prefLabel "Allan Holdsworth - Miami 89 sbd" ;
-.
-bibliographica:Alpha_Blondy_ReggaeOnTheRiver
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Alpha_Blondy ;
-  dcterms:date "1992-08-02"^^xsd:date ;
-  dcterms:title "Alpha Blondy - Reggae On The River 8.2.92 sbd" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/Alpha_Blondy_ReggaeOnTheRiver.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "French's Camp" ;
-  bibliographica:locationVenue "London" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "5"^^xsd:int ;
-  rdfs:label "Alpha Blondy - Reggae On The River 8.2.92 sbd" ;
-  skos:prefLabel "Alpha Blondy - Reggae On The River 8.2.92 sbd" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#AmadouMariam_Biddinghuizen_8.21.05>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Amadou_and_Mariam ;
-  dcterms:date "2005-08-21"^^xsd:date ;
-  dcterms:title "Amadou & Mariam - Biddinghuizen 8.21.05" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/AmadouMariam_Biddinghuizen_8.21.05.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Biddinghuizen" ;
-  bibliographica:locationVenue "Lowlands Festival" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "5"^^xsd:int ;
-  rdfs:label "Amadou & Mariam - Biddinghuizen 8.21.05" ;
-  skos:prefLabel "Amadou & Mariam - Biddinghuizen 8.21.05" ;
-.
-bibliographica:AndreCeccarelli_Vienna
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Andre_Ceccarelli ;
-  dcterms:date "2004-01-01"^^xsd:date ;
-  dcterms:title "André Ceccarelli - Vienna 04" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/AndreCeccarelli_Vienna.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Jazz A Vienne" ;
-  bibliographica:locationVenue "Vienna" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "5"^^xsd:int ;
-  rdfs:label "André Ceccarelli - Vienna 04" ;
-  skos:prefLabel "André Ceccarelli - Vienna 04" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#AndrewBird_Newport_7.31.10>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Andrew_Bird ;
-  dcterms:date "2010-07-31"^^xsd:date ;
-  dcterms:title "Andrew Bird - Newport 7.31.10" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/AndrewBird_Newport_7.31.10.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Newport Folk Festival" ;
-  bibliographica:locationVenue "Newport, RI" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "4"^^xsd:int ;
-  rdfs:label "Andrew Bird - Newport 7.31.10" ;
-  skos:prefLabel "Andrew Bird - Newport 7.31.10" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#AniDiFranco_Stockholm_3.2.99>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Ani_DiFranco ;
-  dcterms:date "1999-03-02"^^xsd:date ;
-  dcterms:title "Ani DiFranco - Stockholm 3.2.99 fm" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/AniDiFranco_Stockholm_3.2.99.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Stockholm" ;
-  bibliographica:locationVenue "Studion" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "5"^^xsd:int ;
-  rdfs:label "Ani DiFranco - Stockholm 3.2.99 fm" ;
-  skos:prefLabel "Ani DiFranco - Stockholm 3.2.99 fm" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#ArtZoyd_Stockholm_3.10.79>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Art_Zoyd ;
-  dcterms:date "1979-03-10"^^xsd:date ;
-  dcterms:title "Art Zoyd - Stockholm 3.10.79" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/ArtZoyd_Stockholm_3.10.79.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Cotuit Center For The Arts" ;
-  bibliographica:locationVenue "Cotuit, MA" ;
-  bibliographica:performanceRating 4 ;
-  bibliographica:soundQualityValue "5"^^xsd:int ;
-  rdfs:label "Art Zoyd - Stockholm 3.10.79" ;
-  skos:prefLabel "Art Zoyd - Stockholm 3.10.79" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#B-52s_Amsterdam_11.17.79>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:B-52s ;
-  dcterms:date "1979-11-17"^^xsd:date ;
-  dcterms:title "B-52s Amsterdam 11.17.79" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/B-52s_Amsterdam_11.17.79.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Amsterdam" ;
-  bibliographica:locationVenue "Paradiso" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "5"^^xsd:int ;
-  rdfs:label "B-52s Amsterdam 11.17.79" ;
-  skos:prefLabel "B-52s Amsterdam 11.17.79" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#B-52s_MontegoBay_11.25.82>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:B-52s ;
-  dcterms:date "1982-11-25"^^xsd:date ;
-  dcterms:title "B-52s - Montego Bay, Jamaica 11.25.82" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/B-52s_MontegoBay_11.25.82.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Jamaica World Music Festival" ;
-  bibliographica:locationVenue "Montego Bay, Jamaica" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "5"^^xsd:int ;
-  rdfs:label "B-52s - Montego Bay, Jamaica 11.25.82" ;
-  skos:prefLabel "B-52s - Montego Bay, Jamaica 11.25.82" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#B-52s_unknown_venue_8.11.01>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:B-52s ;
-  dcterms:date "2001-08-11"^^xsd:date ;
-  dcterms:title "B-52s - unknown venue 8.11.01" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/B-52s_unknown_venue_8.11.01.txt"^^xsd:anyURI ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "5"^^xsd:int ;
-  rdfs:label "B-52s - unknown venue 8.11.01" ;
-  skos:prefLabel "B-52s - unknown venue 8.11.01" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#Barenberg_Bush_Douglas_Meyer_Greenville_1.18.92_dsbd>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Barenberg_Bush_Douglas_Meyer ;
-  dcterms:creator bibliographica:Maura_OConnell ;
-  dcterms:date "1992-01-18"^^xsd:date ;
-  dcterms:title "Barenberg Bush Douglas Meyer with Maura O'Connell 1992-01-18 Peace Center Greenville SC DSBD" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/BarenbergBushDouglasMeyer_Greenville_1.18.92.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Greenville SC" ;
-  bibliographica:locationVenue "Peace Center " ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "5"^^xsd:int ;
-  rdfs:label "Barenberg Bush Douglas Meyer Greenville 1.18.92 dsbd" ;
-  skos:prefLabel "Barenberg Bush Douglas Meyer Greenville 1.18.92 dsbd" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#BassDesires_Bochum_2.16.86>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Bass_Desires ;
-  dcterms:date "1986-02-16"^^xsd:date ;
-  dcterms:title "Bass Desires Bochum, Germany 2.16.86" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/BassDesires_Bochum_2.16.86.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Bochum, Germany" ;
-  bibliographica:locationVenue "Güter-Bahnhof Langendreer" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "5"^^xsd:int ;
-  rdfs:label "Bass Desires Bochum, Germany 2.16.86" ;
-  skos:prefLabel "Bass Desires Bochum, Germany 2.16.86" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#BassDesires_Cambridge_1.22.85>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Bass_Desires ;
-  dcterms:date "1985-01-22"^^xsd:date ;
-  dcterms:title "Bass Desires Cambridge, MA 1.22.85" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/BassDesires_Cambridge_1.22.85.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Cambridge, MA" ;
-  bibliographica:locationVenue "Ryles Jazz Club" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "4"^^xsd:int ;
-  rdfs:label "Bass Desires Cambridge, MA 1.22.85" ;
-  skos:prefLabel "Bass Desires Cambridge, MA 1.22.85" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#BassDesires_Münster_2.20.87>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Bass_Desires ;
-  dcterms:date "1987-02-20"^^xsd:date ;
-  dcterms:title "Bass Desires Münster, Germany 2.20.87" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/BassDesires_M%C3%BCnster_2.20.87.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Jugendzentrum Am Berg Fidel" ;
-  bibliographica:locationVenue "Münster, Germany" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "5"^^xsd:int ;
-  rdfs:label "Bass Desires Münster, Germany 2.20.87" ;
-  skos:prefLabel "Bass Desires Münster, Germany 2.20.87" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#Beausoleil_NOLA_Jazz_Fest_4.29.04>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:BeauSoleil ;
-  dcterms:date "2004-04-29"^^xsd:date ;
-  dcterms:description "Beausoleil NOLA Jazz Fest 4.29.04" ;
-  dcterms:title "Beausoleil NOLA Jazz Fest 4.29.04" ;
-  bibliographica:locationVenue "Jazz Fest" ;
-  bibliographica:locationVenue "New Orleans" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "5"^^xsd:int ;
-  rdfs:label "Beausoleil NOLA Jazz Fest 4.29.04" ;
-  skos:prefLabel "Beausoleil NOLA Jazz Fest 4.29.04" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#BenFolds_Tuscon_8.5.03>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Ben_Folds ;
-  dcterms:date "1989-01-01"^^xsd:date ;
-  dcterms:title "Ben Folds - Tuscon 8.5.03" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/BenFolds_Tuscon_8.5.03.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Anselmo Valencia Tori Amphitheatre" ;
-  bibliographica:locationVenue "Tuscon" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "5"^^xsd:int ;
-  rdfs:label "Ben Folds - Tuscon 8.5.03" ;
-  skos:prefLabel "Ben Folds - Tuscon 8.5.03" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#BigAudioDynamite_Modeno_5.26.87>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Big_Audio_Dynamite ;
-  dcterms:date "1987-05-29"^^xsd:date ;
-  dcterms:title "Big Audio Dynamite Modeno 5.26.87" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/BigAudioDynamite_Modeno_5.26.87.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Modena, Italy" ;
-  bibliographica:locationVenue "Stadio Comunale" ;
-  bibliographica:performanceRating 4 ;
-  bibliographica:soundQualityValue "2"^^xsd:int ;
-  rdfs:label "Big Audio Dynamite Modeno 5.26.87" ;
-  skos:prefLabel "Big Audio Dynamite Modeno 5.26.87" ;
-.
-bibliographica:BillyBragg_Arcore_1987
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Billy_Bragg ;
-  dcterms:date "1987-10-16"^^xsd:date ;
-  dcterms:title "Billy Bragg - Arcore 1987" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/BillyBragg_Arcore_1987.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Arcore" ;
-  bibliographica:locationVenue "Milano, Italy" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "3"^^xsd:int ;
-  rdfs:label "Billy Bragg - Arcore 1987" ;
-  skos:prefLabel "Billy Bragg - Arcore 1987" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#Bjork_Aarhus_9.9.93>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Björk ;
-  dcterms:date "1993-09-09"^^xsd:date ;
-  dcterms:title "Björk - Aarhus 9.9.93" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/Bjork_Aarhus_9.9.93.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Aarhus, Denmark" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "5"^^xsd:int ;
-  rdfs:label "Björk - Aarhus 9.9.93" ;
-  skos:prefLabel "Björk - Aarhus 9.9.93" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#Bjork_Barcelona_11.4.01>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Björk ;
-  dcterms:date "2001-11-04"^^xsd:date ;
-  dcterms:title "Björk - Barcelona 11.4.01" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/Bjork_Barcelona_11.4.01.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Barcelona Spain" ;
-  bibliographica:locationVenue "El Liceu" ;
-  bibliographica:performanceRating 4 ;
-  bibliographica:soundQualityValue "3"^^xsd:int ;
-  rdfs:label "Björk Barcelona 11.4.01" ;
-  skos:prefLabel "Björk Barcelona 11.4.01" ;
-.
-bibliographica:Bjork_NYC_1993
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Björk ;
-  dcterms:date "1993-01-01"^^xsd:date ;
-  dcterms:title "Björk - NYC 1993" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/Bjork_NYC_1993.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "New York City" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "5"^^xsd:int ;
-  rdfs:label "Björk - NYC 1993" ;
-  skos:prefLabel "Björk - NYC 1993" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#Bjork_Toronto_8.17.95>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Björk ;
-  dcterms:date "1995-08-17"^^xsd:date ;
-  dcterms:title "Björk - Toronto 8.17.95" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/Bjork_Toronto_8.17.95.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Toronto" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "5"^^xsd:int ;
-  rdfs:label "Björk - Toronto 8.17.95" ;
-  skos:prefLabel "Björk - Toronto 8.17.95" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#Björk_Glastonbury_6.22.07>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Björk ;
-  dcterms:date "2007-06-22"^^xsd:date ;
-  dcterms:title "Björk - Glastonbury 2007" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/Bjork_Glastonbury_6.22.07.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Glastonbury Festival" ;
-  bibliographica:locationVenue "Glastonbury, UK" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "5"^^xsd:int ;
-  rdfs:label "Björk Glastonbury Festival, UK 6.22.07" ;
-  skos:prefLabel "Björk Glastonbury Festival, UK 6.22.07" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#BrianEno_Amsterdam_6.20.99>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Brian_Eno ;
-  dcterms:date "1999-06-20"^^xsd:date ;
-  dcterms:title "Brian Eno - Amsterdam 6.20.99 fm" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/BrianEno_Amsterdam_6.20.99.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Amsterdam" ;
-  bibliographica:locationVenue "Paradiso" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "5"^^xsd:int ;
-  rdfs:label "Brian Eno - Amsterdam 6.20.99 fm" ;
-  skos:prefLabel "Brian Eno - Amsterdam 6.20.99 fm" ;
-.
-bibliographica:BrianEno_ConversationUmbrella
-  rdf:type schema:MusicRelease ;
-  dcterms:creator bibliographica:Brian_Eno ;
-  dcterms:title "Brian Eno - Conversation with Umbrella" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/BrianEno_ConversationUmbrella.txt"^^xsd:anyURI ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "5"^^xsd:int ;
-  rdfs:label "Brian Eno - Conversation with Umbrella" ;
-  skos:prefLabel "Brian Eno - Conversation with Umbrella" ;
-.
-bibliographica:BrianEno_DavidByrne_Ghosts
-  rdf:type schema:MusicRelease ;
-  dcterms:creator bibliographica:Brian_Eno ;
-  dcterms:creator bibliographica:David_Byrne ;
-  dcterms:title "Brian Eno & David Byrne - Ghosts" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/BrianEno_DavidByrne_Ghosts.txt"^^xsd:anyURI ;
-  bibliographica:performanceRating 4 ;
-  bibliographica:soundQualityValue "4"^^xsd:int ;
-  rdfs:label "Brian Eno & David Byrne - Ghosts" ;
-  skos:prefLabel "Brian Eno & David Byrne - Ghosts" ;
-.
-bibliographica:BrianEno_Music_for_Glitterbug
-  rdf:type schema:MusicRelease ;
-  dcterms:creator bibliographica:Brian_Eno ;
-  dcterms:title "Brian Eno - Music for Glitterbug" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/BrianEno_Music_for_Glitterbug.txt"^^xsd:anyURI ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "5"^^xsd:int ;
-  rdfs:comment "Also released as Eno's \"Spinner\" album by Jah Wobble." ;
-  rdfs:label "Brian Eno - Music for Glitterbug" ;
-  skos:prefLabel "Brian Eno - Music for Glitterbug" ;
-.
-bibliographica:BrianEno_Music_for_Nile
-  rdf:type schema:MusicRelease ;
-  dcterms:creator bibliographica:Brian_Eno ;
-  dcterms:title "Brian Eno Music for Nile" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/BrianEno_Music_for_Nile.txt"^^xsd:anyURI ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "5"^^xsd:int ;
-  rdfs:label "Brian Eno Music for Nile" ;
-  skos:prefLabel "Brian Eno Music for Nile" ;
-.
-bibliographica:BrianEno_Music_for_Prague
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Brian_Eno ;
-  dcterms:date "1998-04-12"^^xsd:date ;
-  dcterms:date "1998-04-14"^^xsd:date ;
-  dcterms:title "Brian Eno - Music for Prague" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/BrianEno_Music_for_Prague.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Nova Sin Gallery" ;
-  bibliographica:locationVenue "Prague" ;
-  bibliographica:performanceRating 4 ;
-  bibliographica:soundQualityValue "4"^^xsd:int ;
-  rdfs:label "Brian Eno - Music for Prague" ;
-  skos:prefLabel "Brian Eno - Music for Prague" ;
-.
-bibliographica:BrianEno_RareTracks
-  rdf:type schema:MusicRelease ;
-  dcterms:creator bibliographica:Brian_Eno ;
-  dcterms:title "Brian Eno - Rare Tracks" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/BrianEno_RareTracks.txt"^^xsd:anyURI ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "5"^^xsd:int ;
-  rdfs:label "Brian Eno - Rare Tracks" ;
-  skos:prefLabel "Brian Eno - Rare Tracks" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#BrianEno_Sydney_6.14.09>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Brian_Eno ;
-  dcterms:date "2009-06-14"^^xsd:date ;
-  dcterms:title "Brian Eno - Sydney 6.14.09" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/BrianEno_Sydney_6.14.09.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Sydney Opera House Concert Hall" ;
-  bibliographica:locationVenue "Sydney" ;
-  bibliographica:performanceRating 4 ;
-  bibliographica:soundQualityValue "4"^^xsd:int ;
-  rdfs:label "Brian Eno - Sydney 6.14.09" ;
-  skos:prefLabel "Brian Eno - Sydney 6.14.09" ;
-.
-bibliographica:Brian_Eno_Future_Light
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Brian_Eno ;
-  dcterms:date "1998-01-01"^^xsd:date ;
-  dcterms:title "Brian Eno - Future Light Lounge Proposal Bonn 1998" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "4"^^xsd:int ;
-  rdfs:label "Brian Eno - Future Light Lounge Proposal Bonn 1998" ;
-  skos:prefLabel "Brian Eno - Future Light Lounge Proposal Bonn 1998" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#BryanFerry_Brussels_10.9.02>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Bryan_Ferry ;
-  dcterms:date "2002-10-09"^^xsd:date ;
-  dcterms:title "Bryan Ferry - Brussels 10.9.02" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/BryanFerry_Brussels_10.9.02.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Brussels" ;
-  bibliographica:locationVenue "Palais des Beaux-Arts" ;
-  bibliographica:performanceRating 4 ;
-  bibliographica:soundQualityValue "3"^^xsd:int ;
-  rdfs:label "Bryan Ferry - Brussels 10.9.02" ;
-  skos:prefLabel "Bryan Ferry - Brussels 10.9.02" ;
-.
-bibliographica:CarltonHaneyBluegrass_Roanoke
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:VariousBluegrass ;
-  dcterms:date "1965-09-01"^^xsd:date ;
-  dcterms:title "Carlton Haney Bluegrass Festival - Roanoke '65" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/CarltonHaneyBluegrass_Roanoke.txt"^^xsd:anyURI ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "5"^^xsd:int ;
-  rdfs:label "Carlton Haney Bluegrass Festival - Roanoke '65" ;
-  skos:prefLabel "Carlton Haney Bluegrass Festival - Roanoke '65" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#ColinHay_NYC_10.21.09>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Colin_Hay ;
-  dcterms:date "2009-10-21"^^xsd:date ;
-  dcterms:title "Colin Hay - NYC 10.21.09" ;
-  bibliographica:locationVenue "Anselmo Valencia Tori Amphitheatre" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "5"^^xsd:int ;
-  rdfs:label "Colin Hay - NYC 10.21.09" ;
-  skos:prefLabel "Colin Hay - NYC 10.21.09" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#DaveGreenTrioEvanParkerBBC_11.5.04>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Dave_Green ;
-  dcterms:creator bibliographica:Evan_Parker ;
-  dcterms:date "2004-11-05"^^xsd:date ;
-  dcterms:title "Dave Green Trio with Evan Parker - BBC 11.5.04" ;
-  bibliographica:infoFileURL "DaveGreenTrioEvan Parker_11.5.04.txt"^^xsd:anyURI ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "5"^^xsd:int ;
-  rdfs:label "Dave Green Trio with Evan Parker - BBC 11.5.04" ;
-  skos:prefLabel "Dave Green Trio with Evan Parker - BBC 11.5.04" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#DiMeola_Coryell_Lagrene_6.15.89>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Al_DiMeola ;
-  dcterms:creator bibliographica:Larry_Coryell ;
-  dcterms:date "1989-06-15"^^xsd:date ;
-  dcterms:title "DiMeola Coryell Lagrene 6.15.89" ;
-  bibliographica:locationVenue "Lagrene" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "5"^^xsd:int ;
-  rdfs:label "DiMeola Coryell Lagrene 6.15.89" ;
-  skos:prefLabel "DiMeola Coryell Lagrene 6.15.89" ;
-.
-bibliographica:Eno_Schwalm_Mt_Fuji_2001
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Brian_Eno ;
-  dcterms:creator bibliographica:Jan_Peter_Schwalm ;
-  dcterms:date "2001-10-13"^^xsd:date ;
-  dcterms:title "Eno & Schwalm - Mt Fuji 2001" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/Eno_Schwalm_Mt_Fuji_2001.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Fuji Rock Festival" ;
-  bibliographica:locationVenue "Naeba Ski Resort, Niigata" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "5"^^xsd:int ;
-  rdfs:label "Eno & Schwalm - Mt Fuji 2001" ;
-  skos:prefLabel "Eno & Schwalm - Mt Fuji 2001" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#HornsbyFleck_Kalamazoo_4.24.96>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Bela_Fleck ;
-  dcterms:creator bibliographica:Bruce_Hornsby ;
-  dcterms:date "1996-04-24"^^xsd:date ;
-  dcterms:title "Bruce Hornsby & Bela Fleck - Kalamazoo 4.24.96 sbd" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/HornsbyFleck_Kalamazoo_4.24.96.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Kalamazoo" ;
-  bibliographica:locationVenue "Miller Auditorium" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "5"^^xsd:int ;
-  rdfs:label "Bruce Hornsby & Bela Fleck - Kalamazoo 4.24.96 sbd" ;
-  skos:prefLabel "Bruce Hornsby & Bela Fleck - Kalamazoo 4.24.96 sbd" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#WeatherReport_London_11.16.80>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Weather_Report ;
-  dcterms:date "1980-11-16"^^xsd:date ;
-  dcterms:title "Weather Report London 11.16.80" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/Weather_Report_11.16.80.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Hammersmith Odeon" ;
-  bibliographica:locationVenue "London" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "5"^^xsd:int ;
-  rdfs:label "Weather Report London 11.16.80" ;
-  skos:prefLabel "Weather Report London 11.16.80" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#Weather_Report_6.26.82>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Weather_Report ;
-  dcterms:date "1982-06-26"^^xsd:date ;
-  dcterms:title "Weather Report  6.26.82" ;
-  bibliographica:locationVenue "unknown" ;
-  bibliographica:performanceRating 4 ;
-  bibliographica:soundQualityValue "4"^^xsd:int ;
-  rdfs:label "Weather Report  6.26.82" ;
-  skos:prefLabel "Weather Report  6.26.82" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#WhiteStripes_Boston_9.23.00>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:White_Stripes ;
-  dcterms:date "2000-09-23"^^xsd:date ;
-  dcterms:title "White Stripes Boston 9.23.00 fm" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/White_Stripes_Boston_9.23.00_fm.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Boston" ;
-  bibliographica:locationVenue "WMBR Radio Sessions" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "5"^^xsd:int ;
-  rdfs:label "White Stripes Boston 9.23.00 fm" ;
-  skos:prefLabel "White Stripes Boston 9.23.00 fm" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#Word_Boulder_1.14.02>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Word ;
-  dcterms:date "2002-01-14"^^xsd:date ;
-  dcterms:title "Word - Boulder 1.14.02" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/Word_Boulder_1.14.02.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Boulder" ;
-  bibliographica:locationVenue "Fox Theater" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "4"^^xsd:int ;
-  rdfs:label "Word - Boulder 1.14.02" ;
-  skos:prefLabel "Word - Boulder 1.14.02" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#Yardbirds_Cambridge_MA_6.1.03>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Yardbirds ;
-  dcterms:date "2003-06-01"^^xsd:date ;
-  dcterms:title "Yardbirds Cambridge MA 6.1.03 fm" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/Yardbirds_Cambridge_MA_6.1.03_fm.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Cambridge" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "5"^^xsd:int ;
-  rdfs:label "Yardbirds Cambridge MA 6.1.03 fm" ;
-  skos:prefLabel "Yardbirds Cambridge MA 6.1.03 fm" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#YoMiles_Fillmore_3.4.02>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:YoMiles ;
-  dcterms:date "2002-03-04"^^xsd:date ;
-  dcterms:title "Yo Miles - Fillmore 3.4.02" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/Yo_Miles_Fillmore_3.4.02.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Fillmore Auditorium" ;
-  bibliographica:locationVenue "San Francisco" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "5"^^xsd:int ;
-  rdfs:label "Yo Miles - Fillmore 3.4.02" ;
-  skos:prefLabel "Yo Miles - Fillmore 3.4.02" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#ZappaPlaysZappa_London_6.14.09>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:ZappaPlaysZappa ;
-  dcterms:date "2009-06-14"^^xsd:date ;
-  dcterms:title "Zappa Plays Zappa - London 6.14.09" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/Zappa_Plays_Zappa_London_6.14.09.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "London" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "4"^^xsd:int ;
-  rdfs:label "Zappa Plays Zappa - London 6.14.09" ;
-  skos:prefLabel "Zappa Plays Zappa - London 6.14.09" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#ZappaPlaysZappa_Milwaukee_8.22.09>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:ZappaPlaysZappa ;
-  dcterms:date "2009-08-22"^^xsd:date ;
-  dcterms:title "Zappa Plays Zappa - Milwaukee 8.22.09" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/Zappa_Plays_Zappa_Milwaukee_8.22.09.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Milwaukee" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "4"^^xsd:int ;
-  rdfs:label "Zappa Plays Zappa - Milwaukee 8.22.09" ;
-  skos:prefLabel "Zappa Plays Zappa - Milwaukee 8.22.09" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#Zappa_Ann_Arbor_12.3.67>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Frank_Zappa ;
-  dcterms:date "1967-12-03"^^xsd:date ;
-  dcterms:title "Zappa Ann Arbor 12.3.67 sbd" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/Zappa_Ann_Arbor_12.3.67_sbd.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Ann Arbor" ;
-  bibliographica:performanceRating 4 ;
-  bibliographica:soundQualityValue "3"^^xsd:int ;
-  rdfs:label "Zappa Ann Arbor 12.3.67 sbd" ;
-  skos:prefLabel "Zappa Ann Arbor 12.3.67 sbd" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#Zappa_Arlington_3.11.73>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Frank_Zappa ;
-  dcterms:date "1973-03-11"^^xsd:date ;
-  dcterms:title "Zappa Arlington 3.11.73" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/Zappa_Arlington_3.11.73.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Ann Arbor" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "5"^^xsd:int ;
-  rdfs:label "Zappa Arlington 3.11.73" ;
-  skos:prefLabel "Zappa Arlington 3.11.73" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#Zappa_Boston_11.9.74>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Frank_Zappa ;
-  dcterms:date "1974-11-09"^^xsd:date ;
-  dcterms:title "Zappa Boston 11.9.74 sbd" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/Zappa_Boston_11.9.74_sbd.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Boston" ;
-  bibliographica:performanceRating 4 ;
-  bibliographica:soundQualityValue "5"^^xsd:int ;
-  rdfs:label "Zappa Boston 11.9.74 sbd" ;
-  skos:prefLabel "Zappa Boston 11.9.74 sbd" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#Zappa_Fillmore_East_11.13.70>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Frank_Zappa ;
-  dcterms:date "1970-11-13"^^xsd:date ;
-  dcterms:title "Zappa Fillmore East 11.13.70" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/Zappa_Fillmore_East_11.13.70.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Fillmore East" ;
-  bibliographica:locationVenue "San Francisco" ;
-  bibliographica:performanceRating 4 ;
-  bibliographica:soundQualityValue "4"^^xsd:int ;
-  rdfs:label "Zappa Fillmore East 11.13.70" ;
-  skos:prefLabel "Zappa Fillmore East 11.13.70" ;
-.
-bibliographica:Zappa_Fillmore_West_66
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Frank_Zappa ;
-  dcterms:date "1966-06-01"^^xsd:date ;
-  dcterms:title "Zappa Fillmore West 66" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/Zappa_Fillmore_West_66.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Fillmore West" ;
-  bibliographica:locationVenue "San Francisco" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "4"^^xsd:int ;
-  rdfs:label "Zappa Fillmore West 66" ;
-  skos:prefLabel "Zappa Fillmore West 66" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#Zappa_Geneva_6.21.80>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Frank_Zappa ;
-  dcterms:date "1980-06-21"^^xsd:date ;
-  dcterms:title "Zappa Geneva 6.21.80 sbd" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/Zappa_Geneva_6.21.80_sbd.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Geneva" ;
-  bibliographica:locationVenue "Patinoire des Vernets" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "4"^^xsd:int ;
-  rdfs:label "Zappa Geneva 6.21.80 sbd" ;
-  skos:prefLabel "Zappa Geneva 6.21.80 sbd" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#Zappa_Los_Angeles_7.22.84>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Frank_Zappa ;
-  dcterms:date "1984-07-22"^^xsd:date ;
-  dcterms:title "Zappa Los Angeles 7.22.84 sbd" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/Zappa_Los Angeles_7.22.84_sbd.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Los Angeles" ;
-  bibliographica:locationVenue "Palace Theater" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "5"^^xsd:int ;
-  rdfs:label "Zappa Los Angeles 7.22.84 sbd" ;
-  skos:prefLabel "Zappa Los Angeles 7.22.84 sbd" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#Zappa_NYC_8.3.68>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Frank_Zappa ;
-  dcterms:date "1968-08-03"^^xsd:date ;
-  dcterms:title "Zappa NYC 8.3.68" ;
-  bibliographica:locationVenue "New York City" ;
-  bibliographica:performanceRating 4 ;
-  bibliographica:soundQualityValue "3"^^xsd:int ;
-  rdfs:label "Zappa NYC 8.3.68" ;
-  skos:prefLabel "Zappa NYC 8.3.68" ;
-.
-bibliographica:Zappa_Petit_Wazoo_Portland_72
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Frank_Zappa ;
-  dcterms:date "1972-01-01"^^xsd:date ;
-  dcterms:title "Zappa Petit Wazoo Portland 72" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/Zappa_Petit_Wazoo_Portland_72.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Portland" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "4"^^xsd:int ;
-  rdfs:comment "Plus an array of other shows in that era." ;
-  rdfs:label "Zappa Petit Wazoo Portland 72" ;
-  skos:prefLabel "Zappa Petit Wazoo Portland 72" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#Zappa_Stuttgart_5.24.88>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Frank_Zappa ;
-  dcterms:date "1988-05-24"^^xsd:date ;
-  dcterms:title "Zappa Stuttgart 5.24.88" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/Zappa_Stuttgart_5.24.88.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Stuttgart" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "4"^^xsd:int ;
-  rdfs:label "Zappa Stuttgart 5.24.88" ;
-  skos:prefLabel "Zappa Stuttgart 5.24.88" ;
-.
-<http://www.connaissance.io/onto/biblio/bibliographica#Zappa_Vancouver_BC_10.1.75>
-  rdf:type bibliographica:LiveMusicRec ;
-  dcterms:creator bibliographica:Frank_Zappa ;
-  dcterms:date "1975-10-01"^^xsd:date ;
-  dcterms:title "Zappa Vancouver BC 10.1.75" ;
-  bibliographica:infoFileURL "http://www.connaissance.io/onto/biblio/info/Zappa_Vancouver_BC_10.1.75.txt"^^xsd:anyURI ;
-  bibliographica:locationVenue "Vancouver" ;
-  bibliographica:locationVenue "War Memorial Gym" ;
-  bibliographica:performanceRating 5 ;
-  bibliographica:soundQualityValue "5"^^xsd:int ;
-  rdfs:label "Zappa Vancouver BC 10.1.75" ;
-  skos:prefLabel "Zappa Vancouver BC 10.1.75" ;
-.
+
 <http://www.connaissance.io/onto/biblio/boots>
-  rdf:type owl:Ontology ;
-  dcterms:modified "2019-09-12" ;
+  rdf:type dctype:Dataset ;
+  dcterms:modified "2022-10-20" ;
   schema:license "https://creativecommons.org/licenses/by-nc-sa/4.0/"^^xsd:anyURI ;
   schema:license "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode"^^xsd:anyURI ;
   dcterms:description "Live music event records, cataloged and serialized in RDF." ;
-  rdfs:comment "Event dates are at times expressed as xxxx-01-01 (xsd:date), or the first day of the year when no known event date is recorded in files."
+  rdfs:comment "Event dates are at times expressed as xxxx-01-01 (xsd:date), or the first day of the year when no known event date is recorded in files." ;
   owl:imports <http://www.connaissance.io/onto/biblio/MusicGroup> ;
   owl:imports <http://www.connaissance.io/onto/biblio/SoloMusicArtist> ;
   owl:imports <http://www.connaissance.io/onto/biblio/bibliographica> ;
-  owl:versionInfo "Developed by M Lane, Portland, Oregon" ;
-.
+  owl:versionInfo "Developed by M Lane, Portland, Oregon" .
+
+
+boots:Yardbirds_Cambridge_MA_6.1.03
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Yardbirds Cambridge MA 6.1.03 fm" ;
+        dcterms:creator               bibliographica:Yardbirds ;
+        dcterms:date                  "2003-06-01"^^xsd:date ;
+        dcterms:title                 "Yardbirds Cambridge MA 6.1.03 fm" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/Yardbirds_Cambridge_MA_6.1.03_fm.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Cambridge" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "5"^^xsd:int ;
+        skos:prefLabel                "Yardbirds Cambridge MA 6.1.03 fm" .
+
+boots:BrianEno_Music_for_Nile
+        a                           schema:MusicRelease ;
+        rdfs:label                  "Brian Eno Music for Nile" ;
+        dcterms:creator             bibliographica:Brian_Eno ;
+        dcterms:title               "Brian Eno Music for Nile" ;
+        bibliographica:infoFileURL  "http://www.connaissance.io/onto/biblio/info/BrianEno_Music_for_Nile.txt"^^xsd:anyURI ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "5"^^xsd:int ;
+        skos:prefLabel              "Brian Eno Music for Nile" .
+
+boots:Zappa_Boston_11.9.74
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Zappa Boston 11.9.74 sbd" ;
+        dcterms:creator               bibliographica:Frank_Zappa ;
+        dcterms:date                  "1974-11-09"^^xsd:date ;
+        dcterms:title                 "Zappa Boston 11.9.74 sbd" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/Zappa_Boston_11.9.74_sbd.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Boston" ;
+        bibliographica:performanceRating
+                4 ;
+        bibliographica:soundQualityValue
+                "5"^^xsd:int ;
+        skos:prefLabel                "Zappa Boston 11.9.74 sbd" .
+
+boots:AniDiFranco_Stockholm_3.2.99
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Ani DiFranco - Stockholm 3.2.99 fm" ;
+        dcterms:creator               bibliographica:Ani_DiFranco ;
+        dcterms:date                  "1999-03-02"^^xsd:date ;
+        dcterms:title                 "Ani DiFranco - Stockholm 3.2.99 fm" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/AniDiFranco_Stockholm_3.2.99.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Studion" , "Stockholm" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "5"^^xsd:int ;
+        skos:prefLabel                "Ani DiFranco - Stockholm 3.2.99 fm" .
+
+boots:AdrianBelew_WorldCafe_8.14.06
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Adrian Belew Power Trio World Cafe 8.14.06" ;
+        dcterms:creator               bibliographica:Adrian_Belew ;
+        dcterms:date                  "2006-08-14"^^xsd:date ;
+        dcterms:title                 "Adrian Belew Power Trio World Cafe 8.14.06" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/AdrianBelew_WorldCafe_8.14.06.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "World Cafe" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "4"^^xsd:int ;
+        skos:prefLabel                "Adrian Belew Power Trio World Cafe 8.14.06" .
+
+boots:Zappa_Los_Angeles_7.22.84
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Zappa Los Angeles 7.22.84 sbd" ;
+        dcterms:creator               bibliographica:Frank_Zappa ;
+        dcterms:date                  "1984-07-22"^^xsd:date ;
+        dcterms:title                 "Zappa Los Angeles 7.22.84 sbd" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/Zappa_Los Angeles_7.22.84_sbd.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Palace Theater" , "Los Angeles" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "5"^^xsd:int ;
+        skos:prefLabel                "Zappa Los Angeles 7.22.84 sbd" .
+
+boots:Al_Dimeola_World_Sinfonia_Tucson_2010
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Al Dimeola & World Sinfonia Tucson 2.18.10" ;
+        dcterms:creator               bibliographica:Al_DiMeola ;
+        dcterms:date                  "2010-02-18"^^xsd:date ;
+        dcterms:title                 "Al DiMeola - Tucson 2.18.10" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/Al_Dimeola_Tucson_2010.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Rialto Theater" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "3"^^xsd:int ;
+        skos:prefLabel                "Al Dimeola & World Sinfonia Tucson 2.18.10" .
+
+boots:Weather_Report_6.26.82
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Weather Report  6.26.82" ;
+        dcterms:creator               bibliographica:Weather_Report ;
+        dcterms:date                  "1982-06-26"^^xsd:date ;
+        dcterms:title                 "Weather Report  6.26.82" ;
+        bibliographica:locationVenue  "unknown" ;
+        bibliographica:performanceRating
+                4 ;
+        bibliographica:soundQualityValue
+                "4"^^xsd:int ;
+        skos:prefLabel                "Weather Report  6.26.82" .
+
+boots:BassDesires_Cambridge_1.22.85
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Bass Desires Cambridge, MA 1.22.85" ;
+        dcterms:creator               bibliographica:Bass_Desires ;
+        dcterms:date                  "1985-01-22"^^xsd:date ;
+        dcterms:title                 "Bass Desires Cambridge, MA 1.22.85" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/BassDesires_Cambridge_1.22.85.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Cambridge, MA" , "Ryles Jazz Club" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "4"^^xsd:int ;
+        skos:prefLabel                "Bass Desires Cambridge, MA 1.22.85" .
+
+boots:Zappa_Ann_Arbor_12.3.67
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Zappa Ann Arbor 12.3.67 sbd" ;
+        dcterms:creator               bibliographica:Frank_Zappa ;
+        dcterms:date                  "1967-12-03"^^xsd:date ;
+        dcterms:title                 "Zappa Ann Arbor 12.3.67 sbd" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/Zappa_Ann_Arbor_12.3.67_sbd.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Ann Arbor" ;
+        bibliographica:performanceRating
+                4 ;
+        bibliographica:soundQualityValue
+                "3"^^xsd:int ;
+        skos:prefLabel                "Zappa Ann Arbor 12.3.67 sbd" .
+
+boots:Björk_Glastonbury_6.22.07
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Björk Glastonbury Festival, UK 6.22.07" ;
+        dcterms:creator               bibliographica:Björk ;
+        dcterms:date                  "2007-06-22"^^xsd:date ;
+        dcterms:title                 "Björk - Glastonbury 2007" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/Bjork_Glastonbury_6.22.07.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Glastonbury, UK" , "Glastonbury Festival" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "5"^^xsd:int ;
+        skos:prefLabel                "Björk Glastonbury Festival, UK 6.22.07" .
+
+boots:Alejandro_Escovedo_Austin_3.18.10
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Alejandro Escovedo - Austin 3.18.10" ;
+        dcterms:creator               bibliographica:Alejandro_Escovedo ;
+        dcterms:date                  "2010-03-18"^^xsd:date ;
+        dcterms:title                 "Alejandro Escovedo - Austin 3.18.10" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/AlejandroEscovedo_Austin_3.18.10.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Gibson Room at Maggie Maes" , "Austin" ;
+        bibliographica:performanceRating
+                4 ;
+        bibliographica:soundQualityValue
+                "4"^^xsd:int ;
+        skos:prefLabel                "Alejandro Escovedo - Austin 3.18.10" .
+
+boots:Zappa_Fillmore_East_11.13.70
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Zappa Fillmore East 11.13.70" ;
+        dcterms:creator               bibliographica:Frank_Zappa ;
+        dcterms:date                  "1970-11-13"^^xsd:date ;
+        dcterms:title                 "Zappa Fillmore East 11.13.70" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/Zappa_Fillmore_East_11.13.70.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "San Francisco" , "Fillmore East" ;
+        bibliographica:performanceRating
+                4 ;
+        bibliographica:soundQualityValue
+                "4"^^xsd:int ;
+        skos:prefLabel                "Zappa Fillmore East 11.13.70" .
+
+boots:AcousticAllstars_Alexandria_1.23.88
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Acoustic Allstars Alexandria, VA 1.23.88" ;
+        dcterms:creator               bibliographica:Acoustic_Allstars ;
+        dcterms:date                  "1988-01-23"^^xsd:date ;
+        dcterms:title                 "Acoustic Allstars Alexandria, VA 1.23.88" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/AcousticAllstars_Alexandria.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Alexandria, VA" , "The Birchmere" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "5"^^xsd:int ;
+        skos:prefLabel                "Acoustic Allstars Alexandria, VA 1.23.88" .
+
+boots:AdrianBelew_Carrboro_06.05.08
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Adrian Belew Power Trio Carrboro NC 06.05.08" ;
+        dcterms:creator               bibliographica:Adrian_Belew ;
+        dcterms:date                  "2008-06-05"^^xsd:date ;
+        dcterms:title                 "Adrian Belew Power Trio Carrboro NC 06.05.08" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/AdrianBelew_Carrboro_06.05.08.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "The Cat's Cradle" , "Carrboro" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "3"^^xsd:int ;
+        skos:prefLabel                "Adrian Belew Power Trio Carrboro NC 06.05.08" .
+
+boots:Barenberg_Bush_Douglas_Meyer_Greenville_1.18.92_dsbd
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Barenberg Bush Douglas Meyer Greenville 1.18.92 dsbd" ;
+        dcterms:creator               bibliographica:Maura_OConnell , bibliographica:Barenberg_Bush_Douglas_Meyer ;
+        dcterms:date                  "1992-01-18"^^xsd:date ;
+        dcterms:title                 "Barenberg Bush Douglas Meyer with Maura O'Connell 1992-01-18 Peace Center Greenville SC DSBD" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/BarenbergBushDouglasMeyer_Greenville_1.18.92.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Peace Center " , "Greenville SC" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "5"^^xsd:int ;
+        skos:prefLabel                "Barenberg Bush Douglas Meyer Greenville 1.18.92 dsbd" .
+
+boots:B-52s_Amsterdam_11.17.79
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "B-52s Amsterdam 11.17.79" ;
+        dcterms:creator               bibliographica:B-52s ;
+        dcterms:date                  "1979-11-17"^^xsd:date ;
+        dcterms:title                 "B-52s Amsterdam 11.17.79" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/B-52s_Amsterdam_11.17.79.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Amsterdam" , "Paradiso" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "5"^^xsd:int ;
+        skos:prefLabel                "B-52s Amsterdam 11.17.79" .
+
+boots:Bjork_Barcelona_11.4.01
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Björk Barcelona 11.4.01" ;
+        dcterms:creator               bibliographica:Björk ;
+        dcterms:date                  "2001-11-04"^^xsd:date ;
+        dcterms:title                 "Björk - Barcelona 11.4.01" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/Bjork_Barcelona_11.4.01.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Barcelona Spain" , "El Liceu" ;
+        bibliographica:performanceRating
+                4 ;
+        bibliographica:soundQualityValue
+                "3"^^xsd:int ;
+        skos:prefLabel                "Björk Barcelona 11.4.01" .
+
+boots:Alison_Krauss_Palo_Alto_8.29.90
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Alison Krauss - Palo Alto 8.29.90" ;
+        dcterms:creator               bibliographica:Alison_Krauss ;
+        dcterms:date                  "1990-08-29"^^xsd:date ;
+        dcterms:title                 "Alison Krauss - Palo Alto 8.29.90" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/Alison_Krauss_Palo_Alto_8.29.90.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Palo Alto" , "Palo Alto Unitarian Church" ;
+        bibliographica:performanceRating
+                4 ;
+        bibliographica:soundQualityValue
+                "3"^^xsd:int .
+
+boots:AbdullahIbrahim_Montreux_7.15.88
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Abdullah Ibrahim Montreux 7.15.88 FM" ;
+        dcterms:creator               bibliographica:Abdullah_Ibrahim ;
+        dcterms:date                  "1988-07-15"^^xsd:date ;
+        dcterms:title                 "Abdullah Ibrahim Montreux 7.15.88 FM" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/Abdullah_Ibrahim_Montreux_7.15.88.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Casino" , "Montreux Jazz Festival" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "4"^^xsd:int .
+
+boots:BrianEno_Amsterdam_6.20.99
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Brian Eno - Amsterdam 6.20.99 fm" ;
+        dcterms:creator               bibliographica:Brian_Eno ;
+        dcterms:date                  "1999-06-20"^^xsd:date ;
+        dcterms:title                 "Brian Eno - Amsterdam 6.20.99 fm" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/BrianEno_Amsterdam_6.20.99.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Paradiso" , "Amsterdam" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "5"^^xsd:int ;
+        skos:prefLabel                "Brian Eno - Amsterdam 6.20.99 fm" .
+
+boots:Word_Boulder_1.14.02
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Word - Boulder 1.14.02" ;
+        dcterms:creator               bibliographica:Word ;
+        dcterms:date                  "2002-01-14"^^xsd:date ;
+        dcterms:title                 "Word - Boulder 1.14.02" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/Word_Boulder_1.14.02.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Boulder" , "Fox Theater" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "4"^^xsd:int ;
+        skos:prefLabel                "Word - Boulder 1.14.02" .
+
+boots:AdrianBelew_Buffalo_8.11.06
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Adrian Belew Buffalo 8.11.06" ;
+        dcterms:creator               bibliographica:Adrian_Belew ;
+        dcterms:date                  "2006-08-11"^^xsd:date ;
+        dcterms:title                 "Adrian Belew Buffalo 8.11.06" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/AdrianBelew_Buffalo_8.11.06.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Buffalo" , "The Buffalo Icon" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "5"^^xsd:int ;
+        skos:prefLabel                "Adrian Belew Buffalo 8.11.06" .
+
+boots:ArtZoyd_Stockholm_3.10.79
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Art Zoyd - Stockholm 3.10.79" ;
+        dcterms:creator               bibliographica:Art_Zoyd ;
+        dcterms:date                  "1979-03-10"^^xsd:date ;
+        dcterms:title                 "Art Zoyd - Stockholm 3.10.79" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/ArtZoyd_Stockholm_3.10.79.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Cotuit, MA" , "Cotuit Center For The Arts" ;
+        bibliographica:performanceRating
+                4 ;
+        bibliographica:soundQualityValue
+                "5"^^xsd:int ;
+        skos:prefLabel                "Art Zoyd - Stockholm 3.10.79" .
+
+boots:DaveGreenTrioEvanParkerBBC_11.5.04
+        a                           bibliographica:LiveMusicRec ;
+        rdfs:label                  "Dave Green Trio with Evan Parker - BBC 11.5.04" ;
+        dcterms:creator             bibliographica:Dave_Green , bibliographica:Evan_Parker ;
+        dcterms:date                "2004-11-05"^^xsd:date ;
+        dcterms:title               "Dave Green Trio with Evan Parker - BBC 11.5.04" ;
+        bibliographica:infoFileURL  "DaveGreenTrioEvan Parker_11.5.04.txt"^^xsd:anyURI ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "5"^^xsd:int ;
+        skos:prefLabel              "Dave Green Trio with Evan Parker - BBC 11.5.04" .
+
+boots:BillyBragg_Arcore_1987
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Billy Bragg - Arcore 1987" ;
+        dcterms:creator               bibliographica:Billy_Bragg ;
+        dcterms:date                  "1987-10-16"^^xsd:date ;
+        dcterms:title                 "Billy Bragg - Arcore 1987" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/BillyBragg_Arcore_1987.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Milano, Italy" , "Arcore" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "3"^^xsd:int ;
+        skos:prefLabel                "Billy Bragg - Arcore 1987" .
+
+boots:Zappa_Arlington_3.11.73
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Zappa Arlington 3.11.73" ;
+        dcterms:creator               bibliographica:Frank_Zappa ;
+        dcterms:date                  "1973-03-11"^^xsd:date ;
+        dcterms:title                 "Zappa Arlington 3.11.73" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/Zappa_Arlington_3.11.73.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Ann Arbor" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "5"^^xsd:int ;
+        skos:prefLabel                "Zappa Arlington 3.11.73" .
+
+boots:Zappa_Vancouver_BC_10.1.75
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Zappa Vancouver BC 10.1.75" ;
+        dcterms:creator               bibliographica:Frank_Zappa ;
+        dcterms:date                  "1975-10-01"^^xsd:date ;
+        dcterms:title                 "Zappa Vancouver BC 10.1.75" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/Zappa_Vancouver_BC_10.1.75.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Vancouver" , "War Memorial Gym" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "5"^^xsd:int ;
+        skos:prefLabel                "Zappa Vancouver BC 10.1.75" .
+
+boots:Zappa_Petit_Wazoo_Portland_72
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:comment                  "Plus an array of other shows in that era." ;
+        rdfs:label                    "Zappa Petit Wazoo Portland 72" ;
+        dcterms:creator               bibliographica:Frank_Zappa ;
+        dcterms:date                  "1972-01-01"^^xsd:date ;
+        dcterms:title                 "Zappa Petit Wazoo Portland 72" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/Zappa_Petit_Wazoo_Portland_72.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Portland" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "4"^^xsd:int ;
+        skos:prefLabel                "Zappa Petit Wazoo Portland 72" .
+
+boots:AdrianBelew_Boston_7.18.89
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Adrian Belew Boston 7.18.89" ;
+        dcterms:creator               "Adrian Belew" ;
+        dcterms:creator               bibliographica:Adrian_Belew ;
+        dcterms:date                  "1989-07-18"^^xsd:date ;
+        dcterms:title                 "Adrian Belew Boston 7.18.89" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/AdrianBelew_Boston_7.18.89.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Boston" , "Paradise Theatre" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "4"^^xsd:int ;
+        skos:prefLabel                "Adrian Belew Boston 7.18.89" .
+
+boots:AlejandroEscovedo_6.24.06
+        a                           bibliographica:LiveMusicRec ;
+        rdfs:label                  "Alejandro Escovedo 6.24.06" ;
+        dcterms:creator             bibliographica:Alejandro_Escovedo ;
+        dcterms:date                "2006-06-24"^^xsd:date ;
+        dcterms:title               "Alejandro Escovedo 6.24.06" ;
+        bibliographica:infoFileURL  "http://www.connaissance.io/onto/biblio/info/AlejandroEscovedo_6.24.06.txt"^^xsd:anyURI ;
+        bibliographica:performanceRating
+                4 ;
+        bibliographica:soundQualityValue
+                "4"^^xsd:int ;
+        skos:prefLabel              "Alejandro Escovedo 6.24.06" .
+
+boots:AdrianBelew_School_Of_Rock
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Adrian Belew School Of Rock Falls Church VA 02.10.06" ;
+        dcterms:creator               bibliographica:Adrian_Belew ;
+        dcterms:date                  "2006-02-10"^^xsd:date ;
+        dcterms:title                 "Adrian Belew School Of Rock Falls Church VA 02.10.06" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/AdrianBelew_School_Of_Rock.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "The State Theatre" ;
+        bibliographica:performanceRating
+                4 ;
+        bibliographica:soundQualityValue
+                "4"^^xsd:int ;
+        skos:prefLabel                "Adrian Belew School Of Rock Falls Church VA 02.10.06" .
+
+boots:BenFolds_Tuscon_8.5.03
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Ben Folds - Tuscon 8.5.03" ;
+        dcterms:creator               bibliographica:Ben_Folds ;
+        dcterms:date                  "1989-01-01"^^xsd:date ;
+        dcterms:title                 "Ben Folds - Tuscon 8.5.03" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/BenFolds_Tuscon_8.5.03.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Anselmo Valencia Tori Amphitheatre" , "Tuscon" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "5"^^xsd:int ;
+        skos:prefLabel                "Ben Folds - Tuscon 8.5.03" .
+
+boots:Ahmad_Jamal_Ramatuelle_8.16.04
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Ahmad Jamal - Ramatuelle 8.16.04 fm" ;
+        dcterms:creator               bibliographica:Ahmad_Jamal ;
+        dcterms:date                  "2004-08-16"^^xsd:date ;
+        dcterms:title                 "Ahmad Jamal - Ramatuelle 8.16.04" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/Ahmad_Jamal_Ramatuelle_8.16.04.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Théâtre de Verdure" , "Ramatuelle, France" , "Ramatuelle Jazz Festival" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "5"^^xsd:int .
+
+boots:AndreCeccarelli_Vienna
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "André Ceccarelli - Vienna 04" ;
+        dcterms:creator               bibliographica:Andre_Ceccarelli ;
+        dcterms:date                  "2004-01-01"^^xsd:date ;
+        dcterms:title                 "André Ceccarelli - Vienna 04" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/AndreCeccarelli_Vienna.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Jazz A Vienne" , "Vienna" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "5"^^xsd:int ;
+        skos:prefLabel                "André Ceccarelli - Vienna 04" .
+
+boots:BigAudioDynamite_Modeno_5.26.87
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Big Audio Dynamite Modeno 5.26.87" ;
+        dcterms:creator               bibliographica:Big_Audio_Dynamite ;
+        dcterms:date                  "1987-05-29"^^xsd:date ;
+        dcterms:title                 "Big Audio Dynamite Modeno 5.26.87" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/BigAudioDynamite_Modeno_5.26.87.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Modena, Italy" , "Stadio Comunale" ;
+        bibliographica:performanceRating
+                4 ;
+        bibliographica:soundQualityValue
+                "2"^^xsd:int ;
+        skos:prefLabel                "Big Audio Dynamite Modeno 5.26.87" .
+
+boots:AdrianBelew_Cotuit_9.3.09
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Adrian Belew Power Trio; Cotuit, MA 9.3.09" ;
+        dcterms:creator               bibliographica:Adrian_Belew ;
+        dcterms:date                  "2009-09-03"^^xsd:date ;
+        dcterms:title                 "Adrian Belew Power Trio, Cotuit MA 9.3.09" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/AdrianBelew_Cotuit_9.3.09.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Cotuit, MA" , "Cotuit Center For The Arts" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "3"^^xsd:int ;
+        skos:prefLabel                "Adrian Belew Power Trio; Cotuit, MA 9.3.09" .
+
+boots:CarltonHaneyBluegrass_Roanoke
+        a                           bibliographica:LiveMusicRec ;
+        rdfs:label                  "Carlton Haney Bluegrass Festival - Roanoke '65" ;
+        dcterms:creator             bibliographica:VariousBluegrass ;
+        dcterms:date                "1965-09-01"^^xsd:date ;
+        dcterms:title               "Carlton Haney Bluegrass Festival - Roanoke '65" ;
+        bibliographica:infoFileURL  "http://www.connaissance.io/onto/biblio/info/CarltonHaneyBluegrass_Roanoke.txt"^^xsd:anyURI ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "5"^^xsd:int ;
+        skos:prefLabel              "Carlton Haney Bluegrass Festival - Roanoke '65" .
+
+boots:AdrianBelew_Buffalo_6.17.05
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Adrian Belew Buffalo 6.17.05" ;
+        dcterms:creator               bibliographica:Adrian_Belew ;
+        dcterms:date                  "2005-06-17"^^xsd:date ;
+        dcterms:title                 "Adrian Belew Buffalo 6.17.05" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/AdrianBelew_Buffalo_6.17.05.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Buffalo" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "4"^^xsd:int ;
+        skos:prefLabel                "Adrian Belew Buffalo 6.17.05" .
+
+boots:AdrianBelew_Milwaukee_10.23.93
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Adrian Belew (solo acoustic) Milwaukee 10.23.93" ;
+        dcterms:creator               bibliographica:Adrian_Belew ;
+        dcterms:date                  "1993-10-23"^^xsd:date ;
+        dcterms:title                 "Adrian Belew (solo acoustic) Milwaukee 10.23.93" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/AdrianBelew_Milwaukee_10.23.93.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Shank Hall" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "4"^^xsd:int ;
+        skos:prefLabel                "Adrian Belew (solo acoustic) Milwaukee 10.23.93" .
+
+boots:AlbertCollins_Hollywood_5.10.87
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Albert Collins Hollywood 5.10.87" ;
+        dcterms:creator               bibliographica:Albert_Collins ;
+        dcterms:date                  "1987-05-10"^^xsd:date ;
+        dcterms:title                 "Albert Collins Hollywood 5.10.87" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/AlbertCollins_Hollywood_5.10.87.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Ford Theatre" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "4"^^xsd:int ;
+        skos:prefLabel                "Albert Collins Hollywood 5.10.87" .
+
+boots:Zappa_Geneva_6.21.80
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Zappa Geneva 6.21.80 sbd" ;
+        dcterms:creator               bibliographica:Frank_Zappa ;
+        dcterms:date                  "1980-06-21"^^xsd:date ;
+        dcterms:title                 "Zappa Geneva 6.21.80 sbd" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/Zappa_Geneva_6.21.80_sbd.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Patinoire des Vernets" , "Geneva" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "4"^^xsd:int ;
+        skos:prefLabel                "Zappa Geneva 6.21.80 sbd" .
+
+boots:YoMiles_Fillmore_3.4.02
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Yo Miles - Fillmore 3.4.02" ;
+        dcterms:creator               bibliographica:YoMiles ;
+        dcterms:date                  "2002-03-04"^^xsd:date ;
+        dcterms:title                 "Yo Miles - Fillmore 3.4.02" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/Yo_Miles_Fillmore_3.4.02.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Fillmore Auditorium" , "San Francisco" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "5"^^xsd:int ;
+        skos:prefLabel                "Yo Miles - Fillmore 3.4.02" .
+
+boots:Al_DiMeola_Montreal_1988
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Al DiMeola Project - Montreal 7.88 fm" ;
+        dcterms:creator               bibliographica:Al_DiMeola ;
+        dcterms:date                  "1988-07-01"^^xsd:date ;
+        dcterms:title                 "Al DiMeola Project - Montreal 7.88 fm" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/Al_DiMeola_Montreal_1988.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Jazzfest Montreal" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "5"^^xsd:int ;
+        skos:prefLabel                "Al DiMeola Project - Montreal 7.88 fm" .
+
+boots:ZappaPlaysZappa_London_6.14.09
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Zappa Plays Zappa - London 6.14.09" ;
+        dcterms:creator               bibliographica:ZappaPlaysZappa ;
+        dcterms:date                  "2009-06-14"^^xsd:date ;
+        dcterms:title                 "Zappa Plays Zappa - London 6.14.09" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/Zappa_Plays_Zappa_London_6.14.09.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "London" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "4"^^xsd:int ;
+        skos:prefLabel                "Zappa Plays Zappa - London 6.14.09" .
+
+boots:Albion_Country_Band_w_Richard_Linda_London_12.29.72
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Albion Country Band w Richard & Linda - London 12.29.72" ;
+        dcterms:creator               bibliographica:Linda_Thompson , bibliographica:Richard_Thompson , bibliographica:Albion_Country_Band ;
+        dcterms:date                  "1972-12-29"^^xsd:date ;
+        dcterms:title                 "Albion Country Band w Richard & Linda - London 12.29.72" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/Albion_Country_Band_w_Richard_Linda_London_12.29.72.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "London" , "The Howff, Chalk Farm" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "3"^^xsd:int ;
+        skos:prefLabel                "Albion Country Band w Richard & Linda - London 12.29.72" .
+
+boots:AllanHoldsworth_Miami
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Allan Holdsworth - Miami 89 sbd" ;
+        dcterms:creator               bibliographica:Allan_Holdsworth ;
+        dcterms:date                  "1989-01-01"^^xsd:date ;
+        dcterms:title                 "Allan Holdsworth - Miami 89 sbd" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/AllanHoldsworth_Miami.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Miami" ;
+        bibliographica:performanceRating
+                4 ;
+        bibliographica:soundQualityValue
+                "4"^^xsd:int ;
+        skos:prefLabel                "Allan Holdsworth - Miami 89 sbd" .
+
+boots:Al_DiMeola_Denver_9.29.80
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Al Dimeola Netherlands 1987" ;
+        dcterms:creator               bibliographica:Al_DiMeola ;
+        dcterms:date                  "1980-09-29"^^xsd:date ;
+        dcterms:title                 "Al DiMeola Denver 9.29.80" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/Al_DiMeola_Denver_9.29.80.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Netherlands" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "5"^^xsd:int ;
+        skos:prefLabel                "Al Dimeola Netherlands 1987" .
+
+boots:Zappa_Fillmore_West_66
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Zappa Fillmore West 66" ;
+        dcterms:creator               bibliographica:Frank_Zappa ;
+        dcterms:date                  "1966-06-01"^^xsd:date ;
+        dcterms:title                 "Zappa Fillmore West 66" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/Zappa_Fillmore_West_66.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Fillmore West" , "San Francisco" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "4"^^xsd:int ;
+        skos:prefLabel                "Zappa Fillmore West 66" .
+
+boots:BassDesires_Bochum_2.16.86
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Bass Desires Bochum, Germany 2.16.86" ;
+        dcterms:creator               bibliographica:Bass_Desires ;
+        dcterms:date                  "1986-02-16"^^xsd:date ;
+        dcterms:title                 "Bass Desires Bochum, Germany 2.16.86" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/BassDesires_Bochum_2.16.86.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Bochum, Germany" , "Güter-Bahnhof Langendreer" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "5"^^xsd:int ;
+        skos:prefLabel                "Bass Desires Bochum, Germany 2.16.86" .
+
+boots:AdrianBelew_Farmington_7.19.05
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Adrian Belew Farmington, NY 7.19.05" ;
+        dcterms:creator               "Adrian_Belew" ;
+        dcterms:creator               bibliographica:Adrian_Belew ;
+        dcterms:date                  "2005-07-19"^^xsd:date ;
+        dcterms:title                 "Adrian Belew Farmington NY 7.19.05" ;
+        bibliographica:locationVenue  "Farmington, NY" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "4"^^xsd:int ;
+        skos:prefLabel                "Adrian Belew Farmington NY 7.19.05" .
+
+boots:BassDesires_Münster_2.20.87
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Bass Desires Münster, Germany 2.20.87" ;
+        dcterms:creator               bibliographica:Bass_Desires ;
+        dcterms:date                  "1987-02-20"^^xsd:date ;
+        dcterms:title                 "Bass Desires Münster, Germany 2.20.87" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/BassDesires_M%C3%BCnster_2.20.87.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Jugendzentrum Am Berg Fidel" , "Münster, Germany" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "5"^^xsd:int ;
+        skos:prefLabel                "Bass Desires Münster, Germany 2.20.87" .
+
+boots:Adalberto_Alvarez_Y_Su_Son
+        dcterms:creator  bibliographica:Adalberto_Alvarez_Y_Su_Son .
+
+boots:WeatherReport_London_11.16.80
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Weather Report London 11.16.80" ;
+        dcterms:creator               bibliographica:Weather_Report ;
+        dcterms:date                  "1980-11-16"^^xsd:date ;
+        dcterms:title                 "Weather Report London 11.16.80" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/Weather_Report_11.16.80.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Hammersmith Odeon" , "London" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "5"^^xsd:int ;
+        skos:prefLabel                "Weather Report London 11.16.80" .
+
+boots:HornsbyFleck_Kalamazoo_4.24.96
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Bruce Hornsby & Bela Fleck - Kalamazoo 4.24.96 sbd" ;
+        dcterms:creator               bibliographica:Bela_Fleck , bibliographica:Bruce_Hornsby ;
+        dcterms:date                  "1996-04-24"^^xsd:date ;
+        dcterms:title                 "Bruce Hornsby & Bela Fleck - Kalamazoo 4.24.96 sbd" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/HornsbyFleck_Kalamazoo_4.24.96.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Miller Auditorium" , "Kalamazoo" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "5"^^xsd:int ;
+        skos:prefLabel                "Bruce Hornsby & Bela Fleck - Kalamazoo 4.24.96 sbd" .
+
+boots:WhiteStripes_Boston_9.23.00
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "White Stripes Boston 9.23.00 fm" ;
+        dcterms:creator               bibliographica:White_Stripes ;
+        dcterms:date                  "2000-09-23"^^xsd:date ;
+        dcterms:title                 "White Stripes Boston 9.23.00 fm" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/White_Stripes_Boston_9.23.00_fm.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Boston" , "WMBR Radio Sessions" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "5"^^xsd:int ;
+        skos:prefLabel                "White Stripes Boston 9.23.00 fm" .
+
+boots:BryanFerry_Brussels_10.9.02
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Bryan Ferry - Brussels 10.9.02" ;
+        dcterms:creator               bibliographica:Bryan_Ferry ;
+        dcterms:date                  "2002-10-09"^^xsd:date ;
+        dcterms:title                 "Bryan Ferry - Brussels 10.9.02" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/BryanFerry_Brussels_10.9.02.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Brussels" , "Palais des Beaux-Arts" ;
+        bibliographica:performanceRating
+                4 ;
+        bibliographica:soundQualityValue
+                "3"^^xsd:int ;
+        skos:prefLabel                "Bryan Ferry - Brussels 10.9.02" .
+
+boots:AdrianBelew_TheBears_Philadelphia_5.5.88
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Adrian Belew & The Bears Philadelphia 5.5.88" ;
+        dcterms:creator               bibliographica:The_Bears , bibliographica:Adrian_Belew ;
+        dcterms:date                  "1988-05-05"^^xsd:date ;
+        dcterms:title                 "Adrian Belew & The Bears Philadelphia 5.5.88" ;
+        bibliographica:byArtist       bibliographica:The_Bears ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/AdrianBelewBears_Philadelphia_5.5.88.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Philadelphia" , "Chestnut Cabaret" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "4"^^xsd:int ;
+        skos:prefLabel                "Adrian Belew & The Bears Philadelphia 5.5.88" .
+
+boots:ColinHay_NYC_10.21.09
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Colin Hay - NYC 10.21.09" ;
+        dcterms:creator               bibliographica:Colin_Hay ;
+        dcterms:date                  "2009-10-21"^^xsd:date ;
+        dcterms:title                 "Colin Hay - NYC 10.21.09" ;
+        bibliographica:locationVenue  "Anselmo Valencia Tori Amphitheatre" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "5"^^xsd:int ;
+        skos:prefLabel                "Colin Hay - NYC 10.21.09" .
+
+boots:AdrianBelew_LoneRhino_Outtakes
+        a                           bibliographica:LiveMusicRec ;
+        rdfs:label                  "Adrian Belew Lone Rhino Outtakes" ;
+        dcterms:creator             bibliographica:Adrian_Belew ;
+        dcterms:title               "Adrian Belew Lone Rhino Outtakes" ;
+        bibliographica:infoFileURL  "http://www.connaissance.io/onto/biblio/info/AdrianBelew_LoneRhino_Outtakes.txt"^^xsd:anyURI ;
+        bibliographica:performanceRating
+                3 ;
+        bibliographica:soundQualityValue
+                "3"^^xsd:int ;
+        skos:prefLabel              "Adrian Belew Lone Rhino Outtakes" .
+
+boots:Bjork_NYC_1993
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Björk - NYC 1993" ;
+        dcterms:creator               bibliographica:Björk ;
+        dcterms:date                  "1993-01-01"^^xsd:date ;
+        dcterms:title                 "Björk - NYC 1993" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/Bjork_NYC_1993.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "New York City" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "5"^^xsd:int ;
+        skos:prefLabel                "Björk - NYC 1993" .
+
+boots:AlexChilton_Dornbirn_2.14.88
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Alex Chilton Dornbirn, Austria (fm) 2.14.88" ;
+        dcterms:creator               bibliographica:Alex_Chilton ;
+        dcterms:date                  "1988-02-14"^^xsd:date ;
+        dcterms:title                 "Alex Chilton Dornbirn, Austria (fm) 2.14.88" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/AlexChilton_Dornbirn_2.14.88.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Spielboden" , "Dornbirn, Austria" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "5"^^xsd:int ;
+        skos:prefLabel                "Alex Chilton Dornbirn, Austria (fm) 2.14.88" .
+
+boots:BrianEno_DavidByrne_Ghosts
+        a                           schema:MusicRelease ;
+        rdfs:label                  "Brian Eno & David Byrne - Ghosts" ;
+        dcterms:creator             bibliographica:David_Byrne , bibliographica:Brian_Eno ;
+        dcterms:title               "Brian Eno & David Byrne - Ghosts" ;
+        bibliographica:infoFileURL  "http://www.connaissance.io/onto/biblio/info/BrianEno_DavidByrne_Ghosts.txt"^^xsd:anyURI ;
+        bibliographica:performanceRating
+                4 ;
+        bibliographica:soundQualityValue
+                "4"^^xsd:int ;
+        skos:prefLabel              "Brian Eno & David Byrne - Ghosts" .
+
+boots:AdrianBelew_Lugano_10.18.08
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Adrian Belew Power Trio Lugano 10.18.08" ;
+        dcterms:creator               bibliographica:Adrian_Belew ;
+        dcterms:date                  "2008-10-18"^^xsd:date ;
+        dcterms:title                 "Adrian Belew Power Trio Lugano 10.18.08" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/AdrianBelew_Lugano_10.18.08.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Besso RSI Auditorio SM" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "5"^^xsd:int ;
+        skos:prefLabel                "Adrian Belew Power Trio Lugano 10.18.08" .
+
+boots:Bjork_Aarhus_9.9.93
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Björk - Aarhus 9.9.93" ;
+        dcterms:creator               bibliographica:Björk ;
+        dcterms:date                  "1993-09-09"^^xsd:date ;
+        dcterms:title                 "Björk - Aarhus 9.9.93" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/Bjork_Aarhus_9.9.93.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Aarhus, Denmark" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "5"^^xsd:int ;
+        skos:prefLabel                "Björk - Aarhus 9.9.93" .
+
+boots:BrianEno_Music_for_Prague
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Brian Eno - Music for Prague" ;
+        dcterms:creator               bibliographica:Brian_Eno ;
+        dcterms:date                  "1998-04-12"^^xsd:date , "1998-04-14"^^xsd:date ;
+        dcterms:title                 "Brian Eno - Music for Prague" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/BrianEno_Music_for_Prague.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Nova Sin Gallery" , "Prague" ;
+        bibliographica:performanceRating
+                4 ;
+        bibliographica:soundQualityValue
+                "4"^^xsd:int ;
+        skos:prefLabel                "Brian Eno - Music for Prague" .
+
+boots:Brian_Eno_Future_Light
+        a                bibliographica:LiveMusicRec ;
+        rdfs:label       "Brian Eno - Future Light Lounge Proposal Bonn 1998" ;
+        dcterms:creator  bibliographica:Brian_Eno ;
+        dcterms:date     "1998-01-01"^^xsd:date ;
+        dcterms:title    "Brian Eno - Future Light Lounge Proposal Bonn 1998" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "4"^^xsd:int ;
+        skos:prefLabel   "Brian Eno - Future Light Lounge Proposal Bonn 1998" .
+
+boots:BrianEno_Music_for_Glitterbug
+        a                           schema:MusicRelease ;
+        rdfs:comment                "Also released as Eno's \"Spinner\" album by Jah Wobble." ;
+        rdfs:label                  "Brian Eno - Music for Glitterbug" ;
+        dcterms:creator             bibliographica:Brian_Eno ;
+        dcterms:title               "Brian Eno - Music for Glitterbug" ;
+        bibliographica:infoFileURL  "http://www.connaissance.io/onto/biblio/info/BrianEno_Music_for_Glitterbug.txt"^^xsd:anyURI ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "5"^^xsd:int ;
+        skos:prefLabel              "Brian Eno - Music for Glitterbug" .
+
+boots:AdrianBelew_Vienna_VA_3.15.08
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Adrian Belew Vienna VA 3.15.08" ;
+        dcterms:creator               bibliographica:Adrian_Belew ;
+        dcterms:date                  "2008-03-15"^^xsd:date ;
+        dcterms:title                 "Adrian Belew Vienna VA 3.15.08" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/AdrianBelew_Vienna_3.15.08.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Jammin' Java" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "4"^^xsd:int ;
+        skos:prefLabel                "Adrian Belew Vienna VA 3.15.08" .
+
+boots:Beausoleil_NOLA_Jazz_Fest_4.29.04
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Beausoleil NOLA Jazz Fest 4.29.04" ;
+        dcterms:creator               bibliographica:BeauSoleil ;
+        dcterms:date                  "2004-04-29"^^xsd:date ;
+        dcterms:description           "Beausoleil NOLA Jazz Fest 4.29.04" ;
+        dcterms:title                 "Beausoleil NOLA Jazz Fest 4.29.04" ;
+        bibliographica:locationVenue  "New Orleans" , "Jazz Fest" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "5"^^xsd:int ;
+        skos:prefLabel                "Beausoleil NOLA Jazz Fest 4.29.04" .
+
+boots:Zappa_NYC_8.3.68
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Zappa NYC 8.3.68" ;
+        dcterms:creator               bibliographica:Frank_Zappa ;
+        dcterms:date                  "1968-08-03"^^xsd:date ;
+        dcterms:title                 "Zappa NYC 8.3.68" ;
+        bibliographica:locationVenue  "New York City" ;
+        bibliographica:performanceRating
+                4 ;
+        bibliographica:soundQualityValue
+                "3"^^xsd:int ;
+        skos:prefLabel                "Zappa NYC 8.3.68" .
+
+boots:AndrewBird_Newport_7.31.10
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Andrew Bird - Newport 7.31.10" ;
+        dcterms:creator               bibliographica:Andrew_Bird ;
+        dcterms:date                  "2010-07-31"^^xsd:date ;
+        dcterms:title                 "Andrew Bird - Newport 7.31.10" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/AndrewBird_Newport_7.31.10.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Newport Folk Festival" , "Newport, RI" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "4"^^xsd:int ;
+        skos:prefLabel                "Andrew Bird - Newport 7.31.10" .
+
+boots:Alpha_Blondy_ReggaeOnTheRiver
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Alpha Blondy - Reggae On The River 8.2.92 sbd" ;
+        dcterms:creator               bibliographica:Alpha_Blondy ;
+        dcterms:date                  "1992-08-02"^^xsd:date ;
+        dcterms:title                 "Alpha Blondy - Reggae On The River 8.2.92 sbd" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/Alpha_Blondy_ReggaeOnTheRiver.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "French's Camp" , "London" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "5"^^xsd:int ;
+        skos:prefLabel                "Alpha Blondy - Reggae On The River 8.2.92 sbd" .
+
+boots:B-52s_MontegoBay_11.25.82
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "B-52s - Montego Bay, Jamaica 11.25.82" ;
+        dcterms:creator               bibliographica:B-52s ;
+        dcterms:date                  "1982-11-25"^^xsd:date ;
+        dcterms:title                 "B-52s - Montego Bay, Jamaica 11.25.82" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/B-52s_MontegoBay_11.25.82.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Montego Bay, Jamaica" , "Jamaica World Music Festival" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "5"^^xsd:int ;
+        skos:prefLabel                "B-52s - Montego Bay, Jamaica 11.25.82" .
+
+boots:ZappaPlaysZappa_Milwaukee_8.22.09
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Zappa Plays Zappa - Milwaukee 8.22.09" ;
+        dcterms:creator               bibliographica:ZappaPlaysZappa ;
+        dcterms:date                  "2009-08-22"^^xsd:date ;
+        dcterms:title                 "Zappa Plays Zappa - Milwaukee 8.22.09" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/Zappa_Plays_Zappa_Milwaukee_8.22.09.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Milwaukee" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "4"^^xsd:int ;
+        skos:prefLabel                "Zappa Plays Zappa - Milwaukee 8.22.09" .
+
+boots:AmadouMariam_Biddinghuizen_8.21.05
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Amadou & Mariam - Biddinghuizen 8.21.05" ;
+        dcterms:creator               bibliographica:Amadou_and_Mariam ;
+        dcterms:date                  "2005-08-21"^^xsd:date ;
+        dcterms:title                 "Amadou & Mariam - Biddinghuizen 8.21.05" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/AmadouMariam_Biddinghuizen_8.21.05.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Biddinghuizen" , "Lowlands Festival" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "5"^^xsd:int ;
+        skos:prefLabel                "Amadou & Mariam - Biddinghuizen 8.21.05" .
+
+boots:BrianEno_RareTracks
+        a                           schema:MusicRelease ;
+        rdfs:label                  "Brian Eno - Rare Tracks" ;
+        dcterms:creator             bibliographica:Brian_Eno ;
+        dcterms:title               "Brian Eno - Rare Tracks" ;
+        bibliographica:infoFileURL  "http://www.connaissance.io/onto/biblio/info/BrianEno_RareTracks.txt"^^xsd:anyURI ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "5"^^xsd:int ;
+        skos:prefLabel              "Brian Eno - Rare Tracks" .
+
+boots:Eno_Schwalm_Mt_Fuji_2001
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Eno & Schwalm - Mt Fuji 2001" ;
+        dcterms:creator               bibliographica:Brian_Eno , bibliographica:Jan_Peter_Schwalm ;
+        dcterms:date                  "2001-10-13"^^xsd:date ;
+        dcterms:title                 "Eno & Schwalm - Mt Fuji 2001" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/Eno_Schwalm_Mt_Fuji_2001.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Fuji Rock Festival" , "Naeba Ski Resort, Niigata" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "5"^^xsd:int ;
+        skos:prefLabel                "Eno & Schwalm - Mt Fuji 2001" .
+
+boots:BrianEno_ConversationUmbrella
+        a                           schema:MusicRelease ;
+        rdfs:label                  "Brian Eno - Conversation with Umbrella" ;
+        dcterms:creator             bibliographica:Brian_Eno ;
+        dcterms:title               "Brian Eno - Conversation with Umbrella" ;
+        bibliographica:infoFileURL  "http://www.connaissance.io/onto/biblio/info/BrianEno_ConversationUmbrella.txt"^^xsd:anyURI ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "5"^^xsd:int ;
+        skos:prefLabel              "Brian Eno - Conversation with Umbrella" .
+
+boots:DiMeola_Coryell_Lagrene_6.15.89
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "DiMeola Coryell Lagrene 6.15.89" ;
+        dcterms:creator               bibliographica:Al_DiMeola , bibliographica:Larry_Coryell ;
+        dcterms:date                  "1989-06-15"^^xsd:date ;
+        dcterms:title                 "DiMeola Coryell Lagrene 6.15.89" ;
+        bibliographica:locationVenue  "Lagrene" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "5"^^xsd:int ;
+        skos:prefLabel                "DiMeola Coryell Lagrene 6.15.89" .
+
+boots:Bjork_Toronto_8.17.95
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Björk - Toronto 8.17.95" ;
+        dcterms:creator               bibliographica:Björk ;
+        dcterms:date                  "1995-08-17"^^xsd:date ;
+        dcterms:title                 "Björk - Toronto 8.17.95" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/Bjork_Toronto_8.17.95.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Toronto" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "5"^^xsd:int ;
+        skos:prefLabel                "Björk - Toronto 8.17.95" .
+
+boots:B-52s_unknown_venue_8.11.01
+        a                           bibliographica:LiveMusicRec ;
+        rdfs:label                  "B-52s - unknown venue 8.11.01" ;
+        dcterms:creator             bibliographica:B-52s ;
+        dcterms:date                "2001-08-11"^^xsd:date ;
+        dcterms:title               "B-52s - unknown venue 8.11.01" ;
+        bibliographica:infoFileURL  "http://www.connaissance.io/onto/biblio/info/B-52s_unknown_venue_8.11.01.txt"^^xsd:anyURI ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "5"^^xsd:int ;
+        skos:prefLabel              "B-52s - unknown venue 8.11.01" .
+
+boots:Zappa_Stuttgart_5.24.88
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Zappa Stuttgart 5.24.88" ;
+        dcterms:creator               bibliographica:Frank_Zappa ;
+        dcterms:date                  "1988-05-24"^^xsd:date ;
+        dcterms:title                 "Zappa Stuttgart 5.24.88" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/Zappa_Stuttgart_5.24.88.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Stuttgart" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "4"^^xsd:int ;
+        skos:prefLabel                "Zappa Stuttgart 5.24.88" .
+
+boots:BrianEno_Sydney_6.14.09
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Brian Eno - Sydney 6.14.09" ;
+        dcterms:creator               bibliographica:Brian_Eno ;
+        dcterms:date                  "2009-06-14"^^xsd:date ;
+        dcterms:title                 "Brian Eno - Sydney 6.14.09" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/BrianEno_Sydney_6.14.09.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Sydney" , "Sydney Opera House Concert Hall" ;
+        bibliographica:performanceRating
+                4 ;
+        bibliographica:soundQualityValue
+                "4"^^xsd:int ;
+        skos:prefLabel                "Brian Eno - Sydney 6.14.09" .
+
+boots:Al_Dimeola_Netherlands_1987
+        a                             bibliographica:LiveMusicRec ;
+        rdfs:label                    "Al Dimeola Netherlands 1987" ;
+        dcterms:creator               bibliographica:Al_DiMeola ;
+        dcterms:date                  "1987-01-01"^^xsd:date ;
+        dcterms:title                 "Al Dimeola Netherlands 1987" ;
+        bibliographica:infoFileURL    "http://www.connaissance.io/onto/biblio/info/Al_Dimeola_Netherlands_1987.txt"^^xsd:anyURI ;
+        bibliographica:locationVenue  "Netherlands" ;
+        bibliographica:performanceRating
+                5 ;
+        bibliographica:soundQualityValue
+                "5"^^xsd:int ;
+        skos:prefLabel                "Al Dimeola Netherlands 1987" .
+
