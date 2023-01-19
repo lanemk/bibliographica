@@ -410,7 +410,7 @@ MusicGroup:Red_Knuckles  a                       bibliographica:AlphaClassQT , m
         rdfs:label                     "Red Knuckles and the Trailblazers" ;
         bibliographica:dbpediaURI      "http://dbpedia.org/data/Hot_Rize.ttl"^^xsd:anyURI ;
         bibliographica:musicbrainzURI  "https://musicbrainz.org/artist/97240950-0968-4d30-8358-8d233be84d5d"^^xsd:anyURI ;
-        owl:sameAs                     :Hot_Rize .
+        owl:sameAs                               MusicGroup:Hot_Rize .
 
 MusicGroup:Oysterband  a                         bibliographica:AlphaClassMP , mo:MusicGroup ;
         rdfs:label                     "Oysterband" ;
@@ -1624,7 +1624,7 @@ MusicGroup:Tin_Silver  a      bibliographica:AlphaClassQT , mo:MusicGroup ;
 MusicGroup:Tarika_Sammy  a                       bibliographica:AlphaClassQT , mo:MusicGroup ;
         rdfs:label                     "Tarika Sammy" ;
         bibliographica:musicbrainzURI  "https://musicbrainz.org/artist/e01363bc-0fd5-4f4b-9051-683c54c299ac"^^xsd:anyURI ;
-        owl:sameAs                     :Tarika .
+        owl:sameAs                     MusicGroup:Tarika .
 
 MusicGroup:Faith_No_More  a                      bibliographica:AlphaClassEH , mo:MusicGroup ;
         rdfs:label                     "Faith No More" ;

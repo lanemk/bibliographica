@@ -4,6 +4,7 @@
 @prefix owl:   <http://www.w3.org/2002/07/owl#> .
 @prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix dctype: <http://purl.org/dc/dcmitype/> .
 @prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix bibliographica: <http://www.connaissance.io/onto/biblio/bibliographica#> .
 @prefix authors: <http://www.connaissance.io/onto/biblio/authors#> .

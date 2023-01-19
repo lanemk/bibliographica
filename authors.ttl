@@ -2819,7 +2819,7 @@ authors:William_Bay  a                 schema:Person ;
 authors:OU_Levon  a                    schema:Person ;
         rdfs:label              "O.U. Levon" ;
         bibliographica:viafURI  "https://viaf.org/viaf/93061705/rdf.xml"^^xsd:anyURI ;
-        owl:sameAs              :Ken_Kesey ;
+        owl:sameAs              authors:Ken_Kesey ;
         foaf:name               "O.U. Levon" .
 
 authors:John_Watkinson  a              schema:Person ;
