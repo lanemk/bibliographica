@@ -3315,3 +3315,89 @@ SoloMusicArtist:Sonny_Rollins  a                      bibliographica:AlphaClassQ
         rdfs:label                     "Sonny Rollins" ;
         bibliographica:dbpediaURI      "http://dbpedia.org/data/Sonny_Rollins.ttl"^^xsd:anyURI ;
         bibliographica:musicbrainzURI  "https://musicbrainz.org/artist/3b47247e-5b57-49b6-a0ed-bad80243802a"^^xsd:anyURI .
+
+SoloMusicArtist:Tony_Brown  a                      bibliographica:AlphaClassAD , mo:SoloMusicArtist ;
+        rdfs:label                     "Tony Brown" .
+
+SoloMusicArtist:Ronnie_Laws  a                      bibliographica:AlphaClassIL , mo:SoloMusicArtist ;
+        rdfs:label                     "Ronnie Laws" ;
+        bibliographica:dbpediaURI      "http://dbpedia.org/data/Ronnie_Laws.ttl"^^xsd:anyURI ;
+        bibliographica:musicbrainzURI  "https://musicbrainz.org/artist/e26aa662-2255-4435-8332-85097f8aba0b"^^xsd:anyURI .
+
+SoloMusicArtist:David_Sanborn  a                      bibliographica:AlphaClassQT , mo:SoloMusicArtist ;
+        rdfs:label                     "David Sanborn" ;
+        bibliographica:dbpediaURI      "http://dbpedia.org/data/David_Sanborn.ttl"^^xsd:anyURI ;
+        bibliographica:musicbrainzURI  "https://musicbrainz.org/artist/00ce2ec6-5ccb-4dc3-ac89-08779926d2b3"^^xsd:anyURI .
+
+SoloMusicArtist:Michael_Franks  a                      bibliographica:AlphaClassEH , mo:SoloMusicArtist ;
+        rdfs:label                     "Michael Franks" ;
+        bibliographica:dbpediaURI      "http://dbpedia.org/data/Michael_Franks_(musician).ttl"^^xsd:anyURI ;
+        bibliographica:musicbrainzURI  "https://musicbrainz.org/artist/8e9b8133-0592-4699-aec1-2f4dccdc93e5"^^xsd:anyURI .
+
+SoloMusicArtist:Steve_Morse  a                      bibliographica:AlphaClassMP , mo:SoloMusicArtist ;
+        rdfs:label                     "Steve Morse" ;
+        bibliographica:dbpediaURI      "http://dbpedia.org/data/Steve_Morse.ttl"^^xsd:anyURI ;
+        bibliographica:musicbrainzURI  "https://musicbrainz.org/artist/6f0d1ab4-a0b8-4d59-acda-5fe3b63058f0"^^xsd:anyURI .
+
+SoloMusicArtist:Liz_Story  a                      bibliographica:AlphaClassQT , mo:SoloMusicArtist ;
+        rdfs:label                     "Liz Story" ;
+        bibliographica:dbpediaURI      "http://dbpedia.org/data/Liz_Story.ttl"^^xsd:anyURI ;
+        bibliographica:musicbrainzURI  "https://musicbrainz.org/artist/7bee0ff4-2513-4f25-9099-5b3c59281c05"^^xsd:anyURI .
+
+SoloMusicArtist:Johnny_Winter  a                      bibliographica:AlphaClassWZ , mo:SoloMusicArtist ;
+        rdfs:label                     "Johnny Winter" ;
+        bibliographica:dbpediaURI      "http://dbpedia.org/data/Johnny_Winter.ttl"^^xsd:anyURI ;
+        bibliographica:musicbrainzURI  "https://musicbrainz.org/artist/8300d0fa-d120-47f6-a84e-91f140c74767"^^xsd:anyURI .
+
+SoloMusicArtist:Lonnie_Mack  a                      bibliographica:AlphaClassMP , mo:SoloMusicArtist ;
+        rdfs:label                     "Johnny Winter" ;
+        bibliographica:dbpediaURI      "http://dbpedia.org/data/Lonnie_Mack.ttl"^^xsd:anyURI ;
+        bibliographica:musicbrainzURI  "https://musicbrainz.org/artist/8d7e3ee7-f391-43a5-84ae-3b830d4eba81"^^xsd:anyURI .
+
+SoloMusicArtist:Christopher_Parkening  a                      bibliographica:AlphaClassMP , mo:SoloMusicArtist ;
+        rdfs:label                     "Christopher Parkening" ;
+        bibliographica:dbpediaURI      "http://dbpedia.org/data/Christopher_Parkening.ttl"^^xsd:anyURI ;
+        bibliographica:musicbrainzURI  "https://musicbrainz.org/artist/e1581cde-4b30-4c60-9e4d-bf8518c1cd61"^^xsd:anyURI .
+
+SoloMusicArtist:Hazel_Miller  a                      bibliographica:AlphaClassMP , mo:SoloMusicArtist ;
+        rdfs:label                     "Hazel Miller" ;
+        bibliographica:dbpediaURI      "http://dbpedia.org/data/Hazel_Miller.ttl"^^xsd:anyURI ;
+        bibliographica:musicbrainzURI  "https://musicbrainz.org/artist/7f361a6a-9875-4181-b0af-c8f1fa9d2bdc"^^xsd:anyURI .
+
+SoloMusicArtist:Bruce_Hampton  a                      bibliographica:AlphaClassEH , mo:SoloMusicArtist ;
+        rdfs:label                     "Bruce Hampton" ;
+        bibliographica:dbpediaURI      "http://dbpedia.org/data/Bruce_Hampton.ttl"^^xsd:anyURI ;
+        bibliographica:musicbrainzURI  "https://musicbrainz.org/artist/5d54b717-fedc-422d-81fe-0c0b3a25ac58"^^xsd:anyURI .
+
+SoloMusicArtist:Kirsten_Hirsh  a                      bibliographica:AlphaClassEH , mo:SoloMusicArtist ;
+        rdfs:label                     "Kirsten Hirsh" .
+
+SoloMusicArtist:Joey_Baron  a                      bibliographica:AlphaClassAD , mo:SoloMusicArtist ;
+        rdfs:label                     "Joey Baron" ;
+        bibliographica:dbpediaURI      "http://dbpedia.org/data/Joey_Baron.ttl"^^xsd:anyURI ;
+        bibliographica:musicbrainzURI  "https://musicbrainz.org/artist/a388adba-955d-4481-9bfa-4b1bbedd4acd"^^xsd:anyURI .
+
+SoloMusicArtist:Ron_Sexsmith  a                      bibliographica:AlphaClassQT , mo:SoloMusicArtist ;
+        rdfs:label                     "Ron Sexsmith" ;
+        bibliographica:dbpediaURI      "http://dbpedia.org/data/Ron_Sexsmith.ttl"^^xsd:anyURI ;
+        bibliographica:musicbrainzURI  "https://musicbrainz.org/artist/adbbaf02-cb2e-432d-b24b-f016e9a65a44"^^xsd:anyURI .
+
+SoloMusicArtist:Obo_Addy  a                      bibliographica:AlphaClassAD , mo:SoloMusicArtist ;
+        rdfs:label                     "Obo Addy" ;
+        bibliographica:dbpediaURI      "http://dbpedia.org/data/Obo_Addy.ttl"^^xsd:anyURI ;
+        bibliographica:musicbrainzURI  "https://musicbrainz.org/artist/bd297b96-57d1-434a-80d6-f07f1c6df0c4"^^xsd:anyURI .
+
+SoloMusicArtist:Delbert_McClinton  a                      bibliographica:AlphaClassMP , mo:SoloMusicArtist ;
+        rdfs:label                     "Delbert McClinton" ;
+        bibliographica:dbpediaURI      "http://dbpedia.org/data/Delbert_McClinton.ttl"^^xsd:anyURI ;
+        bibliographica:musicbrainzURI  "https://musicbrainz.org/artist/d0a2f884-96a6-4f21-9f20-0893fd34a55a"^^xsd:anyURI .
+
+SoloMusicArtist:Willy_Porter  a                      bibliographica:AlphaClassMP , mo:SoloMusicArtist ;
+        rdfs:label                     "Willy Porter" ;
+        bibliographica:dbpediaURI      "http://dbpedia.org/data/Willy_Porter.ttl"^^xsd:anyURI ;
+        bibliographica:musicbrainzURI  "https://musicbrainz.org/artist/dd01c895-e124-413b-84f9-8e2112d2802e"^^xsd:anyURI .
+
+SoloMusicArtist:Fatoumata_Diawara  a                      bibliographica:AlphaClassAD , mo:SoloMusicArtist ;
+        rdfs:label                     "Fatoumata Diawara" ;
+        bibliographica:dbpediaURI      "http://dbpedia.org/data/Fatoumata_Diawara.ttl"^^xsd:anyURI ;
+        bibliographica:musicbrainzURI  "https://musicbrainz.org/artist/6f5064bb-7dbb-4a44-bac5-04c467394817"^^xsd:anyURI .

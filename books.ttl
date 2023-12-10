@@ -22,10 +22,10 @@
   schema:license "https://creativecommons.org/licenses/by-nc-sa/4.0/"^^xsd:anyURI ;
   schema:license "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode"^^xsd:anyURI ;
   dcterms:description "Book items cataloged and serialized in RDF. Links items to WorldCat." ;
-  owl:imports <http://www.connaissance.io/onto/biblio/MusicGroup> ;
-  owl:imports <http://www.connaissance.io/onto/biblio/SoloMusicArtist> ;
-  owl:imports <http://www.connaissance.io/onto/biblio/authors> ;
-  owl:imports <http://www.connaissance.io/onto/biblio/bibliographica> ;
+#   owl:imports <http://www.connaissance.io/onto/biblio/MusicGroup> ;
+#   owl:imports <http://www.connaissance.io/onto/biblio/SoloMusicArtist> ;
+#   owl:imports <http://www.connaissance.io/onto/biblio/authors> ;
+#   owl:imports <http://www.connaissance.io/onto/biblio/bibliographica> ;
   owl:versionInfo "Developed by M Lane" .
 
 

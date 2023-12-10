@@ -1807,3 +1807,126 @@ MusicGroup:Los_Van_Van  a                        bibliographica:AlphaClassIL , m
 MusicGroup:Syrens  a                             bibliographica:AlphaClassQT , mo:MusicGroup ;
         rdfs:label                     "The Syrens" ;
         bibliographica:musicbrainzURI  "https://musicbrainz.org/artist/c3e63c6f-1f5d-40ea-86a2-34c6939a766b"^^xsd:anyURI .
+
+MusicGroup:Yes
+        a           bibliographica:AlphaClassWZ , mo:MusicGroup ;
+        rdfs:label  "Yes" ;
+        bibliographica:dbpediaURI      "http://dbpedia.org/data/Yes_(band).ttl"^^xsd:anyURI ;
+        bibliographica:musicbrainzURI  "https://musicbrainz.org/artist/c1d4f2ba-cf39-460c-9528-6b827d3417a1"^^xsd:anyURI .
+
+MusicGroup:Rush
+        a           bibliographica:AlphaClassQT , mo:MusicGroup ;
+        rdfs:label  "Rush" ;
+        bibliographica:dbpediaURI      "http://dbpedia.org/data/Rush_(band).ttl"^^xsd:anyURI ;
+        bibliographica:musicbrainzURI  "https://musicbrainz.org/artist/534ee493-bfac-4575-a44a-0ae41e2c3fe4"^^xsd:anyURI .
+
+MusicGroup:Caribbean_All_Stars
+        a           bibliographica:AlphaClassAD , mo:MusicGroup ;
+        rdfs:label  "Caribbean All Stars Steel Band" ;
+        bibliographica:musicbrainzURI  "https://musicbrainz.org/artist/92ded25a-f245-49b9-ae27-bce74aba3c2a"^^xsd:anyURI .
+
+MusicGroup:Berlin
+        a           bibliographica:AlphaClassAD , mo:MusicGroup ;
+        rdfs:label  "Berlin" ;
+        bibliographica:dbpediaURI      "http://dbpedia.org/data/Berlin_(band).ttl"^^xsd:anyURI ;
+        bibliographica:musicbrainzURI  "https://musicbrainz.org/artist/c7cb9a2e-ff57-4bb8-bd2c-83524e18e369"^^xsd:anyURI .
+
+MusicGroup:Steel_Pulse
+        a           bibliographica:AlphaClassQT , mo:MusicGroup ;
+        rdfs:label  "Steel Pulse" ;
+        bibliographica:dbpediaURI      "http://dbpedia.org/data/Steel_Pulse.ttl"^^xsd:anyURI ;
+        bibliographica:musicbrainzURI  "https://musicbrainz.org/artist/37367b2f-69e4-4df2-9e64-75ca6204764b"^^xsd:anyURI .
+
+MusicGroup:Shadowfax
+        a           bibliographica:AlphaClassQT , mo:MusicGroup ;
+        rdfs:label  "Shadowfax" ;
+        bibliographica:dbpediaURI      "http://dbpedia.org/data/Shadowfax_(band).ttl"^^xsd:anyURI ;
+        bibliographica:musicbrainzURI  "https://musicbrainz.org/artist/23e7abef-a2dc-4e15-8068-8ee951ac2b67"^^xsd:anyURI .
+
+MusicGroup:John_Mayall_Blues  a                      bibliographica:AlphaClassMP , mo:MusicGroup ;
+        rdfs:label   "John Mayall & the Bluesbreakers" ;
+        bibliographica:dbpediaURI      "http://dbpedia.org/data/John_Mayall_%26_the_Bluesbreakers.ttl"^^xsd:anyURI ;
+        bibliographica:musicbrainzURI  "https://musicbrainz.org/artist/4756395c-57ed-4a63-afb2-01117f14dff6"^^xsd:anyURI .
+
+MusicGroup:Inti_Illimani  a                      bibliographica:AlphaClassIL , mo:MusicGroup ;
+        rdfs:label                     "Inti-Illimani" ;
+        bibliographica:dbpediaURI      "http://dbpedia.org/data/Inti-Illimani.ttl"^^xsd:anyURI ;
+        bibliographica:musicbrainzURI  "https://musicbrainz.org/artist/a962cd78-1f5f-4cef-838d-07e2f9d8b02d"^^xsd:anyURI .
+
+MusicGroup:Nine_Days_Wonder  a                      bibliographica:AlphaClassMP , mo:MusicGroup ;
+        rdfs:label                     "Nine Days Wonder" .
+
+MusicGroup:Roots_Redemption  a                      bibliographica:AlphaClassQT , mo:MusicGroup ;
+        rdfs:label                     "Roots Redemption" .
+
+MusicGroup:Jamaican_Prophet  a                      bibliographica:AlphaClassIL , mo:MusicGroup ;
+        rdfs:label                     "Jamaican Prophet" .
+
+MusicGroup:Not_Fade_Away  a                      bibliographica:AlphaClassMP , mo:MusicGroup ;
+        rdfs:label                     "Not Fade Away" .
+
+MusicGroup:Primus a                      
+        bibliographica:AlphaClassMP , mo:MusicGroup ;
+        rdfs:label                     "Primus" ;
+        bibliographica:dbpediaURI      "http://dbpedia.org/data/Primus_(band).ttl"^^xsd:anyURI ;
+        bibliographica:musicbrainzURI  "https://musicbrainz.org/artist/84dc4f23-c0b8-4fe1-bbca-a3993ddc8fc2"^^xsd:anyURI .
+
+MusicGroup:Aquarium_Rescue_Unit a                      
+        bibliographica:AlphaClassAD , mo:MusicGroup ;
+        rdfs:label                     "Aquarium Rescue Unit" ;
+        bibliographica:dbpediaURI      "http://dbpedia.org/data/Col._Bruce_Hampton_and_the_Aquarium_Rescue_Unit.ttl"^^xsd:anyURI ;
+        bibliographica:musicbrainzURI  "https://musicbrainz.org/artist/564acb69-9a29-481e-8e6a-3557211d2f74"^^xsd:anyURI .
+
+MusicGroup:Meditations a                      
+        bibliographica:AlphaClassMP , mo:MusicGroup ;
+        rdfs:label                     "The Meditations" ;
+        bibliographica:dbpediaURI      "http://dbpedia.org/data/The_Meditations.ttl"^^xsd:anyURI ;
+        bibliographica:musicbrainzURI  "https://musicbrainz.org/artist/0c2a95c5-2471-43aa-abe5-570c24578dd6"^^xsd:anyURI .
+
+MusicGroup:Culture a                      
+        bibliographica:AlphaClassAD , mo:MusicGroup ;
+        rdfs:label                     "Culture" ;
+        bibliographica:dbpediaURI      "http://dbpedia.org/data/Culture_(band).ttl"^^xsd:anyURI ;
+        bibliographica:musicbrainzURI  "https://musicbrainz.org/artist/dda3f50d-2205-40c6-8f70-223f2eacd92a"^^xsd:anyURI .
+
+MusicGroup:Gregg_Allman_Band a                      
+        bibliographica:AlphaClassAD , mo:MusicGroup ;
+        rdfs:label                     "Gregg Allman Band" ;
+        bibliographica:dbpediaURI      "http://dbpedia.org/data/Gregg_Allman_Band.ttl"^^xsd:anyURI ;
+        bibliographica:musicbrainzURI  "https://musicbrainz.org/artist/d418e0cc-64f0-477f-acda-407abd2f6c59"^^xsd:anyURI .
+
+MusicGroup:California_Guitar_Trio a                      
+        bibliographica:AlphaClassAD , mo:MusicGroup ;
+        rdfs:label                     "California Guita Trio" ;
+        bibliographica:dbpediaURI      "http://dbpedia.org/data/California_Guitar_Trio.ttl"^^xsd:anyURI ;
+        bibliographica:musicbrainzURI  "https://musicbrainz.org/artist/9cf33209-55f0-4f75-bd9c-30623db33b16"^^xsd:anyURI .
+
+MusicGroup:Super_Diamond a                      
+        bibliographica:AlphaClassQT , mo:MusicGroup ;
+        rdfs:label                     "Super Diamond" ;
+        bibliographica:dbpediaURI      "http://dbpedia.org/data/Super_Diamond.ttl"^^xsd:anyURI ;
+        bibliographica:musicbrainzURI  "https://musicbrainz.org/artist/a616f35a-bbcc-42e4-9b50-0c95252eee2b"^^xsd:anyURI .
+
+MusicGroup:Lunasa a                      
+        bibliographica:AlphaClassIL , mo:MusicGroup ;
+        rdfs:label                     "Lúnasa" ;
+        bibliographica:dbpediaURI      "http://dbpedia.org/data/Lúnasa_(band).ttl"^^xsd:anyURI ;
+        bibliographica:musicbrainzURI  "https://musicbrainz.org/artist/f27ab860-84e3-43c4-872a-a8181192d24a"^^xsd:anyURI .
+
+MusicGroup:Iguanas a                      
+        bibliographica:AlphaClassIL , mo:MusicGroup ;
+        rdfs:label                     "The Iguanas" ;
+        bibliographica:dbpediaURI      "http://dbpedia.org/data/The_Iguanas_(band).ttl"^^xsd:anyURI ;
+        bibliographica:musicbrainzURI  "https://musicbrainz.org/artist/62eca362-aff5-4d84-9ebc-34d930afeacf"^^xsd:anyURI .
+
+MusicGroup:Steve_Kimock_Band a                      
+        bibliographica:AlphaClassIL , mo:MusicGroup ;
+        rdfs:label                     "Steve Kimock Band" ;
+        bibliographica:dbpediaURI      "http://dbpedia.org/data/Steve_Kimock.ttl"^^xsd:anyURI ;
+        bibliographica:musicbrainzURI  "https://musicbrainz.org/artist/76e1bc53-ec85-4266-8b8b-9fde2fee92da"^^xsd:anyURI .
+
+MusicGroup:Derek_Trucks_Band a                      
+        bibliographica:AlphaClassQT , mo:MusicGroup ;
+        rdfs:label                     "Derek Trucks Band" ;
+        bibliographica:dbpediaURI      "http://dbpedia.org/data/The_Derek_Trucks_Band.ttl"^^xsd:anyURI ;
+        bibliographica:musicbrainzURI  "https://musicbrainz.org/artist/bb110dbc-8daa-407f-a04b-f569e7a5ee7e"^^xsd:anyURI .
