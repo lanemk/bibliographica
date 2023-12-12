@@ -1,0 +1,2291 @@
+@prefix : <http://www.connaissance.io/onto/biblio/tickets#> .
+@prefix ids: <https://w3id.org/idsa/core/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix km4c: <http://www.disit.org/km4city/schema/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dctype: <http://purl.org/dc/dcmitype/> .
+@prefix schema: <http://schema.org/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix theatre: <http://purl.org/theatre#> .
+@prefix tickets: <http://www.connaissance.io/onto/biblio/tickets/> .
+@prefix MusicGroup: <http://www.connaissance.io/onto/biblio/MusicGroup#> .
+@prefix SoloMusicArtist: <http://www.connaissance.io/onto/biblio/SoloMusicArtist#> .
+@base <http://www.connaissance.io/onto/biblio/tickets> .
+
+<http://www.connaissance.io/onto/biblio/tickets> rdf:type owl:Ontology ;
+                                                  owl:imports <http://www.connaissance.io/onto/biblio/MusicGroup> ,
+                                                              <http://www.connaissance.io/onto/biblio/bibliographica> ;
+                                                  dcterms:created "2023-12-12" ;
+                                                  dcterms:description "A concert ticket collection in RDF." ;
+                                                  schema:license "https://creativecommons.org/licenses/by-nc-sa/4.0/"^^xsd:anyURI ,
+                                                                 "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode"^^xsd:anyURI ;
+                                                  owl:versionInfo "Developed by M Lane" .
+
+#################################################################
+#    Annotation properties
+#################################################################
+
+###  http://purl.org/theatre#venue
+theatre:venue rdf:type owl:AnnotationProperty .
+
+
+###  http://schema.org/date
+schema:date rdf:type owl:AnnotationProperty .
+
+
+###  http://schema.org/event
+schema:event rdf:type owl:AnnotationProperty .
+
+
+###  http://schema.org/license
+schema:license rdf:type owl:AnnotationProperty .
+
+
+###  http://schema.org/performer
+schema:performer rdf:type owl:AnnotationProperty .
+
+
+###  http://www.disit.org/km4city/schema/city
+km4c:city rdf:type owl:AnnotationProperty .
+
+
+###  http://www.disit.org/km4city/schema/state
+km4c:state rdf:type owl:AnnotationProperty .
+
+
+###  https://w3id.org/idsa/core/fileName
+ids:fileName rdf:type owl:AnnotationProperty .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://purl.org/dc/dcmitype/Dataset
+dctype:Dataset rdf:type owl:Class .
+
+
+###  http://schema.org/Event
+schema:Event rdf:type owl:Class .
+
+
+#################################################################
+#    Individuals
+#################################################################
+
+###  http://www.connaissance.io/onto/biblio/tickets#
+tickets: rdf:type owl:NamedIndividual ,
+           dctype:Dataset .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t1
+tickets:t1 rdf:type owl:NamedIndividual ,
+                    schema:Event ;
+           theatre:venue "The Omni" ;
+           schema:date "1979-06-25"^^xsd:date ;
+           schema:performer MusicGroup:Yes ;
+           km4c:city "Atlanta" ;
+           km4c:state "GA" ;
+           ids:fileName "1979-06-25-yes.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t10
+tickets:t10 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "McNichols Arena" ;
+            schema:date "1982-02-04"^^xsd:date ;
+            schema:performer MusicGroup:Police ;
+            km4c:city "Denver" ;
+            km4c:state "CO" ;
+            ids:fileName "1982-02-04-police.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t100
+tickets:t100 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Fox Theatre" ;
+             schema:date "1995-03-09"^^xsd:date ;
+             schema:performer MusicGroup:Meters ;
+             km4c:city "Boulder" ;
+             km4c:state "CO" ;
+             ids:fileName "1995-03-09-funky-meters.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t101
+tickets:t101 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Paramount Theatre" ;
+             schema:date "1995-06-18"^^xsd:date ;
+             schema:performer MusicGroup:King_Crimson ;
+             km4c:city "Denver" ;
+             km4c:state "CO" ;
+             ids:fileName "1995-06-18-king-crimson.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t102
+tickets:t102 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Fox Theatre" ;
+             schema:date "1995-07-18"^^xsd:date ;
+             schema:performer MusicGroup:Culture ;
+             km4c:city "Boulder" ;
+             km4c:state "CO" ;
+             ids:fileName "1995-07-18-culture.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t103
+tickets:t103 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Mishiwaka Ampitheatre" ;
+             schema:date "1995-07-21"^^xsd:date ;
+             schema:performer MusicGroup:Radiators ;
+             km4c:city "Bellvue" ;
+             km4c:state "CO" ;
+             ids:fileName "1995-07-21-radiators.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t104
+tickets:t104 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Fox Theatre" ;
+             schema:date "1995-11-03"^^xsd:date ;
+             schema:performer MusicGroup:Tarika ;
+             km4c:city "Boulder" ;
+             km4c:state "CO" ;
+             ids:fileName "1995-11-03-tarika.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t105
+tickets:t105 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Fox Theatre" ;
+             schema:date "1995-12-14"^^xsd:date ;
+             schema:performer SoloMusicArtist:James_McMurtry ;
+             km4c:city "Boulder" ;
+             km4c:state "CO" ;
+             ids:fileName "1995-12-14-james-mcmurtry.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t106
+tickets:t106 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Boulder Theatre" ;
+             schema:date "1995-12-31"^^xsd:date ;
+             schema:performer MusicGroup:Leftover_Salmon ;
+             km4c:city "Boulder" ;
+             km4c:state "CO" ;
+             ids:fileName "1995-12-31-leftover-salmon.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t107
+tickets:t107 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Fox Theatre" ;
+             schema:date "1996-04-06"^^xsd:date ;
+             schema:performer MusicGroup:Zuba ;
+             km4c:city "Boulder" ;
+             km4c:state "CO" ;
+             ids:fileName "1996-04-06-zuba.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t108
+tickets:t108 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "City Park" ;
+             schema:date "1996-10-04"^^xsd:date ;
+             schema:performer MusicGroup:Jamaican_Prophet ;
+             km4c:city "Silver City" ;
+             km4c:state "NM" ;
+             ids:fileName "1996-10-04-jamaican-prophet.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t109
+tickets:t109 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Boulder Theatre" ;
+             schema:date "1996-12-31"^^xsd:date ;
+             schema:performer MusicGroup:Leftover_Salmon ;
+             km4c:city "Boulder" ;
+             km4c:state "CO" ;
+             ids:fileName "1996-12-31-leftover-salmon.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t11
+tickets:t11 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Rainbow Music Hall" ;
+            schema:date "1982-06-29"^^xsd:date ;
+            schema:performer MusicGroup:Weather_Report ;
+            km4c:city "Denver" ;
+            km4c:state "CO" ;
+            ids:fileName "1982-06-29-weather-report.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t110
+tickets:t110 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Aladdin Theatre" ;
+             schema:date "1997-11-02"^^xsd:date ;
+             schema:performer SoloMusicArtist:Tim_OBrien ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "1997-11-02-tim-obrien.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t111
+tickets:t111 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Crystal Ballroom" ;
+             schema:date "1997-11-07"^^xsd:date ;
+             schema:performer MusicGroup:Zuba ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "1997-11-07-zuba.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t112
+tickets:t112 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Portland Art Museum" ;
+             schema:date "1997-11-11"^^xsd:date ;
+             schema:event "Dale Chihuly Exhibit" ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "1997-11-11-dale-chihuly.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t113
+tickets:t113 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Aladdin Theatre" ;
+             schema:date "1997-11-19"^^xsd:date ;
+             schema:performer SoloMusicArtist:David_Lindley ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "1997-11-19-david-lindley.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t114
+tickets:t114 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Portland Art Museum Grand Ballroom" ;
+             schema:date "1997-11-20"^^xsd:date ;
+             schema:performer MusicGroup:David_Grisman_Quintet ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "1997-11-20-david-grisman-quintet.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t115
+tickets:t115 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "First Christian Church" ;
+             schema:date "1998-02-12"^^xsd:date ;
+             schema:event "The American Witness" ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "1998-02-12-the-american-witness.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t116
+tickets:t116 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Crystal Ballroom" ;
+             schema:date "1998-02-13"^^xsd:date ;
+             schema:performer MusicGroup:Gregg_Allman_Band ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "1998-02-13-gregg-allman-friends" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t117
+tickets:t117 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Schnitzer Concert Hall" ;
+             schema:date "1998-02-20"^^xsd:date ;
+             schema:performer MusicGroup:Pat_Metheny_Group ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "1998-02-20-pat-metheny-group.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t118
+tickets:t118 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Crystal Ballroom" ;
+             schema:date "1998-03-14"^^xsd:date ;
+             schema:performer MusicGroup:BeauSoleil ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "1998-03-14-beausoleil.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t119
+tickets:t119 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "La Luna Lounge" ;
+             schema:date "1998-04-23"^^xsd:date ;
+             schema:performer SoloMusicArtist:Kirsten_Hirsh ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "1998-04-23-kristen-hersh.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t12
+tickets:t12 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Red Rocks Ampitheatre" ;
+            schema:date "1982-07-24"^^xsd:date ;
+            schema:performer MusicGroup:Pat_Metheny_Group ;
+            km4c:city "Morrison" ;
+            km4c:state "CO" ;
+            ids:fileName "1982-07-24-pat-metheny-group.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t120
+tickets:t120 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Aladdin Theatre" ;
+             schema:date "1998-04-24"^^xsd:date ;
+             schema:performer SoloMusicArtist:Bill_Frisell ,
+                              SoloMusicArtist:Joey_Baron ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "1998-04-24-joey-baron-&-bill-frisell.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t121
+tickets:t121 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Oaks Amusement Park" ;
+             schema:date "1998-06-27"^^xsd:date ;
+             schema:performer MusicGroup:Altan ,
+                              SoloMusicArtist:Mary_Black ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "1998-06-27-altan-mary-black.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t122
+tickets:t122 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Crystal Ballroom" ;
+             schema:date "1998-09-08"^^xsd:date ;
+             schema:performer SoloMusicArtist:Maceo_Parker ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "1998-09-08-maceo-parker.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t123
+tickets:t123 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Aladdin Theatre" ;
+             schema:date "1998-10-08"^^xsd:date ;
+             schema:performer SoloMusicArtist:Angelique_Kidjo ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "1998-10-08-angelique-kidjo.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t124
+tickets:t124 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Crystal Ballroom" ;
+             schema:date "1998-12-31"^^xsd:date ;
+             schema:performer MusicGroup:Not_Fade_Away ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "1998-12-31-not-fade-away.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t125
+tickets:t125 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Aladdin Theatre" ;
+             schema:date "1999-02-04"^^xsd:date ;
+             schema:performer SoloMusicArtist:James_McMurtry ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "1999-02-04-james-mcmurtry.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t126
+tickets:t126 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Aladdin Theatre" ;
+             schema:date "1999-03-04"^^xsd:date ;
+             schema:performer MusicGroup:Solas ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "1999-03-04-solas.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t127
+tickets:t127 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Lincoln Center (PSU)" ;
+             schema:date "1999-03-05"^^xsd:date ;
+             schema:performer MusicGroup:California_Guitar_Trio ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "1999-03-05-california-guitar-trio.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t128
+tickets:t128 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Portland Art Museum Grand Ballroom" ;
+             schema:date "1999-06-06"^^xsd:date ;
+             schema:event "Down From the Shimmering Sky" ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "1999-06-06-down-from-the-shimmering-sky.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t129
+tickets:t129 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Aladdin Theatre" ;
+             schema:date "1999-06-14"^^xsd:date ;
+             schema:performer SoloMusicArtist:Ron_Sexsmith ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "1999-06-14-ron-sexsmith.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t13
+tickets:t13 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Red Rocks Ampitheatre" ;
+            schema:date "1982-07-27"^^xsd:date ;
+            schema:performer MusicGroup:Grateful_Dead ;
+            km4c:city "Morrison" ;
+            km4c:state "CO" ;
+            ids:fileName "1982-07-27-grateful-dead.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t130
+tickets:t130 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Oaks Amusement Park" ;
+             schema:date "1999-06-18"^^xsd:date ;
+             schema:performer SoloMusicArtist:John_Prine ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "1999-06-18-john-prine.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t131
+tickets:t131 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Oregon Zoo Ampitheatre" ;
+             schema:date "1999-07-01"^^xsd:date ;
+             schema:event "Oregon Zoo Concert" ;
+             schema:performer SoloMusicArtist:David_Lindley ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "1999-07-01-david-lindley.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t132
+tickets:t132 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Oregon Zoo Ampitheatre" ;
+             schema:date "1999-07-15"^^xsd:date ;
+             schema:event "Oregon Zoo Concert" ;
+             schema:performer SoloMusicArtist:Obo_Addy ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "1999-07-15-obo-addy.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t133
+tickets:t133 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Oregon Zoo Ampitheatre" ;
+             schema:date "1999-08-27"^^xsd:date ;
+             schema:event "Oregon Zoo Concert" ;
+             schema:performer SoloMusicArtist:Steve_Earle ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "1999-08-27-steve-earle-bluegrass-dukes.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t134
+tickets:t134 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Bumbershoot" ;
+             schema:date "1999-08-31"^^xsd:date ;
+             schema:event "Bumbershoot" ;
+             km4c:city "Seattle" ;
+             km4c:state "WA" ;
+             ids:fileName "1999-08-31-bumbershoot" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t135
+tickets:t135 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Aladdin Theatre" ;
+             schema:date "1999-09-14"^^xsd:date ;
+             schema:performer SoloMusicArtist:Richard_Thompson ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "1999-09-14-richard-thompson.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t136
+tickets:t136 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Aladdin Theatre" ;
+             schema:date "1999-12-13"^^xsd:date ;
+             schema:performer SoloMusicArtist:David_Grisman ,
+                              SoloMusicArtist:Martin_Taylor ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "1999-12-13-david-grisman-&-martin-taylor-quartet.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t137
+tickets:t137 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Aladdin Theatre" ;
+             schema:date "2000-06-24"^^xsd:date ;
+             schema:performer SoloMusicArtist:Tim_Finn ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2000-06-24-tim-finn.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t138
+tickets:t138 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Oregon Zoo Ampitheatre" ;
+             schema:date "2000-07-15"^^xsd:date ;
+             schema:event "Oregon Zoo Concert" ;
+             schema:performer MusicGroup:Del_McCoury_Band ,
+                              SoloMusicArtist:David_Grisman ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2000-07-15-david-grisman-del-mccoury.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t139
+tickets:t139 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Womad Festival" ;
+             schema:date "2000-07-28"^^xsd:date ;
+             schema:event "Womad Festival" ;
+             km4c:city "Redmond" ;
+             km4c:state "WA" ;
+             ids:fileName "2000-07-28-womad-festival.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t14
+tickets:t14 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Red Rocks Ampitheatre" ;
+            schema:date "1982-08-09"^^xsd:date ;
+            schema:performer MusicGroup:Clash ;
+            km4c:city "Morrison" ;
+            km4c:state "CO" ;
+            ids:fileName "1982-08-09-the-clash.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t140
+tickets:t140 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Aladdin Theatre" ;
+             schema:date "2000-08-31"^^xsd:date ;
+             schema:performer SoloMusicArtist:Richard_Thompson ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2000-08-31-richard-thompson-band.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t141
+tickets:t141 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Crystal Ballroom" ;
+             schema:date "2000-10-07"^^xsd:date ;
+             schema:performer SoloMusicArtist:Merl_Saunders ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2000-10-07-merl-saunders.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t142
+tickets:t142 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Aladdin Theatre" ;
+             schema:date "2000-10-25"^^xsd:date ;
+             schema:performer MusicGroup:Solas ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2000-10-25-solas.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t143
+tickets:t143 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Oregon Convention Center" ;
+             schema:date "2000-12-19"^^xsd:date ;
+             schema:performer MusicGroup:String_Cheese_Incident ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2000-12-19-string-cheese-incident.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t144
+tickets:t144 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Crystal Ballroom" ;
+             schema:date "2001-02-23"^^xsd:date ;
+             schema:performer MusicGroup:Leftover_Salmon ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2001-02-23-leftover-salmon.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t145
+tickets:t145 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Crystal Ballroom" ;
+             schema:date "2001-05-13"^^xsd:date ;
+             schema:performer SoloMusicArtist:Thomas_Mapfumo ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2001-05-13-thomas-mapfumo.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t146
+tickets:t146 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Schnitzer Concert Hall" ;
+             schema:date "2001-05-16"^^xsd:date ;
+             schema:performer SoloMusicArtist:Mark_Knopfler ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2001-05-16-mark-knopfler.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t147
+tickets:t147 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Aladdin Theatre" ;
+             schema:date "2001-06-14"^^xsd:date ;
+             schema:performer MusicGroup:Del_McCoury_Band ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2001-06-14-del-mccoury-band.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t148
+tickets:t148 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Oregon Zoo Ampitheatre" ;
+             schema:date "2001-07-26"^^xsd:date ;
+             schema:event "Oregon Zoo Concert" ;
+             schema:performer SoloMusicArtist:Delbert_McClinton ,
+                              SoloMusicArtist:Kelly_Joe_Phelps ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2001-07-26-delbert-mcclinton-kelly-joe-phelps.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t149
+tickets:t149 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Oregon Zoo Ampitheatre" ;
+             schema:date "2001-07-26"^^xsd:date ;
+             schema:event "Oregon Zoo Concert" ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2001-07-26-zoo-concert.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t15
+tickets:t15 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Fox Theatre" ;
+            schema:date "1982-09-01"^^xsd:date ;
+            schema:performer SoloMusicArtist:Elvis_Costello ;
+            km4c:city "Atlanta" ;
+            km4c:state "GA" ;
+            ids:fileName "1982-09-01-elvis-costello.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t150
+tickets:t150 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Crystal Ballroom" ;
+             schema:date "2001-08-04"^^xsd:date ;
+             schema:performer MusicGroup:Super_Diamond ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2001-08-04-super-diamond.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t151
+tickets:t151 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Oregon Zoo Ampitheatre" ;
+             schema:date "2001-08-08"^^xsd:date ;
+             schema:event "Oregon Zoo Concert" ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2001-08-08-zoo-concert.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t152
+tickets:t152 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Roseland Theatre" ;
+             schema:date "2001-10-03"^^xsd:date ;
+             schema:performer SoloMusicArtist:Angelique_Kidjo ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2001-10-03-angelique-kidjo.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t153
+tickets:t153 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Aladdin Theatre" ;
+             schema:date "2001-11-01"^^xsd:date ;
+             schema:performer SoloMusicArtist:Willy_Porter ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2001-11-01-willy-porter.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t154
+tickets:t154 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Oregon Zoo Ampitheatre" ;
+             schema:date "2002-06-26"^^xsd:date ;
+             schema:event "Oregon Zoo Concert" ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2002-06-26-zoo-concert.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t155
+tickets:t155 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Oregon Zoo Ampitheatre" ;
+             schema:date "2002-07-17"^^xsd:date ;
+             schema:performer MusicGroup:Solas ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2002-07-17-solas.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t156
+tickets:t156 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Aladdin Theatre" ;
+             schema:date "2002-07-22"^^xsd:date ;
+             schema:performer SoloMusicArtist:Jim_White ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2002-07-22-jim-white.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t157
+tickets:t157 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Aladdin Theatre" ;
+             schema:date "2002-09-01"^^xsd:date ;
+             schema:performer SoloMusicArtist:Richard_Thompson ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2002-09-01-richard-thompson.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t158
+tickets:t158 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Aladdin Theatre" ;
+             schema:date "2002-10-05"^^xsd:date ;
+             schema:performer SoloMusicArtist:Linda_Thompson ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2002-10-05-linda-thompson.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t159
+tickets:t159 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "San Francisco Museum of Modern Art" ;
+             schema:date "2003-02-01"^^xsd:date ;
+             schema:event "San Francisco Museum of Modern Art" ;
+             km4c:city "San Francisco" ;
+             km4c:state "CA" ;
+             ids:fileName "2003-02-01-san-fran-moma.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t16
+tickets:t16 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Fox Theatre" ;
+            schema:date "1982-09-17"^^xsd:date ;
+            schema:performer MusicGroup:Talking_Heads ;
+            km4c:city "Atlanta" ;
+            km4c:state "GA" ;
+            ids:fileName "1982-09-17-talking-heads.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t160
+tickets:t160 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Aladdin Theatre" ;
+             schema:date "2003-03-05"^^xsd:date ;
+             schema:performer MusicGroup:Lunasa ,
+                              SoloMusicArtist:Karan_Casey ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2003-03-05-lunasa-karan-casey.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t161
+tickets:t161 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Roseland Theatre" ;
+             schema:date "2003-05-03"^^xsd:date ;
+             schema:performer SoloMusicArtist:Greg_Brown ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2003-05-03-greg-brown.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t162
+tickets:t162 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Aladdin Theatre" ;
+             schema:date "2003-05-19"^^xsd:date ;
+             schema:performer SoloMusicArtist:Richard_Thompson ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2003-05-19-richard-thompson.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t163
+tickets:t163 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Oregon Zoo Ampitheatre" ;
+             schema:date "2003-07-04"^^xsd:date ;
+             schema:event "Oregon Zoo Concert" ;
+             schema:performer MusicGroup:Subdudes ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2003-07-04-subdudes.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t164
+tickets:t164 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Oregon Zoo Ampitheatre" ;
+             schema:date "2003-07-17"^^xsd:date ;
+             schema:event "Oregon Zoo Concert" ;
+             schema:performer SoloMusicArtist:Sonny_Landreth ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2003-07-17-sonny-landreth.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t165
+tickets:t165 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Roseland Theatre" ;
+             schema:date "2003-08-01"^^xsd:date ;
+             schema:performer SoloMusicArtist:Bruce_Cockburn ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2003-08-01-bruce-cockburn.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t166
+tickets:t166 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Oregon Zoo Ampitheatre" ;
+             schema:date "2003-08-08"^^xsd:date ;
+             schema:event "Oregon Zoo Concert" ;
+             schema:performer MusicGroup:Bela_Fleck_and_the_Flecktones ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2003-08-08-bela-fleck-flecktones.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t167
+tickets:t167 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Aladdin Theatre" ;
+             schema:date "2003-10-08"^^xsd:date ;
+             schema:performer SoloMusicArtist:Tim_OBrien ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2003-10-08-tim-obrien.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t168
+tickets:t168 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Aladdin Theatre" ;
+             schema:date "2003-11-11"^^xsd:date ;
+             schema:performer SoloMusicArtist:David_Lindley ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2003-11-11-david-lindley.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t169
+tickets:t169 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Aladdin Theatre" ;
+             schema:date "2004-02-26"^^xsd:date ;
+             schema:performer SoloMusicArtist:Bruce_Cockburn ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2004-02-26-bruce-cockburn.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t17
+tickets:t17 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Boulder Theatre" ;
+            schema:date "1983-04-21"^^xsd:date ;
+            schema:performer MusicGroup:Caribbean_All_Stars ,
+                             SoloMusicArtist:Tony_Brown ;
+            km4c:city "Boulder" ;
+            km4c:state "CO" ;
+            ids:fileName "1983-04-21-carribean-all-stars-tony-brown.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t170
+tickets:t170 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Aladdin Theatre" ;
+             schema:date "2004-03-05"^^xsd:date ;
+             schema:performer SoloMusicArtist:Cassandra_Wilson ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2004-03-05-cassandra-wilson.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t171
+tickets:t171 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Aladdin Theatre" ;
+             schema:date "2004-03-24"^^xsd:date ;
+             schema:performer SoloMusicArtist:Karan_Casey ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2004-03-24-karan-casey.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t172
+tickets:t172 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Aladdin Theatre" ;
+             schema:date "2004-04-13"^^xsd:date ;
+             schema:performer MusicGroup:Solas ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2004-04-13-solas.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t173
+tickets:t173 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Aladdin Theatre" ;
+             schema:date "2004-06-22"^^xsd:date ;
+             schema:performer MusicGroup:Johnny_Clegg_Savuka ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2004-06-22-johnny-clegg.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t174
+tickets:t174 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Aladdin Theatre" ;
+             schema:date "2004-07-06"^^xsd:date ;
+             schema:performer SoloMusicArtist:Richard_Thompson ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2004-07-06-richard-thompson.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t175
+tickets:t175 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Oregon Zoo Ampitheatre" ;
+             schema:date "2004-07-14"^^xsd:date ;
+             schema:event "Oregon Zoo Concert" ;
+             schema:performer MusicGroup:Iguanas ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2004-07-14-the-iguanas.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t176
+tickets:t176 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Oregon Zoo Ampitheatre" ;
+             schema:date "2004-07-28"^^xsd:date ;
+             schema:event "Oregon Zoo Concert" ;
+             schema:performer SoloMusicArtist:Clarence_Gatemouth_Brown ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2004-07-28-clarence-gatemouth-brown.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t177
+tickets:t177 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Oregon Zoo Ampitheatre" ;
+             schema:date "2004-08-15"^^xsd:date ;
+             schema:event "Oregon Zoo Concert" ;
+             schema:performer SoloMusicArtist:Buddy_Guy ,
+                              SoloMusicArtist:Robert_Cray ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2004-08-15-robert-cray-&-buddy-guy.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t178
+tickets:t178 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Aladdin Theatre" ;
+             schema:date "2004-09-27"^^xsd:date ;
+             schema:performer SoloMusicArtist:Jim_White ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2004-09-27-jim-white.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t179
+tickets:t179 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Crystal Ballroom" ;
+             schema:date "2004-12-31"^^xsd:date ;
+             schema:performer MusicGroup:Steve_Kimock_Band ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2004-12-31-steve-kimock-band.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t18
+tickets:t18 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Red Rocks Ampitheatre" ;
+            schema:date "1983-06-19"^^xsd:date ;
+            schema:performer SoloMusicArtist:Joni_Mitchell ;
+            km4c:city "Morrison" ;
+            km4c:state "CO" ;
+            ids:fileName "1983-06-19-joni-mitchell.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t180
+tickets:t180 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Nokia Theatre" ;
+             schema:date "2005-03-13"^^xsd:date ;
+             schema:performer MusicGroup:Pat_Metheny_Group ;
+             km4c:city "Dallas" ;
+             km4c:state "TX" ;
+             ids:fileName "2005-03-13-pat-metheny-group.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t181
+tickets:t181 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Aladdin Theatre" ;
+             schema:date "2005-04-02"^^xsd:date ;
+             schema:performer MusicGroup:Subdudes ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2005-04-02-subdudes.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t182
+tickets:t182 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Aladdin Theatre" ;
+             schema:date "2005-08-18"^^xsd:date ;
+             schema:performer MusicGroup:Johnny_Clegg_Savuka ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2005-08-18-johnny-clegg.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t183
+tickets:t183 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Aladdin Theatre" ;
+             schema:date "2005-10-05"^^xsd:date ;
+             schema:performer SoloMusicArtist:Richard_Thompson ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2005-10-05-richard-thompson.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t184
+tickets:t184 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Aladdin Theatre" ;
+             schema:date "2005-10-10"^^xsd:date ;
+             schema:performer SoloMusicArtist:Adrian_Belew ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2005-10-10-adrian-belew.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t185
+tickets:t185 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Aladdin Theatre" ;
+             schema:date "2005-11-08"^^xsd:date ;
+             schema:performer SoloMusicArtist:Bruce_Cockburn ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2005-11-08-bruce-cockburn.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t186
+tickets:t186 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Aladdin Theatre" ;
+             schema:date "2006-02-16"^^xsd:date ;
+             schema:performer MusicGroup:Derek_Trucks_Band ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2006-02-16-derek-trucks-band.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t187
+tickets:t187 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Aladdin Theatre" ;
+             schema:date "2006-03-13"^^xsd:date ;
+             schema:performer SoloMusicArtist:Richard_Thompson ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2006-03-13-richard-thompson.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t188
+tickets:t188 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Aladdin Theatre" ;
+             schema:date "2006-03-31"^^xsd:date ;
+             schema:performer MusicGroup:Subdudes ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2006-03-31-subdudes.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t189
+tickets:t189 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Aladdin Theatre" ;
+             schema:date "2006-05-08"^^xsd:date ;
+             schema:performer SoloMusicArtist:Richard_Thompson ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2006-05-08-richard-thompson-1000-years.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t19
+tickets:t19 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Red Rocks Ampitheatre" ;
+            schema:date "1983-07-16"^^xsd:date ;
+            schema:performer SoloMusicArtist:Eric_Clapton ;
+            km4c:city "Morrison" ;
+            km4c:state "CO" ;
+            ids:fileName "1983-07-16-eric-clapton.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t190
+tickets:t190 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Aladdin Theatre" ;
+             schema:date "2006-11-06"^^xsd:date ;
+             schema:performer MusicGroup:California_Guitar_Trio ,
+                              SoloMusicArtist:Adrian_Belew ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2006-11-06-adrian-belew-calif-guitar-trio.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t191
+tickets:t191 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Aladdin Theatre" ;
+             schema:date "2009-10-13"^^xsd:date ;
+             schema:performer SoloMusicArtist:Adrian_Belew ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2009-10-13-adrian-belew.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t192
+tickets:t192 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Aladdin Theatre" ;
+             schema:date "2010-02-16"^^xsd:date ;
+             schema:performer SoloMusicArtist:Richard_Thompson ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2010-02-16-richard-thompson-band.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t193
+tickets:t193 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Aladdin Theatre" ;
+             schema:date "2010-02-17"^^xsd:date ;
+             schema:performer SoloMusicArtist:Richard_Thompson ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2010-02-17-richard-thompson-band.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t194
+tickets:t194 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Aladdin Theatre" ;
+             schema:date "2010-02-19"^^xsd:date ;
+             schema:performer SoloMusicArtist:James_McMurtry ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2010-02-19-james-mcmurtry.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t195
+tickets:t195 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Aladdin Theatre" ;
+             schema:date "2010-02-20"^^xsd:date ;
+             schema:performer MusicGroup:Solas ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2010-02-20-solas.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t196
+tickets:t196 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Star Theatre" ;
+             schema:date "2019-03-22"^^xsd:date ;
+             schema:performer SoloMusicArtist:Fatoumata_Diawara ;
+             km4c:city "Portland" ;
+             km4c:state "OR" ;
+             ids:fileName "2019-03-22-fatoumata-diawara.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t197
+tickets:t197 rdf:type owl:NamedIndividual ,
+                      schema:Event ;
+             theatre:venue "Kuumbwa Jazz" ;
+             schema:date "2019-06-14"^^xsd:date ;
+             schema:performer SoloMusicArtist:Sona_Jobarteh ;
+             km4c:city "Santa Clara" ;
+             km4c:state "CA" ;
+             ids:fileName "2019-06-14-sona-jobarteh.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t2
+tickets:t2 rdf:type owl:NamedIndividual ,
+                    schema:Event ;
+           theatre:venue "McNichols Arena" ;
+           schema:date "1979-11-10"^^xsd:date ;
+           schema:performer MusicGroup:Jethro_Tull ;
+           km4c:city "Denver" ;
+           km4c:state "CO" ;
+           ids:fileName "1979-11-10-jethro-tull.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t20
+tickets:t20 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Red Rocks Ampitheatre" ;
+            schema:date "1983-07-19"^^xsd:date ;
+            schema:performer MusicGroup:Pat_Metheny_Group ;
+            km4c:city "Morrison" ;
+            km4c:state "CO" ;
+            ids:fileName "1983-07-19-pat-metheny.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t21
+tickets:t21 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Red Rocks Ampitheatre" ;
+            schema:date "1983-08-26"^^xsd:date ;
+            schema:performer MusicGroup:Talking_Heads ;
+            km4c:city "Morrison" ;
+            km4c:state "CO" ;
+            ids:fileName "1983-08-26-talking-heads.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t22
+tickets:t22 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Red Rocks Ampitheatre" ;
+            schema:date "1984-07-08"^^xsd:date ;
+            schema:performer MusicGroup:Berlin ,
+                             SoloMusicArtist:Stevie_Ray_Vaughan ;
+            km4c:city "Morrison" ;
+            km4c:state "CO" ;
+            ids:fileName "1984-07-08-stevie-ray-vaughan-&-berlin.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t23
+tickets:t23 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Fiddler's Green" ;
+            schema:date "1984-07-21"^^xsd:date ;
+            schema:performer SoloMusicArtist:Bob_James ,
+                             SoloMusicArtist:Ronnie_Laws ;
+            km4c:city "Denver" ;
+            km4c:state "CO" ;
+            ids:fileName "1984-07-21-bob-james-&-ronnie-laws.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t24
+tickets:t24 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Lincoln Center" ;
+            schema:date "1984-10-11"^^xsd:date ;
+            schema:performer SoloMusicArtist:Airto_Moreira ,
+                             SoloMusicArtist:Al_DiMeola ;
+            km4c:city "Ft Collins" ;
+            km4c:state "CO" ;
+            ids:fileName "1984-10-11-al-dimeola-&-airto.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t25
+tickets:t25 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Lincoln Center" ;
+            schema:date "1984-10-20"^^xsd:date ;
+            schema:performer MusicGroup:Pat_Metheny_Group ;
+            km4c:city "Ft Collins" ;
+            km4c:state "CO" ;
+            ids:fileName "1984-10-20-pat-metheny-group.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t26
+tickets:t26 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Rainbow Music Hall" ;
+            schema:date "1985-04-23"^^xsd:date ;
+            schema:performer SoloMusicArtist:Miles_Davis ;
+            km4c:city "Denver" ;
+            km4c:state "CO" ;
+            ids:fileName "1985-04-23-miles-davis.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t27
+tickets:t27 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Fox Theatre" ;
+            schema:date "1985-06-04"^^xsd:date ;
+            schema:performer MusicGroup:Santana ;
+            km4c:city "Atlanta" ;
+            km4c:state "GA" ;
+            ids:fileName "1985-06-04-santana.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t28
+tickets:t28 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Red Rocks Ampitheatre" ;
+            schema:date "1985-08-07"^^xsd:date ;
+            schema:performer MusicGroup:Santana ;
+            km4c:city "Morrison" ;
+            km4c:state "CO" ;
+            ids:fileName "1985-08-07-santana.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t29
+tickets:t29 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "The Blue Note" ;
+            schema:date "1985-08-28"^^xsd:date ;
+            schema:performer SoloMusicArtist:Jorma_Kaukonen ;
+            km4c:city "Boulder" ;
+            km4c:state "CO" ;
+            ids:fileName "1985-08-28-jorma-kaukonen-band.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t3
+tickets:t3 rdf:type owl:NamedIndividual ,
+                    schema:Event ;
+           theatre:venue "McNichols Arena" ;
+           schema:date "1980-03-01"^^xsd:date ;
+           schema:performer MusicGroup:Rush ;
+           km4c:city "Denver" ;
+           km4c:state "CO" ;
+           ids:fileName "1980-03-01-rush.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t30
+tickets:t30 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Red Rocks Ampitheatre" ;
+            schema:date "1985-09-03"^^xsd:date ;
+            schema:performer MusicGroup:Dire_Straits ;
+            km4c:city "Morrison" ;
+            km4c:state "CO" ;
+            ids:fileName "1985-09-03-dire-straits.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t31
+tickets:t31 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "The Point" ;
+            schema:date "1985-09-04"^^xsd:date ;
+            schema:performer MusicGroup:Third_World ;
+            km4c:city "Atlanta" ;
+            km4c:state "GA" ;
+            ids:fileName "1985-09-04-third-world" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t32
+tickets:t32 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Chastain Park Ampitheatre" ;
+            schema:date "1985-09-28"^^xsd:date ;
+            schema:performer SoloMusicArtist:Miles_Davis ;
+            km4c:city "Atlanta" ;
+            km4c:state "GA" ;
+            ids:fileName "1985-09-28-miles-davis.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t33
+tickets:t33 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Fox Theatre" ;
+            schema:date "1986-02-12"^^xsd:date ;
+            schema:performer MusicGroup:Pat_Metheny_Group ;
+            km4c:city "Atlanta" ;
+            km4c:state "GA" ;
+            ids:fileName "1986-02-12-pat-metheny-group-after-show-pass.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t34
+tickets:t34 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Fox Theatre" ;
+            schema:date "1986-06-05"^^xsd:date ;
+            schema:performer SoloMusicArtist:David_Sanborn ,
+                             SoloMusicArtist:Michael_Franks ,
+                             SoloMusicArtist:Stanley_Clarke ;
+            km4c:city "Atlanta" ;
+            km4c:state "GA" ;
+            ids:fileName "1986-06-05-david-sanborn-michael-franks-stanley-clarke.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t35
+tickets:t35 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Center Stage Theatre" ;
+            schema:date "1986-09-11"^^xsd:date ;
+            schema:performer MusicGroup:Steel_Pulse ;
+            km4c:city "Atlanta" ;
+            km4c:state "GA" ;
+            ids:fileName "1986-09-11-steel-pulse.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t36
+tickets:t36 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Chastain Park Ampitheatre" ;
+            schema:date "1986-09-13"^^xsd:date ;
+            schema:performer MusicGroup:Spyro_Gyra ,
+                             SoloMusicArtist:Leo_Kottke ;
+            km4c:city "Atlanta" ;
+            km4c:state "GA" ;
+            ids:fileName "1986-09-13-spyro-gyra-&-leo-kottke" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t37
+tickets:t37 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Center Stage Theatre" ;
+            schema:date "1986-10-09"^^xsd:date ;
+            schema:performer SoloMusicArtist:Jimmy_Cliff ;
+            km4c:city "Atlanta" ;
+            km4c:state "GA" ;
+            ids:fileName "1986-10-09-jimmy-cliff.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t38
+tickets:t38 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Atlanta Symphony Hall" ;
+            schema:date "1986-10-28"^^xsd:date ;
+            schema:performer SoloMusicArtist:Steve_Morse ,
+                             "Shadowfax" ;
+            km4c:city "Atlanta" ;
+            km4c:state "GA" ;
+            ids:fileName "1986-10-28-shadowfax-&-steve-morse.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t39
+tickets:t39 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Peachtree Playhouse" ;
+            schema:date "1986-11-21"^^xsd:date ;
+            schema:performer SoloMusicArtist:Michael_Hedges ;
+            km4c:city "Atlanta" ;
+            km4c:state "GA" ;
+            ids:fileName "1986-11-21-michael-hedges.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t4
+tickets:t4 rdf:type owl:NamedIndividual ,
+                    schema:Event ;
+           theatre:venue "McNichols Arena" ;
+           schema:date "1980-04-23"^^xsd:date ;
+           schema:performer MusicGroup:The_Who ;
+           km4c:city "Denver" ;
+           km4c:state "CO" ;
+           ids:fileName "1980-04-23-the-who.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t40
+tickets:t40 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "The Point" ;
+            schema:date "1986-12-13"^^xsd:date ;
+            schema:performer MusicGroup:New_Grass_Revival ;
+            km4c:city "Atlanta" ;
+            km4c:state "GA" ;
+            ids:fileName "1986-12-13-new-grass-revival.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t41
+tickets:t41 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Center Stage Theatre" ;
+            schema:date "1986-12-17"^^xsd:date ;
+            schema:performer MusicGroup:Sly_and_Robbie ;
+            km4c:city "Atlanta" ;
+            km4c:state "GA" ;
+            ids:fileName "1986-12-17-taxi-connection-with-sly-&-robbie.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t42
+tickets:t42 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Center Stage Theatre" ;
+            schema:date "1987-02-08"^^xsd:date ;
+            schema:performer MusicGroup:John_Mayall_Blues ;
+            km4c:city "Atlanta" ;
+            km4c:state "GA" ;
+            ids:fileName "1987-02-08-john-mayall-bluesbreakers.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t43
+tickets:t43 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Peachtree Playhouse" ;
+            schema:date "1987-03-28"^^xsd:date ;
+            schema:performer SoloMusicArtist:Liz_Story ;
+            km4c:city "Atlanta" ;
+            km4c:state "GA" ;
+            ids:fileName "1987-03-28-liz-story.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t44
+tickets:t44 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Red Rocks Ampitheatre" ;
+            schema:date "1987-06-17"^^xsd:date ;
+            schema:performer SoloMusicArtist:Stevie_Ray_Vaughan ;
+            km4c:city "Morrison" ;
+            km4c:state "CO" ;
+            ids:fileName "1987-06-17-stevie-ray-vaughan.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t45
+tickets:t45 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Center Stage Theatre" ;
+            schema:date "1987-06-18"^^xsd:date ;
+            schema:performer SoloMusicArtist:Suzanne_Vega ;
+            km4c:city "Atlanta" ;
+            km4c:state "GA" ;
+            ids:fileName "1987-06-18-suzanne-vega.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t46
+tickets:t46 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Center Stage Theatre" ;
+            schema:date "1987-07-23"^^xsd:date ;
+            schema:performer SoloMusicArtist:Johnny_Winter ,
+                             SoloMusicArtist:Koko_Taylor ,
+                             SoloMusicArtist:Lonnie_Mack ;
+            km4c:city "Atlanta" ;
+            km4c:state "GA" ;
+            ids:fileName "1987-07-23-johnny-winter-lonnie-mack-koko-taylor.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t47
+tickets:t47 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Atlanta Symphony Hall" ;
+            schema:date "1987-09-05"^^xsd:date ;
+            schema:performer SoloMusicArtist:George_Winston ;
+            km4c:city "Atlanta" ;
+            km4c:state "GA" ;
+            ids:fileName "1987-09-05-george-winston.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t48
+tickets:t48 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Fox Theatre" ;
+            schema:date "1987-12-08"^^xsd:date ;
+            schema:performer MusicGroup:Pat_Metheny_Group ;
+            km4c:city "Atlanta" ;
+            km4c:state "GA" ;
+            ids:fileName "1987-12-08-pat-metheny-group.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t49
+tickets:t49 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Cirque Du Soleil Site" ;
+            schema:date "1987-12-21"^^xsd:date ;
+            schema:event "Cirque Du Soleil" ;
+            km4c:city "Atlanta" ;
+            km4c:state "GA" ;
+            ids:fileName "1987-12-21-cirque-du-soleil-alegria.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t5
+tickets:t5 rdf:type owl:NamedIndividual ,
+                    schema:Event ;
+           theatre:venue "McNichols Arena" ;
+           schema:date "1980-09-10"^^xsd:date ;
+           schema:performer SoloMusicArtist:Jeff_Beck ;
+           km4c:city "Denver" ;
+           km4c:state "CO" ;
+           ids:fileName "1980-09-10-jeff-beck.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t50
+tickets:t50 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Center Stage Theatre" ;
+            schema:date "1988-02-06"^^xsd:date ;
+            schema:performer SoloMusicArtist:Leo_Kottke ,
+                             SoloMusicArtist:Michael_Hedges ;
+            km4c:city "Atlanta" ;
+            km4c:state "GA" ;
+            ids:fileName "1988-02-06-michael-hedges-leo-kottke.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t51
+tickets:t51 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Fox Theatre" ;
+            schema:date "1988-10-02"^^xsd:date ;
+            schema:performer MusicGroup:UB40 ;
+            km4c:city "Atlanta" ;
+            km4c:state "GA" ;
+            ids:fileName "1988-10-02-UB40.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t52
+tickets:t52 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "High Museum of Art" ;
+            schema:date "1988-10-09"^^xsd:date ;
+            schema:event "Monet in London" ;
+            km4c:city "Atlanta" ;
+            km4c:state "GA" ;
+            ids:fileName "1988-10-09-monet-in-london.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t53
+tickets:t53 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Chautauqua Auditorium" ;
+            schema:date "1989-06-29"^^xsd:date ;
+            schema:performer MusicGroup:Roches ;
+            km4c:city "Boulder" ;
+            km4c:state "CO" ;
+            ids:fileName "1989-06-29-the-roches.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t54
+tickets:t54 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Winter Park Ski Area" ;
+            schema:date "1989-07-08"^^xsd:date ;
+            schema:event "American Music Festival" ;
+            schema:performer SoloMusicArtist:Bonnie_Raitt ,
+                             SoloMusicArtist:Lyle_Lovett ;
+            km4c:city "Winter PArk " ;
+            km4c:state "CO" ;
+            ids:fileName "1989-07-08-american-music-festival.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t55
+tickets:t55 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Boulder's Coast" ;
+            schema:date "1989-08-01"^^xsd:date ;
+            schema:performer SoloMusicArtist:Adrian_Belew ;
+            km4c:city "Boulder" ;
+            km4c:state "CO" ;
+            ids:fileName "1989-08-01-adrian-belew.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t56
+tickets:t56 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Folsom Field" ;
+            schema:date "1989-08-13"^^xsd:date ;
+            schema:performer MusicGroup:The_Who ;
+            km4c:city "Boulder" ;
+            km4c:state "CO" ;
+            ids:fileName "1989-08-13-the-who.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t57
+tickets:t57 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Red Rocks Ampitheatre" ;
+            schema:date "1989-08-16"^^xsd:date ;
+            schema:performer MusicGroup:Ziggy_Marley_Melody_Makers ;
+            km4c:city "Morrison" ;
+            km4c:state "CO" ;
+            ids:fileName "1989-08-16-ziggy-marley.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t58
+tickets:t58 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Folsom Field" ;
+            schema:date "1989-08-19"^^xsd:date ;
+            schema:performer MusicGroup:The_Who ;
+            km4c:city "Boulder" ;
+            km4c:state "CO" ;
+            ids:fileName "1989-08-19-the-who-stage-pass.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t59
+tickets:t59 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Silva Concert Hall" ;
+            schema:date "1989-10-09"^^xsd:date ;
+            schema:performer SoloMusicArtist:Christopher_Parkening ;
+            km4c:city "Eugene" ;
+            km4c:state "OR" ;
+            ids:fileName "1989-10-09-christopher-parkening.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t6
+tickets:t6 rdf:type owl:NamedIndividual ,
+                    schema:Event ;
+           theatre:venue "Red Rocks Ampitheatre" ;
+           schema:date "1981-07-01"^^xsd:date ;
+           schema:performer MusicGroup:Moody_Blues ;
+           km4c:city "Morrison" ;
+           km4c:state "CO" ;
+           ids:fileName "1981-07-01-moody-blues.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t60
+tickets:t60 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "EMU Ballroom" ;
+            schema:date "1989-11-01"^^xsd:date ;
+            schema:performer MusicGroup:Inti_Illimani ;
+            km4c:city "Eugene" ;
+            km4c:state "OR" ;
+            ids:fileName "1989-11-01-inti-illimani.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t61
+tickets:t61 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Silva Concert Hall" ;
+            schema:date "1989-12-07"^^xsd:date ;
+            schema:performer MusicGroup:Indigo_Girls ;
+            km4c:city "Eugene" ;
+            km4c:state "OR" ;
+            ids:fileName "1989-12-07-indigo-girls.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t62
+tickets:t62 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Hilton Ballroom" ;
+            schema:date "1990-02-23"^^xsd:date ;
+            schema:performer MusicGroup:Blues_Traveler ;
+            km4c:city "Eugene" ;
+            km4c:state "OR" ;
+            ids:fileName "1990-02-23-blues-traveler-(back).png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t63
+tickets:t63 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Silva Concert Hall" ;
+            schema:date "1990-03-28"^^xsd:date ;
+            schema:performer SoloMusicArtist:Kitaro ;
+            km4c:city "Eugene" ;
+            km4c:state "OR" ;
+            ids:fileName "1990-03-28-kitaro.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t64
+tickets:t64 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Hilton Ballroom" ;
+            schema:date "1990-04-15"^^xsd:date ;
+            schema:performer SoloMusicArtist:Laurie_Anderson ;
+            km4c:city "Eugene" ;
+            km4c:state "OR" ;
+            ids:fileName "1990-04-15-laurie-anderson-(back).png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t65
+tickets:t65 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Autzen Stadium" ;
+            schema:date "1990-06-23"^^xsd:date ;
+            schema:performer MusicGroup:Grateful_Dead ;
+            km4c:city "Eugene" ;
+            km4c:state "OR" ;
+            ids:fileName "1990-06-23-grateful-dead.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t66
+tickets:t66 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Community Center for the Arts" ;
+            schema:date "1990-08-14"^^xsd:date ;
+            schema:performer MusicGroup:Nine_Days_Wonder ,
+                             MusicGroup:Widespread_Panic ;
+            km4c:city "Eugene" ;
+            km4c:state "OR" ;
+            ids:fileName "1990-08-14-widespread-panic-&-nine-days-wonder.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t67
+tickets:t67 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Bumbershoot" ;
+            schema:date "1990-08-31"^^xsd:date ;
+            schema:event "Bumbershoot" ;
+            km4c:city "Seattle" ;
+            km4c:state "WA" ;
+            ids:fileName "1990-08-31-bumbershoot.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t68
+tickets:t68 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Bumbershoot" ;
+            schema:date "1990-09-01"^^xsd:date ;
+            schema:event "Bumbershoot" ;
+            km4c:city "Seattle" ;
+            km4c:state "WA" ;
+            ids:fileName "1990-09-01-bumbershoot.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t69
+tickets:t69 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Silva Concert Hall" ;
+            schema:date "1991-02-09"^^xsd:date ;
+            schema:performer MusicGroup:Mahlathini_Mahotella_Queens ;
+            km4c:city "Eugene" ;
+            km4c:state "OR" ;
+            ids:fileName "1991-02-09-mahlathini-mahotella-queens.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t7
+tickets:t7 rdf:type owl:NamedIndividual ,
+                    schema:Event ;
+           theatre:venue "Folsom Field" ;
+           schema:date "1981-10-03"^^xsd:date ;
+           schema:performer MusicGroup:Rolling_Stones ;
+           km4c:city "Boulder" ;
+           km4c:state "CO" ;
+           ids:fileName "1981-10-03-rolling-stones.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t70
+tickets:t70 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Roseland Theatre" ;
+            schema:date "1991-05-28"^^xsd:date ;
+            schema:performer MusicGroup:Radiators ;
+            km4c:city "Portland" ;
+            km4c:state "OR" ;
+            ids:fileName "1991-05-28-radiators.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t71
+tickets:t71 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Boulder Theatre" ;
+            schema:date "1991-06-28"^^xsd:date ;
+            schema:performer MusicGroup:Subdudes ;
+            km4c:city "Boulder" ;
+            km4c:state "CO" ;
+            ids:fileName "1991-06-28-subdudes.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t72
+tickets:t72 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Red Rocks Ampitheatre" ;
+            schema:date "1991-09-11"^^xsd:date ;
+            schema:performer SoloMusicArtist:Paul_Simon ;
+            km4c:city "Morrison" ;
+            km4c:state "CO" ;
+            ids:fileName "1991-09-11-paul-simon.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t73
+tickets:t73 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Boulder Theatre" ;
+            schema:date "1991-09-14"^^xsd:date ;
+            schema:performer MusicGroup:Roots_Redemption ;
+            km4c:city "Boulder" ;
+            km4c:state "CO" ;
+            ids:fileName "1991-09-14-roots-resemption.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t74
+tickets:t74 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Boulder Theatre" ;
+            schema:date "1991-09-17"^^xsd:date ;
+            schema:performer SoloMusicArtist:Sonny_Rollins ;
+            km4c:city "Boulder" ;
+            km4c:state "CO" ;
+            ids:fileName "1991-09-17-sonny-rollins.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t75
+tickets:t75 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Boulder Theatre" ;
+            schema:date "1991-10-04"^^xsd:date ;
+            schema:performer MusicGroup:Subdudes ;
+            km4c:city "Boulder" ;
+            km4c:state "CO" ;
+            ids:fileName "1991-10-04-subdudes.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t76
+tickets:t76 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Boulder Theatre" ;
+            schema:date "1991-10-30"^^xsd:date ;
+            schema:performer MusicGroup:Phish ;
+            km4c:city "Boulder" ;
+            km4c:state "CO" ;
+            ids:fileName "1991-10-30-phish.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t77
+tickets:t77 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "CSU Arena" ;
+            schema:date "1991-11-27"^^xsd:date ;
+            schema:performer MusicGroup:Fishbone ,
+                             MusicGroup:Primus ;
+            km4c:city "Ft Collins" ;
+            km4c:state "CO" ;
+            ids:fileName "1991-11-27-fishbone-primus.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t78
+tickets:t78 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Boulder Theatre" ;
+            schema:date "1991-12-07"^^xsd:date ;
+            schema:performer MusicGroup:Radiators ;
+            km4c:city "Boulder" ;
+            km4c:state "CO" ;
+            ids:fileName "1991-12-07-radiators.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t79
+tickets:t79 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Boulder Theatre" ;
+            schema:date "1992-01-11"^^xsd:date ;
+            schema:performer MusicGroup:Leftover_Salmon ;
+            km4c:city "Boulder" ;
+            km4c:state "CO" ;
+            ids:fileName "1992-01-11-leftover-salmon.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t8
+tickets:t8 rdf:type owl:NamedIndividual ,
+                    schema:Event ;
+           theatre:venue "Paramount Theatre" ;
+           schema:date "1981-10-20"^^xsd:date ;
+           schema:event "Gibson Jazz Concert" ;
+           km4c:city "Denver" ;
+           km4c:state "CO" ;
+           ids:fileName "1981-10-20-gibson-jazz-concert.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t80
+tickets:t80 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Boulder Theatre" ;
+            schema:date "1992-01-24"^^xsd:date ;
+            schema:performer MusicGroup:Monkey_Siren ;
+            km4c:city "Boulder" ;
+            km4c:state "CO" ;
+            ids:fileName "1992-01-24-monkey-siren.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t81
+tickets:t81 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Boulder Theatre" ;
+            schema:date "1992-02-06"^^xsd:date ;
+            schema:performer SoloMusicArtist:Taj_Mahal ;
+            km4c:city "Boulder" ;
+            km4c:state "CO" ;
+            ids:fileName "1992-02-06-taj-mahal.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t82
+tickets:t82 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Paramount Theatre" ;
+            schema:date "1992-02-13"^^xsd:date ;
+            schema:performer SoloMusicArtist:Rickie_Lee_Jones ;
+            km4c:city "Denver" ;
+            km4c:state "CO" ;
+            ids:fileName "1992-02-13-rickie-lee-jones.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t83
+tickets:t83 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Chautauqua Auditorium" ;
+            schema:date "1992-06-22"^^xsd:date ;
+            schema:performer SoloMusicArtist:David_Lindley ,
+                             SoloMusicArtist:Hani_Naser ;
+            km4c:city "Boulder" ;
+            km4c:state "CO" ;
+            ids:fileName "1992-06-22-david-lindley-hani-naser.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t84
+tickets:t84 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Chautauqua Auditorium" ;
+            schema:date "1993-06-15"^^xsd:date ;
+            schema:performer SoloMusicArtist:Hazel_Miller ,
+                             SoloMusicArtist:Michelle_Shocked ;
+            km4c:city "Boulder" ;
+            km4c:state "CO" ;
+            ids:fileName "1993-06-15-michelle-shocked-hazel-miller.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t85
+tickets:t85 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Boulder Theatre" ;
+            schema:date "1993-06-17"^^xsd:date ;
+            schema:event "E-town" ;
+            km4c:city "Boulder" ;
+            km4c:state "CO" ;
+            ids:fileName "1993-06-17-e-town.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t86
+tickets:t86 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Boulder Theatre" ;
+            schema:date "1993-06-19"^^xsd:date ;
+            schema:performer SoloMusicArtist:John_Hiatt ;
+            km4c:city "Boulder" ;
+            km4c:state "CO" ;
+            ids:fileName "1993-06-19-john-hiatt.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t87
+tickets:t87 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Boulder Theatre" ;
+            schema:date "1993-06-22"^^xsd:date ;
+            schema:event "E-town" ;
+            km4c:city "Boulder" ;
+            km4c:state "CO" ;
+            ids:fileName "1993-06-22-e-town.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t88
+tickets:t88 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Chautauqua Auditorium" ;
+            schema:date "1993-06-23"^^xsd:date ;
+            schema:performer SoloMusicArtist:Richard_Thompson ;
+            km4c:city "Boulder" ;
+            km4c:state "CO" ;
+            ids:fileName "1993-06-23-richard-thompson.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t89
+tickets:t89 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Cirque Du Soleil Site" ;
+            schema:date "1993-11-27"^^xsd:date ;
+            schema:event "Cirque Du Soleil" ;
+            km4c:city "Atlanta" ;
+            km4c:state "GA" ;
+            ids:fileName "1993-11-27-cirque-du-soleil-saltimbanco.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t9
+tickets:t9 rdf:type owl:NamedIndividual ,
+                    schema:Event ;
+           theatre:venue "Lincoln Center" ;
+           schema:date "1981-11-04"^^xsd:date ;
+           schema:performer MusicGroup:Pat_Metheny_Group ;
+           km4c:city "Ft Collins" ;
+           km4c:state "CO" ;
+           ids:fileName "1981-11-04-pat-metheny-group.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t90
+tickets:t90 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Boulder Theatre" ;
+            schema:date "1994-02-27"^^xsd:date ;
+            schema:event "E-town" ;
+            schema:performer SoloMusicArtist:Richard_Thompson ;
+            km4c:city "Boulder" ;
+            km4c:state "CO" ;
+            ids:fileName "1994-02-27-richard-thompson-e-town.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t91
+tickets:t91 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Fox Theatre" ;
+            schema:date "1994-03-27"^^xsd:date ;
+            schema:performer SoloMusicArtist:Richard_Thompson ;
+            km4c:city "Boulder" ;
+            km4c:state "CO" ;
+            ids:fileName "1994-03-27-richard-thompson-band.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t92
+tickets:t92 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Fox Theatre" ;
+            schema:date "1994-03-30"^^xsd:date ;
+            schema:performer MusicGroup:Aquarium_Rescue_Unit ,
+                             SoloMusicArtist:Bruce_Hampton ;
+            km4c:city "Boulder" ;
+            km4c:state "CO" ;
+            ids:fileName "1994-03-30-col-bruce-hampton-aru.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t93
+tickets:t93 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Fox Theatre" ;
+            schema:date "1994-07-07"^^xsd:date ;
+            schema:performer SoloMusicArtist:Adrian_Belew ;
+            km4c:city "Boulder" ;
+            km4c:state "CO" ;
+            ids:fileName "1994-07-07-adrian-belew.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t94
+tickets:t94 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Chautauqua Auditorium" ;
+            schema:date "1994-08-30"^^xsd:date ;
+            schema:performer MusicGroup:Mahlathini_Mahotella_Queens ;
+            km4c:city "Boulder" ;
+            km4c:state "CO" ;
+            ids:fileName "1994-08-30-mahlathini-mahotella-queens.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t95
+tickets:t95 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Fiddler's Green" ;
+            schema:date "1994-09-06"^^xsd:date ;
+            schema:performer MusicGroup:Steely_Dan ;
+            km4c:city "Denver" ;
+            km4c:state "CO" ;
+            ids:fileName "1994-09-06-steely-dan.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t96
+tickets:t96 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Fox Theatre" ;
+            schema:date "1994-11-10"^^xsd:date ;
+            schema:performer SoloMusicArtist:Ani_DiFranco ;
+            km4c:city "Boulder" ;
+            km4c:state "CO" ;
+            ids:fileName "1994-11-10-ani-difranco.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t97
+tickets:t97 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Boulder Theatre" ;
+            schema:date "1995-02-01"^^xsd:date ;
+            schema:performer MusicGroup:Ladysmith_Black_Mambazo ;
+            km4c:city "Boulder" ;
+            km4c:state "CO" ;
+            ids:fileName "1995-02-01-ladysmith-black-mambazo.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t98
+tickets:t98 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Boulder Theatre" ;
+            schema:date "1995-02-05"^^xsd:date ;
+            schema:event "E-town" ;
+            schema:performer MusicGroup:Tarika ,
+                             SoloMusicArtist:Arlo_Guthrie ;
+            km4c:city "Boulder" ;
+            km4c:state "CO" ;
+            ids:fileName "1995-02-05-tarika-arlo-guthrie-etown.png" .
+
+
+###  http://www.connaissance.io/onto/biblio/tickets/t99
+tickets:t99 rdf:type owl:NamedIndividual ,
+                     schema:Event ;
+            theatre:venue "Fox Theatre" ;
+            schema:date "1995-02-08"^^xsd:date ;
+            schema:performer MusicGroup:Meditations ;
+            km4c:city "Boulder" ;
+            km4c:state "CO" ;
+            ids:fileName "1995-02-08-the-meditations.png" .
+
+
+###  Generated by the OWL API (version 4.5.26.2023-07-17T20:34:13Z) https://github.com/owlcs/owlapi
