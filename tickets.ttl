@@ -17,6 +17,7 @@
 
 <http://www.connaissance.io/onto/biblio/tickets> rdf:type owl:Ontology ;
                                                   owl:imports <http://www.connaissance.io/onto/biblio/MusicGroup> ,
+                                                              <http://www.connaissance.io/onto/biblio/SoloMusicArtist> ,
                                                               <http://www.connaissance.io/onto/biblio/bibliographica> ;
                                                   dcterms:created "2023-12-12" ;
                                                   dcterms:description "A concert ticket collection in RDF." ;
@@ -80,9 +81,30 @@ schema:Event rdf:type owl:Class .
 tickets: rdf:type owl:NamedIndividual ,
            dctype:Dataset .
 
+###  http://www.connaissance.io/onto/biblio/tickets/t00
+  tickets:t00 rdf:type owl:NamedIndividual ,
+                    schema:Event ; 
+     rdfs:label "Genesis" ;
+     schema:date "1977-03-14"^^xsd:date ;
+     theatre:venue "Fox Theatre" ;
+     schema:performer MusicGroup:Genesis ;
+     km4c:city "Atlanta" ;
+     km4c:state "GA" ;
+     ids:fileName " " .
 
-###  http://www.connaissance.io/onto/biblio/tickets/t1
-tickets:t1 rdf:type owl:NamedIndividual ,
+###  http://www.connaissance.io/onto/biblio/tickets/t01
+  tickets:t01 rdf:type owl:NamedIndividual ,
+                    schema:Event ; 
+     rdfs:label "Pink Floyd" ;
+     schema:date "1977-04-26"^^xsd:date ;
+     theatre:venue "The Omni" ;
+     schema:performer MusicGroup:Pink_Floyd ;
+     km4c:city "Atlanta" ;
+     km4c:state "GA" ;
+     ids:fileName " " .
+
+###  http://www.connaissance.io/onto/biblio/tickets/t02
+tickets:t02 rdf:type owl:NamedIndividual ,
                     schema:Event ;
            theatre:venue "The Omni" ;
            schema:date "1979-06-25"^^xsd:date ;
@@ -1532,7 +1554,7 @@ tickets:t38 rdf:type owl:NamedIndividual ,
             theatre:venue "Atlanta Symphony Hall" ;
             schema:date "1986-10-28"^^xsd:date ;
             schema:performer SoloMusicArtist:Steve_Morse ,
-                             "Shadowfax" ;
+                             MusicGroup:Shadowfax ;
             km4c:city "Atlanta" ;
             km4c:state "GA" ;
             ids:fileName "1986-10-28-shadowfax-&-steve-morse.png" .
